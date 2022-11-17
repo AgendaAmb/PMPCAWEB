@@ -14,9 +14,29 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('base');
+    return view('welcome');
 });
 
 Route::get('profesor/', function () {
     return view('detailsProfessor');
+});
+
+Route::get('/base', function () {
+    return view('base');
+});
+
+Route::get('/comite', function () {
+    return view('comiteAcademico');
+});
+
+Route::get('/información', function () {
+    return view('informacionAcademica');
+});
+
+Route::get('/ofertaEducativa', function () {
+    return view('ofertaEducativa');
+});
+
+Route::get('/areas', function () {
+    return view('profesoresyAreas');
 });

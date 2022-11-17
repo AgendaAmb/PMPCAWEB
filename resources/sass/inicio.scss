@@ -1,0 +1,171 @@
+$spacer: 1rem;
+$spacers: (
+  0: 0,
+  1: $spacer * .25,
+  2: $spacer * .5,
+  3: $spacer,
+  4: $spacer * 1.5,
+  5: $spacer * 3,
+  10: $spacer * 8.5
+);
+
+
+@import "~bootstrap/scss/bootstrap.scss";
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+.opensans {
+    font-family: "Open Sans", sans-serif;
+  }
+
+  
+.body {
+    margin: 0;
+    padding: 0;
+    font-family: Helvetica, Arial, sans-serif;
+    color: #666;
+  }
+  
+  h1, .h1 {
+    text-align: center;
+    font-family: open sans;
+    color: rgb(42, 127, 195);
+  }
+  
+  h4, .h4 {
+    color: rgb(0, 74, 152);
+    font-family: open sans;
+    text-align: left;
+  }
+  
+  h5, .h5 {
+    font-family: open sans;
+    color : white;
+  }
+  
+  p {
+    margin: 0 0 1.5em 0;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  #contenido {
+    font-family: open sans light;
+    font-size: 20px;
+    color: rgb(77, 77, 77);
+  }
+  
+  #main-header {
+    background: rgb(0, 74, 152);
+    color: white;
+  }
+  
+  #main-header a {
+    color: white;
+  }
+  
+  .fondoFooter {
+    height: 17px;
+    background-color: #00B2E3;
+    padding: auto;
+  }
+
+  #fondoCards{
+    background-color: rgb(171, 198, 239);
+  }
+  
+  .imageFooter2 {
+    height: 10px;
+    background-color: rgb(0, 74, 152);
+    padding: auto;
+  }
+  
+  .navbartotal {
+    font-family: open sans;
+  }
+  
+  .navbartotal .nav-item {
+    color: rgb(0, 74, 152);
+  }
+  
+  .navbartotal a {
+    color: rgb(0, 74, 152);
+  }
+  
+  .navbartotal a:hover {
+    color: white;
+    background-color: rgb(0, 74, 152);
+  }
+  
+  #logo-header {
+    float: left;
+    padding: 15px 0 0 20px;
+    text-decoration: none;
+  }
+  
+  #logo-header:hover {
+    color: #f8f8f8;
+  }
+  
+  #logo-header .site-name {
+    display: block;
+    font-weight: 700;
+  }
+  
+  #logo-header .site-desc {
+    display: block;
+    color: #999;
+  }
+  
+  #main-footer {
+    background: rgb(0, 74, 152);
+    color: white;
+    text-align: center;
+    padding: 5px;
+    margin-top: 0px;
+    font-family: open sans light;
+  }
+  
+  .izquierda {
+    text-align: left;
+    margin-left: 20%;
+  }
+  
+  a {
+    color: white;
+  }
+  
+  a:hover {
+    color: white;
+  }
+  
+  .texto0 {
+    text-align: justify;
+    padding: 20px;
+  }
+  
+  .enlacesprof a {
+    color: rgb(0, 178, 227);
+    text-decoration: none;
+    margin-left: 3%;
+  }
+  
+  .perfil-container {
+    margin: 20px 200px;
+  }
+
+
+  #accordionExample {
+    font-family: open sans;
+  }
+  
+  #accordionExample .accordion-button {
+    color: rgb(0, 74, 152);
+  }
+  
+  .accordion-item {
+    border-left: 0 !important;
+    border-right: 0 !important;
+  }/*# sourceMappingURL=style.css.map */
