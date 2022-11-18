@@ -40,3 +40,12 @@ Route::get('/ofertaEducativa', function () {
 Route::get('/areas', function () {
     return view('profesoresyAreas');
 });
+
+Route::get('/biblioteca', function () {
+    return view('bibliotecas');
+});
+
+
+Route::get('/seminarios', function () {
+    return view('seminarios');
+});

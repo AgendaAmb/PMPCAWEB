@@ -13,32 +13,25 @@
             <div class="col-12 col-sm-12 mb-4">
                 <h1><strong>DOCTORADO EN CIENCIAS AMBIENTALES</strong></h1>
             </div>
-            <div class="row col-12 col-sm-12 mb-4">
+            <div class="row col-12 col-sm-12 mb-4 ">
                 <div class="col-12 col-sm-1 ">
                 </div>
                 <div class="col-12 col-sm-1 ">
                 </div>
                 <div class="col-12 col-sm-1 ">
                 </div>
+                <div class="col-12 col-sm-3 ">
+                    <a class="btn btn-primary" id="botonesGeneral" href="#" role="button">Plan de estudios</a>
+                </div>
+
                 <div class="col-12 col-sm-1 ">
-                    <button type="button" class="btn btn-primary">Plan de estudios</button>
+                </div>
+                <div class="col-12 col-sm-3 ">
+                    <a class="btn btn-primary" id="botonesGeneral" href="#" role="button">Convocatoria</a>
                 </div>
                 <div class="col-12 col-sm-1 ">
                 </div>
-                <div class="col-12 col-sm-1 ">
-                </div>
-                <div class="col-12 col-sm-1 ">
-                </div>
-                <div class="col-12 col-sm-1 ">
-                    <button type="button" class="btn btn-primary">Convocatoria</button>
-                </div>
-                <div class="col-12 col-sm-1 ">
-                </div>
-                <div class="col-12 col-sm-1 ">
-                </div>
-                <div class="col-12 col-sm-1 ">
-                </div>
-                <div class="col-12 col-sm-1 ">
+                <div class="col-12 col-sm-1">
                 </div>
             </div>
 
@@ -76,7 +69,7 @@
                     <h2 class="accordion-header" id="headingThree">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                            <strong>Perfil de egreso</strong>
+                            <strong>Perfil de egreso &nbsp</strong> <i class="fa-solid fa-arrow-down-long"></i>
                         </button>
                     </h2>
                     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
@@ -101,7 +94,7 @@
                     <h2 class="accordion-header" id="headingTwo">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                            <strong>Objetivos generales</strong>
+                            <strong>Objetivos generales &nbsp</strong> <i class="fa-solid fa-arrow-down-long"></i>
                         </button>
                     </h2>
                     <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
@@ -130,32 +123,25 @@
             <div class="col-12 col-sm-12 mb-4">
                 <h1><strong>MAESTRÍA EN CIENCIAS AMBIENTALES</strong></h1>
             </div>
-            <div class="row col-12 col-sm-12 mb-4">
+            <div class="row col-12 col-sm-12 mb-4 ">
                 <div class="col-12 col-sm-1 ">
                 </div>
                 <div class="col-12 col-sm-1 ">
                 </div>
                 <div class="col-12 col-sm-1 ">
                 </div>
+                <div class="col-12 col-sm-3 ">
+                    <a class="btn btn-primary" id="botonesGeneral" href="#" role="button">Plan de estudios</a>
+                </div>
+
                 <div class="col-12 col-sm-1 ">
-                    <button type="button" class="btn btn-primary">Plan de estudios</button>
+                </div>
+                <div class="col-12 col-sm-3 ">
+                    <a class="btn btn-primary" id="botonesGeneral" href="#" role="button">Convocatoria</a>
                 </div>
                 <div class="col-12 col-sm-1 ">
                 </div>
-                <div class="col-12 col-sm-1 ">
-                </div>
-                <div class="col-12 col-sm-1 ">
-                </div>
-                <div class="col-12 col-sm-1 ">
-                    <button type="button" class="btn btn-primary">Convocatoria</button>
-                </div>
-                <div class="col-12 col-sm-1 ">
-                </div>
-                <div class="col-12 col-sm-1 ">
-                </div>
-                <div class="col-12 col-sm-1 ">
-                </div>
-                <div class="col-12 col-sm-1 ">
+                <div class="col-12 col-sm-1">
                 </div>
             </div>
 
@@ -193,7 +179,7 @@
                     <h2 class="accordion-header" id="headingFour">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                            <strong>Perfil de egreso</strong>
+                            <strong>Perfil de egreso &nbsp</strong> <i class="fa-solid fa-arrow-down-long"></i>
                         </button>
                     </h2>
                     <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
@@ -218,7 +204,7 @@
                     <h2 class="accordion-header" id="headingFive">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                            <strong>Objetivos generales</strong>
+                            <strong>Objetivos generales &nbsp</strong> <i class="fa-solid fa-arrow-down-long"></i>
                         </button>
                     </h2>
                     <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive"
@@ -242,37 +228,30 @@
     </div>
 
 
-    <div id="p-container" class="container px-lg-8.5 px-md-5">
-        <div id="professor-description" class="row mb-4 p-5">
-            <div class="col-12 col-sm-12 mb-4">
+    <div id="p-container" class="container px-lg-8.5 px-md-5 ">
+        <div id="professor-description" class="row mb-4 p-5 ">
+            <div class="col-12 col-sm-12 mb-4 ">
                 <h1><strong>MAESTRÍA EN CIENCIAS AMBIENTALES <br> DOBLE TITULACIÓN</strong></h1>
             </div>
-            <div class="row col-12 col-sm-12 mb-4">
+            <div class="row col-12 col-sm-12 mb-4 ">
                 <div class="col-12 col-sm-1 ">
                 </div>
                 <div class="col-12 col-sm-1 ">
                 </div>
                 <div class="col-12 col-sm-1 ">
                 </div>
+                <div class="col-12 col-sm-3 ">
+                    <a class="btn btn-primary" id="botonesGeneral" href="#" role="button">Plan de estudios</a>
+                </div>
+
                 <div class="col-12 col-sm-1 ">
-                    <button type="button" class="btn btn-primary">Plan de estudios</button>
+                </div>
+                <div class="col-12 col-sm-3 ">
+                    <a class="btn btn-primary" id="botonesGeneral" href="#" role="button">Convocatoria</a>
                 </div>
                 <div class="col-12 col-sm-1 ">
                 </div>
-                <div class="col-12 col-sm-1 ">
-                </div>
-                <div class="col-12 col-sm-1 ">
-                </div>
-                <div class="col-12 col-sm-1 ">
-                    <button type="button" class="btn btn-primary">Convocatoria</button>
-                </div>
-                <div class="col-12 col-sm-1 ">
-                </div>
-                <div class="col-12 col-sm-1 ">
-                </div>
-                <div class="col-12 col-sm-1 ">
-                </div>
-                <div class="col-12 col-sm-1 ">
+                <div class="col-12 col-sm-1">
                 </div>
             </div>
 
@@ -300,7 +279,7 @@
 
                         <strong>El costo semestral de inscripción: $ 3,500.00</strong><br><br>
 
-                        Para mayor información consulta la siguiente página web:http://www.enrem-master.info/about-enrem
+                        <a href="#" id="titulosCyan"> Para mayor información consulta la siguiente página web:http://www.enrem-master.info/about-enrem</a>
                     </p>
                 </div>
             </div>
@@ -312,7 +291,7 @@
                     <h2 class="accordion-header" id="headingSix">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-                            <strong>Perfil de egreso</strong>
+                            <strong>Perfil de egreso &nbsp</strong> <i class="fa-solid fa-arrow-down-long"></i>
                         </button>
                     </h2>
                     <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix"
@@ -337,7 +316,7 @@
                     <h2 class="accordion-header" id="headingSeven">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
-                            <strong>Objetivos generales</strong>
+                            <strong>Objetivos generales &nbsp</strong> <i class="fa-solid fa-arrow-down-long"></i>
                         </button>
                     </h2>
                     <div id="collapseSeven" class="accordion-collapse collapse" aria-labelledby="headingSeven"
