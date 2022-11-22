@@ -152,6 +152,11 @@ a:hover {
   font-family: open sans;
 }
 
+#accordionExample a {
+  color: rgb(0, 178, 227);
+  text-decoration: none;
+}
+
 #accordionExample .accordion-button {
   color: rgb(0, 74, 152);
 }
@@ -173,10 +178,52 @@ a:hover {
 
 #colorCard {
   background-color: rgb(231, 236, 240);
+  text-align: center;
+  color: rgb(0, 74, 152);
+  font-size: 110%;
+  font-family: open sans bold;
 }
 
 #h2info {
   color: rgb(0, 74, 152);
+  font-size: 120%;
+}
+
+#rowInicio {
+  align-content: center;
+  text-align: center;
+  color: rgb(0, 74, 152);
+  font-size: 110%;
+  font-family: open sans bold;
+}
+
+#videoInicio {
+  color: rgb(0, 74, 152);
+  text-align: left;
+}
+
+#videoInicio p {
+  font-size: 128%;
+  font-family: open sans bold;
+  text-align: left;
+}
+
+#videoInicio span {
+  font-size: 100%;
+}
+
+#botonesGeneral {
+  background-color: rgb(42, 127, 195);
+  border: 0;
+}
+
+#titulosCyan {
+  color: cyan;
+  text-decoration: none;
+}
+
+.nav-item {
+  content: none;
 }
 
 /*!

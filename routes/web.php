@@ -52,4 +52,12 @@ Route::get('/biblioteca', function () {
 
 Route::get('/seminarios', function () {
     return view('seminarios');
+<<<<<<< HEAD
+=======
+});
+
+
+Route::get('/cursos', function () {
+    return view('cursos');
+>>>>>>> ccb5061efb067a3c4ddecb42ad11fa250160ae16
 });

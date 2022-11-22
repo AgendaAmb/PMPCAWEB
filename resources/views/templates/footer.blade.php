@@ -1,5 +1,6 @@
 
 
+<div class="fondoFooter"></div>
 <footer id="main-footer">
     <div class=¨container-fluid¨>
     <div class="row">
