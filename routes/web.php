@@ -21,6 +21,10 @@ Route::get('profesor/', function () {
     return view('detailsProfessor');
 });
 
+Route::get('/profesores', function () {
+    return view('profesores/ACardona');
+});
+
 Route::get('/base', function () {
     return view('base');
 });
@@ -39,4 +43,13 @@ Route::get('/ofertaEducativa', function () {
 
 Route::get('/areas', function () {
     return view('profesoresyAreas');
+});
+
+Route::get('/biblioteca', function () {
+    return view('bibliotecas');
+});
+
+
+Route::get('/seminarios', function () {
+    return view('seminarios');
 });

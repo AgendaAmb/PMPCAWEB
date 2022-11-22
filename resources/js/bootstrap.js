@@ -4,11 +4,11 @@ window._ = require('lodash');
 require('bootstrap');
 
 
-window.Popper = require('@popperjs/core');
+//window.Popper = require('@popperjs/core');
 
 
 try{
-    window.Popper = require('@popperjs/core');
+    //window.Popper = require('@popperjs/core');
     window.$ = window.jQuery = require('jquery');
 
     require('bootstrap');

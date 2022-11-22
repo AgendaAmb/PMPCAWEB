@@ -1,0 +1,126 @@
+
+@extends('base')
+
+@section('maincontent')
+
+<div id="p-container" class="container px-lg-8.5 px-md-5">
+    <div id="professor-description" class="row mb-4">
+    <div class="col-12 col-sm-12">
+      <br>
+        <h1><strong>DR. ANTONIO CARDONA BENAVIDES</strong></h1>
+    </div>
+    <div class="col-12 col-sm-3 ">
+        <img class="mx-auto d-block" src="{{asset('storage/images/ejeprof.png')}}" alt="">
+    </div>
+    <div class="col-12 col-sm-9">
+        <div>
+        <h4><strong>Profesor Investigador de Tiempo Completo Nivel VI.</strong></h4>
+        <h5><strong>Facultad de Ingeniería</strong></h5>
+        <h5><strong>SNI nivel I.</strong></h5>
+        <br>
+        <p>
+            Dr. Manuel Nava No. 8, Zona Universitaria Poniente <br>
+            C.P. 78290, San Luis Potosí, S. L. P., México <br> <br>
+            Teléfono: +52 (444) 826-2300 Ext. 7201 <br>
+            antonio.cardona@uaslp.mx <br>
+        </p>
+
+        <div class="enlacesprof">
+            <a target="_blank" href="http://ciep.ing.uaslp.mx/geologia/profesor.php?id=3133333235">Webpage</a>
+            <a href="/CV/CardonaBenavidesAntonio">Curriculum Vitae </a>
+            <a target="_blank" href="https://investigadores.uaslp.mx/InvestigadorProfile/DTQAAA%3d%3d">Directorio de Investigadores</a>
+            <a target="_blank" href="http://orcid.org/0000-0001-8121-4657"><img src="{{asset('storage/images/orcid.png')}}" alt=""></a>
+            <a target="_blank" href="https://www.scopus.com/authid/detail.uri?authorId=7005334227"> <img src="{{asset('storage/images/scopus.png')}}" alt=""></a>
+        </div>
+        </div>
+    </div>
+    </div>
+    <div class="accordion" id="accordionExample">
+        <div class="accordion-item">
+          <h2 class="accordion-header" id="headingOne">
+            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne"
+              aria-expanded="true" aria-controls="collapseOne">
+              <strong>Actividad académica</strong>
+            </button>
+          </h2>
+          <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
+            data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+              <ol>
+                <li><strong>Cursos</strong></li>
+                    <p>TSCA: Hidrogeoquímica<br>
+                    TSCA: Hidrogeología ambiental</p>
+
+                <li><strong>LGAC</strong></li>
+                <p>Evolución hidrogeoquímica e isotópica de sistemas de flujo subterráneo<br>
+                   Evaluación de la contaminación en matrices ambientales (suelo, subsuelo, acuíferos, agua, sedimentos, aire, etc.)
+                </p>
+                <li><strong>Dirección de Tesis</strong></li><br>
+                <p><em>Maestría en Ciencias Ambientales (Doble titulación), Co-Dirección</em></p>
+                <p>
+                  Hoffmeister Mara Carina. 2010. <a style="color: #00B2E3;" href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/3616/MCA1ASB01001.pdf?sequence=3&isAllowed=y">Plan integrado para la gestión sostenible de aguas subterráneas: el caso de la Cuenca del Río Rapel, VI región de Chile.</a><br>
+                  Peña Delgado Libier Marisela. 2010. <a href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/3581/MCA1SVE01001.pdf?sequence=3&isAllowed=y">Modeling and simulation for VOCs extraction by an SVE system.</a><br>
+                  Heise Lisa. 2013. <a href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/3692/MCA1DYN01301.pdf?sequence=1&isAllowed=y">Dynamics of the coastal karst aquifer in northern Yucatan Peninsula.</a><br>
+                  Herrera Lopera Evelyn. 2015. <a href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/3983/MCA1GRO01501.pdf?sequence=1&isAllowed=y">Assessment of groundwater contamination in the upper basin of Rio Grande, Rio de Janeiro, Brazil.</a>
+                </p>
+                <br>
+                <p><em>Maestría en Ciencias Ambientales</em></p>
+                <p>
+                  Calva Hérnández David. 2011. <a href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/3602/MCA1CIS01101.pdf?sequence=3&isAllowed=y">Caracterización isotópica de la precipitación en el Estado de San Luis Potosí.</a><br>
+                  Herrera Zaragoza Liliana del Rocío. 2012.<a href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/3685/MCA1ESC01201.pdf?sequence=1&isAllowed=y"> Escenarios futuros del reúso de agua residual tratada a nivel terciario para abastecimiento público-urbano en Ecatepec, Estado de México.</a><br>
+                  Herrera Rendón Eduardo. 2013. <a href="https://ninive.uaslp.mx/xmlui/handle/i/3592">Relación agua subterránea-vegetación en la zona costera del norte de Yucatán.</a> (Co-dirección).<br>
+                  Ruiz Rivera Claudia. 2015. <a href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/3976/MCA1ECA01501.pdf?sequence=1&isAllowed=y">Evaluación de la calidad del agua de Villa de la Paz, San Luis Potosí, México y propuesta de tratamiento.</a><br>
+                  Gardea López Alejandra. 2019. <a href="https://ninive.uaslp.mx/xmlui/handle/i/5721">Caracterización ambiental del manantial "Ojo de Agua", Moctezuma, S.L.P. y acciones para su conservación y uso.</a></br>
+                </p>
+                <p>
+
+                </p>
+              </ol>
+            </div>
+          </div>
+        </div>
+        <div class="accordion-item">
+          <h2 class="accordion-header" id="headingTwo">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+              data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+              <strong>Publicaciones</strong>
+            </button>
+          </h2>
+          <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
+            data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+              <strong>This is the second item's accordion body.</strong> It is hidden by default, until the collapse
+              plugin
+              adds the appropriate classes that we use to style each element. These classes control the overall
+              appearance,
+              as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or
+              overriding our default variables. It's also worth noting that just about any HTML can go within the
+              <code>.accordion-body</code>, though the transition does limit overflow.
+            </div>
+          </div>
+        </div>
+        <div class="accordion-item">
+          <h2 class="accordion-header" id="headingThree">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+              data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+              <strong>Vinculación</strong>
+            </button>
+          </h2>
+          <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
+            data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+              <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin
+              adds the appropriate classes that we use to style each element. These classes control the overall
+              appearance,
+              as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or
+              overriding our default variables. It's also worth noting that just about any HTML can go within the
+              <code>.accordion-body</code>, though the transition does limit overflow.
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    </div>
+</div>
+
+@endsection
