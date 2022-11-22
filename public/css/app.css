@@ -152,6 +152,11 @@ a:hover {
   font-family: open sans;
 }
 
+#accordionExample a {
+  color: rgb(0, 178, 227);
+  text-decoration: none;
+}
+
 #accordionExample .accordion-button {
   color: rgb(0, 74, 152);
 }

@@ -49,3 +49,8 @@ Route::get('/biblioteca', function () {
 Route::get('/seminarios', function () {
     return view('seminarios');
 });
+
+
+Route::get('/cursos', function () {
+    return view('cursos');
+});
