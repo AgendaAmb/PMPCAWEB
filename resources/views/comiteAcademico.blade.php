@@ -58,6 +58,31 @@
                 data-bs-parent="#accordionExample">
                 <div class="accordion-body">
                     <strong>Dra. Paola Elizabeth Díaz Flores</strong> <br> Coordinadora Academica del PMPCA
+                    <br><br>
+                    <h4><strong>Área de evaluación ambiental</strong></h4>
+                    <p>
+                        <strong>Dr. Antonio Cardona Benavides</strong> <br> Titular y Coordinador de área<br><br>
+                        <strong>Dr. Marcos Algara Siller</strong> <br> Titular <br><br>
+                        <strong>Dr. Guillermo Javier Castro Larragoitia </strong> <br> Suplente<br><br>
+                    </p>
+                    <hr>
+                    <br>
+                    <h4><strong>Área de gestión ambiental</strong></h4>
+                    <p>
+                        <strong>Dra. Anuschka Van´t Hooft</strong> <br> Titular y Coordinador de área<br><br>
+                        <strong>Dr. Valente Vázquez Solís</strong> <br> Titular <br><br>
+                        <strong>Dr. Humberto Reyes Hernández </strong> <br> Suplente<br><br>
+                    </p>
+                    <hr>
+                    <br>
+                    <h4><strong>Área de prevención y control</strong></h4>
+                    <p>
+                        <strong>Dra. Paola Elizabeth Díaz Flores</strong> <br> Coordinadora Académica y Titular<br><br>
+                        <strong>Dr. Israel Rodríguez Torres</strong> <br> Titular y Coordinador de área <br><br>
+                        <strong>Dr. Nahúm Andrés Medellín Castillo </strong> <br> Suplente<br><br>
+                    </p>
+
+
                 </div>
             </div>
         </div>
