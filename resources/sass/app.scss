@@ -38,6 +38,15 @@ h5, .h5 {
   color : #666;
 }
 
+#directorioprofes{
+  color: rgb(0, 74, 152);
+}
+
+#enlacetramites a{
+  color:rgb(0, 74, 152);
+  text-decoration: none;
+}
+
 p {
   margin: 0 0 1.5em 0;
 }
@@ -236,6 +245,10 @@ a:hover {
 
 .nav-item{
   content: none;
+}
+
+#nameProf{
+  color: rgb(0, 178, 227);
 }
 
 @import "~bootstrap/scss/bootstrap.scss";

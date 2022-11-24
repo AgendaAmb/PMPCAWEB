@@ -3,7 +3,6 @@
 
 @section('maincontent')
 
-<html lang="es">
 
     <div id="p-container" class="container px-lg-8.5 px-md-5 border">
         <div class="col-12 col-sm-12 border">
