@@ -92,3 +92,15 @@ Route::get('/estadisticas', function () {
 Route::get('/becas', function () {
     return view('becas');
 });
+
+Route::get('/evaluacionAmbiental', function () {
+    return view('evaluacionAmbiental');
+});
+
+Route::get('/tesis', function () {
+    return view('tesis');
+});
+
+Route::get('/articulosCientificos', function () {
+    return view('articulosCientificos');
+});
