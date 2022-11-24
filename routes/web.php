@@ -58,3 +58,37 @@ Route::get('/seminarios', function () {
 Route::get('/cursos', function () {
     return view('cursos');
 });
+
+Route::get('/ACardona', function () {
+    return view('/profesores/ACardona');
+});
+
+
+Route::get('/directorio', function () {
+    return view('directorio');
+});
+
+Route::get('/colaboraciónsocial', function () {
+    return view('colaboraciónsocial');
+});
+
+
+Route::get('/protocoloética', function () {
+    return view('protocoloética');
+});
+
+Route::get('/calendario', function () {
+    return view('calendario');
+});
+
+Route::get('/tramites', function () {
+    return view('tramites');
+});
+
+Route::get('/estadisticas', function () {
+    return view('estadisticas');
+});
+
+Route::get('/becas', function () {
+    return view('becas');
+});

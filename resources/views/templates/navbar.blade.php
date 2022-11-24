@@ -18,15 +18,15 @@
                             <strong>PMPCA</strong>
                         </a>
                         <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="#"><strong>Directorio</strong></a></li>
+                            <li><a class="dropdown-item" href="{{url("/directorio")}}"><strong>Directorio</strong></a></li>
                             <li>
                                 <hr class="dropdown-divider">
                             </li>
-                            <li><a class="dropdown-item" href="#"><strong>Colaboración social</strong></a></li>
+                            <li><a class="dropdown-item" href="{{url("/colaboraciónsocial")}}"><strong>Colaboración social</strong></a></li>
                             <li>
                                 <hr class="dropdown-divider">
                             </li>
-                            <li><a class="dropdown-item" href="#"><strong>Protocolo de ética</strong></a></li>
+                            <li><a class="dropdown-item" href="{{url("/protocoloética")}}"><strong>Protocolo de ética</strong></a></li>
                         </ul>
                     </li>
 
@@ -55,15 +55,14 @@
                             <strong> Información academica</strong>
                         </a>
                         <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="#"><strong>Cursos</strong></a></li>
-                            <li><a class="dropdown-item" href="#"><strong>Profesores y áreas de
-                                        especialización</strong></a></li>
-                            <li><a class="dropdown-item" href="#"><strong>Becas</strong></a></li>
-                            <li><a class="dropdown-item" href="#"><strong>Bibliotecas</strong></a></li>
+                            <li><a class="dropdown-item" href="{{url("/cursos")}}"><strong>Cursos</strong></a></li>
+                            <li><a class="dropdown-item" href="{{url("/areas")}}"><strong>Profesores y áreas de especialización</strong></a></li>
+                            <li><a class="dropdown-item" href="{{url("/becas")}}"><strong>Becas</strong></a></li>
+                            <li><a class="dropdown-item" href="{{url("/biblioteca")}}"><strong>Bibliotecas</strong></a></li>
                             <li>
                                 <hr class="dropdown-divider">
                             </li>
-                            <li><a class="dropdown-item" href="#"><strong>Estadísticas</strong></a></li>
+                            <li><a class="dropdown-item" href="{{url("/estadisticas")}}"><strong>Estadísticas</strong></a></li>
                         </ul>
                     </li>
                     <li class="nav-item">
@@ -80,11 +79,11 @@
                             <li>
                                 <hr class="dropdown-divider">
                             </li>
-                            <li><a class="dropdown-item" href="#"><strong>Calendario</strong></a></li>
+                            <li><a class="dropdown-item" href="{{url("/calendario")}}"><strong>Calendario</strong></a></li>
                             <li>
                                 <hr class="dropdown-divider">
                             </li>
-                            <li><a class="dropdown-item" href="#"><strong>Trámites</strong></a></li>
+                            <li><a class="dropdown-item" href="{{url("/tramites")}}"><strong>Trámites</strong></a></li>
                             <li>
                                 <hr class="dropdown-divider">
                             </li>

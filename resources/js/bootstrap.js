@@ -3,14 +3,8 @@ window._ = require('lodash');
 // Bootstrap JS
 require('bootstrap');
 
-
-//window.Popper = require('@popperjs/core');
-
-
 try{
-    //window.Popper = require('@popperjs/core');
-    window.$ = window.jQuery = require('jquery');
-
+    window.Popper = require('@popperjs/core');
     require('bootstrap');
 } catch(e){}
 

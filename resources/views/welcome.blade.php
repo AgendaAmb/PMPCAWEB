@@ -102,7 +102,7 @@
         <div class="col-12 col-sm-12   my-5" id="rowInicio">
             <div class="row">
                 <div class="col-12 col-sm-2">
-                    <a href="#"><img src="{{ asset('storage/images/Calendario.png') }}" alt=""></a>
+                    <a href="{{url("/calendario")}}"><img src="{{ asset('storage/images/Calendario.png') }}" alt=""></a>
                     <p> <strong>Calendario</strong></p>
                 </div>
                 <div class="col-12 col-sm-2">
@@ -120,12 +120,12 @@
                     <p> <strong>Programación semestral</strong></p>
                 </div>
                 <div class="col-12 col-sm-2">
-                    <a href="#"><img src="{{ asset('storage/images/Tramites.png') }}" alt=""></a>
+                    <a href="{{url("/tramites")}}"><img src="{{ asset('storage/images/Tramites.png') }}" alt=""></a>
                     <p> <strong>Tramites</strong> </p>
                 </div>
                 <div class="col-12 col-sm-2">
                     <div class="col-12 col-sm-12">
-                        <a href="#"><img src="{{ asset('storage/images/Becas.png') }}" alt=""></a>
+                        <a href="{{url("/becas")}}"><img src="{{ asset('storage/images/Becas.png') }}" alt=""></a>
                     </div>
                     <div class="col-12 col-sm-12">
                         <p> <strong>Becas</strong></p>

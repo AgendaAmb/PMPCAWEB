@@ -5,16 +5,16 @@
 @section('maincontent')
 
 
-<div id="p-container" class="container px-lg-8.5 px-md-5 border">
+<div id="p-container" class="container px-lg-8.5 px-md-5">
     <div class="col-12 col-sm-12 border">
         <img src="https://placekitten.com/g/1318/500" alt="">
     </div>
     <div class="barraAzulFuerte"></div>
-    <div id="professor-description" class="row mb-4 p-5 border">
-        <div class="col-12 col-sm-12 border">
+    <div id="professor-description" class="row mb-4 p-5">
+        <div class="col-12 col-sm-12">
             <h1><strong>COMITÉ ACADÉMICO</strong></h1>
         </div>
-        <div class="col-12 col-sm-12 border">
+        <div class="col-12 col-sm-12">
             <div>
                 <h4><strong>Atribuciones y obligaciones</strong></h4>
                 <br>
@@ -41,8 +41,8 @@
                 </p>
             </div>
         </div>
-        <div class="col-12 col-sm-12 border">
-            <button type="button" class="btn btn-primary">Descargar minutas</button>
+        <div class="col-12 col-sm-12">
+            <a class="btn btn-primary rounded-pill" id="botonesGeneral" href="#" role="button">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspDescargar minutas&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</a>
         </div>
     </div>
     <div class="accordion" id="accordionExample">
@@ -60,27 +60,21 @@
                     <strong>Dra. Paola Elizabeth Díaz Flores</strong> <br> Coordinadora Academica del PMPCA
                     <br><br>
                     <h4><strong>Área de evaluación ambiental</strong></h4>
-                    <p>
-                        <strong>Dr. Antonio Cardona Benavides</strong> <br> Titular y Coordinador de área<br><br>
-                        <strong>Dr. Marcos Algara Siller</strong> <br> Titular <br><br>
-                        <strong>Dr. Guillermo Javier Castro Larragoitia </strong> <br> Suplente<br><br>
-                    </p>
+                        <p><strong id="nameProf">Dr. Antonio Cardona Benavides</strong> <br> Titular y Coordinador de área<br></p> 
+                        <p><strong id="nameProf">Dr. Marcos Algara Siller</strong> <br> Titular<br></p> 
+                        <p><strong id="nameProf">Dr. Guillermo Javier Castro Larragoitia</strong> <br>Suplente<br></p>
                     <hr>
                     <br>
                     <h4><strong>Área de gestión ambiental</strong></h4>
-                    <p>
-                        <strong>Dra. Anuschka Van´t Hooft</strong> <br> Titular y Coordinador de área<br><br>
-                        <strong>Dr. Valente Vázquez Solís</strong> <br> Titular <br><br>
-                        <strong>Dr. Humberto Reyes Hernández </strong> <br> Suplente<br><br>
-                    </p>
+                        <p><strong id="nameProf">Dra. Anuschka Van´t Hooft</strong> <br> Titular y Coordinador de área<br></p> 
+                        <p><strong id="nameProf">Dr. Valente Vázquez Solís</strong> <br> Titular<br></p> 
+                        <p><strong id="nameProf">Dr. Humberto Reyes Hernández</strong> <br>Suplente<br></p>
                     <hr>
                     <br>
                     <h4><strong>Área de prevención y control</strong></h4>
-                    <p>
-                        <strong>Dra. Paola Elizabeth Díaz Flores</strong> <br> Coordinadora Académica y Titular<br><br>
-                        <strong>Dr. Israel Rodríguez Torres</strong> <br> Titular y Coordinador de área <br><br>
-                        <strong>Dr. Nahúm Andrés Medellín Castillo </strong> <br> Suplente<br><br>
-                    </p>
+                        <p><strong id="nameProf">Dra. Paola Elizabeth Díaz Flores</strong> <br>Coordinadora Académica y Titular<br></p> 
+                        <p><strong id="nameProf">Dr. Israel Rodríguez Torres</strong> <br>Titular y Coordinador de área<br></p> 
+                        <p><strong id="nameProf">Dr. Nahúm Andrés Medellín Castillo</strong> <br>Suplente<br></p>
 
 
                 </div>
@@ -89,12 +83,12 @@
     </div>
 </div>
 
-<div id="p-container" class="container px-lg-8.5 px-md-5 border">
-    <div id="professor-description" class="row mb-4 p-5 border">
-        <div class="col-12 col-sm-12 border">
+<div id="p-container" class="container px-lg-8.5 px-md-5">
+    <div id="professor-description" class="row mb-4 p-5">
+        <div class="col-12 col-sm-12">
             <h1><strong>NORMATIVA</strong></h1>
         </div>
-        <div class="col-12 col-sm-12 border" id="enlacesNormativa">
+        <div class="col-12 col-sm-12" id="enlacesNormativa">
             <div>
                 <a href="#"> <strong>- Reglamento General de Estudios de Posgrado</strong></a>
                 <br><br>
