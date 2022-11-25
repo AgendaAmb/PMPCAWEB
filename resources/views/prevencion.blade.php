@@ -8,7 +8,7 @@
         <div class="barraAzulFuerte"></div>
         <div id="professor-description" class="row p-5">
             <div class="col-12 col-sm-12">
-                <h1><strong>EVALUACIÓN AMBIENTAL</strong></h1>
+                <h1><strong>PREVENCIÓN Y CONTROL</strong></h1>
             </div>
         </div>
     </div>
@@ -18,23 +18,23 @@
             <div class="col-12 col-sm-1">
             </div>
             <div class="col-12 col-sm-2">
-                <a class="btn btn-primary rounded-pill" id="botonesGeneral" href="{{url("/evaluacionAmbiental")}}"
+                <a class="btn btn-primary rounded-pill" id="botonesGeneral" href="#"
                     role="button">Evaluación&nbspambiental</a>
             </div>
             <div class="col-12 col-sm-2">
-                <a class="btn btn-primary rounded-pill " id="botonesGeneral" href="{{url("/gestionAmbiental")}}"
+                <a class="btn btn-primary rounded-pill " id="botonesGeneral" href="#"
                     role="button">&nbsp&nbspGestión&nbspambiental&nbsp&nbsp</a>
             </div>
             <div class="col-12 col-sm-2">
-                <a class="btn btn-primary rounded-pill" id="botonesGeneral" href="{{url("/prevencion")}}"
+                <a class="btn btn-primary rounded-pill" id="botonesGeneral" href="#"
                     role="button">Prevención&nbspy&nbspcontrol</a>
             </div>
             <div class="col-12 col-sm-2">
-                <a class="btn btn-primary rounded-pill" id="botonesGeneral" href="{{url("/recursosNaturales")}}"
+                <a class="btn btn-primary rounded-pill" id="botonesGeneral" href="#"
                     role="button">&nbsp&nbspRecursos&nbspnaturales&nbsp&nbsp</a>
             </div>
             <div class="col-12 col-sm-2">
-                <a class="btn btn-primary rounded-pill" id="botonesGeneral" href="{{url("/saludAmbiental")}}"
+                <a class="btn btn-primary rounded-pill" id="botonesGeneral" href="#"
                     role="button">&nbsp&nbspSalud&nbspambiental&nbsp&nbsp</a>
             </div>
             <div class="col-12 col-sm-1">

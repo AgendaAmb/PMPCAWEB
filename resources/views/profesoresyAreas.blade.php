@@ -42,7 +42,7 @@
                     temas prioritarios: las enfermedades emergentes y el cambio climático, la vulnerabi-
                     lidad y la resiliencia ante desastres y los cambios ambientales en los sistemas socio-
                     ecológicos. <br><br>
-                    <a class="btn btn-primary rounded-pill" id="botonesGeneral" href="#" role="button">Conocer más</a>
+                    <a class="btn btn-primary rounded-pill" id="botonesGeneral" href="{{url("/gestionAmbiental")}}" role="button">Conocer más</a>
                 </div>
             </div>
 
@@ -59,7 +59,7 @@
                     es basadas en procesos biológicos, fisicoquímicos y electroquímicos, desarrollo de
                     nuevos materiales ambientales avanzados, así como el uso de fuentes alternas de
                     energías y tecnologías para reducir los efectos de la contaminación ambiental. <br><br>
-                    <a class="btn btn-primary rounded-pill" id="botonesGeneral" href="#" role="button">Conocer más</a>
+                    <a class="btn btn-primary rounded-pill" id="botonesGeneral" href="{{url("/prevencion")}}" role="button">Conocer más</a>
                 </div>
             </div>
 
@@ -83,7 +83,7 @@
                     marios y otras manifestaciones culturales; el análisis integral y comparativo de siste-
                     mas agrícolas y pecuarios, tradicionales y empresariales, que permite reconocer los
                     factores que pueden estar limitando su estabilidad y productividad. <br><br>
-                    <a class="btn btn-primary rounded-pill" id="botonesGeneral" href="#" role="button">Conocer más</a>
+                    <a class="btn btn-primary rounded-pill" id="botonesGeneral" href="recursosNaturales" role="button">Conocer más</a>
                 </div>
             </div>
 
@@ -101,7 +101,7 @@
                     los recursos naturales, la prevención y el cuidado de la salud, así como estrategias
                     para asegurar el desarrollo sustentable a través de la participación comunitaria re-
                     sponsable. <br><br>
-                    <a class="btn btn-primary rounded-pill" id="botonesGeneral" href="#" role="button">Conocer más</a>
+                    <a class="btn btn-primary rounded-pill" id="botonesGeneral" href="saludAmbiental" role="button">Conocer más</a>
                 </div>
             </div>
 

@@ -97,6 +97,22 @@ Route::get('/evaluacionAmbiental', function () {
     return view('evaluacionAmbiental');
 });
 
+Route::get('/gestionAmbiental', function () {
+    return view('gestionAmbiental');
+});
+
+Route::get('/prevencion', function () {
+    return view('prevencion');
+});
+
+Route::get('/recursosNaturales', function () {
+    return view('recursosNaturales');
+});
+
+Route::get('/saludAmbiental', function () {
+    return view('saludAmbiental');
+});
+
 Route::get('/tesis', function () {
     return view('tesis');
 });

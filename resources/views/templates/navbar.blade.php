@@ -56,8 +56,11 @@
                         </a>
                         <ul class="dropdown-menu">
                             <li><a class="dropdown-item" href="{{url("/cursos")}}"><strong>Cursos</strong></a></li>
+                            <hr class="dropdown-divider">
                             <li><a class="dropdown-item" href="{{url("/areas")}}"><strong>Profesores y áreas de especialización</strong></a></li>
+                            <hr class="dropdown-divider">
                             <li><a class="dropdown-item" href="{{url("/becas")}}"><strong>Becas</strong></a></li>
+                            <hr class="dropdown-divider">
                             <li><a class="dropdown-item" href="{{url("/biblioteca")}}"><strong>Bibliotecas</strong></a></li>
                             <li>
                                 <hr class="dropdown-divider">
@@ -75,10 +78,7 @@
                             <strong>Alumnos</strong>
                         </a>
                         <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="#"><strong>Tutorias</strong></a></li>
-                            <li>
-                                <hr class="dropdown-divider">
-                            </li>
+                            
                             <li><a class="dropdown-item" href="{{url("/calendario")}}"><strong>Calendario</strong></a></li>
                             <li>
                                 <hr class="dropdown-divider">
@@ -89,6 +89,10 @@
                             </li>
                             <li><a class="dropdown-item" href="#"><strong>Procesos administrativos</strong></a>
                             </li>
+                            <li>
+                                <hr class="dropdown-divider">
+                            </li>
+                            <li><a class="dropdown-item" href="#"><strong>Tutorias</strong></a></li>
                         </ul>
                     </li>
 
