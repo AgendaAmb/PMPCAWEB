@@ -48,41 +48,39 @@
             <div class="accordion-body">
               <ol>
                 <li><strong>Cursos</strong></li>
-                    <p>TSCA: Hidrogeoquímica<br>
-                    TSCA: Hidrogeología ambiental</p>
+                    <p>Gestión ambiental de operaciones minero metalúrgicas<br>
+                    TSCA: Geoquímica Ambiental</p>
 
                 <li><strong>LGAC</strong></li>
-                <p>Evolución hidrogeoquímica e isotópica de sistemas de flujo subterráneo<br>
-                   Evaluación de la contaminación en matrices ambientales (suelo, subsuelo, acuíferos, agua, sedimentos, aire, etc.)
+                <p>Evaluación de la contaminación en matrices ambientales (suelo, sedimentos, agua, atmósfera, etc.)<br>
+                   Hidrogeología e hidrogeoquímica
                 </p>
                 <li><strong>Dirección de Tesis</strong></li><br>
                 <p><em>Maestría en Ciencias Ambientales (Doble titulación), Co-Dirección</em></p>
                 <p>
-                  Hoffmeister Mara Carina. 2010. <a style="color: #00B2E3;" href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/3616/MCA1ASB01001.pdf?sequence=3&isAllowed=y">Plan integrado para la gestión sostenible de aguas subterráneas: el caso de la Cuenca del Río Rapel, VI región de Chile.</a><br>
-                  Peña Delgado Libier Marisela. 2010. <a href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/3581/MCA1SVE01001.pdf?sequence=3&isAllowed=y">Modeling and simulation for VOCs extraction by an SVE system.</a><br>
-                  Heise Lisa. 2013. <a href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/3692/MCA1DYN01301.pdf?sequence=1&isAllowed=y">Dynamics of the coastal karst aquifer in northern Yucatan Peninsula.</a><br>
-                  Herrera Lopera Evelyn. 2015. <a href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/3983/MCA1GRO01501.pdf?sequence=1&isAllowed=y">Assessment of groundwater contamination in the upper basin of Rio Grande, Rio de Janeiro, Brazil.</a>
+                  Bermúdez Zarruk Ramses Jael. 2011. <a href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/3553/MCA1PEK01101.pdf?sequence=3&isAllowed=y">Peak load clipping for greenhouse gas emission reduction in Managua, Nicaragua: The role of solar thermal water heaters and photovoltaic systems in households</a>
                 </p>
                 <br>
                 <p><em>Maestría en Ciencias Ambientales</em></p>
                 <p>
-                  Calva Hérnández David. 2011. <a href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/3602/MCA1CIS01101.pdf?sequence=3&isAllowed=y">Caracterización isotópica de la precipitación en el Estado de San Luis Potosí.</a><br>
-                  Herrera Zaragoza Liliana del Rocío. 2012.<a href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/3685/MCA1ESC01201.pdf?sequence=1&isAllowed=y"> Escenarios futuros del reúso de agua residual tratada a nivel terciario para abastecimiento público-urbano en Ecatepec, Estado de México.</a><br>
-                  Herrera Rendón Eduardo. 2013. <a href="https://ninive.uaslp.mx/xmlui/handle/i/3592">Relación agua subterránea-vegetación en la zona costera del norte de Yucatán.</a> (Co-dirección).<br>
-                  Ruiz Rivera Claudia. 2015. <a href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/3976/MCA1ECA01501.pdf?sequence=1&isAllowed=y">Evaluación de la calidad del agua de Villa de la Paz, San Luis Potosí, México y propuesta de tratamiento.</a><br>
-                  Gardea López Alejandra. 2019. <a href="https://ninive.uaslp.mx/xmlui/handle/i/5721">Caracterización ambiental del manantial "Ojo de Agua", Moctezuma, S.L.P. y acciones para su conservación y uso.</a></br>
+                  Hernández Martínez Jejanny Lucero. 2008. <a href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/5724/MCA1HMJ200801.pdf?sequence=1&isAllowed=y">Efecto de la evolución geoquímica en la calidad del agua subterránea en la porción central de la zona media del Estado de San Luis Potosí.</a><br>
+                  González Grijalva Marco David. 2009. <a href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/3557/MCA1EVO00901.pdf?sequence=3&isAllowed=y"> Evolución espacio-temporal de la calidad del agua subterránea en el acuífero Cedral-Matehuala: alternativas de uso. </a><br>
+                  Rocha Escalante Hermann. 2009.  <a href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/3875/MCA1EDS00901.pdf?sequence=3&isAllowed=y">Estrategias para el desarrollo sustentable de los sistemas de flujo en el acuífero de Rioverde, S.L.P. </a><br>
+                  Melo Cuervo Ricardo. 2011.  <a href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/3555/MCA1PAM01101.pdf?sequence=3&isAllowed=y">Evaluación de un pasivo ambiental metalúrgico. </a><br>
+                  Martínez Valdez Ofelia Anaís. 2015. <a href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/3977/MCA1MMM01501.pdf?sequence=1&isAllowed=y">Movilidad de metales y metaloides en sitios mineros: predicción de impactos en los recursos hídricos</a><br>
+                  Moreno Morales Laura Nereyda. 2016.<a href="https://ninive.uaslp.mx/xmlui/handle/i/4121"> Comportamiento ambiental de residuos mineros</a> (Co-dirección).
                 </p>
                 <br>
                 <p><em>Doctorado en Ciencias Ambientales</em></p>
                 <p>
-                  Rocha Escalante Hermann. 2016. <a href="http://ninive.uaslp.mx/jspui/bitstream/i/4135/1/DCA1REH201601.pdf">Groundwater use in the Merida-Progreso Region, Yucatan, and its implications in the coastal are ecosystems requirements.</a><br>
-                  Barbosa Briones Elda. 2019. <a href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/5672/DCA1BBE201901.pdf?sequence=1&isAllowed=y">Análisis del funcionamiento hidrológico en cuencas con actividad minera con base en sistemas de flujo como eje integrador.</a> (Co-dirección).<br>
+                  Hergt Thomas. 2009. <a href="http://ambiental.uaslp.mx/pmpca/tesis/Doc/Gen2005-08/2009_pmpca_hergtthomas.pdf">Diseño optimizado de redes de monitoreo de la calidad del agua de los sistemas de flujo subterráneo en el acuífero 2411 "San Luis Potosí": Hacia un manejo sustentable</a><br>
+                  Pérez Rodríguez Rebeca Yasmín. 2016. <a href="http://ambiental.uaslp.mx/pmpca/tesis/Doc/Gen2010-02/2016_pmpca_perezrodriguez.pdf">Identificación de fuentes y rutas de exposición en sitios contaminados por plomo, usando métodos isotópicos </a>
                 </p>
               </ol>
             </div>
           </div>
         </div>
-        <div class="accordion-item">
+        <!--<div class="accordion-item">
           <h2 class="accordion-header" id="headingTwo">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
               data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
@@ -121,7 +119,7 @@
             </div>
           </div>
         </div>
-        <!--<div class="accordion-item">
+        <div class="accordion-item">
           <h2 class="accordion-header" id="headingThree">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
               data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
