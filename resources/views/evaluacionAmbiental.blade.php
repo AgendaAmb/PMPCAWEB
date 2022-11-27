@@ -55,7 +55,7 @@
 
                 <div class="mb-5 mx-5">
                     <h4><strong>Profesores del área</strong></h4> 
-                    <a href="#" id="enlacesProfEvaluacion">Dr. Antonio Cardona Benavides</a> <br>
+                    <a href="/ACardona" id="enlacesProfEvaluacion">Dr. Antonio Cardona Benavides</a> <br>
                     <a href="#" id="enlacesProfEvaluacion">Dr. Guillermo Javier Castro Larragoitia</a> <br>
                     <a href="#" id="enlacesProfEvaluacion">Dr. Marcos Algara Siller</a> <br>
                     <a href="#" id="enlacesProfEvaluacion">Dr. Alfredo Ávila Galarza</a> <br>

@@ -21,10 +21,6 @@ Route::get('profesor/', function () {
     return view('detailsProfessor');
 });
 
-Route::get('/profesores', function () {
-    return view('profesores/ACardona');
-});
-
 Route::get('/base', function () {
     return view('base');
 });
@@ -62,7 +58,6 @@ Route::get('/cursos', function () {
 Route::get('/ACardona', function () {
     return view('/profesores/ACardona');
 });
-
 
 Route::get('/directorio', function () {
     return view('directorio');

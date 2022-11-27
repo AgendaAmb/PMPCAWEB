@@ -16,7 +16,7 @@
         <div>
         <h4><strong>Profesor Investigador de Tiempo Completo Nivel VI.</strong></h4>
         <h5><strong>Facultad de Ingeniería</strong></h5>
-        <h5><strong>SNI nivel I.</strong></h5>
+        <h5><strong>SNI nivel II.</strong></h5>
         <br>
         <p>
             Dr. Manuel Nava No. 8, Zona Universitaria Poniente <br>

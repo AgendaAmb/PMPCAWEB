@@ -42,7 +42,7 @@
             </div>
         </div>
         <div class="col-12 col-sm-12">
-            <a class="btn btn-primary rounded-pill" id="botonesGeneral" href="#" role="button">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspDescargar minutas&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</a>
+            <a target="_blank" class="btn btn-primary rounded-pill" id="botonesGeneral" href="https://uaslpedu-my.sharepoint.com/personal/coordinacion_academica_uaslp_mx/_layouts/15/onedrive.aspx?e=5%3Aeab26527bf944c78aa84b8e47561fe56&at=9&CT=1668432649253&OR=OWA%2DNT&CID=ac998011%2Decde%2De172%2Dd3fa%2D34141af369f3&FolderCTID=0x012000A47BA170C7F65146A8A5765BC1A5D370&id=%2Fpersonal%2Fcoordinacion%5Facademica%5Fuaslp%5Fmx%2FDocuments%2FMINUTAS%20PMPCA" role="button">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspDescargar minutas&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</a>
         </div>
     </div>
     <div class="accordion" id="accordionExample">
@@ -57,8 +57,11 @@
             <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
                 data-bs-parent="#accordionExample">
                 <div class="accordion-body">
-                    <strong>Dra. Paola Elizabeth Díaz Flores</strong> <br> Coordinadora Academica del PMPCA
-                    <br><br>
+                    <br>
+                    <h4><strong>Dra. Paola Elizabeth Díaz Flores</strong></h4>
+                    <p><strong id="nameProf">Coordinadora Académica del PMPCA</strong></p>
+                    <hr>
+                    <br>
                     <h4><strong>Área de evaluación ambiental</strong></h4>
                         <p><strong id="nameProf">Dr. Antonio Cardona Benavides</strong> <br> Titular y Coordinador de área<br></p> 
                         <p><strong id="nameProf">Dr. Marcos Algara Siller</strong> <br> Titular<br></p> 
@@ -75,8 +78,18 @@
                         <p><strong id="nameProf">Dra. Paola Elizabeth Díaz Flores</strong> <br>Coordinadora Académica y Titular<br></p> 
                         <p><strong id="nameProf">Dr. Israel Rodríguez Torres</strong> <br>Titular y Coordinador de área<br></p> 
                         <p><strong id="nameProf">Dr. Nahúm Andrés Medellín Castillo</strong> <br>Suplente<br></p>
-
-
+                    <hr>
+                    <br>
+                    <h4><strong>Área de recursos naturales renovables</strong></h4>
+                        <p><strong id="nameProf">Dra. Gisela Aguilar Benítez</strong> <br>Titular y Coordinadora de área<br></p>
+                        <p><strong id="nameProf">Dra. Bertha Irene Juárez Flores</strong> <br>Titular<br></p>
+                        <p><strong id="nameProf">Dra. Erika García Chávez</strong> <br>Suplente<br></p>
+                     <hr>
+                     <br>
+                    <h4><strong>Área de salud ambiental integral</strong></h4>
+                        <p><strong id="nameProf">Dr. José Antonio Ávalos Lozano</strong> <br>Titular y Coordinador de área<br></p>
+                        <p><strong id="nameProf">Dra. Donají Josefina González Mille</strong> <br>Titular<br></p>
+                        <p><strong id="nameProf">Dr. Francisco Javier Pérez Vázquez</strong> <br>Suplente<br></p>
                 </div>
             </div>
         </div>
@@ -90,16 +103,16 @@
         </div>
         <div class="col-12 col-sm-12" id="enlacesNormativa">
             <div>
-                <a href="#"> <strong>- Reglamento General de Estudios de Posgrado</strong></a>
+                <a target="_blank" href="storage/Doc/Reglamentoposgrado.pdf"> <strong>- Reglamento General de Estudios de Posgrado</strong></a>
                 <br><br>
-                <a href="#"> <strong>- Propuesta para la creación del Programa Multidisciplinario de Posgrado
+                <a target="_blank" href="storage/Doc/PMCA_PropuestaGral.pdf"> <strong>- Propuesta para la creación del Programa Multidisciplinario de Posgrado
                     en Ciencias Ambientales</strong>
                 <br><br>
-                <a href="#"> <strong>- Reglamentos del PMPCA - Doctorado</strong> </a>
+                <a target="_blank" href="storage/Doc/PMPCA_ReglamentoDoctorado.pdf"> <strong>- Reglamentos del PMPCA - Doctorado</strong> </a>
                 <br><br>
-                <a href="#"> <strong>- Reglamentos del PMPCA - Maestría</strong></a>
+                <a target="_blank" href="storage/Doc/PMPCA_ReglamentoMaestria.pdf"> <strong>- Reglamentos del PMPCA - Maestría</strong></a>
                 <br><br>
-                <a href="#"> <strong>- Sistema Interno de Aseguramiento de la Calidad</strong> </a>
+                <a target="_blank" href="storage/Doc/SistemaIntAseguramientoCalidad.pdf"> <strong>- Sistema Interno de Aseguramiento de la Calidad</strong> </a>
                 <br><br>
             </div>
         </div>
