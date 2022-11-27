@@ -23,17 +23,13 @@
                     herramientas para proponer, dirigir y colaborar en la obtención de nuevas soluciones a problemas científicos y 
                     sociales. <br> <br>
                     
-                    Los ejercicios de retribución social que ha realizado el PMPCA se pueden clasificar en tres vertientes: <br> <br>
+                    Los ejercicios de retribución social que ha realizado el PMPCA se pueden clasificar en tres vertientes: <br><br>
                     
-                    1.- Formación de estudiantes egresados de alta calidad para el estudio multidisciplinario y la solución de problemas
-                    ambientales regionales, nacionales e internacionales con una perspectiva intercultural. <br> <br>
-                    
-                    2.- Difusión del conocimiento para generar y fortalecer capacidades individuales y colectivas -en particular, con co-
-                    munidades vulnerables- para mejorar su calidad de vida a partir de un mejor aprovechamiento de sus recursos na-
-                    turales y la utilización de la tecnología en la atención de necesidades locales. <br> <br>
-                    
-                    3.- Aplicación de la investigación básica en problemas de interés local, regional e internacional con todos los acto-
-                    res para concientizar, intervenir y crear alternativas de cambio para el desarrollo de un entorno más sustentable.
+                    <ol>
+                        <li>Formación de estudiantes egresados de alta calidad para el estudio multidisciplinario y la solución de problemas ambientales regionales, nacionales e internacionales con una perspectiva intercultural.</li> <br><br>
+                        <li>Difusión del conocimiento para generar y fortalecer capacidades individuales y colectivas -en particular, con comunidades vulnerables- para mejorar su calidad de vida a partir de un mejor aprovechamiento de sus recursos naturales y la utilización de la tecnología en la atención de necesidades locales.</li> <br><br>
+                        <li>Aplicación de la investigación básica en problemas de interés local, regional e internacional con todos los actores para concientizar, intervenir y crear alternativas de cambio para el desarrollo de un entorno más sustentable.</li><br>
+                </ol>
                 </p>
             </div>
         </div>

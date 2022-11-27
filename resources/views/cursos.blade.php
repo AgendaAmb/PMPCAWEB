@@ -30,27 +30,24 @@
 
             <div class="col-12 col-sm-12">
                 <div>
-                    <p>
-                        Nuestro objetivo es la formación de recursos humanos de calidad para la docencia e investigación
-                        básica o aplica-
-                        da para la solución de los problemas ambientales a nivel regional, nacional o global. <br> <br>
-
-                        Si estás interesado deberás desarrollar un proyecto de investigación relacionado con las
-                        ciencias ambientales y
-                        contar con un producto publicado durante tus estudios de maestría. También deberás poseer un
-                        amplio espíritu
-                        de trabajo en equipo, habilidades para el análisis crítico de información y gran compromiso para
-                        dedicarte de
-                        tiempo completo a tus estudios. Además de acreditar un adecuado desempeño en el idioma inglés.
-                        <br> <br>
-
-                        Como egresado tendrás capacidades para generar, desarrollar y aplicar el conocimiento científico
-                        y tecnológico en
-                        forma original e innovadora, así como las habilidades para generar avances científicos y
-                        tecnológicos y participar
-                        activamente en grupos de investigación en el campo de las ciencias ambientales. <br> <br>
-
-                        <strong>El costo semestral de inscripción: $ 3,500.00</strong>
+                    <p>Los Planes de Estudio del Programa Multidisciplinario de Posgrado en Ciencias Ambientales de la UASLP, se elaboran considerando siete líneas curriculares:
+                    <ol>
+                        <li>Cursos básico</li>
+                        <li>Cursos optativos</li>
+                        <li>Cursos tópicos selectos en Ciencias Ambientales</li>
+                        <li>Proyecto de investigación (trabajo y seminario de tesis)</li>
+                        <li>Seminarios Multidisciplinarios</li>
+                        <li>Examen predoctoral (grado de Doctor)</li>
+                        <li>Tesis y examen de grado</li>
+                    </ol><br>
+                    El Plan de Estudios está constituido por las siete líneas curriculares enumeradas anteriormente y por las cinco áreas de especialización:<br><br>
+                    <ol>
+                        <li>Evaluación Ambiental (EA)</li>
+                        <li>Gestión Ambiental (GA)</li>
+                        <li>Prevención y Control (PyC)</li>
+                        <li>Recursos Naturales Renovables (RNR)</li>
+                        <li>Salud Ambiental Integrada (SAI)</li>
+                    </ol>
                     </p>
                 </div>
             </div>
@@ -62,24 +59,16 @@
                     <h2 class="accordion-header" id="headingThree">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                            <strong>Cursos basicos &nbsp</strong> <i class="fa-solid fa-arrow-down-long"></i>
+                            <strong>Cursos básicos &nbsp</strong> <i class="fa-solid fa-arrow-down-long"></i>
                         </button>
                     </h2>
                     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                            El egresado del Programa Multidisciplinario en Ciencias Ambientales tendrá una formación
-                            integral para contribuir
-                            al desarrollo científico y tecnológico desempeñando actividades profesionales grupales a un
-                            alto nivel y con perti-
-                            nencia socio-ambiental para un desarrollo sostenible local y global. El egresado del
-                            Doctorado en Ciencias Ambien-
-                            tales, tendrá capacidad para generar, desarrollar y aplicar el conocimiento científico y
-                            tecnológico en forma original
-                            e innovadora en el campo de las ciencias ambientales. Poseerá la capacidad de dirigir grupos
-                            de investigación, par-
-                            ticipar en órganos de decisión de alto impacto y en la formación de recursos humanos de alto
-                            nivel.
+                            76900001 Desarrollo Sustentable<br>
+                            76900053 Ecología<br>
+                            76900057 Introducción a la Estadística<br>
+                            76900058 Problemática y Gestión Ambiental<br>
                         </div>
                     </div>
                 </div>

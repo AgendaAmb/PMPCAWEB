@@ -12,14 +12,14 @@
             <span>Av. Manuel Nava #201, 2do. piso </span><br>
             <span> Zona Universitaria, C.P. 78000 </span><br>
             <span>San Luis Potosí, S.L.P., México </span><br>
-            <span>Tel. +52 (444) 826 2439</span><br>
+            <span>Tel. +52 (444) 826-2439</span><br>
             <span>© 2022 Todos los derechos reservados.</span>
         </div>
         </div>
         <div class="col-12 col-sm-6">
         <div class="derecha d-flex justify-content-center">
             <a href="#"><i class="fa-sharp fa-solid fa-phone"></i></a>
-            <span>&nbsp 444 8 26 24 35 &nbsp &nbsp</span>
+            <span>&nbsp +54 (444) 826-2435 &nbsp &nbsp</span>
 
             <a href="#"><i class="fa-regular fa-envelope"></i></a>
             <span>&nbsp pmpca@uaslp.mx</span>

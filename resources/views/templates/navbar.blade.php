@@ -44,7 +44,7 @@
                             <li>
                                 <hr class="dropdown-divider">
                             </li>
-                            <li><a class="dropdown-item" href="{{url("/ofertaEducativa")}}"><strong>Maestría doble titulación</strong></a>
+                            <li><a class="dropdown-item" href="{{url("/ofertaEducativa")}}"><strong>Maestría de doble titulación</strong></a>
                             </li>
                         </ul>
                     </li>
@@ -52,7 +52,7 @@
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
                             aria-expanded="false">
-                            <strong> Información academica</strong>
+                            <strong> Información académica</strong>
                         </a>
                         <ul class="dropdown-menu">
                             <li><a class="dropdown-item" href="{{url("/cursos")}}"><strong>Cursos</strong></a></li>
@@ -69,7 +69,7 @@
                         </ul>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="{{url("/comite")}}"><strong>Comité academico y normativa</strong></a>
+                        <a class="nav-link" href="{{url("/comite")}}"><strong>Comité académico y normativa</strong></a>
                     </li>
 
                     <li class="nav-item dropdown">
@@ -92,7 +92,7 @@
                             <li>
                                 <hr class="dropdown-divider">
                             </li>
-                            <li><a class="dropdown-item" href="#"><strong>Tutorias</strong></a></li>
+                            <li><a class="dropdown-item" href="#"><strong>Tutorías</strong></a></li>
                         </ul>
                     </li>
 
