@@ -12,51 +12,51 @@
 
     <hr>
     <div class="col-12 col-sm-12 my-4" id="enlacetramites">
-        <a href="#"> <strong>Asignación director de tesis</strong></a>
+        <a href="{{asset('storage/pdf/2.1_AsignacionDirectorTesis_220307.pdf')}}"> <strong>Asignación director de tesis</strong></a>
     </div>
     <hr>
     <div class="col-12 col-sm-12 my-4" id="enlacetramites">
-        <a href="#"> <strong>Comité tutelar tesis</strong> </a>
+        <a href="{{asset('storage/pdf/2.3 ComTutelarTesis_220307.pdf')}}"> <strong>Comité tutelar tesis</strong> </a>
     </div>
     <hr>
     <div class="col-12 col-sm-12 my-4" id="enlacetramites">
-        <a href="#"> <strong>Cambio comité tutelar</strong> </a>
+        <a href="{{asset('storage/pdf/2.6 CambioComitéTutelar _220307.pdf')}}"> <strong>Cambio comité tutelar</strong> </a>
     </div>
     <hr>
     <div class="col-12 col-sm-12 my-4" id="enlacetramites">
-        <a href="#"> <strong>Adecuación titulo tesis</strong> </a>
+        <a href="{{asset('storage/pdf/2.7 AdecuaciónTituloTesis_220307.pdf')}}"> <strong>Adecuación titulo tesis</strong> </a> 
     </div>
     <hr>
     <div class="col-12 col-sm-12 my-4" id="enlacetramites">
-        <a href="#"> <strong>Cambio tesis</strong> </a>
+        <a href="{{asset('storage/pdf/2.8 CambioTesis_220307.pdf')}}"> <strong>Cambio tesis</strong> </a>
     </div>
     <hr>
     <div class="col-12 col-sm-12 my-4" id="enlacetramites">
-        <a href="#"> <strong>Calificación semestre tesis</strong> </a>
+        <a href="{{asset('storage/pdf/3.4 Calif_SemTesis_220304.pdf')}}"> <strong>Calificación semestre tesis</strong> </a>
     </div>
     <hr>
     <div class="col-12 col-sm-12 my-4" id="enlacetramites">
-        <a href="#"> <strong>Recepción tesis</strong> </a>
+        <a href="{{asset('storage/pdf/4.8 RecepcionTesis_220314.pdf')}}"> <strong>Recepción tesis</strong> </a>
     </div>
     <hr>
     <div class="col-12 col-sm-12 my-4" id="enlacetramites">
-        <a href="#"> <strong>Altas y bajas</strong> </a>
+        <a href="{{asset('storage/pdf/F_AltasBajas.pdf')}}"> <strong>Altas y bajas</strong> </a>
     </div>
     <hr>
     <div class="col-12 col-sm-12 my-4" id="enlacetramites">
-        <a href="#"> <strong>Inscripcion ENREM</strong> </a>
+        <a href="{{asset('storage/pdf/F_Inscripcion_ENREM.pdf')}}"> <strong>Inscripcion ENREM</strong> </a>
     </div>
     <hr>
     <div class="col-12 col-sm-12 my-4" id="enlacetramites">
-        <a href="#"> <strong>Inscripción PMPCA</strong> </a>
+        <a href="{{asset('storage/pdf/F_Inscripcion_MCA.pdf')}}"> <strong>Inscripción PMPCA</strong> </a>
     </div>
     <hr>
     <div class="col-12 col-sm-12 my-4" id="enlacetramites">
-        <a href="#"> <strong>Lineamientos prácticas de campo</strong> </a>
+        <a href="{{asset('storage/pdf/F_LineamientosPracticasCampo.pdf')}}"> <strong>Lineamientos prácticas de campo</strong> </a>
     </div>
     <hr>
     <div class="col-12 col-sm-12 my-4" id="enlacetramites">
-        <a href="#"> <strong>Responsabilidades alumnos</strong> </a>
+        <a href="{{asset('storage/pdf/F_Responsabilidades_Alumnos.pdf')}}"> <strong>Responsabilidades alumnos</strong> </a>
     </div>
 
 

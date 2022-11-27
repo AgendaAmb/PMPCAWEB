@@ -17,7 +17,61 @@
                     <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                            <p>Hola</p>
+
+                            <div class="col-12 col-sm-12 border">
+                                <table class="table table-striped-columns">
+                                    <thead>
+                                        <tr>
+                                            <th scope="col">Año</th>
+                                            <th scope="col">Semestre</th>
+                                            <th scope="col">Descargar</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <th scope="row">2021</th>
+                                            <td>Febrero - Junio</td>
+                                            <td><a href="#">Memorias</a></td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">2019</th>
+                                            <td>Febrero - Junio</td>
+                                            <td><a href="#">Memorias</a></td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">2018</th>
+                                            <td>Septiembre - Febrero</td>
+                                            <td><a href="#">Memorias</a></td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">2017</th>
+                                            <td>Febrero - Junio</td>
+                                            <td><a href="#">Memorias / Presentaciones</a></td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">2016</th>
+                                            <td>Febrero - Junio</td>
+                                            <td><a href="#">Memorias</a></td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">2015</th>
+                                            <td>Agosto - Diciembre</td>
+                                            <td><a href="#">Memorias</a></td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">2014</th>
+                                            <td>Febrero - Junio <br> Agosto - Diciembre</td>
+                                            <td><a href="#">Memorias / Plenaria 1 Plenaria 2 <br>
+                                                Memorias</a></td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">2013</th>
+                                            <td>Agosto - Diciembre</td>
+                                            <td><a href="#">Memorias / Plenaria 1 Plenaria 2</a></td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -31,12 +85,65 @@
                     <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive"
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                            <p>Hola2</p>
+                            <div class="col-12 col-sm-12 border">
+                                <table class="table table-striped-columns">
+                                    <thead>
+                                        <tr>
+                                            <th scope="col">Año</th>
+                                            <th scope="col">Semestre</th>
+                                            <th scope="col">Descargar</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <th scope="row">2021</th>
+                                            <td>Febrero - Junio</td>
+                                            <td><a href="#">Memorias</a></td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">2019</th>
+                                            <td>Febrero - Junio</td>
+                                            <td><a href="#">Memorias</a></td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">2018</th>
+                                            <td>Septiembre - Febrero</td>
+                                            <td><a href="#">Memorias</a></td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">2017</th>
+                                            <td>Febrero - Junio</td>
+                                            <td><a href="#">Memorias / Presentaciones</a></td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">2016</th>
+                                            <td>Febrero - Junio</td>
+                                            <td><a href="#">Memorias</a></td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">2015</th>
+                                            <td>Agosto - Diciembre</td>
+                                            <td><a href="#">Memorias</a></td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">2014</th>
+                                            <td>Febrero - Junio <br> Agosto - Diciembre</td>
+                                            <td><a href="#">Memorias / Plenaria 1 Plenaria 2 <br>
+                                                Memorias</a></td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">2013</th>
+                                            <td>Agosto - Diciembre</td>
+                                            <td><a href="#">Memorias / Plenaria 1 Plenaria 2</a></td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-</div>
+    </div>
 @endsection

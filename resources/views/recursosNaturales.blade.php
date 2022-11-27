@@ -18,23 +18,23 @@
             <div class="col-12 col-sm-1">
             </div>
             <div class="col-12 col-sm-2">
-                <a class="btn btn-primary rounded-pill" id="botonesGeneral" href="#"
+                <a class="btn btn-primary rounded-pill" id="botonesGeneral" href="{{url("/evaluacionAmbiental")}}"
                     role="button">Evaluación&nbspambiental</a>
             </div>
             <div class="col-12 col-sm-2">
-                <a class="btn btn-primary rounded-pill " id="botonesGeneral" href="#"
+                <a class="btn btn-primary rounded-pill " id="botonesGeneral" href="{{url("/gestionAmbiental")}}"
                     role="button">&nbsp&nbspGestión&nbspambiental&nbsp&nbsp</a>
             </div>
             <div class="col-12 col-sm-2">
-                <a class="btn btn-primary rounded-pill" id="botonesGeneral" href="#"
+                <a class="btn btn-primary rounded-pill" id="botonesGeneral" href="{{url("/prevencion")}}"
                     role="button">Prevención&nbspy&nbspcontrol</a>
             </div>
             <div class="col-12 col-sm-2">
-                <a class="btn btn-primary rounded-pill" id="botonesGeneral" href="#"
+                <a class="btn btn-primary rounded-pill" id="botonesGeneral" href="{{url("/recursosNaturales")}}"
                     role="button">&nbsp&nbspRecursos&nbspnaturales&nbsp&nbsp</a>
             </div>
             <div class="col-12 col-sm-2">
-                <a class="btn btn-primary rounded-pill" id="botonesGeneral" href="#"
+                <a class="btn btn-primary rounded-pill" id="botonesGeneral" href="{{url("/saludAmbiental")}}"
                     role="button">&nbsp&nbspSalud&nbspambiental&nbsp&nbsp</a>
             </div>
             <div class="col-12 col-sm-1">
