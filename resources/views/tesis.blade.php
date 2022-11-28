@@ -24,18 +24,59 @@
                 <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
                     data-bs-parent="#accordionExample">
                     <div class="accordion-body">
-                        El egresado del Programa Multidisciplinario en Ciencias Ambientales tendrá una formación
-                        integral para contribuir
-                        al desarrollo científico y tecnológico desempeñando actividades profesionales grupales a un
-                        alto nivel y con perti-
-                        nencia socio-ambiental para un desarrollo sostenible local y global. El egresado del
-                        Doctorado en Ciencias Ambien-
-                        tales, tendrá capacidad para generar, desarrollar y aplicar el conocimiento científico y
-                        tecnológico en forma original
-                        e innovadora en el campo de las ciencias ambientales. Poseerá la capacidad de dirigir grupos
-                        de investigación, par-
-                        ticipar en órganos de decisión de alto impacto y en la formación de recursos humanos de alto
-                        nivel.
+                                <table class="table table-striped-columns">
+                                    <thead>
+                                        <tr>
+                                            <th scope="col">Año</th>
+                                            <th scope="col">Nombre del alumno</th>
+                                            <th scope="col">Título de tesis</th>
+                                            <th scope="col">Director de tesis</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <th scope="row">2021</th>
+                                            <td>Febrero - Junio</td>
+                                            <td><a href="#">Memorias</a></td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">2019</th>
+                                            <td>Febrero - Junio</td>
+                                            <td><a href="#">Memorias</a></td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">2018</th>
+                                            <td>Septiembre - Febrero</td>
+                                            <td><a href="#">Memorias</a></td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">2017</th>
+                                            <td>Febrero - Junio</td>
+                                            <td><a href="#">Memorias / Presentaciones</a></td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">2016</th>
+                                            <td>Febrero - Junio</td>
+                                            <td><a href="#">Memorias</a></td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">2015</th>
+                                            <td>Agosto - Diciembre</td>
+                                            <td><a href="#">Memorias</a></td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">2014</th>
+                                            <td>Febrero - Junio <br> Agosto - Diciembre</td>
+                                            <td><a href="#">Memorias / Plenaria 1 Plenaria 2 <br>
+                                                Memorias</a></td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">2013</th>
+                                            <td>Agosto - Diciembre</td>
+                                            <td><a href="#">Memorias / Plenaria 1 Plenaria 2</a></td>
+                                        </tr>
+                                    </tbody>
+                                </table>
                     </div>
                 </div>
             </div>
