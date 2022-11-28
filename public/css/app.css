@@ -144,6 +144,14 @@ img {
   margin-left: 20%;
 }
 
+.izquierda a {
+  color: #f8f8f8;
+}
+
+.derecha a {
+  color: #f8f8f8;
+}
+
 a {
   color: white;
 }
@@ -247,6 +255,10 @@ a:hover {
 
 #nameProf {
   color: rgb(0, 178, 227);
+}
+
+#tablaTitulos {
+  color: rgb(0, 74, 152);
 }
 
 /*!

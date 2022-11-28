@@ -64,13 +64,13 @@
             </div>
 
             <div class="accordion-item">
-                <h2 class="accordion-header" id="headingTwo">
+                <h2 class="accordion-header" id="headingFour">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                        data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                        data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
                         <strong>Publicaciones 2019&nbsp</strong> <i class="fa-solid fa-arrow-down-long"></i>
                     </button>
                 </h2>
-                <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
+                <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
                     data-bs-parent="#accordionExample">
                     <div class="accordion-body">
                         Formar profesores y/o investigadores capaces de generar, desarrollar y aplicar el
@@ -87,13 +87,13 @@
             </div>
 
             <div class="accordion-item">
-                <h2 class="accordion-header" id="headingTwo">
+                <h2 class="accordion-header" id="headingFive">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                        data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                        data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
                         <strong>Publicaciones 2018&nbsp</strong> <i class="fa-solid fa-arrow-down-long"></i>
                     </button>
                 </h2>
-                <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
+                <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive"
                     data-bs-parent="#accordionExample">
                     <div class="accordion-body">
                         Formar profesores y/o investigadores capaces de generar, desarrollar y aplicar el
@@ -110,13 +110,13 @@
             </div>
 
             <div class="accordion-item">
-                <h2 class="accordion-header" id="headingTwo">
+                <h2 class="accordion-header" id="headingSix">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                        data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                        data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
                         <strong>Publicaciones 2017&nbsp</strong> <i class="fa-solid fa-arrow-down-long"></i>
                     </button>
                 </h2>
-                <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
+                <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix"
                     data-bs-parent="#accordionExample">
                     <div class="accordion-body">
                         Formar profesores y/o investigadores capaces de generar, desarrollar y aplicar el

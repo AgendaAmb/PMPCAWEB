@@ -1,6 +1,3 @@
-<link href="{{ asset('css/style.css') }}" rel="stylesheet">
-<script src="{{ asset('js/app.js') }}" defer></script>
-
 <div class="navbartotal">
     <nav class="navbar navbar-expand-lg bg-light">
         <div class="container-fluid">
