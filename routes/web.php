@@ -115,3 +115,7 @@ Route::get('/tesis', function () {
 Route::get('/articulosCientificos', function () {
     return view('articulosCientificos');
 });
+
+Route::get('/templateProgramas', function () {
+    return view('templateProgramas');
+});

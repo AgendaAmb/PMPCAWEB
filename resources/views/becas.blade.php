@@ -31,7 +31,7 @@
             Estudiante" y carta de solvencia económica mientras se recibe el monto de la beca.</p>
     </div>
     <div class="col-12 col-sm-12 my-4" id="becasEnlace">
-        <h4><strong>Visa de Residente Temporal Estudiante</strong> </h4>
+        <h4><strong>Visa de residente temporal estudiante</strong> </h4>
         <a href="https://www.conacyt.gob.mx/index.php/becas-y-posgrados/becas-para-estudiantes-extranjeros">https://www.conacyt.gob.mx/index.php/becas-y-posgrados/becas-para-estudiantes-extranjeros</a> <br> <br>
 
         <p>Si eres admitido en el programa de Maestría en Ciencias Ambientales de Doble Titulación, puedes ser candidato a
