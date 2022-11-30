@@ -3,9 +3,9 @@
 @section('maincontent')
     <div id="p-container" class="container px-lg-8.5 px-md-5">
         <div class="col-12 col-sm-12">
-            <img src="https://placekitten.com/g/1318/500" alt="">
+            <img src="{{ asset('storage/images/10.png') }}" alt="">
+            <div class="barraAzulFuerte"></div>
         </div>
-        <div class="barraAzulFuerte"></div>
         <div id="professor-description" class="row mb-4 p-5">
             <div class="col-12 col-sm-12 mb-4">
                 <h1><strong>CURSOS</strong></h1>
@@ -16,13 +16,17 @@
                 <div class="col-12 col-sm-1 ">
                 </div>
                 <div class="col-12 col-sm-3 ">
-                    <a class="btn btn-primary rounded-pill" id="botonesGeneral" href="#" role="button">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspBásicos&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</a>
+                    <a class="btn btn-primary rounded-pill" id="botonesGeneral" href="#"
+                        role="button">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspBásicos&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</a>
                 </div>
                 <div class="col-12 col-sm-3 ml-5">
-                    <a class="btn btn-primary rounded-pill" id="botonesGeneral" href="#" role="button">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspOptativos&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</a>
+                    <a class="btn btn-primary rounded-pill" id="botonesGeneral" href="#"
+                        role="button">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspOptativos&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</a>
                 </div>
                 <div class="col-12 col-sm-3">
-                    <a class="btn btn-primary rounded-pill" id="botonesGeneral" href="#" role="button">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspTópicos selectos&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</a>
+                    <a class="btn btn-primary rounded-pill" id="botonesGeneral" href="#"
+                        role="button">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspTópicos
+                        selectos&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</a>
                 </div>
                 <div class="col-12 col-sm-1">
                 </div>
@@ -30,7 +34,8 @@
 
             <div class="col-12 col-sm-12">
                 <div>
-                    <p>Los Planes de Estudio del Programa Multidisciplinario de Posgrado en Ciencias Ambientales de la UASLP, se elaboran considerando siete líneas curriculares:
+                    <p>Los Planes de Estudio del Programa Multidisciplinario de Posgrado en Ciencias Ambientales de la
+                        UASLP, se elaboran considerando siete líneas curriculares:
                     <ol>
                         <li>Cursos básico</li>
                         <li>Cursos optativos</li>
@@ -40,7 +45,8 @@
                         <li>Examen predoctoral (grado de Doctor)</li>
                         <li>Tesis y examen de grado</li>
                     </ol><br>
-                    El Plan de Estudios está constituido por las siete líneas curriculares enumeradas anteriormente y por las cinco áreas de especialización:<br><br>
+                    El Plan de Estudios está constituido por las siete líneas curriculares enumeradas anteriormente y por
+                    las cinco áreas de especialización:<br><br>
                     <ol>
                         <li>Evaluación Ambiental (EA)</li>
                         <li>Gestión Ambiental (GA)</li>

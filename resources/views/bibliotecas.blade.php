@@ -6,7 +6,7 @@
 
     <div id="p-container" class="container px-lg-8.5 px-md-5">
         <div class="col-12 col-sm-12">
-            <img src="https://placekitten.com/g/1318/500" alt="">
+            <img src="{{ asset('storage/images/17.png') }}" alt="">
         </div>
         <div class="barraAzulFuerte"></div>
         <div id="professor-description" class="row mb-4 p-5">
@@ -16,7 +16,7 @@
 
             <div class="row col-12 col-sm-12 mt-2 mb-4">
                 <div class="col-12 col-sm-4">
-                    <img src="https://placekitten.com/g/260/160" class="rounded float-end" alt="">
+                    <img src="{{ asset('storage/images/28.png') }}" class="rounded float-end" alt="">
                 </div>
                 <div class="col-12 col-sm-8">
                     <strong id="h2info">Seminarios</strong> <br> Lorem ipsum dolor sit amet consectetur adipisicing
@@ -28,7 +28,7 @@
             <hr>
             <div class="row col-12 col-sm-12 mt-2 mb-4">
                 <div class="col-12 col-sm-4">
-                    <img src="https://placekitten.com/g/260/160" class="rounded float-end" alt="">
+                    <img src="{{ asset('storage/images/29.png') }}" class="rounded float-end" alt="">
                 </div>
                 <div class="col-12 col-sm-8">
                     <strong id="h2info">Artículos científicos</strong> <br> Lorem ipsum dolor sit amet
@@ -42,7 +42,7 @@
 
             <div class="row col-12 col-sm-12 mt-2 mb-4">
                 <div class="col-12 col-sm-4">
-                    <img src="https://placekitten.com/g/260/160" class="rounded float-end" alt="">
+                    <img src="{{ asset('storage/images/30.png') }}" class="rounded float-end" alt="">
                 </div>
                 <div class="col-12 col-sm-8 ">
                     <strong id="h2info">Tesis</strong> <br> Lorem ipsum dolor sit amet consectetur adipisicing elit.

@@ -2,10 +2,6 @@
 
 @section('maincontent')
     <div id="p-container" class="container px-lg-8.5 px-md-5">
-        <div class="col-12 col-sm-12">
-            <img src="https://placekitten.com/g/1318/500" alt="">
-        </div>
-        <div class="barraAzulFuerte"></div>
         <div id="professor-description" class="row mb-4 p-5">
             <div class="col-12 col-sm-12 mb-4">
                 <h1><strong>PROTOCOLO DE ÉTICA</strong></h1>

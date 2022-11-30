@@ -13,35 +13,21 @@
                     </div>
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img src="https://placekitten.com/g/1318/500" class="d-block w-100" alt="...">
+                            <img src="{{ asset('storage/images/1.png') }}" class="d-block w-100" alt="...">
                             <div class="carousel-caption d-none d-md-block">
-                                <h4>Programa Multidiciplinario de Posgrado en Ciencias Ambientales</h4>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi provident error alias
-                                    cupiditate quas magni ratione, consectetur quae fuga sapiente tempora hic maiores,
-                                    tempore aut ipsa earum voluptate delectus laudantium?</p>
+                                <p id="bienvenida"> <strong>Programa Multidiciplinario de Posgrado en Ciencias Ambientales</strong></p>
                             </div>
                         </div>
                     </div>
-                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions"
-                        data-bs-slide="prev">
-                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                        <span class="visually-hidden">Previous</span>
-                    </button>
-                    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions"
-                        data-bs-slide="next">
-                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                        <span class="visually-hidden">Next</span>
-                    </button>
-                </div>
+                <div class="barraAzulFuerte"></div>
             </div>
 
-            <div class="barraAzulFuerte"></div>
-
-            <div class="col-12 col-sm-12   my-5" >
+            <div class="col-12 col-sm-12 my-5">
                 <div class="row row-cols-1 row-cols-md-3 g-4">
                     <div class="col">
                         <div class="card h-100" id="colorCard">
-                            <img src="https://placekitten.com/g/320/160" class="card-img-top" alt="...">
+                            <img src="{{ asset('storage/images/4.png') }}" class="card-img-top" alt="...">
+                            <div class="barraAzulFuerteS"></div>
                             <div class="card-body">
                                 <p class="card-title"> <strong>DOCTORADO EN CIENCIAS AMBIENTALES</strong></p>
                                 <a class="btn btn-primary" id="botonesGeneral" href="#" role="button">Convocatoria</a>
@@ -50,7 +36,8 @@
                     </div>
                     <div class="col">
                         <div class="card h-100" id="colorCard">
-                            <img src="https://placekitten.com/g/320/160" class="card-img-top" alt="...">
+                            <img src="{{ asset('storage/images/5.png') }}" class="card-img-top" alt="...">
+                            <div class="barraAzulFuerteS"></div>
                             <div class="card-body">
                                 <p class="card-title"> <strong>MAESTRÍA EN CIENCIAS AMBIENTALES</strong></p>
                                 <a class="btn btn-primary" id="botonesGeneral" href="#" role="button">Convocatoria</a>
@@ -59,7 +46,8 @@
                     </div>
                     <div class="col">
                         <div class="card h-100" id="colorCard">
-                            <img src="https://placekitten.com/g/320/160" class="card-img-top" alt="...">
+                            <img src="{{ asset('storage/images/6.png') }}" class="card-img-top" alt="...">
+                            <div class="barraAzulFuerteS"></div>
                             <div class="card-body">
                                 <p class="card-title"><strong>MAESTRÍA EN CIENCIAS AMBIENTALES (Doble titulación)</strong>
                                 </p>
@@ -84,7 +72,11 @@
             <div class="row">
                 <div class="col-12 col-sm-6  ">
                     <div class="izquierda">
-                        <img src="https://placekitten.com/g/500/310" alt="">
+                        <div class="container">
+                            <div class="ratio ratio-16x9">
+                                <iframe width="560" height="315" src="{{ asset('storage/images/MAGALI JAUREGUI  DIRECTORA GENERAL.mp4') }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <div class="col-12 col-sm-6  " id="colorCard">
@@ -134,9 +126,10 @@
             </div>
         </div>
 
-        <div class="col-12 col-sm-12   my-5 border">
-            <img src="https://placekitten.com/g/1100/240" alt="">
+        <div class="col-12 col-sm-12   my-5">
+            <img src="{{ asset('storage/images/7.png') }}" alt="">
         </div>
 
     </div>
+</div>
 @endsection

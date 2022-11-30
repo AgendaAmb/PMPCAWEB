@@ -9,6 +9,7 @@ $spacers: (
   10: $spacer * 8.5
 );
 
+
 * {
   font-family: "Open Sans", sans-serif;
 }
@@ -20,6 +21,7 @@ body {
   font-family: Helvetica, Arial, sans-serif;
   color: #666;
 }
+
 
 h1, .h1 {
   text-align: center;
@@ -88,7 +90,7 @@ img {
 }
 
 #fondoCards{
-  background-color: rgb(171, 198, 239);
+  background-color: tomato;
 }
 
 
@@ -97,6 +99,13 @@ img {
   background-color: rgb(0,74,152);
   padding: auto;
 }
+
+.barraAzulFuerteS{
+  height: 5px;
+  background-color: rgb(0,74,152);
+  padding: auto;
+}
+
 
 .imageFooter2 {
   height: 10px;
@@ -240,6 +249,10 @@ a:hover {
   color:rgb(0, 74, 152);
   text-align: left;
 }
+#bienvenida{
+  color: white;
+  font-size: 25px;
+}
 
 #videoInicio p{
   font-size: 128%;
@@ -276,6 +289,24 @@ a:hover {
 #accordionTextM{
   margin-left: 10%;
   margin-left: 10%;
+}
+
+#content_div_one_photo {
+  height: 400px;
+  padding: auto;
+}
+
+#padre {
+  position: relative;    /* para poder posicionar el texto de forma absoluta */
+  display: inline-block; /* para que solo ocupe el ancho de la imagen */
+}
+
+.cardtitle {
+  position: absolute;    /* posición absolute con respecto al padre */
+  bottom: 0;             /* posicionada en la esquina inferior derecha */
+  // right: 1rem;
+  color: white;
+  font-size: 25px;
 }
 
 @import "~bootstrap/scss/bootstrap.scss";

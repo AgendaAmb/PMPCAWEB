@@ -6,10 +6,6 @@
 
 
 <div id="p-container" class="container px-lg-8.5 px-md-5">
-    <div class="col-12 col-sm-12 border">
-        <img src="https://placekitten.com/g/1318/500" alt="">
-    </div>
-    <div class="barraAzulFuerte"></div>
     <div id="professor-description" class="row mb-4 p-5">
         <div class="col-12 col-sm-12">
             <h1><strong>COLABORACIÓN SOCIAL</strong></h1>
