@@ -40,6 +40,10 @@ h5, .h5 {
   color : #666;
 }
 
+#colorTexto{
+  color: #666;
+}
+
 #directorioprofes{
   color: rgb(0, 74, 152);
 }
@@ -284,6 +288,8 @@ a:hover {
 
 #tablaTitulos{
   color:rgb(0, 74, 152);
+  margin: 0;
+  padding: 0;
 }
 
 #accordionTextM{
@@ -307,6 +313,18 @@ a:hover {
   // right: 1rem;
   color: white;
   font-size: 25px;
+}
+
+#contTabla{
+  text-align: center;
+}
+
+#contTablaIzq{
+  text-align: justify;
+}
+
+.ribbon::before {
+  content: "■";
 }
 
 @import "~bootstrap/scss/bootstrap.scss";

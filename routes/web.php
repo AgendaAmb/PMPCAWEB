@@ -119,3 +119,15 @@ Route::get('/articulosCientificos', function () {
 Route::get('/templateProgramas', function () {
     return view('templateProgramas');
 });
+
+Route::get('/desarrolloSustentable', function () {
+    return view('/programas/desarrolloSustentable');
+});
+
+Route::get('/ecologia', function () {
+    return view('/programas/ecologia');
+});
+
+Route::get('/intrEstadistica', function () {
+    return view('/programas/intrEstadistica');
+});

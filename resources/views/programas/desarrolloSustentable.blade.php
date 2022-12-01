@@ -66,16 +66,15 @@
                 </div>
                 <hr>
                 <h4> <strong>Objetivo general de aprendizaje</strong> </h4>
-                <p>Contribuir a que los estudiantes desarrollen una visión panorámica sistémica y crítica de los diversos
-                    enfoques y discursos desde los que se conceptualiza el desarrollo sustentable, así como la capacidad de
-                    contextualizar y analizar casos y temas específicos desde la perspectiva de sistemas
-                    complejos.</p>
+                <p>Contribuir a que los estudiantes desarrollen una visión panorámica sistémica y crítica de los diversos enfoques y
+                    discursos desde los que se conceptualiza el desarrollo sustentable, así como la capacidad de contextualizar y analizar
+                    casos y temas específicos desde la perspectiva de sistemas complejos.</p>
                 <hr>
                 <div class="col-12 col-sm-12 container">
                     <div>
                         <h4><strong>Competencia profesionales a las que contribuye la asignatura</strong></h4>
-                        <p>Esta asignatura contribuye de manera directa al logro de las siguientes competencias
-                            profesionales del perfil de egreso del programa:</p>
+                        <p>Esta asignatura contribuye de manera directa al logro de las siguientes competencias profesionales del perfil de egreso
+                            del programa:</p>
                         <div class="table-responsive" id="contTablaIzq">
                             <table class="table table-bordered border-dark" id="colorTexto">
                                 <thead>
@@ -150,8 +149,10 @@
                                                 <li>
                                                     Formulación de un concepto propio y
                                             grupal sobre desarrollo sustentable
-                                            Selección y presentación de un caso de
-                                            estudio para el semestre
+                                                </li>
+                                                <li>
+                                                    Selección y presentación de un caso de
+                                                    estudio para el semestre
                                                 </li>
                                             </ul>
                                         </td>
@@ -162,12 +163,19 @@
                                             sostenibilidad e
                                             indicadores de
                                             desarrollo sustentable</td>
-                                        <td id="contTablaIzq">a) Identificar las diferentes perspectivas generadas en el debate
-                                            contemporáneo sobre desarrollo
-                                            sustentable. <br> <br>
-                                            b) Analizar los antecedentes, actores y agencias, énfasis adoptados, alcances y
-                                            limitaciones de
-                                            estas perspectivas, desde un enfoque crítico.</td>
+                                        <td id="contTablaIzq">
+                                            a) Comprender las
+                                            principales modelos,
+                                            metodologías e indicadores
+                                            de evaluación de la
+                                            sostenibilidad en sus
+                                            dimensiones ambiental,
+                                            social, económica y política. <br><br>
+                                            b) Identificar relaciones entre
+                                            los componentes de la
+                                            sostenibilidad en diversas
+                                            escalas y temas.
+                                        </td>
                                             <td id="contTablaIzq">
 
                                                 <ul>
@@ -185,10 +193,10 @@
                                                 cada sesión
                                                     </li>
                                                     <li>
-                                                        Formulación de un concepto propio y
-                                                grupal sobre desarrollo sustentable
-                                                Selección y presentación de un caso de
-                                                estudio para el semestre
+                                                        Presentación por equipos de diferentes sistemas de indicadores.
+                                                    </li>
+                                                    <li>
+                                                        Selección y presentación de avances del caso de estudio.
                                                     </li>
                                                 </ul>
                                             </td>
@@ -196,16 +204,20 @@
                                         <td>3</td>
                                         <td>Tópicos del
                                             debate</td>
-                                        <td id="contTablaIzq">a) Analizar con mayor profundi-
-                                            dad el debate sobre la sostenibilidad considerando la diversidad de
-                                            aportes conceptuales sobre la
-                                            sostenibilidad con un enfoque
-                                            crítico 
-                                            <br> <br>
+                                        <td id="contTablaIzq">
+                                            a) Analizar con mayor
+                                            profundidad el debate sobre
+                                            la sostenibilidad
+                                            considerando la diversidad
+                                            de aportes conceptuales
+                                            sobre la sostenibilidad con un
+                                            enfoque crítico. <br> <br>
                                             b) Formular argumentaciones
                                             conceptualmente
-                                            fundamentadas sobre los enfoques, dimensiones, escalas y momentos de la
-                                            asostenibilidad
+                                            fundamentadas sobre los
+                                            enfoques, dimensiones,
+                                            escalas y momentos de la
+                                            sostenibilidad
                                         </td>
                                         <td id="contTablaIzq">
 
@@ -297,7 +309,8 @@
                 <hr>
                 <h4> <strong>Recursos bibliográficos y digitales</strong> </h4>
                 <h5> <strong>Textos básicos</strong></h5>
-                <p>Adams, W.M. 2009. Green development. Environment and sustainability in a developing world.
+                <p>
+                    • Adams, W.M. 2009. Green development. Environment and sustainability in a developing world.
                     Routledge. London. 449 p. <br>
                     • Foladori, G. 2001. Controversias sobre sustentabilidad. La coeevolución sociedad-naturaleza.
                     Universidad Autónoma de Zacatecas y Porrúa. México. 233 p. <br>
@@ -317,7 +330,8 @@
 
                 <hr>
                 <h4> <strong>Otras formas de acreditación</strong> </h4>
-                <p>• Esta asignatura puede ser acreditada a través de la presentación de un documento probatorio
+                <p>
+                    • Esta asignatura puede ser acreditada a través de la presentación de un documento probatorio
                     que certifique que el estudiante ya cuenta con los aprendizajes necesarios: <strong>No</strong> <br>
                     • Esta asignatura puede ser acreditada a través de un examen que certifique que el estudiante ya
                     cuenta con los aprendizajes necesarios: <strong>No</strong>
