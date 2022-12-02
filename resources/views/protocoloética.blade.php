@@ -14,9 +14,13 @@
                     </p>
                 </div>
             </div>
+            <br><br>
+            <div id="enlacesNormativa"><a  target="_blank" href="storage/Doc/Reglamentoposgrado.pdf"> <strong>Reglamento General de Estudios de Posgrado</strong></a></div>
         </div>
 
-        <div class="accordion p-2" id="accordionExample">
+
+
+        <!--<div class="accordion p-2" id="accordionExample">
             <div class="accordion-item">
                 <div class="accordion-item">
                     <h2 class="accordion-header" id="headingThree">
@@ -65,7 +69,7 @@
                             de gobierno y privado.
                         </div>
                     </div>
-                </div>
+                </div>-->
             </div>
         </div>
         <hr>
