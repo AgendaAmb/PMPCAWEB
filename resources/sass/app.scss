@@ -323,8 +323,25 @@ a:hover {
   text-align: justify;
 }
 
-.ribbon::before {
-  content: "■";
+#contTablaLeft{
+  text-align: left;
+}
+
+.vineta {
+  list-style: none; /* Remove default bullets */
+  padding-left: 1.8rem;
+  text-align: justify;
+}
+
+.vineta li::before {
+  content: "\2022";  /* Add content: \2022 is the CSS Code/unicode for a bullet */
+  display: inline-block; /* Needed to add space between the bullet and the text */
+  width: 1em; /* Also needed for space (tweak if needed) */
+  margin-left: -1.8em; /* Also needed for space (tweak if needed) */
+}
+
+.size{
+  width: 300px;
 }
 
 @import "~bootstrap/scss/bootstrap.scss";

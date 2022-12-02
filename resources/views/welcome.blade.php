@@ -74,7 +74,7 @@
                     <div class="izquierda">
                         <div class="container">
                             <div class="ratio ratio-16x9">
-                                <iframe width="560" height="315" src="{{ asset('storage/images/MAGALI JAUREGUI  DIRECTORA GENERAL.mp4') }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                <iframe width="560" height="315" src="{{ asset('storage/images/MAGALI JAUREGUI  DIRECTORA GENERAL.mp4') }}" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                             </div>
                         </div>
                     </div>
@@ -113,7 +113,7 @@
                 </div>
                 <div class="col-12 col-sm-2">
                     <a href="{{url("/tramites")}}"><img src="{{ asset('storage/images/Tramites.png') }}" alt=""></a>
-                    <p> <strong>Tramites</strong> </p>
+                    <p> <strong>Trámites</strong> </p>
                 </div>
                 <div class="col-12 col-sm-2">
                     <div class="col-12 col-sm-12">

@@ -94,7 +94,7 @@
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link disabled"><strong>Egresados</strong></a>
+                        <a class="nav-link" href="{{url("/egresados")}}" ><strong>Egresados</strong></a>
                     </li>
                 </ul>
                 <form class="d-flex" role="buscar">

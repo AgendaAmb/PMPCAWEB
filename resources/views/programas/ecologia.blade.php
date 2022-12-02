@@ -176,8 +176,8 @@
                             <table class="table table-bordered border-dark" id="colorTexto">
                                 <thead>
                                     <tr id="tablaTitulos">
-                                        <th scope="col">#</th>
-                                        <th scope="col">Nombre de la unidad o fase</th>
+                                        <th scope="col">No.</th>
+                                        <th scope="col">Nombre de la unidad <br> o fase</th>
                                         <th scope="col">Resultados de aprendizaje específicos</th>
                                         <th scope="col">Metodologías y actividades de enseñanza - aprendizaje</th>
                                     </tr>
@@ -189,16 +189,14 @@
                                             Introducción
                                         </td>
                                         <td id="contTablaIzq">
-                                            Conocer el concepto de la <br>
-                                            ecología; además de su<br>
-                                            definición, su objeto de estudio,<br>
-                                            niveles de organización, escalas<br>
-                                            temporales y espaciales y su<br>
-                                            conexión con otras disciplinas de<br>
-                                            las ciencias ambientales<br>
-                                            Hacer énfasis del papel de la<br>
-                                            ecología en la crisis ambiental<br>
-                                            contemporánea
+                                            Conocer el concepto de la
+                                            ecología; además de su
+                                            definición, su objeto de estudio,
+                                            niveles de organización, escalas< temporales y espaciales y su< conexión con
+                                                otras disciplinas de< las ciencias ambientales<br> <br>
+                                                Hacer énfasis del papel de la
+                                                ecología en la crisis ambiental
+                                                contemporánea
                                         </td>
                                         <td id="contTablaIzq">
 
@@ -354,7 +352,7 @@
                             <table class="table table-bordered border-dark" id="colorTexto">
                                 <thead>
                                     <tr id="tablaTitulos">
-                                        <th scope="col"># <br> parcial</th>
+                                        <th scope="col">No. <br> parcial</th>
                                         <th scope="col">Momento de evaluación</th>
                                         <th scope="col">Método de evaluación y valor para la evaluacion parcial</th>
                                         <th scope="col">Ponderación para evaluación final</th>
@@ -412,103 +410,172 @@
                 <hr>
                 <h4> <strong>Recursos bibliográficos y digitales</strong> </h4>
                 <h5> <strong>Textos básicos</strong></h5>
-                <p>
-                    • Agrawal, A.A. 2003. Why omnivory?. Ecology. 84:2521.<br>
-                    • Berkes, F.; J. Coding y C. Folke. 2003. Navigating Social-Ecological Systems. Cambridge University.
-                    Cambridge: England. <br>
-                    • Burke, A. 2003. Practical measure in arid lands restoration after mining –a review for the southern
-                    Namib. South
-                    African Journal of Science. 99:413-417.<br>
-                    • Celi, L. 2020. 'Eco-Ego'. An image to represent the (Deep) Ecology. Ecology (May 2, 2020).<br>
-                    • Dajoz, R. 2002. Tratado de ecología. 2ª Ed. Mundi Prensa: Madrid, España.<br>
-                    • Dregne, H.E. 2002. Land degradation in the drylands. Arid Land Research and Management. 16:99-132.<br>
-                    • Herrera, A., M.D. Fernández, E. Rengifo y W. Tezara. 2001. Efecto de la concentración elevada de CO2
-                    sobre la
-                    fotosíntesis en especies tropicales. Interciencia. 26:469-471.<br>
-                    • Hill, D.; M. Fasham, G. Tucker, M. Shewry y P. Shaw. 2005. Handbook of biodiversity methods. Cambridge
-                    University Press: Cambridge, Inglaterra.<br>
-                    • Holechek, J. L.; R. A. Cole, J. T. Fisher y R. Valdez. 2003. Natural resources: ecology, economics,
-                    and
-                    policy 2th
-                    Ed. Pearson Education: New Jersey, Estados Unidos.<br>
-                    • Lima, M. 2006. Los efectos ecológicos de las fluctuaciones climáticas. Investigación y Ciencia. Julio.
-                    46-52.<br>
-                    • Margalef, R. 2005. Ecología. Omega. Barcelona, España.<br>
-                    • Martínez, M.L.; R.H. Manson; P. Balvanera; R. Dirzo; J. Soberón; L. García-Barrios; M. Martínez-Ramos;
-                    P.
-                    Moreno-Casasola; L. Rosenzweig; J. Sarukhán. 2006. The evolution of ecology in Mexico: facing challenges
-                    and preparing for the future. Frontiers in Ecology an the Environment. 4:259-265.<br>
-                    • McCune, B.; J. B. Grace y D. L. Urban. 2002. Analysis of ecological communities. MjM: Gleneden Beach,
-                    Estados
-                    Unidos.<br>
-                    • Mitchell, K. 2001. Quantitative analysis by the point-centered quarter method. Department of
-                    Mathematics
-                    and
-                    Computer Colleges, Hobart and William Smith Colleges. Geneva, N.Y. IMP<br>
-                    • Nebel R. B. J. y R. T. Wright. 2002. Environmental science. 8th Ed. Prentice Hall: San Francisco,
-                    Estados Unidos.<br>
-                    • Odum, E. P. 1992. Ecología: bases científicas para un nuevo paradigma. Vedrà: Barcelona, España.<br>
-                    • Rodríguez M., J.; J. M. Blanco, V. Rodríguez M. 2016. Ecología. 4ª Ed. Pirámide: Madrid, España.<br>
-                    • Schlesinger, W. H. 1991. Biogeochemistry. An analysis of global change. Academic Press, Elsevier: San
-                    Diego,
-                    Estados Unidos.<br>
-                    • Smith, R.L. y T.M. Smith. 2001. Ecology & field biology. Pearsons Addison Wesley: San Francisco,
-                    Estados
-                    Unidos.<br>
-                    • Smith, R.L. y T.M. Smith. 2014. Elements of ecology. 9ª Ed. Addison Wesley. Madrid, España. 664 p.<br>
-                    • Tansley, A.G. 1935. The use and abuse of vegetational concepts and terms. Ecology. 16:284-307.<br>
-                    • Tao, F.; M. Yokosawa; Y. Hayashi; E. Lin. 2003. Terrestrial water cycle and the impact of climate
-                    change. Ambio.
-                    32:295-301.<br>
-                    • Terradas, J. 2001. Ecología de la vegetación. Omega: Barcelona, España. 703 p.
 
-                </p>
+                <div class="col-12 col-sm-12 container">
+                    <ul class="vineta">
+                        <li>
+                            Agrawal, A.A. 2003. Why omnivory?. Ecology. 84:2521.
+                        </li>
+                        <li>
+                            Berkes, F.; J. Coding y C. Folke. 2003. Navigating Social-Ecological Systems. Cambridge
+                            University.
+                            Cambridge: England. <br>
+                        </li>
+                        <li>
+                            Burke, A. 2003. Practical measure in arid lands restoration after mining –a review for the
+                            southern Namib. South African Journal of Science. 99:413-417.
+                        </li>
+                        <li>
+                            Celi, L. 2020. 'Eco-Ego'. An image to represent the (Deep) Ecology. Ecology (May 2, 2020).
+                        </li>
+                        <li>
+                            Dajoz, R. 2002. Tratado de ecología. 2ª Ed. Mundi Prensa: Madrid, España.
+                        </li>
+                        <li>
+                            Dregne, H.E. 2002. Land degradation in the drylands. Arid Land Research and Management.
+                            16:99-132.
+                        </li>
+                        <li>
+                            Herrera, A., M.D. Fernández, E. Rengifo y W. Tezara. 2001. Efecto de la concentración elevada de
+                            CO2
+                            sobre la
+                            fotosíntesis en especies tropicales. Interciencia. 26:469-471.
+                        </li>
+                        <li>
+                            Hill, D.; M. Fasham, G. Tucker, M. Shewry y P. Shaw. 2005. Handbook of biodiversity methods.
+                            Cambridge
+                            University Press: Cambridge, Inglaterra.
+                        </li>
+                        <li>
+                            Holechek, J. L.; R. A. Cole, J. T. Fisher y R. Valdez. 2003. Natural resources: ecology,
+                            economics,
+                            and
+                            policy 2th
+                            Ed. Pearson Education: New Jersey, Estados Unidos.
+                        </li>
+                        <li>
+                            Lima, M. 2006. Los efectos ecológicos de las fluctuaciones climáticas. Investigación y Ciencia.
+                            Julio.
+                            46-52.
+                        </li>
+                        <li>
+                            Margalef, R. 2005. Ecología. Omega. Barcelona, España.
+                        </li>
+                        <li>
+                            Martínez, M.L.; R.H. Manson; P. Balvanera; R. Dirzo; J. Soberón; L. García-Barrios; M.
+                            Martínez-Ramos;
+                            P.
+                            Moreno-Casasola; L. Rosenzweig; J. Sarukhán. 2006. The evolution of ecology in Mexico: facing
+                            challenges
+                            and preparing for the future. Frontiers in Ecology an the Environment. 4:259-265.
+                        </li>
+                        <li>
+                            McCune, B.; J. B. Grace y D. L. Urban. 2002. Analysis of ecological communities. MjM: Gleneden
+                            Beach,
+                            Estados Unidos.
+                        </li>
+                        <li>
+                            Mitchell, K. 2001. Quantitative analysis by the point-centered quarter method. Department of
+                            Mathematics
+                            and
+                            Computer Colleges, Hobart and William Smith Colleges. Geneva, N.Y. IMP
+                        </li>
+                        <li>
+                            Nebel R. B. J. y R. T. Wright. 2002. Environmental science. 8th Ed. Prentice Hall: San
+                            Francisco,
+                            Estados Unidos.
+                        </li>
+                        <li>
+                            Odum, E. P. 1992. Ecología: bases científicas para un nuevo paradigma. Vedrà: Barcelona, España.
+                        </li>
+                        <li>
+                            Rodríguez M., J.; J. M. Blanco, V. Rodríguez M. 2016. Ecología. 4ª Ed. Pirámide: Madrid, España.
+                        </li>
+                        <li>
+                            Schlesinger, W. H. 1991. Biogeochemistry. An analysis of global change. Academic Press,
+                            Elsevier: San
+                            Diego, Estados Unidos.
+                        </li>
+                        <li>
+                            Smith, R.L. y T.M. Smith. 2001. Ecology & field biology. Pearsons Addison Wesley: San
+                            Francisco,
+                            Estados
+                            Unidos.
+                        </li>
+                        <li>
+                            Smith, R.L. y T.M. Smith. 2014. Elements of ecology. 9ª Ed. Addison Wesley. Madrid, España. 664
+                            p.
+                        </li>
+                        <li>
+                            Tansley, A.G. 1935. The use and abuse of vegetational concepts and terms. Ecology. 16:284-307.
+                        </li>
+                        <li>
+
+                            Tao, F.; M. Yokosawa; Y. Hayashi; E. Lin. 2003. Terrestrial water cycle and the impact of
+                            climate
+                            change. Ambio.
+                            32:295-301.
+                        </li>
+                        <li>
+                            Terradas, J. 2001. Ecología de la vegetación. Omega: Barcelona, España. 703 p.
+                        </li>
+                    </ul>
+                </div>
 
                 <h5> <strong>Textos básicos</strong></h5>
 
-                <p id="enlacesNormativa">
-                    • <a href="http://bibliotecas.uaslp.mx/">http://bibliotecas.uaslp.mx/</a><br>
-                    • <a href="http://slpm.uaslp.mx/">http://slpm.uaslp.mx/</a> <br>
-                    • <a href=" http://socbot.mx/nuevositio/"> http://socbot.mx/nuevositio/</a> <br>
-                    • <a href="http://web.b.ebscohost.com.creativaplus.uaslp.mx/ehost/command/detail?">http://web.b.ebscohost.com.creativaplus.uaslp.mx/ehost/command/detail?</a> <br>
-                    • <a href=" http://web.ecologia.unam.mx/"> http://web.ecologia.unam.mx/</a> <br>
-                    • <a href="http://www.conabio.gob.mx/">http://www.conabio.gob.mx/</a>  <br>
-                    • <a href="http://www.ecology.com/">http://www.ecology.com/</a>  <br>
-                    • <a href="http://www.rae.es/">http://www.rae.es/</a><br>
-                    • <a href="http://www.scme.mx/scme/">http://www.scme.mx/scme/</a> <br>
-                    • <a href="http://www.theplantlist.org/ <br>">http://www.theplantlist.org/</a> <br>
-                    • <a href="https://bvu.uaslp.mx/ <br>">https://bvu.uaslp.mx/</a> <br>
-                    • <a href="https://folk.uio.no/ohammer/past/ <br>">https://folk.uio.no/ohammer/past/</a> <br>
-                    • <a href="https://link.springer.com.creativaplus.uaslp.mx/ <br>">https://link.springer.com.creativaplus.uaslp.mx/</a> <br>
-                    • <a href="https://scholar.google.es/ <br>">https://scholar.google.es/</a> <br>
-                    • <a href="https://www.biodiversitylibrary.org/  <br>">https://www.biodiversitylibrary.org/</a> <br>
-                    • <a href="https://www.esa.org/esa/ <br>">https://www.esa.org/esa/</a> <br>
-                    • <a href="https://www.gob.mx/inecc <br>">https://www.gob.mx/inecc</a> <br>
-                    • <a href="https://www.gob.mx/profepa <br>">https://www.gob.mx/profepa</a> <br>
-                    • <a href="https://www.gob.mx/semarnat <br>">https://www.gob.mx/semarnat</a> <br>
-                    • <a href="https://www.inecol.mx/inecol/index.php/es/ <br>">https://www.inecol.mx/inecol/index.php/es/</a> <br>
-                    • <a href="https://www.inegi.org.mx/ <br>">https://www.inegi.org.mx/</a> <br>
-                    • <a href="https://www.jstor.org.creativaplus.uaslp.mx/ <br>">https://www.jstor.org.creativaplus.uaslp.mx/</a> <br>
-                    • <a href="https://www.millenniumassessment.org/en/index.html <br>">https://www.millenniumassessment.org/en/index.html</a> <br>
-                    • <a href="https://www.sciencedirect.com <br>">https://www.sciencedirect.com</a> <br>
+                <p id="becasEnlace">
+                    <a href="http://bibliotecas.uaslp.mx/">http://bibliotecas.uaslp.mx/</a><br>
+                    <a href="http://slpm.uaslp.mx/">http://slpm.uaslp.mx/</a> <br>
+                    <a href=" http://socbot.mx/nuevositio/"> http://socbot.mx/nuevositio/</a> <br>
+                    <a
+                        href="http://web.b.ebscohost.com.creativaplus.uaslp.mx/ehost/command/detail?">http://web.b.ebscohost.com.creativaplus.uaslp.mx/ehost/command/detail?</a>
+                    <br>
+                    <a href=" http://web.ecologia.unam.mx/"> http://web.ecologia.unam.mx/</a> <br>
+                    <a href="http://www.conabio.gob.mx/">http://www.conabio.gob.mx/</a> <br>
+                    <a href="http://www.ecology.com/">http://www.ecology.com/</a> <br>
+                    <a href="http://www.rae.es/">http://www.rae.es/</a><br>
+                    <a href="http://www.scme.mx/scme/">http://www.scme.mx/scme/</a> <br>
+                    <a href="http://www.theplantlist.org/ <br>">http://www.theplantlist.org/</a> <br>
+                    <a href="https://bvu.uaslp.mx/ <br>">https://bvu.uaslp.mx/</a> <br>
+                    <a href="https://folk.uio.no/ohammer/past/ <br>">https://folk.uio.no/ohammer/past/</a> <br>
+                    <a
+                        href="https://link.springer.com.creativaplus.uaslp.mx/ <br>">https://link.springer.com.creativaplus.uaslp.mx/</a>
+                    <br>
+                    <a href="https://scholar.google.es/ <br>">https://scholar.google.es/</a> <br>
+                    <a href="https://www.biodiversitylibrary.org/  <br>">https://www.biodiversitylibrary.org/</a> <br>
+                    <a href="https://www.esa.org/esa/ <br>">https://www.esa.org/esa/</a> <br>
+                    <a href="https://www.gob.mx/inecc <br>">https://www.gob.mx/inecc</a> <br>
+                    <a href="https://www.gob.mx/profepa <br>">https://www.gob.mx/profepa</a> <br>
+                    <a href="https://www.gob.mx/semarnat <br>">https://www.gob.mx/semarnat</a> <br>
+                    <a href="https://www.inecol.mx/inecol/index.php/es/ <br>">https://www.inecol.mx/inecol/index.php/es/</a>
+                    <br>
+                    <a href="https://www.inegi.org.mx/ <br>">https://www.inegi.org.mx/</a> <br>
+                    <a
+                        href="https://www.jstor.org.creativaplus.uaslp.mx/ <br>">https://www.jstor.org.creativaplus.uaslp.mx/</a>
+                    <br>
+                    <a
+                        href="https://www.millenniumassessment.org/en/index.html <br>">https://www.millenniumassessment.org/en/index.html</a>
+                    <br>
+                    <a href="https://www.sciencedirect.com <br>">https://www.sciencedirect.com</a> <br>
                 </p>
 
                 <hr>
                 <h4> <strong>Requisitos para cursar la asignatura</strong> </h4>
                 <p>
-                    • Ninguno
+                    No aplica
                 </p>
 
                 <hr>
                 <h4> <strong>Interoperabilidad</strong> </h4>
                 <p>
-                    • Ninguna
+                    No aplica
                 </p>
 
                 <hr>
                 <h4> <strong>Otras formas de acreditación</strong> </h4>
                 <p>
-                    • Ninguna
+                    No aplica
                 </p>
 
                 <hr>
@@ -520,9 +587,9 @@
 
                 <hr>
                 <h4> <strong>Elaboradores y revisores</strong> </h4>
-                <p> <strong> • Elaboró: </strong>Juan Antonio Reyes Agüero
+                <p> <strong>Elaboró: </strong>Juan Antonio Reyes Agüero
                     <br>
-                    <strong> • Revisó:</strong>
+                    <strong>Revisó:</strong>
                 </p>
             </div>
         </div>

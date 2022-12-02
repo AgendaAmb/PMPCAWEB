@@ -131,3 +131,7 @@ Route::get('/ecologia', function () {
 Route::get('/intrEstadistica', function () {
     return view('/programas/intrEstadistica');
 });
+
+Route::get('/egresados', function () {
+    return view('/egresados');
+});
