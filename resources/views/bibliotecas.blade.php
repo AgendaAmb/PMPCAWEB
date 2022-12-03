@@ -19,9 +19,7 @@
                     <img src="{{ asset('storage/images/28.png') }}" class="rounded float-end" alt="">
                 </div>
                 <div class="col-12 col-sm-8">
-                    <strong id="h2info">Seminarios</strong> <br> Lorem ipsum dolor sit amet consectetur adipisicing
-                    elit. Aspernatur, fugit reiciendis maxime suscipit architecto quo corrupti. Nam quisquam quaerat
-                    officia quidem minima! Debitis earum cum aut fuga dicta deleniti animi.<br><br>
+                    <strong id="h2info">Seminarios</strong> <br><br><br> En esta sección se publican los reportes finales de los Seminarios Multidisciplinarios del PMPCA.<br><br>
                     <a class="btn btn-primary" id="botonesGeneral" href="{{url("/seminarios")}}" role="button">Conocer más...</a>
                 </div>
             </div>
@@ -31,9 +29,7 @@
                     <img src="{{ asset('storage/images/29.png') }}" class="rounded float-end" alt="">
                 </div>
                 <div class="col-12 col-sm-8">
-                    <strong id="h2info">Artículos científicos</strong> <br> Lorem ipsum dolor sit amet
-                    consectetur adipisicing elit. Aspernatur, fugit reiciendis maxime suscipit architecto quo corrupti.
-                    Nam quisquam quaerat officia quidem minima! Debitis earum cum aut fuga dicta deleniti animi.<br><br>
+                    <strong id="h2info">Artículos científicos</strong> <br><br><br> En esta sección se publican algunos artículos científicos de los alumnos del PMPCA.<br><br>
                     <a class="btn btn-primary" id="botonesGeneral" href="{{url("/articulosCientificos")}}" role="button">Conocer más...</a>
                 </div>
             </div>
@@ -45,9 +41,7 @@
                     <img src="{{ asset('storage/images/30.png') }}" class="rounded float-end" alt="">
                 </div>
                 <div class="col-12 col-sm-8 ">
-                    <strong id="h2info">Tesis</strong> <br> Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Aspernatur, fugit reiciendis maxime suscipit architecto quo corrupti. Nam quisquam quaerat officia
-                    quidem minima! Debitis earum cum aut fuga dicta deleniti animi. <br><br>
+                    <strong id="h2info">Tesis</strong> <br><br><br>En esta sección se publican las tesis desarrolladas por los alumnos del PMPCA. <br><br>
                     <a class="btn btn-primary" id="botonesGeneral" href="{{url("/tesis")}}" role="button">Conocer más...</a>
                 </div>
             </div>

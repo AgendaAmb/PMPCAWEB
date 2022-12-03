@@ -4,21 +4,20 @@
     <div id="p-container" class="container px-lg-8.5 px-md-5">
         <div id="professor-description" class="row mb-4 p-5">
             <div class="col-12 col-sm-12 mb-4">
-                <h1><strong>PROTOCOLO DE ÉTICA</strong></h1>
+                <h1><strong>PROTOCOLO DE ÉTICA</strong></h1><br>
             </div>
 
             <div class="col-12 col-sm-12">
                 <div>
                     <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat ad corrupti quod exercitationem veritatis iste, veniam animi sed error, quae voluptate eum, provident ut expedita impedit consectetur! Pariatur, modi impedit. Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium temporibus deserunt atque sint nihil tenetur. Aliquam obcaecati, neque optio perspiciatis odio nam officia quos explicabo corporis eligendi autem doloribus error.
-                    </p>
+                        Para la Universidad Autónoma de San Luis Potosí, el conocimiento por sí mismo no produce cambios si este no va acompañado de acciones que permitan un cierto grado de realización social de los productos que genera la institución en respuesta a problemas concretos, para ello toma el concepto de ética como párametro para formar profesionales que en el futuro dirigirán los destinos de la sociedad, así como también hacia el interior de la institución, en el actuar de la comunidad universitaria.
+                    </p><br><br>
                 </div>
             </div>
             <br><br>
-            <div id="enlacesNormativa"><a  target="_blank" href="storage/Doc/Reglamentoposgrado.pdf"> <strong>Reglamento General de Estudios de Posgrado</strong></a></div>
-        </div>
-
-
+            <p id="enlacesNormativa"><a  target="_blank" href="storage/Doc/Codigo_Etica_2.0.pdf"> <strong>Protocolo de ética UASLP</strong></a></p><br><br>
+            <p id="enlacesNormativa"><a  target="_blank" href="storage/Doc/Protocolo_PASE.pdf"> <strong>Protocolo Universitario para la Prevención, Atención, Sanción y Erradicación del hostigamiento y el acoso sexual y la violencia de género</strong></a></p>
+    </div>
 
         <!--<div class="accordion p-2" id="accordionExample">
             <div class="accordion-item">
@@ -69,9 +68,9 @@
                             de gobierno y privado.
                         </div>
                     </div>
-                </div>-->
+                </div>
             </div>
         </div>
-        <hr>
+        <hr>-->
     </div>
 @endsection

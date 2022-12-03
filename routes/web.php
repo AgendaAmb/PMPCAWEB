@@ -59,6 +59,14 @@ Route::get('/ACardona', function () {
     return view('/profesores/ACardona');
 });
 
+Route::get('/GCastro', function () {
+    return view('/profesores/GCastro');
+});
+
+Route::get('/MAlgara', function () {
+    return view('/profesores/MAlgara');
+});
+
 Route::get('/directorio', function () {
     return view('directorio');
 });
