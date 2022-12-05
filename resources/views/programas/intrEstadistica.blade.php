@@ -5,7 +5,7 @@
         <div id="colorTexto">
             <div id="professor-description" class="row mb-4 p-5">
                 <div class="col-12 col-sm-12">
-                    <h1><strong>INTRODUCCIÓN A LA ESTADÍSTICA”</strong></h1>
+                    <h1><strong>INTRODUCCIÓN A LA ESTADÍSTICA</strong></h1>
                 </div>
                 <div class="col-12 col-sm-12 container">
                     <div>
@@ -131,482 +131,438 @@
                             <table class="table table-bordered border-dark" id="colorTexto">
                                 <thead>
                                     <tr id="tablaTitulos">
-                                        <th scope="col">#</th>
+                                        <th scope="col">No.</th>
                                         <th scope="col">Nombre de la unidad o fase</th>
-                                        <th scope="col">Resultados de aprendizaje específicos</th>
-                                        <th scope="col">Metodologías y actividades de enseñanza - aprendizaje</th>
-                                    </tr>
-                                </thead>
-                                <tbody>
-                                    <tr>
-                                        <td>1</td>
-                                        <td>
-                                            FILOSOFÍA DE LA
-                                            CIENCIA Y
-                                            ESTADÍSTICA
-                                        </td>
-                                        <td id="contTablaIzq">
-                                            Comprenderá la relación<br>
-                                            entre el método científico<br>
-                                            y la estadística.
-                                        </td>
-                                        <td id="contTablaIzq">
-
-                                            <ul>
-                                                <li>
-                                                    Exposición de conceptos y métodos por parte del br
-                                                    maestro con apoyo de recursos de cómputo y
-                                                    audiovisuales
-                                                </li>
-                                                <li>
-                                                    Presentación de problemas de probabilidad y
-                                                    estadística básica aplicada a las ciencias
-                                                    ambientales
-                                                </li>
-                                                <li>
-                                                    Aprendizaje basado en solución de problemas
-                                                </li>
-                                                <li>
-                                                    Aprendizaje individual y colaborativo
-                                                </li>
-                                            </ul>
-                                        </td>
-
-                                    <tr>
-                                        <td>2</td>
-                                        <td>ESTADÍSTICA
-                                            DESCRIPTIVA</td>
-                                        <td id="contTablaIzq">
-                                            Comprenderá los métodos de<br>
-                                            presentación de datos<br>
-                                            tabulares y gráficos como<br>
-                                            distribuciones de frecuencia,<br>
-                                            gráficas, cuadros que sean<br>
-                                            entendibles e interpretables<br>
-                                            con facilidad.
-                                        </td>
-                                        <td id="contTablaIzq">
-
-                                            <ul>
-                                                <li>
-                                                    Exposición de conceptos y métodos por parte del
-                                                    maestro con apoyo de recursos de cómputo y
-                                                    audiovisuales
-                                                </li>
-                                                <li>
-                                                    Presentación de problemas de probabilidad y
-                                                    estadística básica aplicada a las ciencias
-                                                    ambientales
-                                                </li>
-                                                <li>
-                                                    Aprendizaje basado en solución de problemas
-                                                </li>
-                                                <li>
-                                                    Aprendizaje individual y colaborativo
-                                                </li>
-                                            </ul>
-                                        </td>
-                                    <tr>
-                                        <td>3</td>
-                                        <td>DISTRIBUCIONES
-                                            DE PROBABILIDAD</td>
-                                        <td id="contTablaIzq">
-                                            Podrá identificar las distintas<br>
-                                            distribuciones de probabilidad<br>
-                                            para obtener información de<br>
-                                            utilidad y su aplicación.
-                                        </td>
-                                        <td id="contTablaIzq">
-
-                                            <ul>
-                                                <li>
-                                                    Exposición de conceptos y métodos por parte del
-                                                    maestro con apoyo de recursos de cómputo y
-                                                    audiovisuales
-                                                </li>
-                                                <li>
-                                                    Presentación de problemas de probabilidad y
-                                                    estadística básica aplicada a las ciencias
-                                                    ambientales
-                                                </li>
-                                                <li>
-                                                    Aprendizaje basado en solución de problemas
-                                                </li>
-                                                <li>
-                                                    Aprendizaje individual y colaborativo
-                                                </li>
-                                            </ul>
-                                        </td>
-                                    </tr>
-
-                                    <tr>
-                                        <td>4</td>
-                                        <td>PRUEBAS DE
-                                            HIPÓTESIS Y CHI
-                                            CUADRADA (χ2)
-                                        </td>
-                                        <td id="contTablaIzq">
-                                            Formular hipótesis y la forma<br>
-                                            de elaborar pruebas para<br>
-                                            contrastarlas mediante el<br>
-                                            análisis de datos muestrales<br>
-                                            se podrá determinar si una<br>
-                                            hipótesis debe o no<br>
-                                            rechazarse.
-                                        </td>
-                                        <td id="contTablaIzq">
-
-                                            <ul>
-                                                <li>
-                                                    Exposición de conceptos y métodos por parte del
-                                                    maestro con apoyo de recursos de cómputo y
-                                                    audiovisuales
-                                                </li>
-                                                <li>
-                                                    Presentación de problemas de probabilidad y
-                                                    estadística básica aplicada a las ciencias
-                                                    ambientales
-                                                </li>
-                                                <li>
-                                                    Aprendizaje basado en solución de problemas
-                                                </li>
-                                                <li>
-                                                    Aprendizaje individual y colaborativo
-                                                </li>
-                                            </ul>
-                                        </td>
-                                    </tr>
-
-                                    <tr>
-                                        <td>5</td>
-                                        <td>PRUEBA DE
-                                            HIPÓTESIS Y
-                                            COMPARACIÓN
-                                            DE DOS
-                                            MUESTRAS
-                                        </td>
-                                        <td id="contTablaIzq">
-                                            Contrastará hipótesis<br>
-                                            para una y dos muestras.
-                                        </td>
-                                        <td id="contTablaIzq">
-
-                                            <ul>
-                                                <li>
-                                                    Exposición de conceptos y métodos por parte del
-                                                    maestro con apoyo de recursos de cómputo y
-                                                    audiovisuales
-                                                </li>
-                                                <li>
-                                                    Presentación de problemas de probabilidad y
-                                                    estadística básica aplicada a las ciencias
-                                                    ambientales
-                                                </li>
-                                                <li>
-                                                    Aprendizaje basado en solución de problemas
-                                                </li>
-                                                <li>
-                                                    Aprendizaje individual y colaborativo
-                                                </li>
-                                            </ul>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>6</td>
-                                        <td>ANÁLISIS
-                                            CORRELACIÓN Y
-                                            REGRESIÓN
-                                        </td>
-                                        <td id="contTablaIzq">
-                                            Analizar la relación que <br>
-                                            existe entre variables y<br>
-                                            generará ecuaciones de<br>
-                                            regresión
-                                        </td>
-                                        <td id="contTablaIzq">
-
-                                            <ul>
-                                                <li>
-                                                    Exposición de conceptos y métodos por parte del
-                                                    maestro con apoyo de recursos de cómputo y
-                                                    audiovisuales
-                                                </li>
-                                                <li>
-                                                    Presentación de problemas de probabilidad y
-                                                    estadística básica aplicada a las ciencias
-                                                    ambientales
-                                                </li>
-                                                <li>
-                                                    Aprendizaje basado en solución de problemas
-                                                </li>
-                                                <li>
-                                                    Aprendizaje individual y colaborativo
-                                                </li>
-                                            </ul>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>7</td>
-                                        <td>ANÁLISIS DE
-                                            VARIANZA Y
-                                            DISEÑOS
-                                            EXPERIMENTALES
-                                        </td>
-                                        <td id="contTablaIzq">
-                                            Probar hipótesis acerca<br>
-                                            de las medias de<br>
-                                            tratamientos y estimar los<br>
-                                            componentes de varianza.
-                                        </td>
-                                        <td id="contTablaIzq">
-
-                                            <ul>
-                                                <li>
-                                                    Exposición de conceptos y métodos por parte del
-                                                    maestro con apoyo de recursos de cómputo y
-                                                    audiovisuales
-                                                </li>
-                                                <li>
-                                                    Presentación de problemas de probabilidad y
-                                                    estadística básica aplicada a las ciencias
-                                                    ambientales
-                                                </li>
-                                                <li>
-                                                    Aprendizaje basado en solución de problemas
-                                                </li>
-                                                <li>
-                                                    Aprendizaje individual y colaborativo
-                                                </li>
-                                            </ul>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>8</td>
-                                        <td> MUESTREO
-                                            ESTADÍSTICO
-                                        </td>
-                                        <td id="contTablaIzq">
-                                            Estudiar los métodos de<br>
-                                            muestreo y cálculo del<br>
-                                            tamaño de muestra.
-                                        </td>
-                                        <td id="contTablaIzq">
-
-                                            <ul>
-                                                <li>
-                                                    Exposición de conceptos y métodos por parte del
-                                                    maestro con apoyo de recursos de cómputo y
-                                                    audiovisuales
-                                                </li>
-                                                <li>
-                                                    Presentación de problemas de probabilidad y
-                                                    estadística básica aplicada a las ciencias
-                                                    ambientales
-                                                </li>
-                                                <li>
-                                                    Aprendizaje basado en solución de problemas
-                                                </li>
-                                                <li>
-                                                    Aprendizaje individual y colaborativo
-                                                </li>
-                                            </ul>
-                                        </td>
-                                    </tr>
-
-                                </tbody>
-                            </table>
+                                        <th scope="col">
+                                            <div class="size"></div> Resultados de aprendizaje específicos
                         </div>
+                        </th>
+                        <th scope="col">
+                            <div class="size"></div> Metodologías y actividades de enseñanza - aprendizaje
                     </div>
+                    </th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>1</td>
+                            <td>
+                                Filosofía de la ciencia y estadística
+                            </td>
+                            <td id="contTablaIzq">
+                                Comprenderá la relación
+                                entre el método científico
+                                y la estadística.
+                            </td>
+                            <td id="contTablaIzq">
+
+                                <ul>
+                                    <li>
+                                        Exposición de conceptos y métodos por parte del br
+                                        maestro con apoyo de recursos de cómputo y
+                                        audiovisuales
+                                    </li>
+                                    <li>
+                                        Presentación de problemas de probabilidad y
+                                        estadística básica aplicada a las ciencias
+                                        ambientales
+                                    </li>
+                                    <li>
+                                        Aprendizaje basado en solución de problemas
+                                    </li>
+                                    <li>
+                                        Aprendizaje individual y colaborativo
+                                    </li>
+                                </ul>
+                            </td>
+
+                        <tr>
+                            <td>2</td>
+                            <td>Estadística descriptiva </td>
+                            <td id="contTablaIzq">
+                                Comprenderá los métodos de
+                                presentación de datos
+                                tabulares y gráficos como
+                                distribuciones de frecuencia,
+                                gráficas, cuadros que sean
+                                entendibles e interpretables
+                                con facilidad.
+                            </td>
+                            <td id="contTablaIzq">
+
+                                <ul>
+                                    <li>
+                                        Exposición de conceptos y métodos por parte del
+                                        maestro con apoyo de recursos de cómputo y
+                                        audiovisuales
+                                    </li>
+                                    <li>
+                                        Presentación de problemas de probabilidad y
+                                        estadística básica aplicada a las ciencias
+                                        ambientales
+                                    </li>
+                                    <li>
+                                        Aprendizaje basado en solución de problemas
+                                    </li>
+                                    <li>
+                                        Aprendizaje individual y colaborativo
+                                    </li>
+                                </ul>
+                            </td>
+                        <tr>
+                            <td>3</td>
+                            <td>Distribuciones de probabilidad </td>
+                            <td id="contTablaIzq">
+                                Podrá identificar las distintas
+                                distribuciones de probabilidad
+                                para obtener información de
+                                utilidad y su aplicación.
+                            </td>
+                            <td id="contTablaIzq">
+
+                                <ul>
+                                    <li>
+                                        Exposición de conceptos y métodos por parte del
+                                        maestro con apoyo de recursos de cómputo y
+                                        audiovisuales
+                                    </li>
+                                    <li>
+                                        Presentación de problemas de probabilidad y
+                                        estadística básica aplicada a las ciencias
+                                        ambientales
+                                    </li>
+                                    <li>
+                                        Aprendizaje basado en solución de problemas
+                                    </li>
+                                    <li>
+                                        Aprendizaje individual y colaborativo
+                                    </li>
+                                </ul>
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>4</td>
+                            <td>
+                                Pruebas de hipótesis y chi cuadrada (χ2)
+                            </td>
+                            <td id="contTablaIzq">
+                                Formular hipótesis y la forma
+                                de elaborar pruebas para
+                                contrastarlas mediante el
+                                análisis de datos muestrales
+                                se podrá determinar si una
+                                hipótesis debe o no
+                                rechazarse.
+                            </td>
+                            <td id="contTablaIzq">
+
+                                <ul>
+                                    <li>
+                                        Exposición de conceptos y métodos por parte del
+                                        maestro con apoyo de recursos de cómputo y
+                                        audiovisuales
+                                    </li>
+                                    <li>
+                                        Presentación de problemas de probabilidad y
+                                        estadística básica aplicada a las ciencias
+                                        ambientales
+                                    </li>
+                                    <li>
+                                        Aprendizaje basado en solución de problemas
+                                    </li>
+                                    <li>
+                                        Aprendizaje individual y colaborativo
+                                    </li>
+                                </ul>
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>5</td>
+                            <td>
+                                Prueba de hipótesis y comparación de dos muestras
+                            </td>
+                            <td id="contTablaIzq">
+                                Contrastará hipótesis
+                                para una y dos muestras.
+                            </td>
+                            <td id="contTablaIzq">
+
+                                <ul>
+                                    <li>
+                                        Exposición de conceptos y métodos por parte del
+                                        maestro con apoyo de recursos de cómputo y
+                                        audiovisuales
+                                    </li>
+                                    <li>
+                                        Presentación de problemas de probabilidad y
+                                        estadística básica aplicada a las ciencias
+                                        ambientales
+                                    </li>
+                                    <li>
+                                        Aprendizaje basado en solución de problemas
+                                    </li>
+                                    <li>
+                                        Aprendizaje individual y colaborativo
+                                    </li>
+                                </ul>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>6</td>
+                            <td>
+                                Análisis correlación y regresión
+                            </td>
+                            <td id="contTablaIzq">
+                                Analizar la relación que
+                                existe entre variables y
+                                generará ecuaciones de
+                                regresión
+                            </td>
+                            <td id="contTablaIzq">
+
+                                <ul>
+                                    <li>
+                                        Exposición de conceptos y métodos por parte del
+                                        maestro con apoyo de recursos de cómputo y
+                                        audiovisuales
+                                    </li>
+                                    <li>
+                                        Presentación de problemas de probabilidad y
+                                        estadística básica aplicada a las ciencias
+                                        ambientales
+                                    </li>
+                                    <li>
+                                        Aprendizaje basado en solución de problemas
+                                    </li>
+                                    <li>
+                                        Aprendizaje individual y colaborativo
+                                    </li>
+                                </ul>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>7</td>
+                            <td>
+                                Análisis de varianza y diseños experimentales
+                            </td>
+                            <td id="contTablaIzq">
+                                Probar hipótesis acerca
+                                de las medias de
+                                tratamientos y estimar los
+                                componentes de varianza.
+                            </td>
+                            <td id="contTablaIzq">
+
+                                <ul>
+                                    <li>
+                                        Exposición de conceptos y métodos por parte del
+                                        maestro con apoyo de recursos de cómputo y
+                                        audiovisuales
+                                    </li>
+                                    <li>
+                                        Presentación de problemas de probabilidad y
+                                        estadística básica aplicada a las ciencias
+                                        ambientales
+                                    </li>
+                                    <li>
+                                        Aprendizaje basado en solución de problemas
+                                    </li>
+                                    <li>
+                                        Aprendizaje individual y colaborativo
+                                    </li>
+                                </ul>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>8</td>
+                            <td>
+                                Muestreo estadístico
+                            </td>
+                            <td id="contTablaIzq">
+                                Estudiar los métodos de
+                                muestreo y cálculo del
+                                tamaño de muestra.
+                            </td>
+                            <td id="contTablaIzq">
+
+                                <ul>
+                                    <li>
+                                        Exposición de conceptos y métodos por parte del
+                                        maestro con apoyo de recursos de cómputo y
+                                        audiovisuales
+                                    </li>
+                                    <li>
+                                        Presentación de problemas de probabilidad y
+                                        estadística básica aplicada a las ciencias
+                                        ambientales
+                                    </li>
+                                    <li>
+                                        Aprendizaje basado en solución de problemas
+                                    </li>
+                                    <li>
+                                        Aprendizaje individual y colaborativo
+                                    </li>
+                                </ul>
+                            </td>
+                        </tr>
+
+                    </tbody>
+                    </table>
                 </div>
-
-                <hr>
-                <div class="col-12 col-sm-12 container">
-                    <div>
-                        <h4><strong>Evaluación</strong></h4>
-                        <p>A continuación, se muestra las condiciones de las evaluaciones parciales.</p>
-                        <div class="table-responsive" id="contTabla">
-                            <table class="table table-bordered border-dark" id="colorTexto">
-                                <thead>
-                                    <tr id="tablaTitulos">
-                                        <th scope="col"># <br> parcial</th>
-                                        <th scope="col">Momento de evaluación</th>
-                                        <th scope="col">Método de evaluación y valor para la evaluacion parcial</th>
-                                        <th scope="col">Ponderación para evaluación final</th>
-                                    </tr>
-                                </thead>
-                                <tbody>
-                                    <tr>
-                                        <td>1</td>
-                                        <td>En la sesión 10</td>
-                                        <td>Examen escrito</td>
-                                        <td rowspan="3"><br> <br> 70%</td>
-                                    </tr>
-
-                                    <tr>
-                                        <td>2</td>
-                                        <td>En la sesión 22</td>
-                                        <td>Examen escrito</td>
-                                    </tr>
-
-                                    <tr>
-                                        <td>3</td>
-                                        <td>En la sesión 32</td>
-                                        <td>Examen escrito</td>
-                                    </tr>
-
-                                    <tr>
-                                        <td>Tareas</td>
-                                        <td>Permanente</td>
-                                        <td>Informes escritos</td>
-                                        <td>10.0</td>
-                                    </tr>
-
-                                    <tr>
-                                        <td>Trabajo
-                                            semestral</td>
-                                        <td>Casi al final del
-                                            curso</td>
-                                        <td>Escrito siguiendo el modelo de un artículo de ensayo</td>
-                                        <td>20.0</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Total</td>
-                                        <td></td>
-                                        <td></td>
-                                        <td>100.0</td>
-                                    </tr>
-                                </tbody>
-                            </table>
-                        </div>
-                    </div>
-                </div>
-
-                <hr>
-                <h4> <strong>Recursos bibliográficos y digitales</strong> </h4>
-                <h5> <strong>Textos básicos</strong></h5>
-                <p>
-                    • Agrawal, A.A. 2003. Why omnivory?. Ecology. 84:2521.<br>
-                    • Berkes, F.; J. Coding y C. Folke. 2003. Navigating Social-Ecological Systems. Cambridge University.
-                    Cambridge: England. <br>
-                    • Burke, A. 2003. Practical measure in arid lands restoration after mining –a review for the southern
-                    Namib. South
-                    African Journal of Science. 99:413-417.<br>
-                    • Celi, L. 2020. 'Eco-Ego'. An image to represent the (Deep) Ecology. Ecology (May 2, 2020).<br>
-                    • Dajoz, R. 2002. Tratado de ecología. 2ª Ed. Mundi Prensa: Madrid, España.<br>
-                    • Dregne, H.E. 2002. Land degradation in the drylands. Arid Land Research and Management. 16:99-132.<br>
-                    • Herrera, A., M.D. Fernández, E. Rengifo y W. Tezara. 2001. Efecto de la concentración elevada de CO2
-                    sobre la
-                    fotosíntesis en especies tropicales. Interciencia. 26:469-471.<br>
-                    • Hill, D.; M. Fasham, G. Tucker, M. Shewry y P. Shaw. 2005. Handbook of biodiversity methods. Cambridge
-                    University Press: Cambridge, Inglaterra.<br>
-                    • Holechek, J. L.; R. A. Cole, J. T. Fisher y R. Valdez. 2003. Natural resources: ecology, economics,
-                    and
-                    policy 2th
-                    Ed. Pearson Education: New Jersey, Estados Unidos.<br>
-                    • Lima, M. 2006. Los efectos ecológicos de las fluctuaciones climáticas. Investigación y Ciencia. Julio.
-                    46-52.<br>
-                    • Margalef, R. 2005. Ecología. Omega. Barcelona, España.<br>
-                    • Martínez, M.L.; R.H. Manson; P. Balvanera; R. Dirzo; J. Soberón; L. García-Barrios; M. Martínez-Ramos;
-                    P.
-                    Moreno-Casasola; L. Rosenzweig; J. Sarukhán. 2006. The evolution of ecology in Mexico: facing challenges
-                    and preparing for the future. Frontiers in Ecology an the Environment. 4:259-265.<br>
-                    • McCune, B.; J. B. Grace y D. L. Urban. 2002. Analysis of ecological communities. MjM: Gleneden Beach,
-                    Estados
-                    Unidos.<br>
-                    • Mitchell, K. 2001. Quantitative analysis by the point-centered quarter method. Department of
-                    Mathematics
-                    and
-                    Computer Colleges, Hobart and William Smith Colleges. Geneva, N.Y. IMP<br>
-                    • Nebel R. B. J. y R. T. Wright. 2002. Environmental science. 8th Ed. Prentice Hall: San Francisco,
-                    Estados Unidos.<br>
-                    • Odum, E. P. 1992. Ecología: bases científicas para un nuevo paradigma. Vedrà: Barcelona, España.<br>
-                    • Rodríguez M., J.; J. M. Blanco, V. Rodríguez M. 2016. Ecología. 4ª Ed. Pirámide: Madrid, España.<br>
-                    • Schlesinger, W. H. 1991. Biogeochemistry. An analysis of global change. Academic Press, Elsevier: San
-                    Diego,
-                    Estados Unidos.<br>
-                    • Smith, R.L. y T.M. Smith. 2001. Ecology & field biology. Pearsons Addison Wesley: San Francisco,
-                    Estados
-                    Unidos.<br>
-                    • Smith, R.L. y T.M. Smith. 2014. Elements of ecology. 9ª Ed. Addison Wesley. Madrid, España. 664 p.<br>
-                    • Tansley, A.G. 1935. The use and abuse of vegetational concepts and terms. Ecology. 16:284-307.<br>
-                    • Tao, F.; M. Yokosawa; Y. Hayashi; E. Lin. 2003. Terrestrial water cycle and the impact of climate
-                    change. Ambio.
-                    32:295-301.<br>
-                    • Terradas, J. 2001. Ecología de la vegetación. Omega: Barcelona, España. 703 p.
-
-                </p>
-
-                <h5> <strong>Textos básicos</strong></h5>
-
-                <p id="enlacesNormativa">
-                    • <a href="http://bibliotecas.uaslp.mx/">http://bibliotecas.uaslp.mx/</a><br>
-                    • <a href="http://slpm.uaslp.mx/">http://slpm.uaslp.mx/</a> <br>
-                    • <a href=" http://socbot.mx/nuevositio/"> http://socbot.mx/nuevositio/</a> <br>
-                    • <a
-                        href="http://web.b.ebscohost.com.creativaplus.uaslp.mx/ehost/command/detail?">http://web.b.ebscohost.com.creativaplus.uaslp.mx/ehost/command/detail?</a>
-                    <br>
-                    • <a href=" http://web.ecologia.unam.mx/"> http://web.ecologia.unam.mx/</a> <br>
-                    • <a href="http://www.conabio.gob.mx/">http://www.conabio.gob.mx/</a> <br>
-                    • <a href="http://www.ecology.com/">http://www.ecology.com/</a> <br>
-                    • <a href="http://www.rae.es/">http://www.rae.es/</a><br>
-                    • <a href="http://www.scme.mx/scme/">http://www.scme.mx/scme/</a> <br>
-                    • <a href="http://www.theplantlist.org/ <br>">http://www.theplantlist.org/</a> <br>
-                    • <a href="https://bvu.uaslp.mx/ <br>">https://bvu.uaslp.mx/</a> <br>
-                    • <a href="https://folk.uio.no/ohammer/past/ <br>">https://folk.uio.no/ohammer/past/</a> <br>
-                    • <a
-                        href="https://link.springer.com.creativaplus.uaslp.mx/ <br>">https://link.springer.com.creativaplus.uaslp.mx/</a>
-                    <br>
-                    • <a href="https://scholar.google.es/ <br>">https://scholar.google.es/</a> <br>
-                    • <a href="https://www.biodiversitylibrary.org/  <br>">https://www.biodiversitylibrary.org/</a> <br>
-                    • <a href="https://www.esa.org/esa/ <br>">https://www.esa.org/esa/</a> <br>
-                    • <a href="https://www.gob.mx/inecc <br>">https://www.gob.mx/inecc</a> <br>
-                    • <a href="https://www.gob.mx/profepa <br>">https://www.gob.mx/profepa</a> <br>
-                    • <a href="https://www.gob.mx/semarnat <br>">https://www.gob.mx/semarnat</a> <br>
-                    • <a
-                        href="https://www.inecol.mx/inecol/index.php/es/ <br>">https://www.inecol.mx/inecol/index.php/es/</a>
-                    <br>
-                    • <a href="https://www.inegi.org.mx/ <br>">https://www.inegi.org.mx/</a> <br>
-                    • <a
-                        href="https://www.jstor.org.creativaplus.uaslp.mx/ <br>">https://www.jstor.org.creativaplus.uaslp.mx/</a>
-                    <br>
-                    • <a
-                        href="https://www.millenniumassessment.org/en/index.html <br>">https://www.millenniumassessment.org/en/index.html</a>
-                    <br>
-                    • <a href="https://www.sciencedirect.com <br>">https://www.sciencedirect.com</a> <br>
-                </p>
-
-                <hr>
-                <h4> <strong>Requisitos para cursar la asignatura</strong> </h4>
-                <p>
-                    • Ninguno
-                </p>
-
-                <hr>
-                <h4> <strong>Interoperabilidad</strong> </h4>
-                <p>
-                    • Ninguna
-                </p>
-
-                <hr>
-                <h4> <strong>Otras formas de acreditación</strong> </h4>
-                <p>
-                    • Ninguna
-                </p>
-
-                <hr>
-                <h4> <strong>Máximo y mínimo de estudiantes por grupo</strong> </h4>
-                <p>
-                    • Máximo de estudiantes por grupo para garantizar viabilidad académica, pedagógica y financiera: 25 <br>
-                    • Mínimo de estudiantes por grupo para garantizar viabilidad académica, pedagógica y financiera: 2
-                </p>
-
-                <hr>
-                <h4> <strong>Elaboradores y revisores</strong> </h4>
-                <p> <strong> • Elaboró: </strong>Juan Antonio Reyes Agüero
-                    <br>
-                    <strong> • Revisó:</strong>
-                </p>
             </div>
         </div>
+
+        <hr>
+        <div class="col-12 col-sm-12 container">
+            <div>
+                <h4><strong>Evaluación</strong></h4>
+                <p>A continuación, se muestra las condiciones de las evaluaciones parciales.</p>
+                <div class="table-responsive" id="contTabla">
+                    <table class="table table-bordered border-dark" id="colorTexto">
+                        <thead>
+                            <tr id="tablaTitulos">
+                                <th scope="col">No. <br> parcial</th>
+                                <th scope="col">Momento de evaluación</th>
+                                <th scope="col">Método de evaluación y valor para la evaluacion parcial</th>
+                                <th scope="col">Ponderación para evaluación final</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>1</td>
+                                <td>Temas 1, 2 y 3</td>
+                                <td>Examen escrito</td>
+                                <td rowspan="3"><br> <br> 70%</td>
+                            </tr>
+
+                            <tr>
+                                <td>2</td>
+                                <td>Tema 4 y 5</td>
+                                <td>Examen escrito</td>
+                            </tr>
+
+                            <tr>
+                                <td>3</td>
+                                <td>Temas 7 y 8</td>
+                                <td>Examen escrito</td>
+                            </tr>
+
+                            <tr>
+                                <td></td>
+                                <td>Tareas</td>
+                                <td></td>
+                                <td>15%</td>
+                            </tr>
+
+                            <tr>
+                                <td></td>
+                                <td>Exposición</td>
+                                <td></td>
+                                <td>15%</td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <td>Total</td>
+                                <td></td>
+                                <td>100%</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+
+        <hr>
+        <h4> <strong>Recursos bibliográficos y digitales</strong> </h4>
+        <h5> <strong>Textos básicos</strong></h5>
+
+        <div class="col-12 col-sm-12 container">
+            <ul class="vineta">
+                <li>Anderson R. D., J. D. Sweeney and T. A. Williams. 2008. Estadística para administración y economía.
+                    CENGAGE. Learning. México 1091p</li>
+                <li>Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani. 2013. An Introduction to Statistical
+                    Learning, with Applications in R. Springer New York Heidelberg Dordrecht London. 441 p.</li>
+                <li>Kandethody M.Ramachandran, Chris P.Tsokos. 2009. Mathematical Statistics with Applications. Elsevier
+                    Academic Press. 849 p. http://www.elsevierdirect.com/companions/9780123748485</li>
+                <li>Mongomery C. D. 2004. Diseño y análisis de experimentos. Segunda Edición. Limusa Wiley. 700 p.</li>
+                <li>Walpole E. R., R. H. Myers, S. L. Myers and K. Ye. 2012. Probabilidad y estadística para ingeniería y
+                    ciencias. Pearson Educación, México. 816 p.</li>
+                <li>Wassennan Larry . All of Statistics. 2003. A Concise Course in Statistical Inference. Springer Texts in
+                    Statistics. 446 p.</li>
+            </ul>
+        </div>
+
+        <h5> <strong>Textos básicos</strong></h5>
+
+        <p id="becasEnlace">
+            <a href="http://www.springer.com/series/417">http://www.springer.com/series/417</a><br>
+            <a
+                href="http://www.elsevierdirect.com/companions/9780123748485">http://www.elsevierdirect.com/companions/9780123748485</a>
+            <br>
+        </p>
+
+        <hr>
+        <h4> <strong>Requisitos para cursar la asignatura</strong> </h4>
+
+        <div>
+            Para poder cursar esta asignatura, es necesario:
+            <ul>
+                <li>
+                    Matemáticas, algebra, y estar inscrito en algún programa de posgrado, de la UASLP. es un curso básico de
+                    estadística
+                </li>
+            </ul>
+        </div>
+
+        <hr>
+        <h4> <strong>Interoperabilidad</strong> </h4>
+        <p>
+            Ninguna
+        </p>
+
+        <hr>
+        <h4> <strong>Otras formas de acreditación</strong> </h4>
+
+        <div>
+            <ul>
+                <li>
+                    Esta asignatura puede ser acreditada a través de la presentación de un documento probatorio que
+                    certifique
+                    que el estudiante ya cuenta con los aprendizajes necesarios: <strong>No</strong>
+                </li>
+                <li>
+                    Esta asignatura puede ser acreditada a través de un examen que certifique que el estudiante ya cuenta
+                    con
+                    los aprendizajes necesarios: <strong>No</strong>
+                </li>
+            </ul>
+        </div>
+
+        <hr>
+        <h4> <strong>Máximo y mínimo de estudiantes por grupo</strong> </h4>
+    
+        <div>
+            <ul>
+                <li>
+                    Máximo de estudiantes por grupo para garantizar viabilidad académica, pedagógica y financiera: 28
+                </li>
+                <li>
+                    Mínimo de estudiantes por grupo para garantizar viabilidad académica, pedagógica y financiera: 3
+                </li>
+            </ul>
+        </div>
+
+        <hr>
+        <h4> <strong>Elaboradores y revisores</strong> </h4>
+        <p> <strong>Elaboró: </strong>Dr. Gregorio Álvarez Fuentes
+            <br>
+            <strong>Revisó:</strong>Dra. Elsa Cervantes González <br>
+            Dr. Israel Razo Soto <br>
+            Dr. Nahúm Andrés Medellín Castillo <br>
+        </p>
+    </div>
+    </div>
     </div>
 @endsection

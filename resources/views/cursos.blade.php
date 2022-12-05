@@ -1,6 +1,7 @@
 @extends('base')
 
 @section('maincontent')
+<div id="colorTexto">
     <div id="p-container" class="container px-lg-8.5 px-md-5">
         <div class="col-12 col-sm-12">
             <img src="{{ asset('storage/images/10.png') }}" alt="">
@@ -61,7 +62,7 @@
 
         <div class="accordion p-2" id="accordionExample">
             <div class="accordion-item">
-                <div class="accordion-item">
+                <div class="accordion-item" id="colorTexto">
                     <h2 class="accordion-header" id="headingThree">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
@@ -78,7 +79,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="accordion-item">
+                <div class="accordion-item" id="colorTexto">
                     <h2 class="accordion-header" id="headingTwo">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
@@ -105,7 +106,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="accordion-item">
+                <div class="accordion-item" id="colorTexto">
                     <h2 class="accordion-header" id="headingFour">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
@@ -153,4 +154,5 @@
         </div>
         <hr>
     </div>
+</div>
 @endsection
