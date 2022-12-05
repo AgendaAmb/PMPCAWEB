@@ -11,17 +11,62 @@
     </div>
 
     <hr>
+    <h4 id="nameProf">Maestría en Ciencias Ambientales</h4><br>
     <div class="col-12 col-sm-12 my-4" id="enlacetramites">
-        <a href="{{asset('storage/pdf/2.1_AsignacionDirectorTesis_220307.pdf')}}"> <strong>Asignación director de tesis</strong></a>
+        <a href="{{asset('storage/pdf/2.1_AsignacionDirectorTesis.pdf')}}"> <strong>Asignación director de tesis</strong></a>
+    </div>
+    <div class="col-12 col-sm-12 my-4" id="enlacetramites">
+        <a href="{{asset('storage/pdf/2.3 ComTutelarTesis.pdf')}}"> <strong>Comité tutelar tesis</strong> </a>
+    </div>
+    <div class="col-12 col-sm-12 my-4" id="enlacetramites">
+        <a href="{{asset('storage/pdf/2.6 CambioComiteTutelar.pdf')}}"> <strong>Cambio comité tutelar</strong> </a>
+    </div>
+    <div class="col-12 col-sm-12 my-4" id="enlacetramites">
+        <a href="{{asset('storage/pdf/3.1 ActaEvalTrabTesis.pdf')}}"> <strong>Cambio comité tutelar</strong> </a>
+    </div>
+    <div class="col-12 col-sm-12 my-4" id="enlacetramites">
+        <a href="{{asset('storage/pdf/3.4 Calif_SemTesis.pdf')}}"> <strong>Calificación semestre tesis</strong> </a>
     </div>
     <hr>
+    <h4 id="nameProf">Maestría en Ciencias Ambiental (doble titulación)</h4><br>
     <div class="col-12 col-sm-12 my-4" id="enlacetramites">
-        <a href="{{asset('storage/pdf/2.3 ComTutelarTesis_220307.pdf')}}"> <strong>Comité tutelar tesis</strong> </a>
+        <a href="{{asset('storage/pdf/2.2_AsignacionDirectorTesis.pdf')}}"> <strong>Asignación director de tesis</strong></a>
+    </div>
+    <div class="col-12 col-sm-12 my-4" id="enlacetramites">
+        <a href="{{asset('storage/pdf/2.4 ComTutelarTesis.pdf')}}"> <strong>Comité tutelar tesis</strong> </a>
+    </div>
+    <div class="col-12 col-sm-12 my-4" id="enlacetramites">
+        <a href="{{asset('storage/pdf/2.6 CambioComiteTutelar.pdf')}}"> <strong>Cambio comité tutelar</strong> </a>
+    </div>
+    <div class="col-12 col-sm-12 my-4" id="enlacetramites">
+        <a href="{{asset('storage/pdf/3.2 ActaEvalTrabTesis.pdf')}}"> <strong>Cambio comité tutelar</strong> </a>
+    </div>
+    <div class="col-12 col-sm-12 my-4" id="enlacetramites">
+        <a href="{{asset('storage/pdf/3.5 Calif_SemTesis.pdf')}}"> <strong>Calificación semestre tesis</strong> </a>
     </div>
     <hr>
+    <h4 id="nameProf">Doctorado en Ciencias Ambientales</h4><br>
     <div class="col-12 col-sm-12 my-4" id="enlacetramites">
-        <a href="{{asset('storage/pdf/2.6 CambioComitéTutelar _220307.pdf')}}"> <strong>Cambio comité tutelar</strong> </a>
+        <a href="{{asset('storage/pdf/2.2_AsignacionDirectorTesis.pdf')}}"> <strong>Asignación director de tesis</strong></a>
     </div>
+    <div class="col-12 col-sm-12 my-4" id="enlacetramites">
+        <a href="{{asset('storage/pdf/2.5 ComTutelarTesis.pdf')}}"> <strong>Comité tutelar tesis</strong> </a>
+    </div>
+    <div class="col-12 col-sm-12 my-4" id="enlacetramites">
+        <a href="{{asset('storage/pdf/2.6 CambioComiteTutelar.pdf')}}"> <strong>Cambio comité tutelar</strong> </a>
+    </div>
+    <div class="col-12 col-sm-12 my-4" id="enlacetramites">
+        <a href="{{asset('storage/pdf/3.3 ActaEvalTrabTesis.pdf')}}"> <strong>Cambio comité tutelar</strong> </a>
+    </div>
+    <div class="col-12 col-sm-12 my-4" id="enlacetramites">
+        <a href="{{asset('storage/pdf/3.4 Calif_SemTesis.pdf')}}"> <strong>Calificación semestre tesis</strong> </a>
+    </div>
+
+
+    <hr>
+
+    <hr>
+
     <hr>
     <div class="col-12 col-sm-12 my-4" id="enlacetramites">
         <a href="{{asset('storage/pdf/2.7 AdecuaciónTituloTesis_220307.pdf')}}"> <strong>Adecuación titulo tesis</strong> </a> 
