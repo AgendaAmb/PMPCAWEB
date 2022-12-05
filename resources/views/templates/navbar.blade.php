@@ -33,15 +33,15 @@
                             <strong>Oferta educativa</strong>
                         </a>
                         <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="{{url("/ofertaEducativa")}}"><strong>Doctorado</strong></a></li>
+                            <li><a class="dropdown-item" href="{{url("/ofertaEducativa#seccionDCA")}}"><strong>Doctorado</strong></a></li>
                             <li>
                                 <hr class="dropdown-divider">
                             </li>
-                            <li><a class="dropdown-item" href="{{url("/ofertaEducativa")}}"><strong>Maestría</strong></a></li>
+                            <li><a class="dropdown-item" href="{{url("/ofertaEducativa#seccionMCA")}}"><strong>Maestría</strong></a></li>
                             <li>
                                 <hr class="dropdown-divider">
                             </li>
-                            <li><a class="dropdown-item" href="{{url("/ofertaEducativa")}}"><strong>Maestría de doble titulación</strong></a>
+                            <li><a class="dropdown-item" href="{{url("/ofertaEducativa#seccionMCADT")}}"><strong>Maestría de doble titulación</strong></a>
                             </li>
                         </ul>
                     </li>
