@@ -251,7 +251,7 @@
                     </div>
                     <div class="col-12 col-sm-3 ">
                         <a class="btn btn-primary" id="botonesGeneral" target="_blank"
-                            href="https://www.enrem-master.info/application" role="button">Convocatoria</a>
+                            href="/storage/Doc/ENREM_Flyer.pdf" role="button">Convocatoria</a>
                     </div>
                     <div class="col-12 col-sm-1 ">
                     </div>
@@ -268,16 +268,8 @@
                             México y la Facultad de Ordenación del Territorio y Sistemas de Infraestructura con el lnstituto
                             para la Tecnología y el Manejo de Recursos para los Trópicos y Subtrópicos de la Universidad de
                             Ciencias Aplicadas (TH Köln) en Colonia, Alemania.<br><br>
-                            El programa contribuye a la cooperación al desarrollo en un contexto local, global y regional y
-                            entiende el desarrollo como una transición hacia la sostenibilidad bajo cuatro dimensiones
-                            (sostenibilidad social, económica y ambiental, y gobernanza).<br><br>
-                            Por diseño del programa, los estudiantes adquieren dos títulos individuales y aprovechan las
-                            fortalezas de ambas universidades para ampliar los métodos relevantes y el conocimiento y las
-                            competencias. La capacitación intercultural, el trabajo en grupo y las habilidades de liderazgo
-                            en dos culturas y sistemas universitarios diferentes proporcionan calificaciones
-                            interdisciplinarias, interculturales y personales adicionales. Los estudiantes durante el
-                            programa de estudio comienzan una red internacional profesional y científicamente más allá de
-                            sus estudios.<br><br>
+                            El Programa de Maestría de doble titulación ENREM trata de responder a los actuales requerimientos y desafíos globales en la región de Latinoamérica. Al mismo tiempo contribuye a la cooperación al desarrollo de ambas regiones, América Latina y Alemania, en un contexto local, global y regional y considera el desarrollo como una transición hacia la sostenibilidad bajo cuatro dimensiones (sostenibilidad social, económica y ambiental, y gobernanza).<br><br>
+                            Por diseño del programa, los estudiantes adquieren dos títulos individuales en dos años, uno de cada maestría y universidad. Los estudiantes utilizan los puntos fuertes de ambos programas de máster para ampliar métodos, conocimientos y habilidades relevantes. La formación intercultural, el trabajo en grupo y las habilidades de liderazgo en el contexto de dos culturas y sistemas universitarios diferentes proporcionan cualificaciones interdisciplinares, interculturales y personales adicionales. La integración en el programa de estudios en ambas universidades aumenta las posibilidades de carrera transfronteriza y amplía oportunidades profesionales transfronterizas así como su red global de contactos.<br><br>
 
                             <strong>Costo semestral de inscripción: $ 3,500.00</strong><br><br>
 
@@ -304,18 +296,16 @@
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
                                     El programa maestro califica al estudiante para una amplia gama de puestos atractivos,
-                                    con
-                                    perspectivas de carrera que trabajan con una alta mentalidad internacional en los campos
+                                    con una alta mentalidad internacional en los campos
                                     de
                                     planificación, implementación de proyectos y evaluación, ya sea para:<br><br> <i>Carrera
-                                        profesional:</i> preparación para el empleo en una industria, las instituciones
+                                        profesional:</i> preparación para el empleo en la industria, las instituciones
                                     públicas
                                     y las ONG (tanto públicas como del tercer sector) que trabajan en el campo de la gestión
                                     del
                                     medio ambiente y los recursos, generalmente con una orientación interdisciplinaria e
-                                    internacional al mercado, o<br><br><i>Investigación:</i> conducente a un estudio de
-                                    doctorado y posterior empleo en una universidad o centro de investigación como profesor
-                                    o
+                                    internacional, o<br><br><i>Investigación:</i> Continuar con estudio de
+                                    doctorado y posterior empleo en una universidad o centro de investigación como profesor o
                                     investigador.
                                 </div>
                             </div>
@@ -332,16 +322,10 @@
                             <div id="collapseSeven" class="accordion-collapse collapse" aria-labelledby="headingSeven"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                    El objetivo del Programa de Maestría en Ciencias Ambientales de doble titulación es
+                                    El objetivo del Programa de Maestría de doble titulación es
                                     capacitar a profesionales con los conocimientos, habilidades y competencias necesarias
-                                    para
-                                    evolucionar y aplicar soluciones integradas para la gestión ambiental y de recursos
-                                    naturales en un contexto local y global y, al mismo tiempo, proporcionar su experiencia
-                                    laboral y conocimiento regional al aprendizaje mutuo y al entorno intercultural. Estos
-                                    expertos son capaces de analizar y resolver problemas ambientales complejos en sus
-                                    contextos
-                                    socioculturales y políticos específicos, dados los potenciales técnicos y económicos de
-                                    ambas regiones de América Latina y Alemania.
+                                    para desarrollar y aplicar soluciones socio-culturales, técnicas y económicas integradas para la gestión del medio ambiente y de recursos
+                                    naturales en un contexto internacional y local. Basado en la cooperación germano-latinoamericana, se dirige a candidatos con interés en aprender y trabajar en un entorno intercultural y multidisciplinar.
                                 </div>
                             </div>
                         </div>
