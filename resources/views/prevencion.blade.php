@@ -48,19 +48,22 @@
                 <div>
                     <div class="mx-5">
                         <h4><strong>Nombre de la LGAC del área:</strong></h4>
-                        Identificación, análisis y caracterización de problemas ambientales.
+                        Tecnología ambiental para la remediación de sitios contaminados y aprovechamiento de residuos.
                     </div>
 
                     <hr>
 
                     <div class="mb-5 mx-5">
                         <h4><strong>Profesores del área</strong></h4>
-                        <a href="#" id="enlacesProfEvaluacion">Dr. Antonio Cardona Benavides</a> <br>
-                        <a href="#" id="enlacesProfEvaluacion">Dr. Guillermo Javier Castro Larragoitia</a> <br>
-                        <a href="#" id="enlacesProfEvaluacion">Dr. Marcos Algara Siller</a> <br>
-                        <a href="#" id="enlacesProfEvaluacion">Dr. Alfredo Ávila Galarza</a> <br>
-                        <a href="#" id="enlacesProfEvaluacion">Dr. Luis Armando Bernal Jácome</a> <br>
-                        <a href="#" id="enlacesProfEvaluacion">Dr. Israel Razo Soto</a> <br>
+                        <a href="#" id="enlacesProfEvaluacion">Dra. Ma. Catalina Alfaro de la Torre</a> <br>
+                        <a href="#" id="enlacesProfEvaluacion">Dr. Valter Armando Barrera López</a> <br>
+                        <a href="#" id="enlacesProfEvaluacion">Dr. Roberto Briones Gallardo</a> <br>
+                        <a href="#" id="enlacesProfEvaluacion">Dra. Candy Carranza Álvarez</a> <br>
+                        <a href="#" id="enlacesProfEvaluacion">Dra. Elsa Cervantes González</a> <br>
+                        <a href="#" id="enlacesProfEvaluacion">Dra. Paola Elizabeth Díaz Flores</a> <br>
+                        <a href="#" id="enlacesProfEvaluacion">Dr. Nahúm Andrés Medellín Castillo</a> <br>
+                        <a href="#" id="enlacesProfEvaluacion">Dr. Israel Rodríguez Torres</a> <br>
+                        <a href="#" id="enlacesProfEvaluacion">Dr. Luis Manuel Rosales Colunga</a> <br>
                     </div>
                 </div>
             </div>

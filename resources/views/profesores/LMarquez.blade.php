@@ -7,30 +7,30 @@
     <div id="professor-description" class="row mb-4">
     <div class="col-12 col-sm-12">
       <br>
-        <h1><strong>DR. ALFREDO ÁVILA GALARZA</strong></h1><br>
+        <h1><strong>DR. ANTONIO CARDONA BENAVIDES</strong></h1><br>
     </div>
     <div class="col-12 col-sm-3 ">
-        <img class="mx-auto d-block" src="{{asset('storage/images/Alfredo_Avila_Galarza.png')}}" alt="">
+        <img class="mx-auto d-block" src="{{asset('storage/images/Antonio_Cardona_Benavides.png')}}" alt="">
     </div>
     <div class="col-12 col-sm-9">
         <div>
         <h4><strong>Profesor Investigador de Tiempo Completo Nivel VI.</strong></h4>
         <h5><strong>Facultad de Ingeniería</strong></h5>
-        <h5><strong>SNI nivel I.</strong></h5>
+        <h5><strong>SNI nivel II.</strong></h5>
         <br>
         <p>
             Dr. Manuel Nava No. 8, Zona Universitaria Poniente <br>
             C.P. 78290, San Luis Potosí, S. L. P., México <br> <br>
             Teléfono: +52 (444) 826-2300 Ext. 7201 <br>
-            galarza@uaslp.mx <br>
+            antonio.cardona@uaslp.mx <br>
         </p>
 
         <div class="enlacesprof">
-            <a target="_blank" href="http://ciep.ing.uaslp.mx/agua/profesor.php?id=3130363637">Webpage</a>
-            <a target="_blank" href="storage/CV/Avila_Galarza_Alfredo.pdf">Curriculum Vitae </a>
-            <a target="_blank" href="https://investigadores.uaslp.mx/InvestigadorProfile/qykAAA%3d%3d">Directorio de Investigadores</a>
-            <a target="_blank" href="https://orcid.org/0000-0003-0903-0428"><img src="{{asset('storage/images/orcid.png')}}" alt=""></a>
-            <a target="_blank" href="https://www.scopus.com/authid/detail.uri?authorId=56586111500"> <img src="{{asset('storage/images/scopus.png')}}" alt=""></a>
+            <a target="_blank" href="http://ciep.ing.uaslp.mx/geologia/profesor.php?id=3133333235">Webpage</a>
+            <a target="_blank" href="storage/CV/Cardona_Benavides_Antonio.pdf">Curriculum Vitae </a>
+            <a target="_blank" href="https://investigadores.uaslp.mx/InvestigadorProfile/DTQAAA%3d%3d">Directorio de Investigadores</a>
+            <a target="_blank" href="http://orcid.org/0000-0001-8121-4657"><img src="{{asset('storage/images/orcid.png')}}" alt=""></a>
+            <a target="_blank" href="https://www.scopus.com/authid/detail.uri?authorId=7005334227"> <img src="{{asset('storage/images/scopus.png')}}" alt=""></a>
         </div>
         </div>
     </div>
@@ -48,50 +48,41 @@
             <div class="accordion-body">
               <ol>
                 <li><strong>Cursos</strong></li>
-                    <p>TSCA: Ingeniería ambiental<br>
-                       Impacto y riesgo ambiental<br>
-                       Contaminación y modelación de la calidad del aire<br>
-                       Manejo de residuos<br>
-                       Gestión y auditoría ambiental<br></p>
+                    <p>TSCA: Hidrogeoquímica<br>
+                    TSCA: Hidrogeología ambiental</p>
 
                 <li><strong>LGAC</strong></li>
-                <p>Manejo de residuos sólidos y contaminación atmosférica a la escala local<br>
-                   Gestión, auditoría, impacto y riesgo ambiental<br>
+                <p>Evolución hidrogeoquímica e isotópica de sistemas de flujo subterráneo<br>
+                   Evaluación de la contaminación en matrices ambientales (suelo, subsuelo, acuíferos, agua, sedimentos, aire, etc.)
                 </p>
                 <li><strong>Dirección de Tesis</strong></li><br>
                 <p><em>Maestría en Ciencias Ambientales (Doble titulación), Co-Dirección</em></p>
                 <p>
-                  Botello Salinas Leslie Aideé. 2010. <a target="_blank" href="http://ambiental.uaslp.mx/pmpca/tesis/Mae/Gen%202008-08/2010_pmpca_botellosalinas.pdf">Evaluation method of an environmental management system of hazardous substances in the industry. Case of a German-Mexican Company</a><br>
-                  Rodríguez Marat Martin Miguel. 2016. <a target="_blank" href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/4682/MCA1RMM201601.pdf?sequence=1&isAllowed=y">Modelos de predicción de generación de biogás: análisis crítico y aplicación al caso de Tucumán, Argentina</a><br>
-                  Benavides Mondragón Lucia Elsa. 2017. <a target="_blank" href="https://ninive.uaslp.mx/xmlui/handle/i/4337">Advancing sustainability in Latin American cities: a study case on the urban metabolism of San Luis Potosí, México</a><br>
-                  Coenen Heleen. 2020. A methodological guideline to assess integrated municipal solid waste management in Ecuador<br>
-                  Rivera Cabrera Ana Cecilia. 2020. The role of the USMCA in multi-level governance of transboundary air pollution in the border region of US-MX: case California-Baja California<br>
-                  Samaniego Figueroa Ximena. 2021. Integrated waste management assessment for end-of-life photovoltaic modules: a case study of Mexico<br>
-                  Ayala Gómez Tatiana Sophia. 2022. Analysis of municipal organic waste-to-energy production chains: feasibility of biohydrogen generation in Cali, Colombia
+                  Hoffmeister Mara Carina. 2010. <a target="_blank" href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/3616/MCA1ASB01001.pdf?sequence=3&isAllowed=y">Plan integrado para la gestión sostenible de aguas subterráneas: el caso de la Cuenca del Río Rapel, VI región de Chile.</a><br>
+                  Peña Delgado Libier Marisela. 2010. <a target="_blank" href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/3581/MCA1SVE01001.pdf?sequence=3&isAllowed=y">Modeling and simulation for VOCs extraction by an SVE system.</a><br>
+                  Heise Lisa. 2013. <a href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/3692/MCA1DYN01301.pdf?sequence=1&isAllowed=y">Dynamics of the coastal karst aquifer in northern Yucatan Peninsula.</a><br>
+                  Herrera Lopera Evelyn. 2015. <a target="_blank" href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/3983/MCA1GRO01501.pdf?sequence=1&isAllowed=y">Assessment of groundwater contamination in the upper basin of Rio Grande, Rio de Janeiro, Brazil.</a>
                 </p>
                 <br>
                 <p><em>Maestría en Ciencias Ambientales</em></p>
                 <p>
-                    Ortega Montoya Claudia Yazmin. 2009. <a target="_blank" href="http://ambiental.uaslp.mx/pmpca/tesis/Mae/Gen%202007-08/2009_pmpca_ortegamontoya.pdf">Propuesta metodológica para la realización de un mapa de riesgo por manejo de sustancias químicas en fuentes fijas para la ciudad de San Luis Potosí.</a><br>
-                    Gallegos Martínez Erika. 2010. <a target="_blank" href="http://ambiental.uaslp.mx/pmpca/tesis/Mae/Gen%202008-08/2010_pmpca_gallegosmartinez.pdf">Inventario de emisiones de partículas y modelado de su transporte a partir de fuentes de área de una industria minera.</a><br>
-                    Aguilera Flores Miguel Mauricio. 2011. <a target="_blank" href="http://ambiental.uaslp.mx/pmpca/tesis/Mae/Gen%202009-08/2011_pmpca_aguileraflores.pdf">Análisis de riesgo ambiental por el manejo de sustancias químicas peligrosas en las instalaciones de la Facultad de Ingeniería de la UASLP.</a><br>
-                    Flores Jiménez David Enrique. 2011. <a target="_blank" href="http://ambiental.uaslp.mx/pmpca/tesis/Mae/Gen%202009-08/2011_pmpca_floresjimenez.pdf">Modelado del transporte y propuesta de metodología para la ubicación de estaciones de monitoreo de pm10 en una mina a cielo abierto.</a><br>
-                    Ruvalcaba Grimaldo Ruth Georgina. 2017. <a target="_blank" href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/4189/MCA1RGR201701.pdf?sequence=3&isAllowed=y">Propuesta de programa de auditoría ambiental de competencia estatal para San Luis Potosí, México</a><br>
-                    López Díaz Norma Lilia. 2019. <a target="_blank" href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/5722/MCA1LDN201901.pdf?sequence=1&isAllowed=y">Evaluación del potencial de generación de biogás en sitios de disposición final del Estado de San Luis Potosí, y sus posibles opciones de valorización</a><br>
-                    Martínez Moreno Carolina. 2020. Análisis y definición de elementos de innovación para la mejora de un sistema de gestión ambiental de una empresa metal-mecánica
+                  Calva Hérnández David. 2011. <a target="_blank" href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/3602/MCA1CIS01101.pdf?sequence=3&isAllowed=y">Caracterización isotópica de la precipitación en el Estado de San Luis Potosí.</a><br>
+                  Herrera Zaragoza Liliana del Rocío. 2012.<a target="_blank" href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/3685/MCA1ESC01201.pdf?sequence=1&isAllowed=y"> Escenarios futuros del reúso de agua residual tratada a nivel terciario para abastecimiento público-urbano en Ecatepec, Estado de México.</a><br>
+                  Herrera Rendón Eduardo. 2013. <a target="_blank" href="https://ninive.uaslp.mx/xmlui/handle/i/3592">Relación agua subterránea-vegetación en la zona costera del norte de Yucatán.</a> (Co-dirección).<br>
+                  Ruiz Rivera Claudia. 2015. <a target="_blank" href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/3976/MCA1ECA01501.pdf?sequence=1&isAllowed=y">Evaluación de la calidad del agua de Villa de la Paz, San Luis Potosí, México y propuesta de tratamiento.</a><br>
+                  Gardea López Alejandra. 2019. <a target="_blank" href="https://ninive.uaslp.mx/xmlui/handle/i/5721">Caracterización ambiental del manantial "Ojo de Agua", Moctezuma, S.L.P. y acciones para su conservación y uso.</a></br>
                 </p>
                 <br>
                 <p><em>Doctorado en Ciencias Ambientales</em></p>
                 <p>
-                  Velázquez Angulo Gilberto. 2008. <a target="_blank" href="http://ambiental.uaslp.mx/pmpca/tesis/Doc/Gen2004-08/2008_pmpca_velazquezangulo.pdf">Diseño de una red de monitoreo atmosférico para la ciudad de San Luis Potosí: ubicación de nodos.</a><br>
-                  Ortega Montoya Claudia Yazmin. 2015. <a target="_blank" href="http://ambiental.uaslp.mx/pmpca/tesis/Doc/Gen2011-02/2015_pmpca_ortegamontoya.pdf">Propuesta metodológica para la evaluación del riesgo ambiental debido al manejo de materiales peligrosos en el estado de San Luis Potosí.</a><br>
-                  Hernández Cerda Claudia Nalleli. 2022. Elementos para la evaluación de la movilidad urbana en áreas conurbadas: diagnóstico y propuesta de movilidad integral. El caso de la zona metropolitana de San Luis Potosí
+                  Rocha Escalante Hermann. 2016. <a target="_blank" href="http://ninive.uaslp.mx/jspui/bitstream/i/4135/1/DCA1REH201601.pdf">Groundwater use in the Merida-Progreso Region, Yucatan, and its implications in the coastal are ecosystems requirements.</a><br>
+                  Barbosa Briones Elda. 2019. <a target="_blank" href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/5672/DCA1BBE201901.pdf?sequence=1&isAllowed=y">Análisis del funcionamiento hidrológico en cuencas con actividad minera con base en sistemas de flujo como eje integrador.</a> (Co-dirección).<br>
                 </p>
               </ol>
             </div>
           </div>
         </div>
-        <!--<div class="accordion-item">
+        <div class="accordion-item">
           <h2 class="accordion-header" id="headingTwo">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
               data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
@@ -130,7 +121,7 @@
             </div>
           </div>
         </div>
-        <div class="accordion-item">
+        <!--<div class="accordion-item">
           <h2 class="accordion-header" id="headingThree">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
               data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">

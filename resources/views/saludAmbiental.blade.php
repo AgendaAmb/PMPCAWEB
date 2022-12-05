@@ -49,19 +49,28 @@
                 <div>
                     <div class="mx-5">
                         <h4><strong>Nombre de la LGAC del área:</strong></h4>
-                        Identificación, análisis y caracterización de problemas ambientales.
+                        Evaluación del riesgo en salud humana y ecológica a través de intervenciones comunitarias.
                     </div>
 
                     <hr>
 
                     <div class="mb-5 mx-5">
                         <h4><strong>Profesores del área</strong></h4>
-                        <a href="#" id="enlacesProfEvaluacion">Dr. Antonio Cardona Benavides</a> <br>
-                        <a href="#" id="enlacesProfEvaluacion">Dr. Guillermo Javier Castro Larragoitia</a> <br>
-                        <a href="#" id="enlacesProfEvaluacion">Dr. Marcos Algara Siller</a> <br>
-                        <a href="#" id="enlacesProfEvaluacion">Dr. Alfredo Ávila Galarza</a> <br>
-                        <a href="#" id="enlacesProfEvaluacion">Dr. Luis Armando Bernal Jácome</a> <br>
-                        <a href="#" id="enlacesProfEvaluacion">Dr. Israel Razo Soto</a> <br>
+                        <a href="#" id="enlacesProfEvaluacion">Dr. José Antonio Ávalos Lozano</a> <br>
+                        <a href="#" id="enlacesProfEvaluacion">Dra. Jaqueline Calderón Hernández</a> <br>
+                        <a href="#" id="enlacesProfEvaluacion">Dra. Virginia Gabriela Cilia López</a> <br>
+                        <a href="#" id="enlacesProfEvaluacion">Dra. Ana Cristina Cubillas Tejeda</a> <br>
+                        <a href="#" id="enlacesProfEvaluacion">Dr. Fernando Díaz-Barriga Martínez</a> <br>
+                        <a href="#" id="enlacesProfEvaluacion">Dra. Gabriela Domínguez Cortinas</a> <br>
+                        <a href="#" id="enlacesProfEvaluacion">Dr. Guillermo Espinosa Reyes</a> <br>
+                        <a href="#" id="enlacesProfEvaluacion">Dr. Rogelio Flores Ramírez</a> <br>
+                        <a href="#" id="enlacesProfEvaluacion">Dra. Donají Josefina González Mille</a> <br>
+                        <a href="#" id="enlacesProfEvaluacion">Dr. César Ilizaliturri Hernández</a> <br>
+                        <a href="#" id="enlacesProfEvaluacion">Dr. José de Jesús Mejía Saavedra</a> <br>
+                        <a href="#" id="enlacesProfEvaluacion">Dr. Francisco Javier Pérez Vázquez</a> <br>
+                        <a href="#" id="enlacesProfEvaluacion">Dra. Silvia Romero Contreras</a> <br>
+                        <a href="#" id="enlacesProfEvaluacion">Dr. Moisés Roberto Vallejo Pérez</a> <br>
+                        <a href="#" id="enlacesProfEvaluacion">Dra. Leticia Guadalupe Yáñez Estrada</a> <br>
                     </div>
                 </div>
             </div>

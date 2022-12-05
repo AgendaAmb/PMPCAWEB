@@ -71,6 +71,13 @@ Route::get('/AAvila', function () {
     return view('/profesores/AAvila');
 });
 
+Route::get('/LBernal', function () {
+    return view('/profesores/LBernal');
+});
+Route::get('/IRazo', function () {
+    return view('/profesores/IRazo');
+});
+
 Route::get('/directorio', function () {
     return view('directorio');
 });

@@ -7,30 +7,31 @@
     <div id="professor-description" class="row mb-4">
     <div class="col-12 col-sm-12">
       <br>
-        <h1><strong>DR. ALFREDO ÁVILA GALARZA</strong></h1><br>
+        <h1><strong>DR. CARLOS CONTRERAS SERVÍN</strong></h1><br>
     </div>
     <div class="col-12 col-sm-3 ">
-        <img class="mx-auto d-block" src="{{asset('storage/images/Alfredo_Avila_Galarza.png')}}" alt="">
+        <img class="mx-auto d-block" src="{{asset('storage/images/CarlosContrerasServin.png')}}" alt="">
     </div>
     <div class="col-12 col-sm-9">
         <div>
         <h4><strong>Profesor Investigador de Tiempo Completo Nivel VI.</strong></h4>
-        <h5><strong>Facultad de Ingeniería</strong></h5>
+        <h5><strong>Facultad de Ciencias Sociales y Humanidades</strong></h5>
         <h5><strong>SNI nivel I.</strong></h5>
         <br>
         <p>
-            Dr. Manuel Nava No. 8, Zona Universitaria Poniente <br>
-            C.P. 78290, San Luis Potosí, S. L. P., México <br> <br>
-            Teléfono: +52 (444) 826-2300 Ext. 7201 <br>
-            galarza@uaslp.mx <br>
+            Av. Industrias #101-A Fracc. Talleres <br>
+            C.P. 78399, San Luis Potosí, S. L. P., México <br> <br>
+            Teléfono: +52 (444) 832-1000<br>
+            coser@uaslp.mx <br>
         </p>
 
         <div class="enlacesprof">
-            <a target="_blank" href="http://ciep.ing.uaslp.mx/agua/profesor.php?id=3130363637">Webpage</a>
-            <a target="_blank" href="storage/CV/Avila_Galarza_Alfredo.pdf">Curriculum Vitae </a>
-            <a target="_blank" href="https://investigadores.uaslp.mx/InvestigadorProfile/qykAAA%3d%3d">Directorio de Investigadores</a>
-            <a target="_blank" href="https://orcid.org/0000-0003-0903-0428"><img src="{{asset('storage/images/orcid.png')}}" alt=""></a>
-            <a target="_blank" href="https://www.scopus.com/authid/detail.uri?authorId=56586111500"> <img src="{{asset('storage/images/scopus.png')}}" alt=""></a>
+            <a target="_blank" href="http://langif.uaslp.mx/">Webpage 1</a>
+            <a target="_blank" href="http://lages.uaslp.mx/">Webpage 2</a>
+            <a target="_blank" href="storage/CV/Contreras_Servin_Carlos.pdf">Curriculum Vitae </a>
+            <a target="_blank" href="https://investigadores.uaslp.mx/InvestigadorProfile/4DoAAA%3d%3d">Directorio de Investigadores</a>
+            <a target="_blank" href="http://orcid.org/0000-0003-2221-1565"><img src="{{asset('storage/images/orcid.png')}}" alt=""></a>
+            <a target="_blank" href="https://www.scopus.com/authid/detail.uri?authorId=23485024400"> <img src="{{asset('storage/images/scopus.png')}}" alt=""></a>
         </div>
         </div>
     </div>
@@ -48,50 +49,42 @@
             <div class="accordion-body">
               <ol>
                 <li><strong>Cursos</strong></li>
-                    <p>TSCA: Ingeniería ambiental<br>
-                       Impacto y riesgo ambiental<br>
-                       Contaminación y modelación de la calidad del aire<br>
-                       Manejo de residuos<br>
-                       Gestión y auditoría ambiental<br></p>
+                    <p>TSCA: Climatología Aplicada<br>
+                    Planeación y Ordenamiento</p>
 
                 <li><strong>LGAC</strong></li>
-                <p>Manejo de residuos sólidos y contaminación atmosférica a la escala local<br>
-                   Gestión, auditoría, impacto y riesgo ambiental<br>
+                <p>Historia Ambiental<br>
+                   Planeación y ordenamiento territorial y ambiental
                 </p>
                 <li><strong>Dirección de Tesis</strong></li><br>
                 <p><em>Maestría en Ciencias Ambientales (Doble titulación), Co-Dirección</em></p>
                 <p>
-                  Botello Salinas Leslie Aideé. 2010. <a target="_blank" href="http://ambiental.uaslp.mx/pmpca/tesis/Mae/Gen%202008-08/2010_pmpca_botellosalinas.pdf">Evaluation method of an environmental management system of hazardous substances in the industry. Case of a German-Mexican Company</a><br>
-                  Rodríguez Marat Martin Miguel. 2016. <a target="_blank" href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/4682/MCA1RMM201601.pdf?sequence=1&isAllowed=y">Modelos de predicción de generación de biogás: análisis crítico y aplicación al caso de Tucumán, Argentina</a><br>
-                  Benavides Mondragón Lucia Elsa. 2017. <a target="_blank" href="https://ninive.uaslp.mx/xmlui/handle/i/4337">Advancing sustainability in Latin American cities: a study case on the urban metabolism of San Luis Potosí, México</a><br>
-                  Coenen Heleen. 2020. A methodological guideline to assess integrated municipal solid waste management in Ecuador<br>
-                  Rivera Cabrera Ana Cecilia. 2020. The role of the USMCA in multi-level governance of transboundary air pollution in the border region of US-MX: case California-Baja California<br>
-                  Samaniego Figueroa Ximena. 2021. Integrated waste management assessment for end-of-life photovoltaic modules: a case study of Mexico<br>
-                  Ayala Gómez Tatiana Sophia. 2022. Analysis of municipal organic waste-to-energy production chains: feasibility of biohydrogen generation in Cali, Colombia
+                  Beele Albert Heinrich. 2012. <a href="http://ambiental.uaslp.mx/pmpca/tesis/Mae/Gen%202010-08/2012_pmpca_beelealbert.pdf">Evaluation of the new policy for thermal insulation standards in the residential sector in Mexico. Applicability of the standard NOM-020-ENER-2011.</a><br>
+                  Moie Jascha Julius. 2012. <a href="http://ambiental.uaslp.mx/pmpca/tesis/Mae/Gen%202010-08/2012_pmpca_moiejascha.pdf">Bioclimatic residential building design under tropical humid conditions: short on-site comfort evaluations and physical investigations for different case studies in Quintana Roo, Mexico.</a>
                 </p>
                 <br>
                 <p><em>Maestría en Ciencias Ambientales</em></p>
                 <p>
-                    Ortega Montoya Claudia Yazmin. 2009. <a target="_blank" href="http://ambiental.uaslp.mx/pmpca/tesis/Mae/Gen%202007-08/2009_pmpca_ortegamontoya.pdf">Propuesta metodológica para la realización de un mapa de riesgo por manejo de sustancias químicas en fuentes fijas para la ciudad de San Luis Potosí.</a><br>
-                    Gallegos Martínez Erika. 2010. <a target="_blank" href="http://ambiental.uaslp.mx/pmpca/tesis/Mae/Gen%202008-08/2010_pmpca_gallegosmartinez.pdf">Inventario de emisiones de partículas y modelado de su transporte a partir de fuentes de área de una industria minera.</a><br>
-                    Aguilera Flores Miguel Mauricio. 2011. <a target="_blank" href="http://ambiental.uaslp.mx/pmpca/tesis/Mae/Gen%202009-08/2011_pmpca_aguileraflores.pdf">Análisis de riesgo ambiental por el manejo de sustancias químicas peligrosas en las instalaciones de la Facultad de Ingeniería de la UASLP.</a><br>
-                    Flores Jiménez David Enrique. 2011. <a target="_blank" href="http://ambiental.uaslp.mx/pmpca/tesis/Mae/Gen%202009-08/2011_pmpca_floresjimenez.pdf">Modelado del transporte y propuesta de metodología para la ubicación de estaciones de monitoreo de pm10 en una mina a cielo abierto.</a><br>
-                    Ruvalcaba Grimaldo Ruth Georgina. 2017. <a target="_blank" href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/4189/MCA1RGR201701.pdf?sequence=3&isAllowed=y">Propuesta de programa de auditoría ambiental de competencia estatal para San Luis Potosí, México</a><br>
-                    López Díaz Norma Lilia. 2019. <a target="_blank" href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/5722/MCA1LDN201901.pdf?sequence=1&isAllowed=y">Evaluación del potencial de generación de biogás en sitios de disposición final del Estado de San Luis Potosí, y sus posibles opciones de valorización</a><br>
-                    Martínez Moreno Carolina. 2020. Análisis y definición de elementos de innovación para la mejora de un sistema de gestión ambiental de una empresa metal-mecánica
+                  Guevara Gasca Víctor Amador. 2007. <a href="http://ambiental.uaslp.mx/pmpca/tesis/Mae/Gen%202004-08/2007_pmpca_guevaragasca.pdf">Distribución espacial y abastecimiento del agua para uso humano, en el área metropolitana de la ciudad de San Luis Potosí: problemática e implicaciones.</a><br>
+                  Herrera Godina Melva Guadalupe. 2009. <a href="http://ambiental.uaslp.mx/pmpca/tesis/Mae/Gen%202006-08/2009_pmpca_herreragodina.pdf">Utilización de los sistemas de información geográfica para el estudio de la vulnerabilidad en los municipios de Ébano, Tamuín y San Vicente Tancuayalab ante la ruta de exposición del plaguicida fipronil.</a><br>
+                  Magaña Ortiz Cecilia. 2010. <a href="http://ambiental.uaslp.mx/pmpca/tesis/Mae/Gen%202007-08/2010_pmpca_maganaortiz.pdf">Estudio comparativo de la langosta centroamericana (S. piceifrons piceifrons, Walker) en la Huasteca Potosina y el estado de Yucatán.</a><br>
+                  Quintero Ruíz Joab Raziel. 2012. <a href="http://ambiental.uaslp.mx/pmpca/tesis/Mae/Gen%202010-08/2012_pmpca_quinteroruiz.pdf">Estudio ambiental y social comparativo del bosque húmedo en base al cambio de uso de suelo entre la Huasteca Potosina, México y la Mata Atlántica, Río de Janeiro, Brasil.</a> (Co-dirección)<br>
+                  Peralta Rivero Carmelo. 2012. <a href="http://ambiental.uaslp.mx/pmpca/tesis/Mae/Gen%202010-08/2012_pmpca_peraltarivero.pdf">Evaluación del uso, cambio de uso y cobertura del suelo, y proyectos forestales del Mecanismo de Desarrollo Limpio (MDL) y de la Reducción de las Emisiones Derivadas de la Deforestación y la Degradación Forestal (REDD) en el municipio de Riberalta, Amazonía Boliviana.</a><br>
+                  López Pérez Andrés Osvaldo. 2017. <a href="https://ninive.uaslp.mx/xmlui/handle/i/4205">La movilidad en la zona metropolitana de la ciudad de San Luis Potosí: análisis espacial del transporte público y propuesta por medio de estándares de desarrollo orientado a transporte.</a><br>
+                  Rosales González Juana. 2017. <a href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/4209/MCA1RGJ201701.pdf?sequence=1&amp;isAllowed=y">El derecho humano al agua para consumo personal y domestico: el caso de la comunidad San Juan de Guadalupe, San Luis Potosí, S.L.P., México.</a>
                 </p>
                 <br>
                 <p><em>Doctorado en Ciencias Ambientales</em></p>
                 <p>
-                  Velázquez Angulo Gilberto. 2008. <a target="_blank" href="http://ambiental.uaslp.mx/pmpca/tesis/Doc/Gen2004-08/2008_pmpca_velazquezangulo.pdf">Diseño de una red de monitoreo atmosférico para la ciudad de San Luis Potosí: ubicación de nodos.</a><br>
-                  Ortega Montoya Claudia Yazmin. 2015. <a target="_blank" href="http://ambiental.uaslp.mx/pmpca/tesis/Doc/Gen2011-02/2015_pmpca_ortegamontoya.pdf">Propuesta metodológica para la evaluación del riesgo ambiental debido al manejo de materiales peligrosos en el estado de San Luis Potosí.</a><br>
-                  Hernández Cerda Claudia Nalleli. 2022. Elementos para la evaluación de la movilidad urbana en áreas conurbadas: diagnóstico y propuesta de movilidad integral. El caso de la zona metropolitana de San Luis Potosí
+                  Algara Siller Marcos. 2009. <a href="http://ambiental.uaslp.mx/pmpca/tesis/Doc/Gen2005-02/2009_pmpca_algarasiller.pdf">Propuesta metodológica para medir el impacto del fenómeno de la sequía en la Huasteca Potosina y propuesta general de manejo.</a><br>
+                  Peralta Rivero Carmelo. 2016. <a href="http://ambiental.uaslp.mx/pmpca/tesis/Doc/Gen2012-08/2016_pmpca_peraltarivero.pdf">Evaluación de los cambios de cobertura y uso de suelo en la región huasteca de México: “Un análisis del pasado, el presente y tendencias futuras de deforestación. </a> (Co-Dirección)<br>
+                  Medina Garza Hugo. 2017. <a href="https://ninive.uaslp.mx/xmlui/handle/i/4518">Sistema de vigilancia epidemiológica sanitaria para la Huasteca Potosina. Una plataforma para la vigilancia de la enfermedad de Chagas.</a><br>
                 </p>
               </ol>
             </div>
           </div>
         </div>
-        <!--<div class="accordion-item">
+        <div class="accordion-item">
           <h2 class="accordion-header" id="headingTwo">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
               data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
@@ -130,7 +123,7 @@
             </div>
           </div>
         </div>
-        <div class="accordion-item">
+        <!--<div class="accordion-item">
           <h2 class="accordion-header" id="headingThree">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
               data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
