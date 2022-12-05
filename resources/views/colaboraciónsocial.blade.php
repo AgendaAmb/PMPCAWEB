@@ -9,7 +9,7 @@
                 </div>
                 <div class="col-12 col-sm-12 mt-5">
                     <div>
-                        <p>
+                        <p id="contTablaIzq">
                             La principal contribución social del Programa Multidisciplinario de Posgrado en Ciencias
                             Ambientales (PMPCA) es
                             la formación de recursos humanos con capacidad de incidir de manera novedosa en la generación de
@@ -24,14 +24,14 @@
                             vertientes: <br><br>
 
                         <ol>
-                            <li>Formación de estudiantes egresados de alta calidad para el estudio multidisciplinario y la
+                            <li id="contTablaIzq">Formación de estudiantes egresados de alta calidad para el estudio multidisciplinario y la
                                 solución de problemas ambientales regionales, nacionales e internacionales con una
                                 perspectiva intercultural.</li> <br><br>
-                            <li>Difusión del conocimiento para generar y fortalecer capacidades individuales y colectivas
+                            <li id="contTablaIzq">Difusión del conocimiento para generar y fortalecer capacidades individuales y colectivas
                                 -en particular, con comunidades vulnerables- para mejorar su calidad de vida a partir de un
                                 mejor aprovechamiento de sus recursos naturales y la utilización de la tecnología en la
                                 atención de necesidades locales.</li> <br><br>
-                            <li>Aplicación de la investigación básica en problemas de interés local, regional e
+                            <li id="contTablaIzq">Aplicación de la investigación básica en problemas de interés local, regional e
                                 internacional con todos los actores para concientizar, intervenir y crear alternativas de
                                 cambio para el desarrollo de un entorno más sustentable.</li><br>
                         </ol>

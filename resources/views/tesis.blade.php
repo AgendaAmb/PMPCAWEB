@@ -27,7 +27,7 @@
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body" id="accordionTextM">
                             <div class="col-12 col-sm-10 border-end border-start border-top">
-                                <table class="table table-striped-columns">
+                                <table class="table table-bordered border-dark" id="colorTexto">
                                     <thead>
                                         <tr>
                                             <th scope="col" id="tablaTitulos">Año</th>
@@ -158,7 +158,7 @@
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body" id="accordionTextM">
                             <div class="col-12 col-sm-10 border-end border-start border-top">
-                                <table class="table table-striped-columns">
+                                <table class="table table-bordered border-dark" id="colorTexto">
                                     <thead>
                                         <tr>
                                             <th scope="col" id="tablaTitulos">Año</th>
@@ -408,7 +408,7 @@
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body" id="accordionTextM">
                             <div class="col-12 col-sm-10 border-end border-start border-top">
-                                <table class="table table-striped-columns">
+                                <table class="table table-bordered border-dark" id="colorTexto">
                                     <thead>
                                         <tr>
                                             <th scope="col" id="tablaTitulos">Año</th>
@@ -545,7 +545,7 @@
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body" id="accordionTextM">
                             <div class="col-12 col-sm-10 border-end border-start border-top">
-                                <table class="table table-striped-columns">
+                                <table class="table table-bordered border-dark" id="colorTexto">
                                     <thead>
                                         <tr>
                                             <th scope="col" id="tablaTitulos">Año</th>
@@ -834,7 +834,7 @@
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body" id="accordionTextM">
                             <div class="col-12 col-sm-10 border-end border-start border-top">
-                                <table class="table table-striped-columns">
+                                <table class="table table-bordered border-dark" id="colorTexto">
                                     <thead>
                                         <tr>
                                             <th scope="col" id="tablaTitulos">Año</th>
@@ -1205,7 +1205,7 @@
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body" id="accordionTextM">
                             <div class="col-12 col-sm-10 border-end border-start border-top">
-                                <table class="table table-striped-columns">
+                                <table class="table table-bordered border-dark" id="colorTexto">
                                     <thead>
                                         <tr>
                                             <th scope="col" id="tablaTitulos">Año</th>
@@ -1758,7 +1758,7 @@
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body" id="accordionTextM">
                             <div class="col-12 col-sm-10 border-end border-start border-top">
-                                <table class="table table-striped-columns">
+                                <table class="table table-bordered border-dark" id="colorTexto">
                                     <thead>
                                         <tr>
                                             <th scope="col">Año</th>
@@ -3123,7 +3123,7 @@
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body" id="accordionTextM">
                             <div class="col-12 col-sm-10 border-end border-start border-top">
-                                <table class="table table-striped-columns">
+                                <table class="table table-bordered border-dark" id="colorTexto">
                                     <thead>
                                         <tr>
                                             <th scope="col" id="tablaTitulos">Año</th>
@@ -3554,7 +3554,7 @@
                             <div class="col-12 col-sm-12 mx-5">
                                 <div class="col-12 col-sm-10 mx-5">
                                     <div class="col-12 col-sm-10 border-end border-start border-top mx-5">
-                                        <table class="table table-striped-columns">
+                                        <table class="table table-bordered border-dark" id="colorTexto">
                                             <thead>
                                                 <tr>
                                                     <th scope="col" id="tablaTitulos">Año</th>
@@ -3587,7 +3587,7 @@
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body" id="accordionTextM">
                             <div class="col-12 col-sm-10 border-end border-start border-top">
-                                <table class="table table-striped-columns">
+                                <table class="table table-bordered border-dark" id="colorTexto">
                                     <thead>
                                         <tr>
                                             <th scope="col" id="tablaTitulos">Año</th>

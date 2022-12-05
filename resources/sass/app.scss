@@ -344,5 +344,15 @@ a:hover {
   width: 300px;
 }
 
+#imgcenter{
+  align-items: center;
+  justify-content: center;
+}
+
+.accordion-body
+{
+  color: #666;
+}
+
 @import "~bootstrap/scss/bootstrap.scss";
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');

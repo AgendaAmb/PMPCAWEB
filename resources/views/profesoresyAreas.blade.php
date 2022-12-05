@@ -4,21 +4,21 @@
     <html lang="es">
 
     <div id="colorTexto">
-        <div id="p-container" class="container px-lg-8.5 px-md-5 border">
-            <div class="col-12 col-sm-12 border">
+        <div id="p-container" class="container px-lg-8.5 px-md-5">
+            <div class="col-12 col-sm-12">
                 <img src="{{ asset('storage/images/11.png') }}" alt="">
                 <div class="barraAzulFuerte"></div>
             </div>
-            <div id="professor-description" class="row mb-4 p-5 border">
-                <div class="col-12 col-sm-12 border">
+            <div id="professor-description" class="row mb-4 p-5">
+                <div class="col-12 col-sm-12">
                     <h1><strong>PROFESORES Y ÁREAS DE ESPECIALIZACIÓN</strong></h1>
                 </div>
 
-                <div class="row col-12 col-sm-12 border  mt-2 mb-4">
-                    <div class="col-12 col-sm-4 border">
+                <div class="row col-12 col-sm-12  mt-2 mb-4">
+                    <div class="col-12 col-sm-4">
                         <img src="{{ asset('storage/images/12.png') }}" class="rounded float-end" alt="">
                     </div>
-                    <div class="col-12 col-sm-8 border ">
+                    <div class="col-12 col-sm-8" id="contTablaIzq">
                         <strong id="h2info">Evaluación ambiental</strong> <br>La evaluación de rutas de dispersión,
                         controles
                         de movilidad-retención, estado de los conocimientos en el ambiente, y análisis de sus posibles vías
@@ -33,11 +33,11 @@
                     </div>
                 </div>
                 <hr>
-                <div class="row col-12 col-sm-12 border mt-2 mb-4">
-                    <div class="col-12 col-sm-4 border">
+                <div class="row col-12 col-sm-12 mt-2 mb-4">
+                    <div class="col-12 col-sm-4">
                         <img src="{{ asset('storage/images/13.png') }}" class="rounded float-end" alt="">
                     </div>
-                    <div class="col-12 col-sm-8 border">
+                    <div class="col-12 col-sm-8" id="contTablaIzq">
                         <strong id="h2info">Gestión ambiental</strong> <br> La LGAC Gestión Ambiental, Territorio y
                         Sustentabilidad, comprende el desarrollo multidisciplinario de conocimientos mediante diversas
                         técnicas
@@ -52,11 +52,11 @@
 
                 <hr>
 
-                <div class="row col-12 col-sm-12 border mt-2 mb-4">
-                    <div class="col-12 col-sm-4 border">
+                <div class="row col-12 col-sm-12 mt-2 mb-4">
+                    <div class="col-12 col-sm-4" id="imgcenter">
                         <img src="{{ asset('storage/images/14.png') }}" class="rounded float-end" alt="">
                     </div>
-                    <div class="col-12 col-sm-8 border">
+                    <div class="col-12 col-sm-8" id="contTablaIzq">
                         <strong id="h2info">Prevención y control</strong> <br> Formación de recursos humanos de alto
                         nivel,
                         capaces de proporcionar alternativas de soluciones a problemas de contaminación de agua y suelo,
@@ -74,11 +74,11 @@
 
                 <hr>
 
-                <div class="row col-12 col-sm-12 border mt-2 mb-4">
-                    <div class="col-12 col-sm-4 border">
+                <div class="row col-12 col-sm-12 mt-2 mb-4">
+                    <div class="col-12 col-sm-4" id="contTablaIzq">
                         <img src="{{ asset('storage/images/15.png') }}" class="rounded float-end" alt="">
                     </div>
-                    <div class="col-12 col-sm-8 border">
+                    <div class="col-12 col-sm-8" id="contTablaIzq">
                         <strong id="h2info">Recursos naturales renovables</strong> <br> La LGAC abordará el conocimiento,
                         aprovechamiento racional y conservación de los recursos naturales renovables. Esto incluye el
                         conocimiento de la composición
@@ -101,11 +101,11 @@
 
                 <hr>
 
-                <div class="row col-12 col-sm-12 border mt-2 mb-4">
-                    <div class="col-12 col-sm-4 border">
+                <div class="row col-12 col-sm-12 mt-2 mb-4">
+                    <div class="col-12 col-sm-4">
                         <img src="{{ asset('storage/images/16.png') }}" class="rounded float-end" alt="">
                     </div>
-                    <div class="col-12 col-sm-8 border">
+                    <div class="col-12 col-sm-8" id="contTablaIzq">
                         <strong id="h2info">Salud ambiental integral</strong> <br> Las comunidades vulnerables requieren
                         de
                         información y formación para mejorar su calidad de vida a partir de un mejor aprovechamiento de sus
