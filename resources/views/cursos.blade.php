@@ -1,7 +1,7 @@
 @extends('base')
 
 @section('maincontent')
-<div id="colorTexto">
+<div id="main">
     <div id="p-container" class="container px-lg-8.5 px-md-5">
         <div class="col-12 col-sm-12">
             <img src="{{ asset('storage/images/10.png') }}" alt="">
@@ -17,15 +17,24 @@
                 <div class="col-12 col-sm-1 ">
                 </div>
                 <div class="col-12 col-sm-3 ">
-                    <a class="btn btn-primary rounded-pill" id="botonesGeneral" href="#headingThree"
+                    <a class="btn btn-primary rounded-pill" id="botonesGeneral"
+                        v-on:click="scrollTo('primero')"
+                        data-bs-toggle="collapse"
+                        data-bs-target="#collapseThree"
                         role="button">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspBásicos&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</a>
                 </div>
                 <div class="col-12 col-sm-3 ml-5">
-                    <a class="btn btn-primary rounded-pill" id="botonesGeneral" href="#headingTwo"
+                    <a class="btn btn-primary rounded-pill" id="botonesGeneral"
+                        v-on:click="scrollTo('segundo')"
+                        data-bs-toggle="collapse"
+                        data-bs-target="#collapseTwo"
                         role="button">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspOptativos&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</a>
                 </div>
                 <div class="col-12 col-sm-3">
-                    <a class="btn btn-primary rounded-pill" id="botonesGeneral" href="#headingFour"
+                    <a class="btn btn-primary rounded-pill" id="botonesGeneral"
+                        v-on:click="scrollTo('tercero')"
+                        data-bs-toggle="collapse"
+                        data-bs-target="#collapseFour"
                         role="button">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspTópicos
                         selectos&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</a>
                 </div>
@@ -63,7 +72,7 @@
         <div class="accordion p-2" id="accordionExample">
             <div class="accordion-item">
                 <div class="accordion-item" id="colorTexto">
-                    <h2 class="accordion-header" id="headingThree">
+                    <h2 ref="primero" class="accordion-header" id="headingThree">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                             <strong>Cursos básicos &nbsp</strong> <i class="fa-solid fa-arrow-down-long"></i>
@@ -72,15 +81,15 @@
                     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                            76900001 Desarrollo sustentable<br>
-                            76900053 Ecología<br>
-                            76900057 Introducción a la estadística<br>
-                            76900058 Problemática y gestión ambiental<br>
+                            <a href="{{route('cursos.Basicos.DesarrolloSustentable')}}" target="_blank">76900001 Desarrollo sustentable</a><br>
+                            <a href="{{route('cursos.Basicos.Ecologia')}}" target="_blank">76900053 Ecología</a><br>
+                            <a href="{{route('cursos.Basicos.IntroduccionEstadistica')}}" target="_blank">76900057 Introducción a la estadística</a><br>
+                            <a target="_blank">76900058 Problemática y gestión ambiental</a><br>
                         </div>
                     </div>
                 </div>
                 <div class="accordion-item" id="colorTexto">
-                    <h2 class="accordion-header" id="headingTwo">
+                    <h2 ref="segundo" class="accordion-header" id="headingTwo">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                             <strong>Cursos optativos &nbsp</strong> <i class="fa-solid fa-arrow-down-long"></i>
@@ -107,7 +116,7 @@
                     </div>
                 </div>
                 <div class="accordion-item" id="colorTexto">
-                    <h2 class="accordion-header" id="headingFour">
+                    <h2 ref="tercero" class="accordion-header" id="headingFour">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
                             <strong>Cursos tópicos selectos &nbsp</strong> <i class="fa-solid fa-arrow-down-long"></i>
@@ -155,4 +164,22 @@
         <hr>
     </div>
 </div>
+
+<script>
+    var app = new Vue({
+        el: '#main',
+        data: {
+        },
+        mounted() {
+        },
+        methods: {
+            scrollTo(element){
+                this.$refs[element].scrollIntoView(
+                    {behavior: "smooth"}
+                );
+            }
+        },
+
+    })
+</script>
 @endsection

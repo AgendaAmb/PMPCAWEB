@@ -12,6 +12,8 @@
     <script src="{{ asset('js/app.js') }}" defer></script>
     <!-- Bootstrap -->
     <script src="https://kit.fontawesome.com/c8e5690449.js" crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/vue@2"></script>
 </head>
 <body>
     @include('templates.header')

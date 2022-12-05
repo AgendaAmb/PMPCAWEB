@@ -37,10 +37,6 @@ Route::get('/ofertaEducativa', function () {
     return view('ofertaEducativa');
 });
 
-Route::get('/areas', function () {
-    return view('profesoresyAreas');
-});
-
 Route::get('/biblioteca', function () {
     return view('bibliotecas');
 });
@@ -50,32 +46,136 @@ Route::get('/seminarios', function () {
     return view('seminarios');
 });
 
+//  ! Cursos
+Route::prefix('cursos')->name('cursos.')->group(function () {
 
-Route::get('/cursos', function () {
-    return view('cursos');
+    // * Cursos
+    Route::get('/', function () {
+        return view('cursos');
+    })->name('index');
+
+    Route::prefix('Basicos')->name('Basicos.')->group(function () {
+
+        Route::get('DesarrolloSustentable', function () {
+            return view('programas.desarrolloSustentable');
+        })->name('DesarrolloSustentable');
+
+        Route::get('Ecologia', function () {
+            return view('programas.ecologia');
+        })->name('Ecologia');
+
+        Route::get('IntroduccionEstadistica', function () {
+            return view('programas.IntroduccionEstadistica');
+        })->name('IntroduccionEstadistica');
+
+    });
+
+    Route::prefix('Optativos')->name('Optativos.')->group(function () {
+    });
+
+    Route::prefix('TopicosSelectos')->name('TopicosSelectos.')->group(function () {
+
+    });
 });
 
-Route::get('/ACardona', function () {
-    return view('/profesores/ACardona');
-});
+// ! AREAS DEL PMPCA
+Route::prefix('areas')->name('areas.')->group(function () {
+    // * Areas del PMPCA
+    Route::get('/', function () {
+        return view('profesoresyAreas');
+    })->name('index');
 
-Route::get('/GCastro', function () {
-    return view('/profesores/GCastro');
-});
+    // ! Evaluación Ambiental
+    Route::prefix('EvaluacionAmbiental')->name('EvaluacionAmbiental.')->group(function () {
+        
+        // * Principal
+        Route::get('/', function () {
+            return view('evaluacionAmbiental'); 
+        })->name('index');
 
-Route::get('/MAlgara', function () {
-    return view('/profesores/MAlgara');
-});
+        // * Profesores
+        Route::prefix('Profesores')->name('Profesores.')->group(function () {
 
-Route::get('/AAvila', function () {
-    return view('/profesores/AAvila');
-});
+            Route::get('/ACardona', function () {
+                return view('/profesores/ACardona');
+            })->name('ACardona');
 
-Route::get('/LBernal', function () {
-    return view('/profesores/LBernal');
-});
-Route::get('/IRazo', function () {
-    return view('/profesores/IRazo');
+            Route::get('/GCastro', function () {
+                return view('/profesores/GCastro');
+            })->name('GCastro');
+
+            Route::get('/MAlgara', function () {
+                return view('/profesores/MAlgara');
+            })->name('MAlgara');
+
+            Route::get('/AAvila', function () {
+                return view('/profesores/AAvila');
+            })->name('AAvila');
+
+            Route::get('/LBernal', function () {
+                return view('/profesores/LBernal');
+            })->name('LBernal');
+
+            Route::get('/IRazo', function () {
+                return view('/profesores/IRazo');
+            })->name('IRazo');
+            
+        });
+    });
+
+    // ! Gestión Ambiental
+    Route::prefix('GestionAmbiental')->name('GestionAmbiental.')->group(function () {
+
+        // * Principal
+        Route::get('/', function () {
+            return view('gestionAmbiental');
+        })->name('index');
+
+        // * Profesores
+        Route::prefix('Profesores')->name('Profesores.')->group(function () {
+        });
+
+    });
+
+    // ! Prevención y Control
+    Route::prefix('PrevencionYControl')->name('PrevencionYControl.')->group(function () {
+
+        // * Principal
+        Route::get('/', function () {
+            return view('prevencion');
+        })->name('index');
+
+        // * Profesores
+        Route::prefix('Profesores')->name('Profesores.')->group(function () {
+        });
+    });
+
+
+    // ! Recursos Naturales
+    Route::prefix('RecursosNaturales')->name('RecursosNaturales.')->group(function () {
+
+        // * Principal
+        Route::get('/', function () {
+            return view('recursosNaturales');
+        })->name('index');
+
+        // * Profesores
+        Route::prefix('Profesores')->name('Profesores.')->group(function () {
+        });
+    });
+
+    // ! Salud Ambiental
+    Route::prefix('SaludAmbiental')->name('SaludAmbiental.')->group(function () {
+
+        // * Principal
+        Route::get('/', function () {
+            return view('saludAmbiental');
+        })->name('index');
+
+        // * Profesores
+        Route::prefix('Profesores')->name('Profesores.')->group(function () {
+        });
+    });
 });
 
 Route::get('/directorio', function () {
@@ -105,26 +205,6 @@ Route::get('/estadisticas', function () {
 
 Route::get('/becas', function () {
     return view('becas');
-});
-
-Route::get('/evaluacionAmbiental', function () {
-    return view('evaluacionAmbiental');
-});
-
-Route::get('/gestionAmbiental', function () {
-    return view('gestionAmbiental');
-});
-
-Route::get('/prevencion', function () {
-    return view('prevencion');
-});
-
-Route::get('/recursosNaturales', function () {
-    return view('recursosNaturales');
-});
-
-Route::get('/saludAmbiental', function () {
-    return view('saludAmbiental');
 });
 
 Route::get('/tesis', function () {
