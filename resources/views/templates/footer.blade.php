@@ -19,7 +19,7 @@
         <div class="col-12 col-sm-6">
         <div class="derecha d-flex justify-content-center">
             <a href="#"><i class="fa-sharp fa-solid fa-phone"></i></a>
-            <span>&nbsp +54 (444) 826-2435 &nbsp &nbsp</span>
+            <span>&nbsp +54 (444) 826-2439 &nbsp &nbsp</span>
 
             <a href="#"><i class="fa-regular fa-envelope"></i></a>
             <span>&nbsp pmpca@uaslp.mx</span>

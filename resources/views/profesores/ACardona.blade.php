@@ -7,7 +7,7 @@
     <div id="professor-description" class="row mb-4">
     <div class="col-12 col-sm-12">
       <br>
-        <h1><strong>DR. ANTONIO CARDONA BENAVIDES</strong></h1>
+        <h1><strong>DR. ANTONIO CARDONA BENAVIDES</strong></h1><br>
     </div>
     <div class="col-12 col-sm-3 ">
         <img class="mx-auto d-block" src="{{asset('storage/images/Antonio_Cardona_Benavides.png')}}" alt="">
