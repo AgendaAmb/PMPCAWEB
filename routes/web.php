@@ -67,6 +67,10 @@ Route::get('/MAlgara', function () {
     return view('/profesores/MAlgara');
 });
 
+Route::get('/AAvila', function () {
+    return view('/profesores/AAvila');
+});
+
 Route::get('/directorio', function () {
     return view('directorio');
 });
