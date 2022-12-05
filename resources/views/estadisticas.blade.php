@@ -26,21 +26,142 @@
                         <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
                             data-bs-parent="#accordionExample">
                             <div class="accordion-body">
-                                El egresado del Programa Multidisciplinario en Ciencias Ambientales tendrá una formación
-                                integral para contribuir
-                                al desarrollo científico y tecnológico desempeñando actividades profesionales grupales a un
-                                alto nivel y con perti-
-                                nencia socio-ambiental para un desarrollo sostenible local y global. El egresado del
-                                Doctorado en Ciencias Ambien-
-                                tales, tendrá capacidad para generar, desarrollar y aplicar el conocimiento científico y
-                                tecnológico en forma original
-                                e innovadora en el campo de las ciencias ambientales. Poseerá la capacidad de dirigir grupos
-                                de investigación, par-
-                                ticipar en órganos de decisión de alto impacto y en la formación de recursos humanos de alto
-                                nivel.
+                                <table class="width200">
+                                    <thead>
+                                        <tr>
+                                            <th id="tablaTitulos"><b>Generación</b></th>
+                                            <th id="tablaTitulos"><b>Ingresos</b></th>
+                                            <th id="tablaTitulos"><b>Graduados</b></th>
+                                            <th id="tablaTitulos"><b>% de Graduados/Ingresos</b></th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>2002-08</td>
+                                            <td>6</td>
+                                            <td>4</td>
+                                            <td>66.7</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2003-08</td>
+                                            <td>13</td>
+                                            <td>11</td>
+                                            <td>84.6</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2004-08</td>
+                                            <td>17</td>
+                                            <td>15</td>
+                                            <td>88.2</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2005-08</td>
+                                            <td>14</td>
+                                            <td>12</td>
+                                            <td>85.7</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2006-08</td>
+                                            <td>23</td>
+                                            <td>14</td>
+                                            <td>60.9</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2007-08</td>
+                                            <td>17</td>
+                                            <td>13</td>
+                                            <td>76.5</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2008-08</td>
+                                            <td>32</td>
+                                            <td>27</td>
+                                            <td>84.4</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2009-08</td>
+                                            <td>48</td>
+                                            <td>43</td>
+                                            <td>89.6</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2010-08</td>
+                                            <td>50</td>
+                                            <td>44</td>
+                                            <td>88.0</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2011-08</td>
+                                            <td>38</td>
+                                            <td>32</td>
+                                            <td>84.2</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2012-08</td>
+                                            <td>40</td>
+                                            <td>37</td>
+                                            <td>92.5</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2013-08</td>
+                                            <td>33</td>
+                                            <td>31</td>
+                                            <td>93.9</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2014-08</td>
+                                            <td>34</td>
+                                            <td>30</td>
+                                            <td>88.2</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2015-08</td>
+                                            <td>17</td>
+                                            <td>17</td>
+                                            <td>100.0</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2016-08</td>
+                                            <td>40</td>
+                                            <td>34</td>
+                                            <td>85.0</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2017-08</td>
+                                            <td>24</td>
+                                            <td>22</td>
+                                            <td>91.7</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2018-08</td>
+                                            <td>31</td>
+                                            <td>30</td>
+                                            <td>96.8</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2019-08</td>
+                                            <td>23</td>
+                                            <td>17</td>
+                                            <td>73.9</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2020-08</td>
+                                            <td>36</td>
+                                            <td>0</td>
+                                            <td>0</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2021-08</td>
+                                            <td>22</td>
+                                            <td>0</td>
+                                            <td>0</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
                             </div>
                         </div>
                     </div>
+
                     <div class="accordion-item">
                         <h2 class="accordion-header" id="headingTwo">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
@@ -51,15 +172,141 @@
                         <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
                             data-bs-parent="#accordionExample">
                             <div class="accordion-body">
-                                Formar profesores y/o investigadores capaces de generar, desarrollar y aplicar el
-                                conocimiento científico y tec-
-                                nológico, en forma original e innovadora. También adquirirá los conocimientos básicos
-                                necesarios para tener la ha-
-                                bilidad de establecer y analizar avances científicos y tecnológicos en el campo de las
-                                ciencias ambientales, y de diri-
-                                gir grupos de investigación. Su potencial de aplicación se encuentra también en los sectores
-                                académico, industrial,
-                                de gobierno y privado.
+
+                                <table class="width200">
+                                    <thead>
+                                        <tr>
+                                            <th><b id="tablaTitulos">Generación</b></th>
+                                            <th><b id="tablaTitulos">Ingresos</b></th>
+                                            <th><b id="tablaTitulos">Graduados</b></th>
+                                            <th><b id="tablaTitulos">% Graduados/Ingresos</b></th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+
+                                            <td>2002-08</td>
+                                            <td>4</td>
+                                            <td>4</td>
+                                            <td>100</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2003-08</td>
+                                            <td>13</td>
+                                            <td>11</td>
+                                            <td>84.6</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2004-08</td>
+                                            <td>16</td>
+                                            <td>15</td>
+                                            <td>93.8</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2005-08</td>
+                                            <td>13</td>
+                                            <td>12</td>
+                                            <td>92.3</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2006-08</td>
+                                            <td>18</td>
+                                            <td>14</td>
+                                            <td>77.8</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2007-08</td>
+                                            <td>16</td>
+                                            <td>13</td>
+                                            <td>81.3</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2008-08</td>
+                                            <td>32</td>
+                                            <td>27</td>
+                                            <td>84.4</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2009-08</td>
+                                            <td>48</td>
+                                            <td>43</td>
+                                            <td>89.6</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2010-08</td>
+                                            <td>50</td>
+                                            <td>44</td>
+                                            <td>88.0</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2011-08</td>
+                                            <td>36</td>
+                                            <td>30</td>
+                                            <td>83.3</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2012-08</td>
+                                            <td>40</td>
+                                            <td>37</td>
+                                            <td>92.5</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2013-08</td>
+                                            <td>33</td>
+                                            <td>31</td>
+                                            <td>93.9</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2014-08</td>
+                                            <td>34</td>
+                                            <td>30</td>
+                                            <td>88.2</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2015-08</td>
+                                            <td>17</td>
+                                            <td>17</td>
+                                            <td>100</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2016-08</td>
+                                            <td>40</td>
+                                            <td>29</td>
+                                            <td>72.5</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2017-08</td>
+                                            <td>24</td>
+                                            <td>16</td>
+                                            <td>66.7</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2018-08</td>
+                                            <td>31</td>
+                                            <td>22</td>
+                                            <td>71.0</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2019-08</td>
+                                            <td>23</td>
+                                            <td>12</td>
+                                            <td>52.2</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2020-08</td>
+                                            <td>36</td>
+                                            <td>0</td>
+                                            <td>0</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2021-08</td>
+                                            <td>22</td>
+                                            <td>0</td>
+                                            <td>0</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                </main>
                             </div>
                         </div>
                     </div>
@@ -82,18 +329,210 @@
                         <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
                             data-bs-parent="#accordionExample">
                             <div class="accordion-body">
-                                El egresado del Programa Multidisciplinario en Ciencias Ambientales tendrá una formación
-                                integral para contribuir
-                                al desarrollo científico y tecnológico desempeñando actividades profesionales grupales a un
-                                alto nivel y con perti-
-                                nencia socio-ambiental para un desarrollo sostenible local y global. El egresado del
-                                Doctorado en Ciencias Ambien-
-                                tales, tendrá capacidad para generar, desarrollar y aplicar el conocimiento científico y
-                                tecnológico en forma original
-                                e innovadora en el campo de las ciencias ambientales. Poseerá la capacidad de dirigir grupos
-                                de investigación, par-
-                                ticipar en órganos de decisión de alto impacto y en la formación de recursos humanos de alto
-                                nivel.
+                                <table class="width200">
+                                    <thead>
+                                        <tr>
+                                            <th id="tablaTitulos"><b>Generación</b></th>
+                                            <th id="tablaTitulos"><b>Ingresos</b></th>
+                                            <th id="tablaTitulos"><b>Graduados</b></th>
+                                            <th id="tablaTitulos"><b>% de Graduados/Ingresos</b></th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>2002-08</td>
+                                            <td>6</td>
+                                            <td>4</td>
+                                            <td>66.7</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2003-02</td>
+                                            <td>6</td>
+                                            <td>3</td>
+                                            <td>50.0</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2003-08</td>
+                                            <td>4</td>
+                                            <td>2</td>
+                                            <td>50.0</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2004-02</td>
+                                            <td>1</td>
+                                            <td>1</td>
+                                            <td>100.0</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2004-08</td>
+                                            <td>8</td>
+                                            <td>7</td>
+                                            <td>87.5</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2005-02</td>
+                                            <td>2</td>
+                                            <td>2</td>
+                                            <td>100.0</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2005-08</td>
+                                            <td>11</td>
+                                            <td>7</td>
+                                            <td>63.6</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2006-02</td>
+                                            <td>5</td>
+                                            <td>4</td>
+                                            <td>80.0</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2006-08</td>
+                                            <td>4</td>
+                                            <td>4</td>
+                                            <td>80.0</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2007-08</td>
+                                            <td>6</td>
+                                            <td>4</td>
+                                            <td>66.7</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2008-02</td>
+                                            <td>1</td>
+                                            <td>1</td>
+                                            <td>100.0</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2008-08</td>
+                                            <td>6</td>
+                                            <td>3</td>
+                                            <td>50.0</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2009-02</td>
+                                            <td>4</td>
+                                            <td>2</td>
+                                            <td>50.0</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2009-08</td>
+                                            <td>3</td>
+                                            <td>2</td>
+                                            <td>66.7</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2010-02</td>
+                                            <td>5</td>
+                                            <td>2</td>
+                                            <td>40.0</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2010-08</td>
+                                            <td>6</td>
+                                            <td>5</td>
+                                            <td>83.3</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2011-02</td>
+                                            <td>3</td>
+                                            <td>3</td>
+                                            <td>100.0</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2011-08</td>
+                                            <td>4</td>
+                                            <td>4</td>
+                                            <td>100.0</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2012-02</td>
+                                            <td>8</td>
+                                            <td>8</td>
+                                            <td>100.0</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2012-08</td>
+                                            <td>10</td>
+                                            <td>8</td>
+                                            <td>80.0</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2013-02</td>
+                                            <td>9</td>
+                                            <td>6</td>
+                                            <td>66.7</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2013-08</td>
+                                            <td>3</td>
+                                            <td>3</td>
+                                            <td>100.0</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2014-02</td>
+                                            <td>4</td>
+                                            <td>2</td>
+                                            <td>50.0</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2015-02</td>
+                                            <td>9</td>
+                                            <td>8</td>
+                                            <td>88.9</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2016-02</td>
+                                            <td>9</td>
+                                            <td>7</td>
+                                            <td>77.8</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2017-02</td>
+                                            <td>10</td>
+                                            <td>4</td>
+                                            <td>40.0</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2018-02</td>
+                                            <td>5</td>
+                                            <td>2</td>
+                                            <td>40.0</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2019-02</td>
+                                            <td>9</td>
+                                            <td>0</td>
+                                            <td>0</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2020-02</td>
+                                            <td>9</td>
+                                            <td>0</td>
+                                            <td>0</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2021-02</td>
+                                            <td>3</td>
+                                            <td>0</td>
+                                            <td>0</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2021-08</td>
+                                            <td>4</td>
+                                            <td>0</td>
+                                            <td>0</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2022-02</td>
+                                            <td>4</td>
+                                            <td>0</td>
+                                            <td>0</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
                             </div>
                         </div>
                     </div>
@@ -107,15 +546,210 @@
                         <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive"
                             data-bs-parent="#accordionExample">
                             <div class="accordion-body">
-                                Formar profesores y/o investigadores capaces de generar, desarrollar y aplicar el
-                                conocimiento científico y tec-
-                                nológico, en forma original e innovadora. También adquirirá los conocimientos básicos
-                                necesarios para tener la ha-
-                                bilidad de establecer y analizar avances científicos y tecnológicos en el campo de las
-                                ciencias ambientales, y de diri-
-                                gir grupos de investigación. Su potencial de aplicación se encuentra también en los sectores
-                                académico, industrial,
-                                de gobierno y privado.
+                                <table class="width200">
+                                    <thead>
+                                        <tr>
+                                            <th id="tablaTitulos"><b>Generación</b></th>
+                                            <th id="tablaTitulos"><b>Ingresos</b></th>
+                                            <th id="tablaTitulos"><b>Graduados</b></th>
+                                            <th id="tablaTitulos"><b>% de Graduados/Ingresos</b></th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>2002-08</td>
+                                            <td>2</td>
+                                            <td>2</td>
+                                            <td>100.0</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2003-02</td>
+                                            <td>4</td>
+                                            <td>3</td>
+                                            <td>75.0</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2003-08</td>
+                                            <td>2</td>
+                                            <td>1</td>
+                                            <td>50.0</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2004-02</td>
+                                            <td>1</td>
+                                            <td>1</td>
+                                            <td>100.0</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2004-08</td>
+                                            <td>5</td>
+                                            <td>5</td>
+                                            <td>100.0</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2005-02</td>
+                                            <td>2</td>
+                                            <td>2</td>
+                                            <td>100.0</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2005-08</td>
+                                            <td>9</td>
+                                            <td>7</td>
+                                            <td>77.8</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2006-02</td>
+                                            <td>5</td>
+                                            <td>4</td>
+                                            <td>80.0</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2006-08</td>
+                                            <td>5</td>
+                                            <td>4</td>
+                                            <td>80.0</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2007-08</td>
+                                            <td>6</td>
+                                            <td>4</td>
+                                            <td>66.7</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2008-02</td>
+                                            <td>1</td>
+                                            <td>1</td>
+                                            <td>100.0</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2008-08</td>
+                                            <td>6</td>
+                                            <td>3</td>
+                                            <td>50.0</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2009-02</td>
+                                            <td>4</td>
+                                            <td>2</td>
+                                            <td>50.0</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2009-08</td>
+                                            <td>3</td>
+                                            <td>2</td>
+                                            <td>66.7</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2010-02</td>
+                                            <td>5</td>
+                                            <td>2</td>
+                                            <td>40.0</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2010-08</td>
+                                            <td>6</td>
+                                            <td>5</td>
+                                            <td>83.3</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2011-02</td>
+                                            <td>3</td>
+                                            <td>3</td>
+                                            <td>100.0</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2011-08</td>
+                                            <td>4</td>
+                                            <td>4</td>
+                                            <td>100.0</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2012-02</td>
+                                            <td>8</td>
+                                            <td>8</td>
+                                            <td>100.0</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2012-08</td>
+                                            <td>10</td>
+                                            <td>8</td>
+                                            <td>80.0</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2013-02</td>
+                                            <td>9</td>
+                                            <td>6</td>
+                                            <td>66.7</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2013-08</td>
+                                            <td>3</td>
+                                            <td>3</td>
+                                            <td>100.0</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2014-02</td>
+                                            <td>4</td>
+                                            <td>2</td>
+                                            <td>50.0</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2015-02</td>
+                                            <td>9</td>
+                                            <td>8</td>
+                                            <td>88.9</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2016-02</td>
+                                            <td>9</td>
+                                            <td>7</td>
+                                            <td>77.8</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2017-02</td>
+                                            <td>10</td>
+                                            <td>4</td>
+                                            <td>40.0</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2018-02</td>
+                                            <td>5</td>
+                                            <td>2</td>
+                                            <td>40.0</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2019-02</td>
+                                            <td>9</td>
+                                            <td>0</td>
+                                            <td>0</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2020-02</td>
+                                            <td>9</td>
+                                            <td>0</td>
+                                            <td>0</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2021-02</td>
+                                            <td>3</td>
+                                            <td>0</td>
+                                            <td>0</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2021-08</td>
+                                            <td>4</td>
+                                            <td>0</td>
+                                            <td>0</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2022-02</td>
+                                            <td>4</td>
+                                            <td>0</td>
+                                            <td>0</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
                             </div>
                         </div>
                     </div>

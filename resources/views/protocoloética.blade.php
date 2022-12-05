@@ -83,4 +83,10 @@
             <hr>-->
         </div>
     </div>
+<div style="height: 100px; background-color: transparent;">
+    <div class="mh-100" style="width: 100px; height: 200px; background-color: transparent;"></div>
+</div>
+<div style="height: 100px; background-color: transparent;">
+    <div class="mh-100" style="width: 100px; height: 200px; background-color: transparent;"></div>
+</div>
 @endsection
