@@ -2,6 +2,7 @@
 
 @section('maincontent')
 
+<section>
     <div id="colorTexto">
         <div id="p-container" class="container px-lg-8.5 px-md-5">
             <div id="professor-description" class="row mb-4 p-5">
@@ -84,4 +85,5 @@
             <hr>-->
         </div>
     </div>
+</section>
 @endsection

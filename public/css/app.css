@@ -11,6 +11,10 @@ body {
   color: #666;
 }
 
+section {
+  min-height: 100vh !important;
+}
+
 h1, .h1 {
   text-align: center;
   font-family: open sans;
@@ -387,11 +391,6 @@ body {
     display: none;
   }
 }
-section {
-  min-height: 58vh !important;
-  display: flex;
-}
-
 .contenido {
   display: flex;
   margin-top: 0.95rem;
@@ -487,7 +486,7 @@ table.width200, table.rwd_auto {
     color: rgb(0, 74, 152);
   }
   .width200 td:nth-of-type(4):before {
-    content: "% Graduados/Ingresos";
+    content: "% G/I";
     font-weight: bold;
     color: rgb(0, 74, 152);
   }

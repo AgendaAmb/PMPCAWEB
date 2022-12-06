@@ -20,8 +20,13 @@ body {
   padding: 0;
   font-family: Helvetica, Arial, sans-serif;
   color: #666;
+
 }
 
+section{
+  min-height: 100vh !important;
+  // display: flex;
+}
 
 h1, .h1 {
   text-align: center;
@@ -407,12 +412,6 @@ body {
     }
 }
 
-
-section{
-  min-height: 58vh !important;
-  display: flex;
-}
-
 .contenido{
     display: flex;
     margin-top: 0.95rem;
@@ -455,7 +454,7 @@ table.width200, .width200 thead, .width200 tbody, .width200 th, .width200 td, .w
 .width200 td:nth-of-type(1):before { content: "Generación"; font-weight: bold;  color:rgb(0, 74, 152); }
 .width200 td:nth-of-type(2):before { content: "Ingresos"; font-weight: bold;  color:rgb(0, 74, 152);}
 .width200 td:nth-of-type(3):before { content: "Graduados";font-weight: bold;  color:rgb(0, 74, 152);}
-.width200 td:nth-of-type(4):before { content: "% Graduados/Ingresos"; font-weight: bold;  color:rgb(0, 74, 152);}
+.width200 td:nth-of-type(4):before { content: "% G/I"; font-weight: bold;  color:rgb(0, 74, 152);}
 
 .descarto {display:none;}
 .fontsize {font-size:10px}
