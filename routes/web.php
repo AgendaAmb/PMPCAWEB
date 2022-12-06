@@ -192,7 +192,60 @@ Route::prefix('areas')->name('areas.')->group(function () {
 
         // * Profesores
         Route::prefix('Profesores')->name('Profesores.')->group(function () {
+
+            Route::get('JFortanelli', function () {
+                return view('profesores.JFortanelli');
+            })->name('JFortanelli');
+
+            Route::get('JGarcia', function () {
+                return view('profesores.JGarcia');
+            })->name('JGarcia');
+
+            Route::get('JReyes', function () {
+                return view('profesores.JReyes');
+            })->name('JReyes');
+
+            Route::get('LYanez', function () {
+                return view('profesores.LYanez');
+            })->name('LYanez');
+
+            Route::get('BJuarez', function () {
+                return view('profesores.BJuarez');
+            })->name('BJuarez');
+
+            Route::get('CMunoz', function () {
+                return view('profesores.CMunoz');
+            })->name('CMunoz');
+
+            Route::get('EGarcia', function () {
+                return view('profesores.EGarcia');
+            })->name('EGarcia');
+
+            Route::get('GAguilar', function () {
+                return view('profesores.GAguilar');
+            })->name('GAguilar');
+
+            Route::get('GAlvarez', function () {
+                return view('profesores.GAlvarez');
+            })->name('GAlvarez');
+
+            Route::get('HDuran', function () {
+                return view('profesores.HDuran');
+            })->name('HDuran');
+
+            Route::get('HRamirez', function () {
+                return view('profesores.HRamirez');
+            })->name('HRamirez');
+
+            Route::get('JDNova', function () {
+                return view('profesores.JDNova');
+            })->name('JDNova');
+
+            Route::get('JFlores', function () {
+                return view('profesores.JFlores');
+            })->name('JFlores');
         });
+
     });
 
     // ! Salud Ambiental
@@ -200,6 +253,15 @@ Route::prefix('areas')->name('areas.')->group(function () {
 
         // * Profesores
         Route::prefix('Profesores')->name('Profesores.')->group(function () {
+
+            Route::get('ACubillas', function () {
+                return view('profesores.ACubillas');
+            })->name('ACubillas');
+
+            Route::get('CIlizaliturri', function () {
+                return view('profesores.CIlizaliturri');
+            })->name('CIlizaliturri');
+
         });
     });
 });

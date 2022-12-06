@@ -14,24 +14,24 @@
     </div>
     <div class="col-12 col-sm-9">
         <div>
-        <h4><strong>Profesor Investigador de Tiempo Completo Nivel VI.</strong></h4>
-        <h5><strong>Facultad de Ingeniería</strong></h5>
-        <h5><strong>SNI nivel I.</strong></h5>
-        <br>
-        <p>
-            Dr. Manuel Nava No. 8, Zona Universitaria Poniente <br>
-            C.P. 78290, San Luis Potosí, S. L. P., México <br> <br>
-            Teléfono: +52 (444) 826-2300 Ext. 7201 <br>
-            galarza@uaslp.mx <br>
-        </p>
+          <h4><strong>Profesor Investigador de Tiempo Completo Nivel VI.</strong></h4>
+          <h5><strong>Facultad de Ingeniería</strong></h5>
+          <h5><strong>SNI nivel I.</strong></h5>
+          <br>
+          <p>
+              Dr. Manuel Nava No. 8, Zona Universitaria Poniente <br>
+              C.P. 78290, San Luis Potosí, S. L. P., México <br> <br>
+              Teléfono: +52 (444) 826-2300 Ext. 7201 <br>
+              galarza@uaslp.mx <br>
+          </p>
 
-        <div class="enlacesprof">
-            <a target="_blank" href="http://ciep.ing.uaslp.mx/agua/profesor.php?id=3130363637">Webpage</a>
-            <a target="_blank" href="storage/CV/Avila_Galarza_Alfredo.pdf">Curriculum Vitae </a>
-            <a target="_blank" href="https://investigadores.uaslp.mx/InvestigadorProfile/qykAAA%3d%3d">Directorio de Investigadores</a>
-            <a target="_blank" href="https://orcid.org/0000-0003-0903-0428"><img src="{{asset('storage/images/orcid.png')}}" alt=""></a>
-            <a target="_blank" href="https://www.scopus.com/authid/detail.uri?authorId=56586111500"> <img src="{{asset('storage/images/scopus.png')}}" alt=""></a>
-        </div>
+          <div class="enlacesprof">
+              <a target="_blank" href="http://ciep.ing.uaslp.mx/agua/profesor.php?id=3130363637">Webpage</a>
+              <a target="_blank" href="storage/CV/Avila_Galarza_Alfredo.pdf">Curriculum Vitae </a>
+              <a target="_blank" href="https://investigadores.uaslp.mx/InvestigadorProfile/qykAAA%3d%3d">Directorio de Investigadores</a>
+              <a target="_blank" href="https://orcid.org/0000-0003-0903-0428"><img src="{{asset('storage/images/orcid.png')}}" alt=""></a>
+              <a target="_blank" href="https://www.scopus.com/authid/detail.uri?authorId=56586111500"> <img src="{{asset('storage/images/scopus.png')}}" alt=""></a>
+          </div>
         </div>
     </div>
     </div>

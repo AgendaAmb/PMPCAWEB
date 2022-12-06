@@ -4,12 +4,12 @@
     <div id="p-container" class="container px-lg-8.5 px-md-5">
         <div id="professor-description" class="row mb-4">
             <div class="col-12 col-sm-12  ">
-                <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
+
+                <div id="carouselExampleCaptions" class="carousel slide m-1" data-bs-ride="carousel">
                     <div class="carousel-indicators">
                         <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active"
-                            aria-current="true" aria-label="Slide 1"></button>
-                        <!-- <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
-                                      <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button> -->
+                            aria-current="true" aria-label="Slide 1">
+                        </button>
                     </div>
                     <div class="carousel-inner">
                         <div class="carousel-item active">
@@ -23,9 +23,11 @@
                     <div class="barraAzulFuerte"></div>
                 </div>
 
-                <div class="col-12 col-sm-12 my-5">
-                    <div class="row row-cols-1 row-cols-md-3 g-4">
-                        <div class="col">
+                <div class="col-12 my-3 m-1">
+
+                    <div class="row row-cols-lg-3 row-cols-md-2">
+
+                        <div class="col col-6 my-3">
                             <div class="card h-100" id="colorCard">
                                 <img src="{{ asset('storage/images/4.png') }}" class="card-img-top" alt="...">
                                 <div class="barraAzulFuerteS"></div>
@@ -36,7 +38,8 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col">
+
+                        <div class="col col-6 my-3">
                             <div class="card h-100" id="colorCard">
                                 <img src="{{ asset('storage/images/5.png') }}" class="card-img-top" alt="...">
                                 <div class="barraAzulFuerteS"></div>
@@ -47,7 +50,8 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col">
+
+                        <div class="col col-6 my-3">
                             <div class="card h-100" id="colorCard">
                                 <img src="{{ asset('storage/images/6.png') }}" class="card-img-top" alt="...">
                                 <div class="barraAzulFuerteS"></div>
@@ -60,13 +64,6 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
-                </div>
-                <div class="col-12 col-sm-3">
-
-                </div>
-                <div class="col-12 col-sm-9">
-                    <div>
 
                     </div>
                 </div>
@@ -74,8 +71,10 @@
 
 
             <div class=¨container-fluid¨ id="videoInicio">
+
                 <div class="row">
-                    <div class="col-12 col-sm-6  ">
+
+                    <div class="col-12 col-sm-6">
                         <div class="izquierda">
                             <div class="container">
                                 <div class="ratio ratio-16x9">
@@ -88,6 +87,7 @@
                             </div>
                         </div>
                     </div>
+
                     <div class="col-12 col-sm-5  " id="colorCard">
                         <div class="derechaInicio  ">
                             <br>
@@ -99,6 +99,7 @@
                             </div>
                         </div>
                     </div>
+
                 </div>
             </div>
 
