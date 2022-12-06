@@ -7,10 +7,10 @@
     <div id="professor-description" class="row mb-4">
     <div class="col-12 col-sm-12">
       <br>
-        <h1><strong>DR. LEONARDO ERNESTO MÁRQUEZ MIRELES</strong></h1><br>
+        <h1><strong>DR. OSCAR REYES PÉREZ</strong></h1><br>
     </div>
     <div class="col-12 col-sm-3 ">
-        <img class="mx-auto d-block" src="{{asset('storage/images/Leonardo_Ernesto_ Marquez_Mireles.png')}}" alt="">
+        <img class="mx-auto d-block" src="{{asset('storage/images/OscarReyesPerez.png')}}" alt="">
     </div>
     <div class="col-12 col-sm-9">
         <div>
@@ -22,15 +22,16 @@
             Av. Industrias #101-A Fracc. Talleres <br>
             C.P. 78399, San Luis Potosí, S. L. P., México <br> <br>
             Teléfono: +52 (444) 832-1000 Ext. 9218<br>
-            leonardoemm@uaslp.mx <br>
+            osrp@uaslp.mx <br>
         </p>
 
         <div class="enlacesprof">
-            <a target="_blank" href="http://sociales.uaslp.mx/Paginas/Profesores/Leonardo.aspx">Webpage</a>
-            <a target="_blank" href="storage/CV/Marquez_Mireles_LeonardoErnesto.pdf">Curriculum Vitae </a>
-            <a target="_blank" href="https://investigadores.uaslp.mx/InvestigadorProfile/ekAAAA%3d%3d">Directorio de Investigadores</a>
-            <a target="_blank" href="http://orcid.org/0000-0001-6732-8156"><img src="{{asset('storage/images/orcid.png')}}" alt=""></a>
-            <a target="_blank" href="https://www.scopus.com/authid/detail.uri?authorId=57210815176"> <img src="{{asset('storage/images/scopus.png')}}" alt=""></a>
+            <a target="_blank" href="https://sociales.uaslp.mx/Paginas/Investigacion/745#gsc.tab=0/">Webpage 1</a>
+            <a target="_blank" href="https://osrpdune.wixsite.com/oscar-reyes-uaslp">Webpage 2</a>
+            <a target="_blank" href="storage/CV/Reyes_Perez_Oscar.pdf">Curriculum Vitae </a>
+            <a target="_blank" href="https://investigadores.uaslp.mx/InvestigadorProfile/mj8AAA==">Directorio de Investigadores</a>
+            <a target="_blank" href="https://orcid.org/0000-0002-1433-9887"><img src="{{asset('storage/images/orcid.png')}}" alt=""></a>
+            <a target="_blank" href="https://www.scopus.com/authid/detail.uri?authorId=356044483000"> <img src="{{asset('storage/images/scopus.png')}}" alt=""></a>
         </div>
         </div>
     </div>
@@ -48,24 +49,26 @@
             <div class="accordion-body">
               <ol>
                 <li><strong>Cursos</strong></li>
-                    <p>TSCA: Diseño y Evaluación de Proyectos de Investigación</p>
+                    <p>Planeación y Ordenamiento</p>
 
                 <li><strong>LGAC</strong></li>
-                <p>Desarrollo Sostenible
+                <p>Planeación y ordenamiento territorial y ambiental<br>
+                   Desarrollo Sostenible
                 </p>
-                <li><strong>Dirección de Tesis</strong></li><br>
+                <!--<li><strong>Dirección de Tesis</strong></li><br>
                 <p><em>Maestría en Ciencias Ambientales (Doble titulación), Co-Dirección</em></p>
                 <p>
-                  Riemann Sebastian. 2012. <a href="http://ambiental.uaslp.mx/pmpca/tesis/Mae/Gen%202010-08/2012_pmpca_riemannsebastian.pdf">Resource management in sustainable tourism: a facilitator for community empowering development in la Vainilla, Oaxaca.</a><br>
-                  Jaramillo Duque Andrea Estefania. 2016. <a href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/4120/MCA1JDA201601.pdf?sequence=3&amp;isAllowed=y">A comparison between two management systems of protected areas from Mexico (Sierra del Abra Tanchipa biosphere reserve) and from Ecuador (Yasuni National Park).</a><br>
-                  Pedrotti Jung Valentina Andrea. 2016. <a href="http://ambiental.uaslp.mx/pmpca/tesis/Mae/Gen%202014-08/2016_pmpca_pedrottijung.pdf">Sustainable coffee alternatives for the rural community of San Francisco, municipality of Tamazunchale San Luis Potosi, Mexico.</a>
+
                 </p>
                 <br>
                 <p><em>Maestría en Ciencias Ambientales</em></p>
                 <p>
-                  Trenti Very Luis Carlos. 2016. <a href="http://ambiental.uaslp.mx/pmpca/tesis/Mae/Gen%202013-08/2016_pmpca_trentivery.pdf">Caracterización e importancia social de los sistemas agrícolas tradicionales en El Ejido, Escalerillas, San Luis Potosí.</a><br>
-                  Alvarado Casas Karla Alejandra. 2018. <a href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/4514/MCA1ACK201801.pdf?sequence=1&amp;isAllowed=y">Gobernanza ambiental en la reserva de la biosfera de Sierra Abra Tanchipa.</a><br>
-                  Castillo Cardona Carlos Eduardo. 2019. <a href="#"> Historia ambiental de las inundaciones en San Luis Potosí: 1930-1940. </a>
+
+                </p>
+                <br>
+                <p><em>Doctorado en Ciencias Ambientales</em></p>
+                <p>
+
                 </p>
               </ol>
             </div>
@@ -78,17 +81,20 @@
               <strong>Publicaciones</strong>
             </button>
           </h2>
-          <!--<div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
+          <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
             data-bs-parent="#accordionExample">
             <div class="accordion-body">
-              <strong>Artículos de investigación</strong><br><br>
+              <strong>Artículos científicos</strong><br><br>
               <p>
+
               </p>
-              <strong>Capítulos de libros</strong><br><br>
+              <strong>Libros</strong><br><br>
               <p>
+
               </p>
-              <strong>Publicaciones en extenso</strong><br><br>
+              <strong>Capítulos en libros</strong><br><br>
               <p>
+
               </p>
             </div>
           </div>

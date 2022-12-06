@@ -97,29 +97,29 @@ Route::prefix('areas')->name('areas.')->group(function () {
         Route::prefix('Profesores')->name('Profesores.')->group(function () {
 
             Route::get('/ACardona', function () {
-                return view('/profesores/ACardona');
+                return view('profesores.ACardona');
             })->name('ACardona');
 
             Route::get('/GCastro', function () {
-                return view('/profesores/GCastro');
+                return view('profesores.GCastro');
             })->name('GCastro');
 
             Route::get('/MAlgara', function () {
-                return view('/profesores/MAlgara');
+                return view('profesores.MAlgara');
             })->name('MAlgara');
 
             Route::get('/AAvila', function () {
-                return view('/profesores/AAvila');
+                return view('profesores.AAvila');
             })->name('AAvila');
 
             Route::get('/LBernal', function () {
-                return view('/profesores/LBernal');
+                return view('profesores.LBernal');
             })->name('LBernal');
 
             Route::get('/IRazo', function () {
-                return view('/profesores/IRazo');
+                return view('profesores.IRazo');
             })->name('IRazo');
-            
+
         });
     });
 
@@ -133,6 +133,43 @@ Route::prefix('areas')->name('areas.')->group(function () {
 
         // * Profesores
         Route::prefix('Profesores')->name('Profesores.')->group(function () {
+
+            Route::get('/CContreras', function () {
+                return view('profesores.CContreras');
+            })->name('CContreras');
+
+            Route::get('/MGalindo', function () {
+                return view('profesores.MGalindo');
+            })->name('MGalindo');
+
+            Route::get('/LMarquez', function () {
+                return view('profesores.LMarquez');
+            })->name('LMarquez');
+
+            Route::get('/HReyes', function () {
+                return view('profesores.HReyes');
+            })->name('HReyes');
+
+            Route::get('/AVant', function () {
+                return view('profesores.AVant');
+            })->name('AVant');
+
+            Route::get('/VVazquez', function () {
+                return view('profesores.VVazquez');
+            })->name('VVazquez');
+
+            Route::get('/PJulio', function () {
+                return view('profesores.PJulio');
+            })->name('PJulio');
+
+            Route::get('/APalacio', function () {
+                return view('profesores.APalacio');
+            })->name('APalacio');
+
+            Route::get('/OReyes', function () {
+                return view('profesores.OReyes');
+            })->name('OReyes');
+
         });
 
     });
@@ -147,6 +184,11 @@ Route::prefix('areas')->name('areas.')->group(function () {
 
         // * Profesores
         Route::prefix('Profesores')->name('Profesores.')->group(function () {
+
+            Route::get('/MGalindo', function () {
+                return view('profesores.MGalindo');
+            })->name('MGalindo');
+
         });
     });
 

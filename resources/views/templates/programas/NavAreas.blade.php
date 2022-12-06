@@ -51,15 +51,15 @@
 
                 <div class="mb-5 mx-5">
                     <h4><strong>Profesores del área</strong></h4>
-                    <a href="#" id="enlacesProfEvaluacion">Dr. Carlos Contreras Servín</a> <br>
-                    <a href="#" id="enlacesProfEvaluacion">Dra. María Guadalupe Galindo Mendoza</a> <br>
-                    <a href="#" id="enlacesProfEvaluacion">Dra. Patricia Julio Miranda</a> <br>
-                    <a href="#" id="enlacesProfEvaluacion">Dr. Leonardo Ernesto Márquez Mireles</a> <br>
-                    <a href="#" id="enlacesProfEvaluacion">Dr. Álvaro Gerardo Palacio Aponte</a> <br>
-                    <a href="#" id="enlacesProfEvaluacion">Dr. Humberto Reyes Hernández</a> <br>
-                    <a href="#" id="enlacesProfEvaluacion">Dr. Oscar Reyes Pérez</a> <br>
-                    <a href="#" id="enlacesProfEvaluacion">Dra. Anuschka Van´t Hooft</a> <br>
-                    <a href="#" id="enlacesProfEvaluacion">Dr. Valente Vázquez Solís</a> <br>
+                    <a href="{{route('areas.GestionAmbiental.Profesores.CContreras')}}" id="enlacesProfEvaluacion">Dr. Carlos Contreras Servín</a> <br>
+                    <a href="{{route('areas.GestionAmbiental.Profesores.MGalindo')}}" id="enlacesProfEvaluacion">Dra. María Guadalupe Galindo Mendoza</a> <br>
+                    <a href="{{route('areas.GestionAmbiental.Profesores.PJulio')}}" id="enlacesProfEvaluacion">Dra. Patricia Julio Miranda</a> <br>
+                    <a href="{{route('areas.GestionAmbiental.Profesores.LMarquez')}}" id="enlacesProfEvaluacion">Dr. Leonardo Ernesto Márquez Mireles</a> <br>
+                    <a href="{{route('areas.GestionAmbiental.Profesores.APalacio')}}" id="enlacesProfEvaluacion">Dr. Álvaro Gerardo Palacio Aponte</a> <br>
+                    <a href="{{route('areas.GestionAmbiental.Profesores.HReyes')}}" id="enlacesProfEvaluacion">Dr. Humberto Reyes Hernández</a> <br>
+                    <a href="{{route('areas.GestionAmbiental.Profesores.OReyes')}}" id="enlacesProfEvaluacion">Dr. Oscar Reyes Pérez</a> <br>
+                    <a href="{{route('areas.GestionAmbiental.Profesores.AVant')}}" id="enlacesProfEvaluacion">Dra. Anuschka Van´t Hooft</a> <br>
+                    <a href="{{route('areas.GestionAmbiental.Profesores.VVazquez')}}" id="enlacesProfEvaluacion">Dr. Valente Vázquez Solís</a> <br>
                 </div>
             </div>
         </div>

@@ -7,10 +7,10 @@
     <div id="professor-description" class="row mb-4">
     <div class="col-12 col-sm-12">
       <br>
-        <h1><strong>DR. LEONARDO ERNESTO MÁRQUEZ MIRELES</strong></h1><br>
+        <h1><strong>DR. ÁLVARO GERARDO PALACIO APONTE</strong></h1><br>
     </div>
     <div class="col-12 col-sm-3 ">
-        <img class="mx-auto d-block" src="{{asset('storage/images/Leonardo_Ernesto_ Marquez_Mireles.png')}}" alt="">
+        <img class="mx-auto d-block" src="{{asset('storage/images/AlvaroGerardoPalacioAponte.png')}}" alt="">
     </div>
     <div class="col-12 col-sm-9">
         <div>
@@ -21,16 +21,15 @@
         <p>
             Av. Industrias #101-A Fracc. Talleres <br>
             C.P. 78399, San Luis Potosí, S. L. P., México <br> <br>
-            Teléfono: +52 (444) 832-1000 Ext. 9218<br>
-            leonardoemm@uaslp.mx <br>
+            Teléfono: +52 (444) 832-1000<br>
+            alvaro.palacio@uaslp.mx <br>
         </p>
 
         <div class="enlacesprof">
-            <a target="_blank" href="http://sociales.uaslp.mx/Paginas/Profesores/Leonardo.aspx">Webpage</a>
-            <a target="_blank" href="storage/CV/Marquez_Mireles_LeonardoErnesto.pdf">Curriculum Vitae </a>
-            <a target="_blank" href="https://investigadores.uaslp.mx/InvestigadorProfile/ekAAAA%3d%3d">Directorio de Investigadores</a>
-            <a target="_blank" href="http://orcid.org/0000-0001-6732-8156"><img src="{{asset('storage/images/orcid.png')}}" alt=""></a>
-            <a target="_blank" href="https://www.scopus.com/authid/detail.uri?authorId=57210815176"> <img src="{{asset('storage/images/scopus.png')}}" alt=""></a>
+            <a target="_blank" href="storage/CV/Palacio_Aponte_AlvaroGerardo.pdf">Curriculum Vitae </a>
+            <a target="_blank" href="https://investigadores.uaslp.mx/InvestigadorProfile/3zoAAA%3d%3d">Directorio de Investigadores</a>
+            <a target="_blank" href="https://orcid.org/0000-0002-5020-2482"><img src="{{asset('storage/images/orcid.png')}}" alt=""></a>
+            <a target="_blank" href="https://www.scopus.com/authid/detail.uri?authorId=35176529400"> <img src="{{asset('storage/images/scopus.png')}}" alt=""></a>
         </div>
         </div>
     </div>
@@ -48,47 +47,54 @@
             <div class="accordion-body">
               <ol>
                 <li><strong>Cursos</strong></li>
-                    <p>TSCA: Diseño y Evaluación de Proyectos de Investigación</p>
+                    <p>TSCA: Medioambiente y reducción del riesgo de desastres (ECO-DRR) </p>
 
                 <li><strong>LGAC</strong></li>
-                <p>Desarrollo Sostenible
+                <p>Estudios multidisciplinarios de los desastres<br>
+                   Planeación y ordenamiento territorial y ambiental
                 </p>
                 <li><strong>Dirección de Tesis</strong></li><br>
                 <p><em>Maestría en Ciencias Ambientales (Doble titulación), Co-Dirección</em></p>
                 <p>
-                  Riemann Sebastian. 2012. <a href="http://ambiental.uaslp.mx/pmpca/tesis/Mae/Gen%202010-08/2012_pmpca_riemannsebastian.pdf">Resource management in sustainable tourism: a facilitator for community empowering development in la Vainilla, Oaxaca.</a><br>
-                  Jaramillo Duque Andrea Estefania. 2016. <a href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/4120/MCA1JDA201601.pdf?sequence=3&amp;isAllowed=y">A comparison between two management systems of protected areas from Mexico (Sierra del Abra Tanchipa biosphere reserve) and from Ecuador (Yasuni National Park).</a><br>
-                  Pedrotti Jung Valentina Andrea. 2016. <a href="http://ambiental.uaslp.mx/pmpca/tesis/Mae/Gen%202014-08/2016_pmpca_pedrottijung.pdf">Sustainable coffee alternatives for the rural community of San Francisco, municipality of Tamazunchale San Luis Potosi, Mexico.</a>
+                  Souza Lenzi Fernanda. 2012. <a href="http://ambiental.uaslp.mx/pmpca/tesis/Mae/Gen%202010-08/2012_pmpca_souzalenzi.pdf">The flood early warning system in the Itajaí River Basin: its institutional structure and the role of the civil defense.</a>
                 </p>
                 <br>
                 <p><em>Maestría en Ciencias Ambientales</em></p>
                 <p>
-                  Trenti Very Luis Carlos. 2016. <a href="http://ambiental.uaslp.mx/pmpca/tesis/Mae/Gen%202013-08/2016_pmpca_trentivery.pdf">Caracterización e importancia social de los sistemas agrícolas tradicionales en El Ejido, Escalerillas, San Luis Potosí.</a><br>
-                  Alvarado Casas Karla Alejandra. 2018. <a href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/4514/MCA1ACK201801.pdf?sequence=1&amp;isAllowed=y">Gobernanza ambiental en la reserva de la biosfera de Sierra Abra Tanchipa.</a><br>
-                  Castillo Cardona Carlos Eduardo. 2019. <a href="#"> Historia ambiental de las inundaciones en San Luis Potosí: 1930-1940. </a>
+                  Castillo Moncada Jenny Alejandra. 2011. <a href="http://ambiental.uaslp.mx/pmpca/tesis/Mae/Gen%202009-08/2011_pmpca_castillomoncada.pdf">Prioritization Measures within the Watershed Management Master Plan. (Co-dirección).</a><br>
+                  Guevara Macías María de Jesús. 2012. <a href="http://ambiental.uaslp.mx/pmpca/tesis/Mae/Gen%202009-08/2012_pmpca_guevaramacias.pdf">Análisis de la vulnerabilidad socioeconómica por inundaciones en la ciudad de San Luis Potosí.</a> <br>
+                  Sánchez Tapia Víctor Manuel. 2014. <a href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/3827/MCA1PRI01401.pdf?sequence=3&amp;isAllowed=y">La percepción del riesgo ante inundaciones súbitas en la ciudad de San Luis Potosí.</a> (Co-dirección).
                 </p>
+                <!--<br>
+                <p><em>Doctorado en Ciencias Ambientales</em></p>
+                <p>
+
+                </p>-->
               </ol>
             </div>
           </div>
         </div>
-        <div class="accordion-item">
+        <!--<div class="accordion-item">
           <h2 class="accordion-header" id="headingTwo">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
               data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
               <strong>Publicaciones</strong>
             </button>
           </h2>
-          <!--<div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
+          <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
             data-bs-parent="#accordionExample">
             <div class="accordion-body">
-              <strong>Artículos de investigación</strong><br><br>
+              <strong>Artículos científicos</strong><br><br>
               <p>
+
               </p>
-              <strong>Capítulos de libros</strong><br><br>
+              <strong>Libros</strong><br><br>
               <p>
+
               </p>
-              <strong>Publicaciones en extenso</strong><br><br>
+              <strong>Capítulos en libros</strong><br><br>
               <p>
+
               </p>
             </div>
           </div>
