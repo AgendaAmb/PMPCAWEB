@@ -139,13 +139,13 @@
                     <a href="#" id="enlacesProfEvaluacion">Dr. José Antonio Ávalos Lozano</a> <br>
                     <a href="#" id="enlacesProfEvaluacion">Dra. Jaqueline Calderón Hernández</a> <br>
                     <a href="#" id="enlacesProfEvaluacion">Dra. Virginia Gabriela Cilia López</a> <br>
-                    <a href="#" id="enlacesProfEvaluacion">Dra. Ana Cristina Cubillas Tejeda</a> <br>
+                    <a href="{{route('areas.SaludAmbiental.Profesores.ACubillas')}}" id="enlacesProfEvaluacion">Dra. Ana Cristina Cubillas Tejeda</a> <br>
                     <a href="#" id="enlacesProfEvaluacion">Dr. Fernando Díaz-Barriga Martínez</a> <br>
                     <a href="#" id="enlacesProfEvaluacion">Dra. Gabriela Domínguez Cortinas</a> <br>
                     <a href="#" id="enlacesProfEvaluacion">Dr. Guillermo Espinosa Reyes</a> <br>
                     <a href="#" id="enlacesProfEvaluacion">Dr. Rogelio Flores Ramírez</a> <br>
                     <a href="#" id="enlacesProfEvaluacion">Dra. Donají Josefina González Mille</a> <br>
-                    <a href="#" id="enlacesProfEvaluacion">Dr. César Ilizaliturri Hernández</a> <br>
+                    <a href="{{route('areas.SaludAmbiental.Profesores.CIlizaliturri')}}" id="enlacesProfEvaluacion">Dr. César Ilizaliturri Hernández</a> <br>
                     <a href="#" id="enlacesProfEvaluacion">Dr. José de Jesús Mejía Saavedra</a> <br>
                     <a href="#" id="enlacesProfEvaluacion">Dr. Francisco Javier Pérez Vázquez</a> <br>
                     <a href="#" id="enlacesProfEvaluacion">Dra. Silvia Romero Contreras</a> <br>
