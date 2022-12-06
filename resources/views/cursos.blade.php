@@ -71,7 +71,7 @@
 
         <div class="accordion p-2" id="accordionExample">
             <div class="accordion-item">
-                <div class="accordion-item" id="colorTexto">
+                <div class="accordion-item" id="enlacesCursos">
                     <h2 ref="primero" class="accordion-header" id="headingThree">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
@@ -80,7 +80,7 @@
                     </h2>
                     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
                         data-bs-parent="#accordionExample">
-                        <div class="accordion-body">
+                        <div class="accordion-body" id="enlacesCursos">
                             <a href="{{route('cursos.Basicos.DesarrolloSustentable')}}" target="_blank">76900001 Desarrollo sustentable</a><br>
                             <a href="{{route('cursos.Basicos.Ecologia')}}" target="_blank">76900053 Ecología</a><br>
                             <a href="{{route('cursos.Basicos.IntroduccionEstadistica')}}" target="_blank">76900057 Introducción a la estadística</a><br>
@@ -88,7 +88,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="accordion-item" id="colorTexto">
+                <div class="accordion-item" id="enlacesCursos">
                     <h2 ref="segundo" class="accordion-header" id="headingTwo">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
@@ -97,7 +97,7 @@
                     </h2>
                     <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
                         data-bs-parent="#accordionExample">
-                        <div class="accordion-body">
+                        <div class="accordion-body" >
                             <strong>Evaluación ambiental</strong><br><br>
                             769006 Gestión ambiental de operaciones minerometalúrgicas<br>
                             769012 Evaluación de impacto y riesgo ambiental<br><br><br>
