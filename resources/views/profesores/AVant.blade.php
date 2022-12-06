@@ -27,7 +27,7 @@
 
         <div class="enlacesprof">
             <a target="_blank" href="https://sociales.uaslp.mx/Paginas/Investigacion/2108#gsc.tab=0">Webpage</a>
-            <a target="_blank" href="storage/CV/Vant_Hooft_AnuschkaJohannaMaria.pdf">Curriculum Vitae </a>
+            <a target="_blank" href="/storage/CV/Vant_Hooft_AnuschkaJohannaMaria.pdf">Curriculum Vitae </a>
             <a target="_blank" href="https://investigadores.uaslp.mx/InvestigadorProfile/azUAAA%3d%3d">Directorio de Investigadores</a>
             <a target="_blank" href="http://orcid.org/0000-0002-3742-9121"><img src="{{asset('storage/images/orcid.png')}}" alt=""></a>
             <a target="_blank" href="https://www.scopus.com/authid/detail.uri?authorId=55304325900"> <img src="{{asset('storage/images/scopus.png')}}" alt=""></a>
@@ -116,11 +116,11 @@
               <!--<strong>Capítulos en libros</strong><br><br>
               <p>
 
-              </p>
+              </p>-->
             </div>
           </div>
         </div>
-        <div class="accordion-item">
+        <!--<div class="accordion-item">
           <h2 class="accordion-header" id="headingThree">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
               data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">

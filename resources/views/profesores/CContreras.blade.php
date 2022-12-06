@@ -28,7 +28,7 @@
         <div class="enlacesprof">
             <a target="_blank" href="http://langif.uaslp.mx/">Webpage 1</a>
             <a target="_blank" href="http://lages.uaslp.mx/">Webpage 2</a>
-            <a target="_blank" href="storage/CV/Contreras_Servin_Carlos.pdf">Curriculum Vitae </a>
+            <a target="_blank" href="/storage/CV/Contreras_Servin_Carlos.pdf">Curriculum Vitae </a>
             <a target="_blank" href="https://investigadores.uaslp.mx/InvestigadorProfile/4DoAAA%3d%3d">Directorio de Investigadores</a>
             <a target="_blank" href="http://orcid.org/0000-0003-2221-1565"><img src="{{asset('storage/images/orcid.png')}}" alt=""></a>
             <a target="_blank" href="https://www.scopus.com/authid/detail.uri?authorId=23485024400"> <img src="{{asset('storage/images/scopus.png')}}" alt=""></a>
