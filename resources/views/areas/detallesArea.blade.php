@@ -38,23 +38,23 @@
                 switch(index){
                     case 1:
                         this.title = 'Evaluación Ambiental'
-                        this.image_location = '/storage/images/12.png'
+                        this.image_location = '/pmpca/storage/images/12.png'
                         break
                     case 2:
                         this.title = 'Gestión Ambiental'
-                        this.image_location = '/storage/images/13.png'
+                        this.image_location = '/pmpca/storage/images/13.png'
                         break
                     case 3:
                         this.title = 'Prevención y Control'
-                        this.image_location = '/storage/images/14.png'
+                        this.image_location = '/pmpca/storage/images/14.png'
                         break
                     case 4:
                         this.title = 'Recursos Naturales'
-                        this.image_location = '/storage/images/15.png'
+                        this.image_location = '/pmpca/storage/images/15.png'
                         break
                     case 5:
                         this.title = 'Salud Ambiental'
-                        this.image_location = '/storage/images/16.png'
+                        this.image_location = '/pmpca/storage/images/16.png'
                         break
                 }
             }
