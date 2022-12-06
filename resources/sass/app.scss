@@ -20,8 +20,13 @@ body {
   padding: 0;
   font-family: Helvetica, Arial, sans-serif;
   color: #666;
+
 }
 
+section{
+  min-height: 100vh !important;
+  // display: flex;
+}
 
 h1, .h1 {
   text-align: center;
@@ -369,6 +374,21 @@ body {
 }
 
 
+#enlacesCursos a{
+  text-decoration: none;
+  color: #666;
+}
+
+.modal-header{
+  background-color: rgb(0, 74, 152);;
+}
+
+.modal-title{
+  color: white;
+  font-size: 19px;
+  text-align: center;
+}
+
 @media screen and (min-width:768px) {
     .cabezal_movil{
         display: none;
@@ -391,7 +411,6 @@ body {
         display: none;
     }
 }
-
 
 .contenido{
     display: flex;
@@ -435,14 +454,73 @@ table.width200, .width200 thead, .width200 tbody, .width200 th, .width200 td, .w
 .width200 td:nth-of-type(1):before { content: "Generación"; font-weight: bold;  color:rgb(0, 74, 152); }
 .width200 td:nth-of-type(2):before { content: "Ingresos"; font-weight: bold;  color:rgb(0, 74, 152);}
 .width200 td:nth-of-type(3):before { content: "Graduados";font-weight: bold;  color:rgb(0, 74, 152);}
-.width200 td:nth-of-type(4):before { content: "% Graduados/Ingresos"; font-weight: bold;  color:rgb(0, 74, 152);}
+.width200 td:nth-of-type(4):before { content: "% G/I"; font-weight: bold;  color:rgb(0, 74, 152);}
+
+.descarto {display:none;}
+.fontsize {font-size:10px}
+}
+
+table.width201,table.rwd_auto {border:1px solid black;width:100%;margin:0 0 50px 0}
+.width201 th,.rwd_auto th {background:transparent;padding:5px;text-align:center;}
+.width201 td,.rwd_auto td {border-bottom:1px solid black;padding:5px;text-align:center}
+.width201 tr:last-child td, .rwd_auto tr:last-child td{border:0}
+
+.rwd {width:100%;overflow:auto;}
+.rwd table.rwd_auto {width:auto;min-width:100%}
+    .rwd_auto th,.rwd_auto td {white-space: nowrap;}
+    
+@media only screen and (max-width: 760px), (min-width: 768px) and (max-width: 1024px)  
+{
+
+table.width201, .width201 thead, .width201 tbody, .width201 th, .width201 td, .width201 tr { display: block; }
+
+.width201 thead tr { position: absolute;top: -9999px;left: -9999px; }
+
+.width201 tr { border: 1px solid black; }
+
+.width201 td { border: none;border-bottom: 1px solid black; position: relative;padding-left: 50%;text-align:left }
+
+.width201 td:before {  position: absolute; top: 6px; left: 6px; width: 45%; padding-right: 10px; white-space: nowrap;}
+
+.width201 td:nth-of-type(1):before { content: "Año"; font-weight: bold;  color:rgb(0, 74, 152); }
+.width201 td:nth-of-type(2):before { content: "N. del alumno"; font-weight: bold;  color:rgb(0, 74, 152);}
+.width201 td:nth-of-type(3):before { content: "Título de tesis";font-weight: bold;  color:rgb(0, 74, 152);}
+.width201 td:nth-of-type(4):before { content: "Director de tesis"; font-weight: bold;  color:rgb(0, 74, 152);}
 
 .descarto {display:none;}
 .fontsize {font-size:10px}
 }
 
 
+table.width202,table.rwd_auto {border:1px solid black;width:100%;margin:0 0 50px 0}
+.width202 th,.rwd_auto th {background:transparent;padding:5px;text-align:center;}
+.width202 td,.rwd_auto td {border-bottom:1px solid black;padding:5px;text-align:center}
+.width202 tr:last-child td, .rwd_auto tr:last-child td{border:0}
 
+.rwd {width:100%;overflow:auto;}
+.rwd table.rwd_auto {width:auto;min-width:100%}
+    .rwd_auto th,.rwd_auto td {white-space: nowrap;}
+    
+@media only screen and (max-width: 760px), (min-width: 768px) and (max-width: 1024px)  
+{
+
+table.width202, .width202 thead, .width202 tbody, .width202 th, .width202 td, .width202 tr { display: block; }
+
+.width202 thead tr { position: absolute;top: -9999px;left: -9999px; }
+
+.width202 tr { border: 1px solid black; }
+
+.width202 td { border: none;border-bottom: 1px solid black; position: relative;padding-left: 50%;text-align:left }
+
+.width202 td:before {  position: absolute; top: 6px; left: 6px; width: 45%; padding-right: 10px; white-space: nowrap;}
+
+.width202 td:nth-of-type(1):before { content: "Año"; font-weight: bold;  color:rgb(0, 74, 152); }
+.width202 td:nth-of-type(2):before { content: "Semestre"; font-weight: bold;  color:rgb(0, 74, 152);}
+.width202 td:nth-of-type(3):before { content: "Descargas";font-weight: bold;  color:rgb(0, 74, 152);}
+
+.descarto {display:none;}
+.fontsize {font-size:10px}
+}
 
 @import "~bootstrap/scss/bootstrap.scss";
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');

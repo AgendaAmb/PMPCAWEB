@@ -28,7 +28,7 @@
                         biológicos, fenómenos de transporte de masa, y la interrelación entre
                         diferentes medios. Los datos obtenidos de este análisis permiten evaluar el impacto ambiental para
                         establecer estrategias de prevención y remediación adecuadas. <br><br>
-                        <a class="btn btn-primary rounded-pill" id="botonesGeneral" href="{{ route('areas.EvaluacionAmbiental.index') }}"
+                        <a class="btn btn-primary rounded-pill" id="botonesGeneral" href="{{ route('areas.details', ['area' => 1]) }}"
                             role="button">Conocer más</a>
                     </div>
                 </div>
@@ -45,7 +45,7 @@
                         planeación y el ordenamiento del territorio con un enfoque sustentable. Siendo sus
                         temas prioritarios: las enfermedades emergentes y el cambio climático, la vulnerabilidad y la
                         resiliencia ante desastres y los cambios ambientales en los sistemas socioecológicos. <br><br>
-                        <a class="btn btn-primary rounded-pill" id="botonesGeneral" href="{{ route('areas.GestionAmbiental.index') }}"
+                        <a class="btn btn-primary rounded-pill" id="botonesGeneral" href="{{ route('areas.details', ['area' => 2]) }}"
                             role="button">Conocer más</a>
                     </div>
                 </div>
@@ -67,7 +67,7 @@
                         nuevos materiales ambientales avanzados, así como el uso de fuentes alternas de energías y
                         tecnologías
                         para reducir los efectos de la contaminación ambiental. <br><br>
-                        <a class="btn btn-primary rounded-pill" id="botonesGeneral" href="{{ route('areas.PrevencionYControl.index') }}"
+                        <a class="btn btn-primary rounded-pill" id="botonesGeneral" href="{{ route('areas.details', ['area' => 3]) }}"
                             role="button">Conocer más</a>
                     </div>
                 </div>
@@ -94,7 +94,7 @@
                         análisis
                         integral y comparativo de sistemas agrícolas y pecuarios, tradicionales y empresariales, que permite
                         reconocer los factores que pueden estar limitando su estabilidad y productividad. <br><br>
-                        <a class="btn btn-primary rounded-pill" id="botonesGeneral" href="{{route('areas.RecursosNaturales.index')}}"
+                        <a class="btn btn-primary rounded-pill" id="botonesGeneral" href="{{route('areas.details', ['area' => 4])}}"
                             role="button">Conocer más</a>
                     </div>
                 </div>
@@ -115,7 +115,7 @@
                         los recursos naturales, la prevención y el cuidado de la salud, así como estrategias
                         para asegurar el desarrollo sustentable a través de la participación comunitaria responsable.
                         <br><br>
-                        <a class="btn btn-primary rounded-pill" id="botonesGeneral" href="{{route('areas.SaludAmbiental.index')}}"
+                        <a class="btn btn-primary rounded-pill" id="botonesGeneral" href="{{route('areas.details', ['area' => 5])}}"
                             role="button">Conocer
                             más</a>
                     </div>

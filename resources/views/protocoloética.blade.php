@@ -1,6 +1,8 @@
 @extends('base')
 
 @section('maincontent')
+
+<section>
     <div id="colorTexto">
         <div id="p-container" class="container px-lg-8.5 px-md-5">
             <div id="professor-description" class="row mb-4 p-5">
@@ -83,10 +85,5 @@
             <hr>-->
         </div>
     </div>
-<div style="height: 100px; background-color: transparent;">
-    <div class="mh-100" style="width: 100px; height: 200px; background-color: transparent;"></div>
-</div>
-<div style="height: 100px; background-color: transparent;">
-    <div class="mh-100" style="width: 100px; height: 200px; background-color: transparent;"></div>
-</div>
+</section>
 @endsection

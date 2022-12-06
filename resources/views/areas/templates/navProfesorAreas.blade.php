@@ -1,24 +1,35 @@
 <div id="p-container" class="container px-lg-8.5">
     <ul class="nav nav-pills mb-3 d-flex justify-content-center" id="pills-tab" role="tablist">
         <li class="nav-item" role="presentation">
-            <button class="nav-link active btn btn-primary rounded-pill" id="pills-evaluacion-tab" data-bs-toggle="pill" data-bs-target="#pills-evaluacion" type="button" role="tab" aria-controls="pills-evaluacion" aria-selected="true">Evaluación&nbspambiental</button>
+            <button v-bind:class="{ active: area == 1 }" class="nav-link btn btn-primary rounded-pill" id="pills-evaluacion-tab" data-bs-toggle="pill" data-bs-target="#pills-evaluacion" type="button" role="tab" aria-controls="pills-evaluacion" aria-selected="true"
+            @click="setAreaData(1)"
+            >Evaluación&nbspambiental
+            </button>
         </li>
         <li class="nav-item" role="presentation">
-            <button class="nav-link btn btn-primary rounded-pill" id="pills-gestion-tab" data-bs-toggle="pill" data-bs-target="#pills-gestion" type="button" role="tab" aria-controls="pills-gestion" aria-selected="false">&nbsp&nbspGestión&nbspambiental&nbsp&nbsp</button>
+            <button v-bind:class="{ active: area == 2 }" class="nav-link btn btn-primary rounded-pill" id="pills-gestion-tab" data-bs-toggle="pill" data-bs-target="#pills-gestion" type="button" role="tab" aria-controls="pills-gestion" aria-selected="false"
+            @click="setAreaData(2)"
+            >&nbsp&nbspGestión&nbspambiental&nbsp&nbsp</button>
         </li>
         <li class="nav-item" role="presentation">
-            <button class="nav-link btn btn-primary rounded-pill" id="pills-prevencion-tab" data-bs-toggle="pill" data-bs-target="#pills-prevencion" type="button" role="tab" aria-controls="pills-prevencion" aria-selected="false">Prevención&nbspy&nbspcontrol</button>
+            <button v-bind:class="{ active: area == 3 }" class="nav-link btn btn-primary rounded-pill" id="pills-prevencion-tab" data-bs-toggle="pill" data-bs-target="#pills-prevencion" type="button" role="tab" aria-controls="pills-prevencion" aria-selected="false"
+            @click="setAreaData(3)"
+            >Prevención&nbspy&nbspcontrol</button>
         </li>
         <li class="nav-item" role="presentation">
-            <button class="nav-link btn btn-primary rounded-pill" id="pills-recursos-tab" data-bs-toggle="pill" data-bs-target="#pills-recursos" type="button" role="tab" aria-controls="pills-recursos" aria-selected="false">&nbsp&nbspRecursos&nbspnaturales&nbsp&nbsp</button>
+            <button v-bind:class="{ active: area == 4 }" class="nav-link btn btn-primary rounded-pill" id="pills-recursos-tab" data-bs-toggle="pill" data-bs-target="#pills-recursos" type="button" role="tab" aria-controls="pills-recursos" aria-selected="false"
+            @click="setAreaData(4)"
+            >&nbsp&nbspRecursos&nbspnaturales&nbsp&nbsp</button>
         </li>
         <li class="nav-item" role="presentation">
-            <button class="nav-link btn btn-primary rounded-pill" id="pills-salud-tab" data-bs-toggle="pill" data-bs-target="#pills-salud" type="button" role="tab" aria-controls="pills-salud" aria-selected="false">&nbsp&nbspSalud&nbspambiental&nbsp&nbsp</button>
+            <button v-bind:class="{ active: area == 5 }" class="nav-link btn btn-primary rounded-pill" id="pills-salud-tab" data-bs-toggle="pill" data-bs-target="#pills-salud" type="button" role="tab" aria-controls="pills-salud" aria-selected="false"
+            @click="setAreaData(5)"
+            >&nbsp&nbspSalud&nbspambiental&nbsp&nbsp</button>
         </li>
     </ul>
 
     <div class="tab-content" id="pills-tabContent">
-        <div class="tab-pane fade show active" id="pills-evaluacion" role="tabpanel" aria-labelledby="pills-evaluacion-tab">
+        <div v-bind:class="{ active: area == 1, show: area == 1}" class="tab-pane fade" id="pills-evaluacion" role="tabpanel" aria-labelledby="pills-evaluacion-tab">
             <div class="col-12 col-sm-12 mx-5">
                 <div>
                     <div class="mx-5">
@@ -40,8 +51,8 @@
                 </div>
             </div>
         </div>
-        <div class="tab-pane fade" id="pills-gestion" role="tabpanel" aria-labelledby="pills-gestion-tab">
-            <div>
+        <div v-bind:class="{ active: area == 2, show: area == 2}" class="tab-pane fade" id="pills-gestion" role="tabpanel" aria-labelledby="pills-gestion-tab">
+            <div class="col-12 col-sm-12 mx-5">
                 <div class="mx-5">
                     <h4><strong>Nombre de la LGAC del área:</strong></h4>
                     Gestión ambiental, territorio y sustentabilidad.
@@ -63,8 +74,8 @@
                 </div>
             </div>
         </div>
-        <div class="tab-pane fade" id="pills-prevencion" role="tabpanel" aria-labelledby="pills-prevencion-tab">
-            <div>
+        <div v-bind:class="{ active: area == 3, show: area == 3}" class="tab-pane fade" id="pills-prevencion" role="tabpanel" aria-labelledby="pills-prevencion-tab">
+            <div class="col-12 col-sm-12 mx-5">
                 <div class="mx-5">
                     <h4><strong>Nombre de la LGAC del área:</strong></h4>
                     Tecnología ambiental para la remediación de sitios contaminados y aprovechamiento de residuos.
@@ -86,8 +97,8 @@
                 </div>
             </div>
         </div>
-        <div class="tab-pane fade" id="pills-recursos" role="tabpanel" aria-labelledby="pills-recursos-tab">
-            <div>
+        <div v-bind:class="{ active: area == 4, show: area == 4}" class="tab-pane fade" id="pills-recursos" role="tabpanel" aria-labelledby="pills-recursos-tab">
+            <div class="col-12 col-sm-12 mx-5">
                 <div class="mx-5">
                     <h4><strong>Nombre de la LGAC del área:</strong></h4>
                     Conocimiento, aprovechamiento racional y conservación de los recursos naturales renovables.
@@ -114,8 +125,8 @@
             </div>
         </div>
         
-        <div class="tab-pane fade" id="pills-salud" role="tabpanel" aria-labelledby="pills-salud-tab">
-            <div>
+        <div v-bind:class="{ active: area == 5, show: area == 5}" class="tab-pane fade" id="pills-salud" role="tabpanel" aria-labelledby="pills-salud-tab">
+            <div class="col-12 col-sm-12 mx-5">
                 <div class="mx-5">
                     <h4><strong>Nombre de la LGAC del área:</strong></h4>
                     Evaluación del riesgo en salud humana y ecológica a través de intervenciones comunitarias.
