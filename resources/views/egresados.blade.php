@@ -21,12 +21,12 @@
                                         </button>
                                     </div>
 
-                                    <div class="modal" id="myModal">
+                                    <div class="modal modal-xl" id="myModal">
                                         <div class="modal-dialog">
                                             <div class="modal-content">
 
                                                 <div class="modal-header">
-                                                    <p class="modal-title">Doctor en Ciencias Ambientales Idrissa Diédhiou
+                                                    <p class="modal-title" >Doctor en Ciencias Ambientales<br> Idrissa Diédhiou
                                                     </p>
                                                     <button type="button" class="btn-close"
                                                         data-bs-dismiss="modal"></button>
@@ -39,7 +39,7 @@
                                                                 <img src="{{ asset('storage/images/DrIdrissa.png') }}"
                                                                     class="card-img-top" alt="...">
                                                                 <br>
-                                                                <p> <strong>Generacion 2018</strong></p>
+                                                                <p> <strong>Generación 2018</strong></p>
 
                                                                 <p>
                                                                     Tesis “Physiology, metabolomic profiles,
@@ -126,7 +126,7 @@
                                 <div class="card-body">
                                     <p class="card-title"> <strong>DOCTOR <br> GERARDO MORALES JASSO</strong></p>
                                     <a class="btn btn-primary rounded-pill" id="botonesGeneral" href="#"
-                                        role="button">Ver mas...</a>
+                                        role="button" data-bs-toggle="modal" data-bs-target="#myModal">Ver mas...</a>
                                 </div>
                             </div>
                         </div>

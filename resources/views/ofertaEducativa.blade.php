@@ -251,7 +251,7 @@
                     </div>
                     <div class="col-12 col-sm-3 ">
                         <a class="btn btn-primary" id="botonesGeneral" target="_blank"
-                            href="/storage/Doc/ENREM_Flyer.pdf" role="button">Convocatoria</a>
+                            href="storage/Doc/ENREM_Flyer.pdf" role="button">Convocatoria</a>
                     </div>
                     <div class="col-12 col-sm-1 ">
                     </div>

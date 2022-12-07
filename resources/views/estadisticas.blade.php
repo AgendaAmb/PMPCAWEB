@@ -5,13 +5,15 @@
         <div id="p-container" class="container px-lg-8.5 px-md-5">
             <div class="row mb-4">
                 <div class="col-12 col-sm-12">
+                    <br>
                     <h1><strong>ESTADÍSTICAS</strong></h1>
                 </div>
             </div>
 
             <hr>
+            <br>
             <div class="col-12 col-sm-12 my-4">
-                <p> <strong> Cohorte generacional maestría</strong></p>
+                <p> <strong> Cohorte generacional Maestría</strong></p>
             </div>
 
             <div class="accordion p-2" id="accordionExample">
@@ -315,7 +317,7 @@
                 </div>
             </div>
 
-            <hr>
+            <br>
             <div class="col-12 col-sm-12 my-4">
                 <p><strong>Cohorte generacional Doctorado</strong></p>
             </div>
@@ -757,7 +759,7 @@
                     </div>
                 </div>
             </div>
-
+            <br><br>
         </div>
     </div>
 @endsection

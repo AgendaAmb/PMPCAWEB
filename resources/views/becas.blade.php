@@ -5,7 +5,7 @@
         <div id="contTablaIzq">
             <div id="p-container" class="container px-lg-8.5 px-md-5">
                 <div class="row mb-4">
-                    <div class="col-12 col-sm-12">
+                    <div class="col-12 col-sm-12"><br>
                         <h1><strong>BECAS</strong></h1>
                     </div>
                 </div>
@@ -19,7 +19,7 @@
 
                 <div class="col-12 col-sm-12 my-4" id="becasEnlace">
                     <h4><strong>SNP</strong> </h4>
-                    <p>En trámite</p>
+                    <p>En trámite.</p>
                 </div>
                 <div class="col-12 col-sm-12 my-4" id="becasEnlace">
                     <h4><strong>Requisitos</strong> </h4>
