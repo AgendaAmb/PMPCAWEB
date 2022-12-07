@@ -20,7 +20,7 @@
                         <strong>Publicaciones 2021 &nbsp</strong> <i class="fa-solid fa-arrow-down-long"></i>
                     </button>
                 </h2>
-                <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
+                <div id="collapseThree" class="accordion-collapse collapse active show" aria-labelledby="headingThree"
                     data-bs-parent="#accordionExample">
                     <div class="accordion-body">
                         <p><strong>Artículos de Investigación</strong></p><br>

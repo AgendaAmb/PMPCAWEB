@@ -3,9 +3,8 @@
 @section('maincontent')
     <div id="p-container" class="container px-lg-8.5 px-md-5">
         <div id="professor-description" class="row mb-4">
-            <div class="col-12 col-sm-12  ">
-
-                <div id="carouselExampleCaptions" class="carousel slide m-1" data-bs-ride="carousel">
+            <div class="col-12 col-sm-12 p-0 m-0">
+                <div id="carouselExampleCaptions" class="carousel slide mt-4" data-bs-ride="carousel">
                     <div class="carousel-indicators">
                         <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active"
                             aria-current="true" aria-label="Slide 1">
@@ -15,7 +14,7 @@
                         <div class="carousel-item active">
                             <img src="{{ asset('storage/images/1.png') }}" class="d-block w-100" alt="...">
                             <div class="carousel-caption d-none d-md-block">
-                                <p id="bienvenida"> <strong>Programa Multidisciplinario de Posgrado en Ciencias
+                                <p id="bienvenida"> <strong>Programa Multidisciplinario de <br> Posgrado en Ciencias
                                         Ambientales</strong></p>
                             </div>
                         </div>
@@ -28,10 +27,10 @@
                     <div class="row row-cols-lg-3 row-cols-md-2">
 
                         <div class="col col-6 my-3">
-                            <div class="card h-100" id="colorCard">
-                                <img src="{{ asset('storage/images/4.png') }}" class="card-img-top" alt="...">
+                            <div class="card h-100 rounded-0" id="colorCard">
+                                <img src="{{ asset('storage/images/4.png') }}" class="card-img-top rounded-0" alt="...">
                                 <div class="barraAzulFuerteS"></div>
-                                <div class="card-body">
+                                <div class="card-body rounded-0">
                                     <p class="card-title"> <strong>DOCTORADO EN CIENCIAS AMBIENTALES</strong></p>
                                     <a class="btn btn-primary" id="botonesGeneral" target="_blank" href="storage/Doc/Conv_DCA2022.pdf"
                                     role="button">Convocatoria</a>
@@ -40,10 +39,10 @@
                         </div>
 
                         <div class="col col-6 my-3">
-                            <div class="card h-100" id="colorCard">
-                                <img src="{{ asset('storage/images/5.png') }}" class="card-img-top" alt="...">
+                            <div class="card h-100 rounded-0" id="colorCard">
+                                <img src="{{ asset('storage/images/5.png') }}" class="card-img-top rounded-0" alt="...">
                                 <div class="barraAzulFuerteS"></div>
-                                <div class="card-body">
+                                <div class="card-body rounded-0">
                                     <p class="card-title"> <strong>MAESTRÍA EN CIENCIAS AMBIENTALES</strong></p>
                                     <a class="btn btn-primary" id="botonesGeneral" target="_blank" href="storage/Doc/Conv_MCA2022.pdf"
                                     role="button">Convocatoria</a>
@@ -52,10 +51,10 @@
                         </div>
 
                         <div class="col col-6 my-3">
-                            <div class="card h-100" id="colorCard">
-                                <img src="{{ asset('storage/images/6.png') }}" class="card-img-top" alt="...">
+                            <div class="card h-100 rounded-0" id="colorCard">
+                                <img src="{{ asset('storage/images/6.png') }}" class="card-img-top rounded-0" alt="...">
                                 <div class="barraAzulFuerteS"></div>
-                                <div class="card-body">
+                                <div class="card-body rounded-0">
                                     <p class="card-title"><strong>MAESTRÍA EN CIENCIAS AMBIENTALES (Doble
                                             titulación)</strong>
                                     </p>
@@ -74,24 +73,19 @@
 
                 <div class="row">
 
-                    <div class="col-12 col-sm-6">
-                        <div class="izquierda">
-                            <div class="container">
-                                <div class="ratio ratio-16x9">
-                                    <iframe width="560" height="315"
-                                        src="{{ asset('storage/images/video.mp4') }}"
-                                        title="" frameborder="0"
-                                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                        allowfullscreen></iframe>
-                                </div>
-                            </div>
+                    <div class="col-md-6 col-sm-12 m-0 p-0">
+                        <div class="ratio ratio-16x9">
+                            <iframe width="560" height="315"
+                                src="{{ asset('storage/videos/fondo_paz.mp4') }}"
+                                title="" frameborder="0"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                allowfullscreen>
+                            </iframe>
                         </div>
                     </div>
-
-                    <div class="col-12 col-sm-5  " id="colorCard">
-                        <div class="derechaInicio  ">
-                            <br>
-                            <p> <strong>NUESTROS EGRESADOS</strong> </p>
+                    <div class="col-md-6 col-sm-12 m-0 p-0" style="background-color: rgb(0, 74, 152);">
+                        <div id="colorCard" class="ms-2 px-3 py-3 h-100">
+                            <p><strong>NUESTROS EGRESADOS</strong></p>
                             <div id="contTablaIzq">
                                 Empleadores hablan sobre nuestros egresados del Programa Multidisciplinario en Ciencias Ambientales.
                             </div>

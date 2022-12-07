@@ -191,7 +191,6 @@ a:hover {
   margin: 20px 200px;
 }
 
-
 #accordionExample {
   font-family: open sans;
 }
@@ -246,8 +245,9 @@ a:hover {
   text-align: left;
 }
 #bienvenida{
+  text-shadow: 2px 2px 2px rgb(77, 77, 77);
   color: white;
-  font-size: 25px;
+  font-size: 35px;
 }
 
 #videoInicio p{
@@ -263,6 +263,12 @@ a:hover {
 #botonesGeneral {
   background-color: rgb(42, 127, 195);
   border: 0;
+}
+
+.btn-modal-footer{
+  background-color: rgb(42, 127, 195);
+  border: 0;
+  color: white;
 }
 
 #titulosCyan{
@@ -311,10 +317,28 @@ a:hover {
   text-align: center;
 }
 
-#contTablaIzq{
+#modales-egresados-izq{
   text-align: justify;
   color: rgb(77, 77, 77);
-  font-size: small;
+  font-size: 14px;
+}
+
+.modal-title{
+  font-size: 25px;
+  color: white;
+}
+
+.my-modal-header{
+  background-color: rgb(0, 74, 152);
+}
+
+#contTablaIzq{
+  text-align: justify;
+}
+
+.modal-details{
+  text-align: justify;
+  color: rgb(77, 77, 77);
 }
 
 #contTablaLeft{

@@ -23,7 +23,7 @@
                             <strong>Evaluación Ambiental &nbsp</strong> <i class="fa-solid fa-arrow-down-long"></i>
                         </button>
                     </h2>
-                    <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
+                    <div id="collapseTwo" class="accordion-collapse collapse active show" aria-labelledby="headingTwo"
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body" id="accordionTextM">
                             <div class="col-12 col-sm-10 border-end border-start border-top">
