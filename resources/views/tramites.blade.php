@@ -20,7 +20,7 @@
     <div class="col-12 col-sm-12 my-4" id="enlacetramites">
         <a href="{{asset('storage/pdf/F_Inscripcion_MCA.pdf')}}"> <strong>Inscripción PMPCA</strong> </a>
     </div><br>
-    <strong>Tesis y Comité Tutelar</strong><br>
+    <strong>Tesis y Comité Tutorial</strong><br>
     <div class="col-12 col-sm-12 my-4" id="enlacetramites">
         <a href="{{asset('storage/pdf/2.1_AsignacionDirectorTesis.pdf')}}"> <strong>Asignación director de tesis</strong></a>
     </div>

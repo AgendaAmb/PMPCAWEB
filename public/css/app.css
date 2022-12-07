@@ -295,6 +295,8 @@ a:hover {
 
 #contTablaIzq {
   text-align: justify;
+  color: rgb(77, 77, 77);
+  font-size: small;
 }
 
 #contTablaLeft {
@@ -337,21 +339,6 @@ body {
   max-width: 1142px;
   width: 100%;
   margin: 0 auto;
-}
-
-#enlacesCursos a {
-  text-decoration: none;
-  color: #666;
-}
-
-.modal-header {
-  background-color: rgb(0, 74, 152);
-}
-
-.modal-title {
-  color: white;
-  font-size: 19px;
-  text-align: center;
 }
 
 @media screen and (min-width: 768px) {
@@ -471,7 +458,7 @@ table.width200, table.rwd_auto {
     color: rgb(0, 74, 152);
   }
   .width200 td:nth-of-type(4):before {
-    content: "% G/I";
+    content: "% Graduados/Ingresos";
     font-weight: bold;
     color: rgb(0, 74, 152);
   }
@@ -658,7 +645,7 @@ table.width202, table.rwd_auto {
   }
 }
 /*!
- * Bootstrap  v5.2.2 (https://getbootstrap.com/)
+ * Bootstrap  v5.2.3 (https://getbootstrap.com/)
  * Copyright 2011-2022 The Bootstrap Authors
  * Copyright 2011-2022 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
@@ -6526,7 +6513,6 @@ textarea.form-control-lg {
   display: block;
 }
 
-/* rtl:begin:ignore */
 .carousel-item-next:not(.carousel-item-start),
 .active.carousel-item-end {
   transform: translateX(100%);
@@ -6537,7 +6523,6 @@ textarea.form-control-lg {
   transform: translateX(-100%);
 }
 
-/* rtl:end:ignore */
 .carousel-fade .carousel-item {
   opacity: 0;
   transition-property: opacity;

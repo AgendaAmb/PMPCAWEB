@@ -15,7 +15,7 @@
                         <div class="carousel-item active">
                             <img src="{{ asset('storage/images/1.png') }}" class="d-block w-100" alt="...">
                             <div class="carousel-caption d-none d-md-block">
-                                <p id="bienvenida"> <strong>Programa Multidiciplinario de Posgrado en Ciencias
+                                <p id="bienvenida"> <strong>Programa Multidisciplinario de Posgrado en Ciencias
                                         Ambientales</strong></p>
                             </div>
                         </div>
