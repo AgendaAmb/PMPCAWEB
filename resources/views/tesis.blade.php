@@ -7,8 +7,8 @@
                 <h1><strong>TESIS</strong></h1>
             </div>
         </div>
-
         <hr>
+        <br>
         <div class="col-12 col-sm-12 my-4">
             <p> <strong>Doctorado en Ciencias Ambientales</strong></p>
         </div>
@@ -82,7 +82,7 @@
                                             <td>2016</td>
                                             <td>Flores Jiménez David Enrique</td>
                                             <td><a target="_blank"
-                                                    href="http://ambiental.uaslp.mx/pmpca/tesis/Doc/Gen2012-02/2016_pmpca_floresjimenez.pdf">Estimación
+                                                    href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/3955/DCA1EEM01601.pdf?sequence=3&isAllowed=y">Estimación
                                                     de las emisiones y modelado del transporte de metano en la atmósfera
                                                     generado por la
                                                     quema de caña de azúcar en México</a></td>
@@ -1186,7 +1186,7 @@
         </div>
 
 
-        <hr>
+        <br>
 
         <div class="col-12 col-sm-12 my-4">
             <p><strong>Maestría en Ciencias Ambientales</strong></p>
@@ -3752,6 +3752,7 @@
                 </div>
             </div>
         </div>
+        <br><br>
     </div>
     </div>
 @endsection

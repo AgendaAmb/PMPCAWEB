@@ -15,6 +15,7 @@
     <script src="https://kit.fontawesome.com/c8e5690449.js" crossorigin="anonymous"></script>
 
     <script src="https://cdn.jsdelivr.net/npm/vue@2"></script>
+    <script src="../js"></script>
 </head>
 
 <body>

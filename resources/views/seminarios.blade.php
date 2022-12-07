@@ -12,14 +12,14 @@
                         <h2 class="accordion-header" id="headingTwo">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                <strong>Seminario Multidisciplinario &nbsp</strong> <i
+                                <strong>Seminario Multidisciplinarios &nbsp</strong> <i
                                     class="fa-solid fa-arrow-down-long"></i>
                             </button>
                         </h2>
                         <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
                             data-bs-parent="#accordionExample">
                             <div class="accordion-body" id="accordionTextM">
-                                <div class="col-12 col-sm-10 border-end border-start border-top">
+                                <div class="col-12 col-sm-10 border-end border-start border-top"><br>
                                     <table class="width202">
                                         <thead>
                                             <tr>
@@ -93,7 +93,7 @@
                         <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive"
                             data-bs-parent="#accordionExample">
                             <div class="accordion-body" id="accordionTextM">
-                                <div class="col-12 col-sm-10 border-end border-start border-top table-responsive">
+                                <div class="col-12 col-sm-10 border-end border-start border-top table-responsive"><br>
                                     <table class="width202">
                                         <thead>
                                             <tr>

@@ -77,6 +77,7 @@
         <div v-bind:class="{ active: area == 3, show: area == 3}" class="tab-pane fade" id="pills-prevencion" role="tabpanel" aria-labelledby="pills-prevencion-tab">
             <div class="col-12 col-sm-12 mx-5">
                 <div class="mx-5">
+                    <br><br>
                     <h4><strong>Nombre de la LGAC del área:</strong></h4>
                     Tecnología ambiental para la remediación de sitios contaminados y aprovechamiento de residuos.
                 </div>
