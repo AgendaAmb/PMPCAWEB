@@ -262,6 +262,14 @@ Route::prefix('areas')->name('areas.')->group(function () {
                 return view('profesores.CIlizaliturri');
             })->name('CIlizaliturri');
 
+            Route::get('DGonzales', function () {
+                return view('profesores.DGonzales');
+            })->name('DGonzales');
+
+            Route::get('FDiaz', function () {
+                return view('profesores.FDiaz');
+            })->name('FDiaz');
+
         });
     });
 });

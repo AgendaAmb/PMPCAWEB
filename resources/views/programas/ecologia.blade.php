@@ -30,7 +30,7 @@
                                             en Ciencias</td>
                                         <td>Curso teórico-práctico</td>
                                         <td id="contTablaIzq">
-                                            <ul>
+                                            <ul class="vineta">
                                                 <li>
                                                     Español
                                                 </li>
@@ -200,7 +200,7 @@
                                         </td>
                                         <td id="contTablaIzq">
 
-                                            <ul>
+                                            <ul class="vineta">
                                                 <li>
                                                     Exposiciones orales del profesor
                                                 </li>
@@ -236,7 +236,7 @@
                                         </td>
                                         <td id="contTablaIzq">
 
-                                            <ul>
+                                            <ul class="vineta">
                                                 <li>
                                                     Exposiciones orales del profesor
                                                 </li>
@@ -273,7 +273,7 @@
                                         </td>
                                         <td id="contTablaIzq">
 
-                                            <ul>
+                                            <ul class="vineta">
                                                 <li>
                                                     Exposiciones orales del profesor
                                                 </li>
@@ -314,7 +314,7 @@
                                         </td>
                                         <td id="contTablaIzq">
 
-                                            <ul>
+                                            <ul class="vineta">
                                                 <li>
                                                     Exposiciones orales del profesor
                                                 </li>
