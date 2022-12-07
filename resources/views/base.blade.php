@@ -19,10 +19,27 @@
 </head>
 
 <body>
-    @include('templates.header')
-    @include('templates.navbar')
-    @yield('maincontent')
+    <div class="header">
+        @include('templates.header')
+        @include('templates.navbar')
+    </div>
+
+    <div class="wrapper">
+        @yield('maincontent')
+    </div>
+
     @include('templates.footer')
 </body>
 
 </html>
+
+<style>
+    .wrapper{
+        flex:1;
+    }
+    body{
+        display:flex;
+        flex-direction:column;
+        min-height:100vh;
+    }
+</style>
