@@ -75,6 +75,11 @@ img {
   color: white;
 }
 
+.header-title {
+  font-size: 50px !important;
+  text-decoration: none !important;
+}
+
 .fondoFooter {
   height: 17px;
   background-color: #00B2E3;
@@ -120,24 +125,8 @@ img {
   background-color: rgb(0, 74, 152);
 }
 
-#logo-header {
-  float: left;
-  padding: 15px 0 0 20px;
-  text-decoration: none;
-}
-
-#logo-header:hover {
-  color: #f8f8f8;
-}
-
-#logo-header .site-name {
-  display: block;
-  font-weight: 700;
-}
-
-#logo-header .site-desc {
-  display: block;
-  color: #999;
+.header-title {
+  font-size: 50px;
 }
 
 #main-footer {
