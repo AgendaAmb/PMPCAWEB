@@ -93,9 +93,7 @@
                             <br>
                             <p> <strong>NUESTROS EGRESADOS</strong> </p>
                             <div id="contTablaIzq">
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe enim aut doloremque dolore in
-                                harum, doloribus libero nemo adipisci repudiandae perspiciatis modi quam nihil veritatis
-                                repellendus reiciendis commodi nostrum. Placeat!
+                                Empleadores hablan sobre nuestros egresados del Programa Multidisciplinario en Ciencias Ambientales.
                             </div>
                         </div>
                     </div>
