@@ -3,7 +3,7 @@
 @section('maincontent')
     <section>
         <div id="p-container" class="container px-lg-8.5 px-md-5 pb-5">
-            <div class="col-12 col-sm-12">
+            <div class="col-12 col-sm-12"><br>
                 <h1><strong>SEMINARIOS</strong></h1>
             </div>
             <div class="accordion p-2" id="accordionExample">
@@ -18,9 +18,8 @@
                         </h2>
                         <div id="collapseTwo" class="accordion-collapse collapse active show" aria-labelledby="headingTwo"
                             data-bs-parent="#accordionExample">
-                            <div class="accordion-body" id="accordionTextM">
-                                <div class="col-12 col-sm-10 border-end border-start border-top"><br>
-                                    <table class="width202">
+                            <div class="accordion-body" id="accordionTextM"><br>
+                                <table class="width202">
                                         <thead>
                                             <tr>
                                                 <th id="tablaTitulos"><b>Año</b></th>
@@ -79,7 +78,6 @@
                                             </tr>
                                         </tbody>
                                     </table>
-                                </div>
                             </div>
                         </div>
                     </div>
@@ -92,8 +90,7 @@
                         </h2>
                         <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive"
                             data-bs-parent="#accordionExample">
-                            <div class="accordion-body" id="accordionTextM">
-                                <div class="col-12 col-sm-10 border-end border-start border-top table-responsive"><br>
+                            <div class="accordion-body" id="accordionTextM"><br>
                                     <table class="width202">
                                         <thead>
                                             <tr>
@@ -175,7 +172,6 @@
                                     </table>
                                 </div>
                             </div>
-                        </div>
                     </div>
                 </div>
             </div>
