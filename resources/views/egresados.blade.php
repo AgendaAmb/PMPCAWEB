@@ -221,9 +221,10 @@
                                                 <div class="modal-body">
                                                     <div class="ratio ratio-16x9">
                                                         <iframe width="560" height="315"
+                                                            controls
                                                             src="{{ asset('storage/videos/fondo_paz.mp4') }}"
                                                             title="" frameborder="0"
-                                                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                                            allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                                                             allowfullscreen>
                                                         </iframe>
                                                     </div>
@@ -272,10 +273,11 @@
 
                                         <div class="d-flex justify-content-center modal-body">
                                             <iframe width="640" height="352"
+                                                controls
                                                 class="responsive-iframe"
                                                 src="{{ asset('storage/videos/video_quimica.mp4') }}"
                                                 title="" frameborder="0"
-                                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                                allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                                                 allowfullscreen>
                                             </iframe>
                                         </div>
