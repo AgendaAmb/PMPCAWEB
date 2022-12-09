@@ -82,7 +82,7 @@
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body" id="enlacesCursos">
                             <a href="{{route('cursos.Basicos.DesarrolloSustentable')}}" target="_blank">76900001 Desarrollo sustentable</a><br>
-                            <a href="{{route('cursos.Basicos.Ecologia')}}" target="_blank">76900053 Ecología</a><br>
+                            <a target="_blank">76900053 Ecología</a><br> <!--{{route('cursos.Basicos.Ecologia')}}-->
                             <a href="{{route('cursos.Basicos.IntroduccionEstadistica')}}" target="_blank">76900057 Introducción a la estadística</a><br>
                             <a target="_blank">76900058 Problemática y gestión ambiental</a><br>
                         </div>
