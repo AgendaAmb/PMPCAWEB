@@ -256,12 +256,7 @@
                                 <div class="card-body">
                                     <p class="card-title"> <strong>EMPLEADOR <br>
                                             ALINSA</strong></p>
-                                    <a class="btn btn-primary" id="botonesGeneral" href="#"
-                                        role="button">Ver mas...</a>
-                                </div>
-                            </div>
-
-                                    <a class="btn btn-primary rounded-pill" id="botonesGeneral" href="#"
+                                    <a class="btn btn-primary " id="botonesGeneral" href="#"
                                         role="button"
                                         data-bs-toggle="modal" data-bs-target="#modal-alinsa"
                                         >Ver mas...</a>
