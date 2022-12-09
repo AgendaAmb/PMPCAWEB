@@ -137,20 +137,18 @@
                                     <p class="card-title"> <strong>DOCTOR <br> GERARDO MORALES JASSO</strong></p>
                                     <div class="container mt-3">
                                         <button type="button" class="btn btn-primary" id="botonesGeneral"
-                                            data-bs-toggle="modal" data-bs-target="#myModal1">
+                                            data-bs-toggle="modal" data-bs-target="#myModal2">
                                             Ver más...
                                         </button>
                                     </div>
 
-                                    <div class="modal modal-xl" id="myModal1">
+                                    <div class="modal modal-xl" id="myModal2">
                                         <div class="modal-dialog modal-dialog-centered">
                                             <div class="modal-content">
 
-                                                <div class="modal-header">
+                                                <div class="modal-header my-modal-header d-flex justify-content-center">
                                                     <p class="modal-title" >Doctor en Ciencias Ambientales Gerardo Morales Jasso
                                                     </p>
-                                                    <button type="button" class="btn-close"
-                                                        data-bs-dismiss="modal"></button>
                                                 </div>
 
                                                 <div class="modal-body">
@@ -159,12 +157,17 @@
                                                             <div class="col">
                                                                 <img src="{{ asset('storage/images/DrGMJ.png') }}"
                                                                     class="card-img-top" alt="...">
-                                                                <br><br>
-                                                                <p> <strong>Generación 2018</strong></p>
-
-                                                                <p>
-                                                                    Tesis: “Construir el conocimiento interdisciplinario en el Programa Multidisciplinario de Posgrado en Ciencias Ambientales. Historia, teoría y praxis”
-                                                                </p>
+                                                                
+                                                                <div class="row d-flex justify-content-start text-start mt-3">
+                                                                    <p class="col-12"> <strong>Generación 2018</strong></p>
+                                                                    <p 
+                                                                        class="col-12 modal-details"
+                                                                        >
+                                                                        <b>
+                                                                            Tesis: “Construir el conocimiento interdisciplinario en el Programa Multidisciplinario de Posgrado en Ciencias Ambientales. Historia, teoría y praxis”
+                                                                        </b>
+                                                                    </p>
+                                                                </div>
                                                             </div>
                                                             <div class="col">
                                                                 <p id="modales-egresados-izq">
@@ -176,8 +179,15 @@
                                                 </div>
 
                                                 <div class="modal-footer">
-                                                    <button type="button" class="btn btn-danger"
-                                                        data-bs-dismiss="modal">Close</button>
+                                                    <button
+                                                        id="botonesGeneral"
+                                                        type="button" 
+                                                        class="btn"
+                                                        data-bs-dismiss="modal"
+                                                        style="color: white;"
+                                                        >
+                                                        Cerrar
+                                                    </button>
                                                 </div>
 
                                             </div>
