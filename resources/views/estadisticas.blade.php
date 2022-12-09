@@ -22,7 +22,7 @@
                         <h2 class="accordion-header" id="headingThree">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                <strong>Global &nbsp</strong> <i class="fa-solid fa-arrow-down-long"></i>
+                                <strong>Global &nbsp</strong>
                             </button>
                         </h2>
                         <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
@@ -170,7 +170,7 @@
                         <h2 class="accordion-header" id="headingTwo">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                <strong>Becarios CONACyT &nbsp</strong> <i class="fa-solid fa-arrow-down-long"></i>
+                                <strong>Becarios CONACyT &nbsp</strong>
                             </button>
                         </h2>
                         <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
@@ -327,7 +327,7 @@
                         <h2 class="accordion-header" id="headingFour">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                <strong>Global &nbsp</strong> <i class="fa-solid fa-arrow-down-long"></i>
+                                <strong>Global &nbsp</strong>
                             </button>
                         </h2>
                         <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
@@ -544,7 +544,7 @@
                         <h2 class="accordion-header" id="headingFive">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                <strong>Becarios CONACyT &nbsp</strong> <i class="fa-solid fa-arrow-down-long"></i>
+                                <strong>Becarios CONACyT &nbsp</strong>
                             </button>
                         </h2>
                         <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive"

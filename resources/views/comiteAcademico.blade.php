@@ -13,8 +13,8 @@
                         <h1><strong>COMITÉ ACADÉMICO</strong></h1>
                     </div>
                     <div class="col-12 col-sm-12">
-                        <div>
-                            <h4><strong>Atribuciones y obligaciones</strong></h4>
+                        <div><br>
+                            <h6 style="color: RGB(0, 74, 152)"><strong>Atribuciones y obligaciones</strong></h6>
                             <br>
                             <p>
                                 La autoridad académica de los PMPCA es el Comité Académico (CA), el cual está conformado con

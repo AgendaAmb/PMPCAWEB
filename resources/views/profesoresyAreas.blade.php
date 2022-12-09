@@ -16,7 +16,7 @@
 
                 <div class="row col-12 col-sm-12  mt-2 mb-4">
                     <div class="col-12 col-sm-4">
-                        <img src="{{ asset('storage/images/12.png') }}" class="rounded float-end" alt="">
+                        <img src="{{ asset('storage/images/23.png') }}" class="rounded float-end" alt="">
                     </div>
                     <div class="col-12 col-sm-8" id="contTablaIzq">
                         <strong id="h2info">Evaluación ambiental</strong> <br>La evaluación de rutas de dispersión,
@@ -35,7 +35,7 @@
                 <hr>
                 <div class="row col-12 col-sm-12 mt-2 mb-4">
                     <div class="col-12 col-sm-4">
-                        <img src="{{ asset('storage/images/13.png') }}" class="rounded float-end" alt="">
+                        <img src="{{ asset('storage/images/24.png') }}" class="rounded float-end" alt="">
                     </div>
                     <div class="col-12 col-sm-8" id="contTablaIzq">
                         <strong id="h2info">Gestión ambiental</strong> <br> La LGAC Gestión Ambiental, Territorio y
@@ -54,7 +54,7 @@
 
                 <div class="row col-12 col-sm-12 mt-2 mb-4">
                     <div class="col-12 col-sm-4" id="imgcenter">
-                        <img src="{{ asset('storage/images/14.png') }}" class="rounded float-end" alt="">
+                        <img src="{{ asset('storage/images/25.png') }}" class="rounded float-end" alt="">
                     </div>
                     <div class="col-12 col-sm-8" id="contTablaIzq">
                         <strong id="h2info">Prevención y control</strong> <br> Formación de recursos humanos de alto
@@ -76,7 +76,7 @@
 
                 <div class="row col-12 col-sm-12 mt-2 mb-4">
                     <div class="col-12 col-sm-4" id="contTablaIzq">
-                        <img src="{{ asset('storage/images/15.png') }}" class="rounded float-end" alt="">
+                        <img src="{{ asset('storage/images/26.png') }}" class="rounded float-end" alt="">
                     </div>
                     <div class="col-12 col-sm-8" id="contTablaIzq">
                         <strong id="h2info">Recursos naturales renovables</strong> <br> La LGAC abordará el conocimiento,
@@ -103,7 +103,7 @@
 
                 <div class="row col-12 col-sm-12 mt-2 mb-4">
                     <div class="col-12 col-sm-4">
-                        <img src="{{ asset('storage/images/16.png') }}" class="rounded float-end" alt="">
+                        <img src="{{ asset('storage/images/27.png') }}" class="rounded float-end" alt="">
                     </div>
                     <div class="col-12 col-sm-8" id="contTablaIzq">
                         <strong id="h2info">Salud ambiental integral</strong> <br> Las comunidades vulnerables requieren

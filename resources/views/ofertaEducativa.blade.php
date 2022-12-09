@@ -70,7 +70,7 @@
                             <h2 class="accordion-header" id="headingThree">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                    <strong>Perfil de egreso &nbsp</strong> <i class="fa-solid fa-arrow-down-long"></i>
+                                    <strong>Perfil de egreso &nbsp</strong>
                                 </button>
                             </h2>
                             <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
@@ -100,7 +100,7 @@
                             <h2 class="accordion-header" id="headingTwo">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                    <strong>Objetivos generales &nbsp</strong> <i class="fa-solid fa-arrow-down-long"></i>
+                                    <strong>Objetivos generales &nbsp</strong>
                                 </button>
                             </h2>
                             <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
@@ -121,7 +121,7 @@
                     </div>
                 </div>
             </div><br><br>
-            <hr>
+
         </div>
 
 
@@ -182,7 +182,7 @@
                             <h2 class="accordion-header" id="headingFour">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                    <strong>Perfil de egreso &nbsp</strong> <i class="fa-solid fa-arrow-down-long"></i>
+                                    <strong>Perfil de egreso &nbsp</strong>
                                 </button>
                             </h2>
                             <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
@@ -208,7 +208,7 @@
                             <h2 class="accordion-header" id="headingFive">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                    <strong>Objetivos generales &nbsp</strong> <i class="fa-solid fa-arrow-down-long"></i>
+                                    <strong>Objetivos generales &nbsp</strong>
                                 </button>
                             </h2>
                             <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive"
@@ -225,7 +225,7 @@
                     </div>
                 </div>
             </div><br><br>
-            <hr>
+
         </div>
 
 
@@ -289,7 +289,7 @@
                             <h2 class="accordion-header" id="headingSix">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-                                    <strong>Perfil de egreso &nbsp</strong> <i class="fa-solid fa-arrow-down-long"></i>
+                                    <strong>Perfil de egreso &nbsp</strong>
                                 </button>
                             </h2>
                             <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix"
@@ -316,7 +316,7 @@
                             <h2 class="accordion-header" id="headingSeven">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
-                                    <strong>Objetivos generales &nbsp</strong> <i class="fa-solid fa-arrow-down-long"></i>
+                                    <strong>Objetivos generales &nbsp</strong>
                                 </button>
                             </h2>
                             <div id="collapseSeven" class="accordion-collapse collapse" aria-labelledby="headingSeven"
@@ -332,7 +332,6 @@
                     </div>
                 </div>
             </div><br><br>
-            <hr>
         </div>
     </div>
 @endsection
