@@ -6,6 +6,7 @@
     <div class="row">
         <div class="col-12 col-sm-6">
         <div class="izquierda">
+            <br>
             <a href="#"><i class="fa-brands fa-facebook"></i></a>
             <a href="#"><i class="fa-brands fa-youtube"></i></a>
             <br>
@@ -16,7 +17,7 @@
             <span>© 2022 Todos los derechos reservados.</span>
         </div>
         </div>
-        <div class="col-12 col-sm-6">
+        <div class="col-12 col-sm-6"><br>
         <div class="derecha d-flex justify-content-center">
             <a href="#"><i class="fa-sharp fa-solid fa-phone"></i></a>
             <span>&nbsp +54 (444) 826-2439 &nbsp &nbsp</span>

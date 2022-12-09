@@ -23,11 +23,14 @@
                     </div>
                 </div>
                 <br><br>
+                <hr>
                 <p id="enlacesNormativa"><a target="_blank" href="storage/Doc/Codigo_Etica_2.0.pdf"> <strong>Protocolo de ética
                             UASLP</strong></a></p><br><br>
+                <hr>
                 <p id="enlacesNormativa"><a target="_blank" href="storage/Doc/Protocolo_PASE.pdf"> <strong>Protocolo
                             Universitario para la Prevención, Atención, Sanción y Erradicación del hostigamiento y el acoso
-                            sexual y la violencia de género</strong></a></p>
+                            sexual y la violencia de género</strong></a></p><br><br>
+                <hr>
             </div>
 
             <!--<div class="accordion p-2" id="accordionExample">

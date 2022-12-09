@@ -15,7 +15,7 @@
                 <div>
                     <h4><strong>Catedra CONACyT. Coordinación para la Innovación y Aplicación de la Ciencia y la Tecnología.
                             (CIACyT).</strong></h4>
-                    <h5><strong>SNI nivel I.</strong></h5>                    
+                    <h5><strong>SNI nivel I.</strong></h5>
                     <br>
                     <p>
                         Sierra Leona #550, Col. Lomas 2a. Sección,<br>
@@ -26,8 +26,7 @@
 
                     <div class="enlacesprof">
                         <a target="_blank" href="">Webpage</a>
-                        <a target="_blank"
-                            href="">Curriculum
+                        <a target="_blank" href="">Curriculum
                             Vitae </a>
                         <a target="_blank"
                             href="https://investigadores.uaslp.mx/InvestigadorProfile/MlMAAA%3d%3d">Directorio de

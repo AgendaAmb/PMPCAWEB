@@ -262,13 +262,33 @@ Route::prefix('areas')->name('areas.')->group(function () {
                 return view('profesores.CIlizaliturri');
             })->name('CIlizaliturri');
 
-            Route::get('DGonzales', function () {
-                return view('profesores.DGonzales');
-            })->name('DGonzales');
+            Route::get('DGonzalez', function () {
+                return view('profesores.DGonzalez');
+            })->name('DGonzalez');
 
             Route::get('FDiaz', function () {
                 return view('profesores.FDiaz');
             })->name('FDiaz');
+
+            Route::get('FPerez', function () {
+                return view('profesores.FPerez');
+            })->name('FPerez');
+
+            Route::get('GDominguez', function () {
+                return view('profesores.GDominguez');
+            })->name('GDominguez');
+
+            Route::get('GEspinosa', function () {
+                return view('profesores.GEspinosa');
+            })->name('GEspinosa');
+
+            Route::get('JAvalos', function () {
+                return view('profesores.JAvalos');
+            })->name('JAvalos');
+
+            Route::get('JCalderon', function () {
+                return view('profesores.JCalderon');
+            })->name('JCalderon');
 
         });
     });
