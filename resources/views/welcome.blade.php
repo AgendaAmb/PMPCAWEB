@@ -76,9 +76,10 @@
                     <div class="col-md-6 col-sm-12 m-0 p-0">
                         <div class="ratio ratio-16x9">
                             <iframe width="560" height="315"
+                                sandbox
                                 src="{{ asset('storage/videos/fondo_paz.mp4') }}"
                                 title="" frameborder="0"
-                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                                 allowfullscreen>
                             </iframe>
                         </div>

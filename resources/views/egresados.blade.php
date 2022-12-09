@@ -221,9 +221,10 @@
                                                 <div class="modal-body">
                                                     <div class="ratio ratio-16x9">
                                                         <iframe width="560" height="315"
+                                                            sandbox
                                                             src="{{ asset('storage/videos/fondo_paz.mp4') }}"
                                                             title="" frameborder="0"
-                                                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                                            allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                                                             allowfullscreen>
                                                         </iframe>
                                                     </div>
@@ -259,6 +260,15 @@
                                         role="button">Ver mas...</a>
                                 </div>
                             </div>
+
+                                    <a class="btn btn-primary rounded-pill" id="botonesGeneral" href="#"
+                                        role="button"
+                                        data-bs-toggle="modal" data-bs-target="#modal-alinsa"
+                                        >Ver mas...</a>
+                                </div>
+                            </div>
+
+
                             <div class="modal modal-xl" id="modal-alinsa">
                                 <div class="modal-dialog modal-dialog-centered">
                                     <div class="modal-content">
@@ -282,6 +292,7 @@
                                             <button
                                                 id="botonesGeneral"
                                                 type="button"
+                                                type="button"
                                                 class="btn"
                                                 data-bs-dismiss="modal"
                                                 style="color: white;"
@@ -289,10 +300,12 @@
                                                 Cerrar
                                             </button>
                                         </div>
-
                                 </div>
                             </div>
                         </div>
+                                    </div>
+                                </div>
+                            </div>
 
                         </div>
                     </div>
