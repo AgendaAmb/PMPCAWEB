@@ -256,9 +256,46 @@
                                     <p class="card-title"> <strong>EMPLEADOR <br>
                                             ALINSA</strong></p>
                                     <a class="btn btn-primary rounded-pill" id="botonesGeneral" href="#"
-                                        role="button">Ver mas...</a>
+                                        role="button"
+                                        data-bs-toggle="modal" data-bs-target="#modal-alinsa"
+                                        >Ver mas...</a>
                                 </div>
                             </div>
+
+                            <div class="modal modal-xl" id="modal-alinsa">
+                                <div class="modal-dialog modal-dialog-centered">
+                                    <div class="modal-content">
+
+                                        <div class="modal-header my-modal-header d-flex justify-content-center">
+                                            <p class="modal-title" > EMPLEADOR ALINSA </p>
+                                        </div>
+
+                                        <div class="d-flex justify-content-center modal-body">
+                                            <iframe width="640" height="352"
+                                                class="responsive-iframe"
+                                                src="{{ asset('storage/videos/video_quimica.mp4') }}"
+                                                title="" frameborder="0"
+                                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                                allowfullscreen>
+                                            </iframe>
+                                        </div>
+
+                                        <div class="modal-footer">
+                                            <button
+                                                id="botonesGeneral"
+                                                type="button" 
+                                                class="btn"
+                                                data-bs-dismiss="modal"
+                                                style="color: white;"
+                                                >
+                                                Cerrar
+                                            </button>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+
                         </div>
                     </div>
                 </div>
