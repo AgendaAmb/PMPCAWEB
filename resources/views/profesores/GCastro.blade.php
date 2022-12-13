@@ -27,7 +27,7 @@
 
         <div class="enlacesprof">
             <a target="_blank" href="http://ciep.ing.uaslp.mx/minerales/profesor.php?id=3133323833">Webpage</a>
-            <a target="_blank" href="storage/CV/Castro_Larragoitia_GuillermoJavier.pdf">Curriculum Vitae </a>
+            <a target="_blank" href="/storage/CV/Castro_Larragoitia_GuillermoJavier.pdf">Currículum Vitae </a>
             <a target="_blank" href="https://investigadores.uaslp.mx/InvestigadorProfile/4zMAAA%3d%3d">Directorio de Investigadores</a>
             <a target="_blank" href="https://orcid.org/0000-0003-3756-454X"><img src="{{asset('storage/images/orcid.png')}}" alt=""></a>
             <!--<a target="_blank" href="https://www.scopus.com/authid/detail.uri?authorId=7005334227"> <img src="{{asset('storage/images/scopus.png')}}" alt=""></a>-->
@@ -48,34 +48,37 @@
             <div class="accordion-body">
               <ol>
                 <li><strong>Cursos</strong></li>
-                    <p>Gestión ambiental de operaciones minero metalúrgicas<br>
-                    TSCA: Geoquímica Ambiental</p>
-
+                    <ul class="vineta">
+                      <li>Gestión ambiental de operaciones minero metalúrgicas</li>
+                      <li>TSCA: Geoquímica Ambiental</li>
+                    </ul>
+                    <br>
                 <li><strong>LGAC</strong></li>
-                <p>Evaluación de la contaminación en matrices ambientales (suelo, sedimentos, agua, atmósfera, etc.)<br>
-                   Hidrogeología e hidrogeoquímica
-                </p>
+                <ul class="vineta">
+                  <li>Evaluación de la contaminación en matrices ambientales (suelo, sedimentos, agua, atmósfera, etc.)</li>
+                  <li>Hidrogeología e hidrogeoquímica</li>
+                </ul><br>
                 <li><strong>Dirección de Tesis</strong></li><br>
                 <p><em>Maestría en Ciencias Ambientales (Doble titulación), Co-Dirección</em></p>
-                <p>
-                  Bermúdez Zarruk Ramses Jael. 2011. <a href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/3553/MCA1PEK01101.pdf?sequence=3&isAllowed=y">Peak load clipping for greenhouse gas emission reduction in Managua, Nicaragua: The role of solar thermal water heaters and photovoltaic systems in households</a>
-                </p>
+                <ul class="vineta">
+                  <li>Bermúdez Zarruk Ramses Jael. 2011. <a href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/3553/MCA1PEK01101.pdf?sequence=3&isAllowed=y">Peak load clipping for greenhouse gas emission reduction in Managua, Nicaragua: The role of solar thermal water heaters and photovoltaic systems in households</a></li>
+                </ul>
                 <br>
                 <p><em>Maestría en Ciencias Ambientales</em></p>
-                <p>
-                  Hernández Martínez Jejanny Lucero. 2008. <a target="_blank" href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/5724/MCA1HMJ200801.pdf?sequence=1&isAllowed=y">Efecto de la evolución geoquímica en la calidad del agua subterránea en la porción central de la zona media del Estado de San Luis Potosí.</a><br>
-                  González Grijalva Marco David. 2009. <a target="_blank" href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/3557/MCA1EVO00901.pdf?sequence=3&isAllowed=y"> Evolución espacio-temporal de la calidad del agua subterránea en el acuífero Cedral-Matehuala: alternativas de uso. </a><br>
-                  Rocha Escalante Hermann. 2009.  <a target="_blank" href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/3875/MCA1EDS00901.pdf?sequence=3&isAllowed=y">Estrategias para el desarrollo sustentable de los sistemas de flujo en el acuífero de Rioverde, S.L.P. </a><br>
-                  Melo Cuervo Ricardo. 2011.  <a target="_blank" href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/3555/MCA1PAM01101.pdf?sequence=3&isAllowed=y">Evaluación de un pasivo ambiental metalúrgico. </a><br>
-                  Martínez Valdez Ofelia Anaís. 2015. <a target="_blank" href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/3977/MCA1MMM01501.pdf?sequence=1&isAllowed=y">Movilidad de metales y metaloides en sitios mineros: predicción de impactos en los recursos hídricos</a><br>
-                  Moreno Morales Laura Nereyda. 2016.<a target="_blank" href="https://ninive.uaslp.mx/xmlui/handle/i/4121"> Comportamiento ambiental de residuos mineros</a> (Co-dirección).
-                </p>
+                <ul class="vineta">
+                  <li>Hernández Martínez Jejanny Lucero. 2008. <a target="_blank" href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/5724/MCA1HMJ200801.pdf?sequence=1&isAllowed=y">Efecto de la evolución geoquímica en la calidad del agua subterránea en la porción central de la zona media del Estado de San Luis Potosí</a></li>
+                  <li>González Grijalva Marco David. 2009. <a target="_blank" href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/3557/MCA1EVO00901.pdf?sequence=3&isAllowed=y"> Evolución espacio-temporal de la calidad del agua subterránea en el acuífero Cedral-Matehuala: alternativas de uso</a></li>
+                  <li>Rocha Escalante Hermann. 2009.  <a target="_blank" href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/3875/MCA1EDS00901.pdf?sequence=3&isAllowed=y">Estrategias para el desarrollo sustentable de los sistemas de flujo en el acuífero de Rioverde, S.L.P. </a></li>
+                  <li>Melo Cuervo Ricardo. 2011.  <a target="_blank" href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/3555/MCA1PAM01101.pdf?sequence=3&isAllowed=y">Evaluación de un pasivo ambiental metalúrgico</a></li>
+                  <li>Martínez Valdez Ofelia Anaís. 2015. <a target="_blank" href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/3977/MCA1MMM01501.pdf?sequence=1&isAllowed=y">Movilidad de metales y metaloides en sitios mineros: predicción de impactos en los recursos hídricos</a></li>
+                  <li>Moreno Morales Laura Nereyda. 2016.<a target="_blank" href="https://ninive.uaslp.mx/xmlui/handle/i/4121"> Comportamiento ambiental de residuos mineros</a> (Co-dirección)</li>
+                </ul>
                 <br>
                 <p><em>Doctorado en Ciencias Ambientales</em></p>
-                <p>
-                  Hergt Thomas. 2009. <a target="_blank" href="http://ambiental.uaslp.mx/pmpca/tesis/Doc/Gen2005-08/2009_pmpca_hergtthomas.pdf">Diseño optimizado de redes de monitoreo de la calidad del agua de los sistemas de flujo subterráneo en el acuífero 2411 "San Luis Potosí": Hacia un manejo sustentable</a><br>
-                  Pérez Rodríguez Rebeca Yasmín. 2016. <a target="_blank" href="http://ambiental.uaslp.mx/pmpca/tesis/Doc/Gen2010-02/2016_pmpca_perezrodriguez.pdf">Identificación de fuentes y rutas de exposición en sitios contaminados por plomo, usando métodos isotópicos </a>
-                </p>
+                <ul class="vineta">
+                  <li>Hergt Thomas. 2009. <a target="_blank" href="https://repositorioinstitucional.uaslp.mx/xmlui/handle/i/3554">Diseño optimizado de redes de monitoreo de la calidad del agua de los sistemas de flujo subterráneo en el acuífero 2411 "San Luis Potosí": Hacia un manejo sustentable</a></li>
+                  <li>Pérez Rodríguez Rebeca Yasmín. 2016. Identificación de fuentes y rutas de exposición en sitios contaminados por plomo, usando métodos isotópicos</li>
+                </ul>
               </ol>
             </div>
           </div>
@@ -118,10 +121,9 @@
             </div>
           </div>
         </div>-->
-      </div>
+      </div>    <br><br><br>
     </div>
     </div>
-    <br><br><br>
 </div>
 
 @endsection

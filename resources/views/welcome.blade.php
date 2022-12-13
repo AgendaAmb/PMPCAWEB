@@ -28,7 +28,7 @@
 
                         <div class="col col-6 my-3">
                             <div class="card h-100 rounded-0" id="colorCard">
-                                <img src="{{ asset('storage/images/4.png') }}" class="card-img-top rounded-0" alt="...">
+                                <img src="{{ asset('storage/images/izquierda.png') }}" class="card-img-top rounded-0" alt="...">
                                 <div class="barraAzulFuerteS"></div>
                                 <div class="card-body rounded-0">
                                     <p class="card-title"> <strong>DOCTORADO EN CIENCIAS AMBIENTALES</strong></p>
@@ -40,7 +40,7 @@
 
                         <div class="col col-6 my-3">
                             <div class="card h-100 rounded-0" id="colorCard">
-                                <img src="{{ asset('storage/images/5.png') }}" class="card-img-top rounded-0" alt="...">
+                                <img src="{{ asset('storage/images/centro.png') }}" class="card-img-top rounded-0" alt="...">
                                 <div class="barraAzulFuerteS"></div>
                                 <div class="card-body rounded-0">
                                     <p class="card-title"> <strong>MAESTRÍA EN CIENCIAS AMBIENTALES</strong></p>
@@ -52,7 +52,7 @@
 
                         <div class="col col-6 my-3">
                             <div class="card h-100 rounded-0" id="colorCard">
-                                <img src="{{ asset('storage/images/6.png') }}" class="card-img-top rounded-0" alt="...">
+                                <img src="{{ asset('storage/images/derecha.png') }}" class="card-img-top rounded-0" alt="...">
                                 <div class="barraAzulFuerteS"></div>
                                 <div class="card-body rounded-0">
                                     <p class="card-title"><strong>MAESTRÍA EN CIENCIAS AMBIENTALES (Doble

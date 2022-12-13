@@ -28,7 +28,7 @@
         <div class="enlacesprof">
             <a target="_blank" href="http://langif.uaslp.mx/">Webpage 1</a>
             <a target="_blank" href="http://lages.uaslp.mx/">Webpage 2</a>
-            <a target="_blank" href="/storage/CV/Contreras_Servin_Carlos.pdf">Curriculum Vitae </a>
+            <a target="_blank" href="/storage/CV/Contreras_Servin_Carlos.pdf">Currículum Vitae </a>
             <a target="_blank" href="https://investigadores.uaslp.mx/InvestigadorProfile/4DoAAA%3d%3d">Directorio de Investigadores</a>
             <a target="_blank" href="http://orcid.org/0000-0003-2221-1565"><img src="{{asset('storage/images/orcid.png')}}" alt=""></a>
             <a target="_blank" href="https://www.scopus.com/authid/detail.uri?authorId=23485024400"> <img src="{{asset('storage/images/scopus.png')}}" alt=""></a>
@@ -49,37 +49,41 @@
             <div class="accordion-body">
               <ol>
                 <li><strong>Cursos</strong></li>
-                    <p>TSCA: Climatología Aplicada<br>
-                    Planeación y Ordenamiento</p>
-
+                    <ul class="vineta">
+                      <li>TSCA: Climatología Aplicada</li>
+                      <li>Planeación y Ordenamiento</li>
+                    </ul>
+                    <br>
                 <li><strong>LGAC</strong></li>
-                <p>Historia Ambiental<br>
-                   Planeación y ordenamiento territorial y ambiental
-                </p>
+                <ul class="vineta">
+                  <li>Historia Ambiental</li>
+                  <li>Planeación y ordenamiento territorial y ambiental</li>
+                </ul><br>
                 <li><strong>Dirección de Tesis</strong></li><br>
                 <p><em>Maestría en Ciencias Ambientales (Doble titulación), Co-Dirección</em></p>
-                <p>
-                  Beele Albert Heinrich. 2012. <a href="http://ambiental.uaslp.mx/pmpca/tesis/Mae/Gen%202010-08/2012_pmpca_beelealbert.pdf">Evaluation of the new policy for thermal insulation standards in the residential sector in Mexico. Applicability of the standard NOM-020-ENER-2011.</a><br>
-                  Moie Jascha Julius. 2012. <a href="http://ambiental.uaslp.mx/pmpca/tesis/Mae/Gen%202010-08/2012_pmpca_moiejascha.pdf">Bioclimatic residential building design under tropical humid conditions: short on-site comfort evaluations and physical investigations for different case studies in Quintana Roo, Mexico.</a>
-                </p>
+                <ul class="vineta">
+                  <li>Beele Albert Heinrich. 2012. <a target="_blank" href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/3619/MCA1BAH201201.pdf?sequence=3&isAllowed=y">Evaluation of the new policy for thermal insulation standards in the residential sector in Mexico. Applicability of the standard NOM-020-ENER-2011.</a></li>
+                  <li>Moie Jascha Julius. 2012. <a target="_blank" href="https://repositorioinstitucional.uaslp.mx/xmlui/handle/i/4166">Bioclimatic residential building design under tropical humid conditions: short on-site comfort evaluations and physical investigations for different case studies in Quintana Roo, Mexico.</a></li>
+                </ul>
                 <br>
                 <p><em>Maestría en Ciencias Ambientales</em></p>
-                <p>
-                  Guevara Gasca Víctor Amador. 2007. <a href="http://ambiental.uaslp.mx/pmpca/tesis/Mae/Gen%202004-08/2007_pmpca_guevaragasca.pdf">Distribución espacial y abastecimiento del agua para uso humano, en el área metropolitana de la ciudad de San Luis Potosí: problemática e implicaciones.</a><br>
-                  Herrera Godina Melva Guadalupe. 2009. <a href="http://ambiental.uaslp.mx/pmpca/tesis/Mae/Gen%202006-08/2009_pmpca_herreragodina.pdf">Utilización de los sistemas de información geográfica para el estudio de la vulnerabilidad en los municipios de Ébano, Tamuín y San Vicente Tancuayalab ante la ruta de exposición del plaguicida fipronil.</a><br>
-                  Magaña Ortiz Cecilia. 2010. <a href="http://ambiental.uaslp.mx/pmpca/tesis/Mae/Gen%202007-08/2010_pmpca_maganaortiz.pdf">Estudio comparativo de la langosta centroamericana (S. piceifrons piceifrons, Walker) en la Huasteca Potosina y el estado de Yucatán.</a><br>
-                  Quintero Ruíz Joab Raziel. 2012. <a href="http://ambiental.uaslp.mx/pmpca/tesis/Mae/Gen%202010-08/2012_pmpca_quinteroruiz.pdf">Estudio ambiental y social comparativo del bosque húmedo en base al cambio de uso de suelo entre la Huasteca Potosina, México y la Mata Atlántica, Río de Janeiro, Brasil.</a> (Co-dirección)<br>
-                  Peralta Rivero Carmelo. 2012. <a href="http://ambiental.uaslp.mx/pmpca/tesis/Mae/Gen%202010-08/2012_pmpca_peraltarivero.pdf">Evaluación del uso, cambio de uso y cobertura del suelo, y proyectos forestales del Mecanismo de Desarrollo Limpio (MDL) y de la Reducción de las Emisiones Derivadas de la Deforestación y la Degradación Forestal (REDD) en el municipio de Riberalta, Amazonía Boliviana.</a><br>
-                  López Pérez Andrés Osvaldo. 2017. <a href="https://ninive.uaslp.mx/xmlui/handle/i/4205">La movilidad en la zona metropolitana de la ciudad de San Luis Potosí: análisis espacial del transporte público y propuesta por medio de estándares de desarrollo orientado a transporte.</a><br>
-                  Rosales González Juana. 2017. <a href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/4209/MCA1RGJ201701.pdf?sequence=1&amp;isAllowed=y">El derecho humano al agua para consumo personal y domestico: el caso de la comunidad San Juan de Guadalupe, San Luis Potosí, S.L.P., México.</a>
-                </p>
+                <ul class="vineta">
+                  <li>Guevara Gasca Víctor Amador. 2007. <a target="_blank" href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/1796/MCA1GGV200701.pdf?sequence=1&isAllowed=y">Distribución espacial y abastecimiento del agua para uso humano, en el área metropolitana de la ciudad de San Luis Potosí: problemática, implicaciones y alternativas</a></li>
+                  <li>Herrera Godina Melva Guadalupe. 2009. <a target="_blank" href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/3087/MCA1HGM200901.pdf?sequence=1&isAllowed=y">Utilización de los sistemas de información geográfica para el estudio de la vulnerabilidad en los municipios de Ébano, Tamuín y San Vicente Tancuayalab ante la ruta de exposición del plaguicida fipronil.</a></li>
+                  <li>Magaña Ortiz Cecilia. 2010. <a target="_blank" href="https://repositorioinstitucional.uaslp.mx/xmlui/handle/i/3646">Estudio comparativo de la langosta centroamericana (Schistocerca piceifrons piceifrons, Walker) en la Huasteca Potosina y el estado de Yucatán.</a></li>
+                  <li>Quintero Ruíz Joab Raziel. 2012. Estudio ambiental y social comparativo del bosque húmedo en base al cambio de uso de suelo entre la Huasteca Potosina, México y la Mata Atlántica, Río de Janeiro, Brasil. (Co-dirección)</li>
+                  <li>Peralta Rivero Carmelo. 2012. <a target="_blank" href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/3652/MCA1PRC201201.pdf?sequence=3&isAllowed=y">Evaluación del uso, cambio de uso y cobertura del suelo, y proyectos forestales del Mecanismo de Desarrollo Limpio (MDL) y de la Reducción de las Emisiones Derivadas de la Deforestación y la Degradación Forestal (REDD) en el municipio de Riberalta, Amazonía Boliviana</a></li>
+                  <li>López Pérez Andrés Osvaldo. 2017. <a target="_blank" href="https://ninive.uaslp.mx/xmlui/handle/i/4205">La movilidad en la zona metropolitana de la ciudad de San Luis Potosí: análisis espacial del transporte público y propuesta por medio de estándares de desarrollo orientado a transporte</a></li>
+                  <li>Rosales González Juana. 2017. <a target="_blank" href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/4209/MCA1RGJ201701.pdf?sequence=1&amp;isAllowed=y">El derecho humano al agua para consumo personal y domestico: el caso de la comunidad San Juan de Guadalupe, San Luis Potosí, S.L.P., México</a></li>
+                  <li>Jiménez Aguilar Claudia Zelmira. 2022. Seguridad hídrica urbana en México: el caso de la zona metropolitana Zacatecas-Guadalupe</li>
+                </ul>
                 <br>
                 <p><em>Doctorado en Ciencias Ambientales</em></p>
-                <p>
-                  Algara Siller Marcos. 2009. <a href="http://ambiental.uaslp.mx/pmpca/tesis/Doc/Gen2005-02/2009_pmpca_algarasiller.pdf">Propuesta metodológica para medir el impacto del fenómeno de la sequía en la Huasteca Potosina y propuesta general de manejo.</a><br>
-                  Peralta Rivero Carmelo. 2016. <a href="http://ambiental.uaslp.mx/pmpca/tesis/Doc/Gen2012-08/2016_pmpca_peraltarivero.pdf">Evaluación de los cambios de cobertura y uso de suelo en la región huasteca de México: “Un análisis del pasado, el presente y tendencias futuras de deforestación. </a> (Co-Dirección)<br>
-                  Medina Garza Hugo. 2017. <a href="https://ninive.uaslp.mx/xmlui/handle/i/4518">Sistema de vigilancia epidemiológica sanitaria para la Huasteca Potosina. Una plataforma para la vigilancia de la enfermedad de Chagas.</a><br>
-                </p>
+                <ul class="vineta">
+                  <li>Algara Siller Marcos. 2009. Propuesta metodológica para medir el impacto del fenómeno de la sequía en la Huasteca Potosina y propuesta general de manejo.</li>
+                  <li>Peralta Rivero Carmelo. 2016. <a target="_blank" href="https://repositorioinstitucional.uaslp.mx/xmlui/handle/i/4116">Evaluación de los cambios de cobertura y uso de suelo en la región huasteca de México: “Un análisis del pasado, el presente y tendencias futuras de deforestación. </a> (Co-Dirección)</li>
+                  <li>Medina Garza Hugo. 2017. <a target="_blank" href="https://ninive.uaslp.mx/xmlui/handle/i/4518">Sistema de vigilancia epidemiológica sanitaria para la Huasteca Potosina. Una plataforma para la vigilancia de la enfermedad de Chagas</a></li>
+                </ul>
               </ol>
             </div>
           </div>
@@ -95,14 +99,14 @@
             data-bs-parent="#accordionExample">
             <div class="accordion-body">
               <strong>Libros</strong><br><br>
-              <p>
-                (2018) Galindo Mendoza María Guadalupe y <b>Contreras Servín Carlos</b>. Geomedicina y la tecnología espacial aplicada al caso de los vectores en salud humana. AEM-CONACYT-UASLP. 234 págs. ISBN 978-607-535-065-3.</br><br>
-                (2017) Galindo Mendoza María Guadalupe y <b>Contreras Servín Carlos</b>. La Sanidad Vegetal en México. Universidad Autónoma de San Luis Potosí, Coordinación para la Innovación y Aplicación de la Ciencia y la Tecnología, Laboratorio Nacional de Geoprocesamiento de Información Fitosanitaria. 255 págs. ISBN 978-607-9453-82-4.
-              </p>
+              <ul class="vineta">
+                <li>(2018) Galindo Mendoza María Guadalupe y <b>Contreras Servín Carlos</b>. Geomedicina y la tecnología espacial aplicada al caso de los vectores en salud humana. AEM-CONACYT-UASLP. 234 págs. ISBN 978-607-535-065-3.</li><br>
+                <li>(2017) Galindo Mendoza María Guadalupe y <b>Contreras Servín Carlos</b>. La Sanidad Vegetal en México. Universidad Autónoma de San Luis Potosí, Coordinación para la Innovación y Aplicación de la Ciencia y la Tecnología, Laboratorio Nacional de Geoprocesamiento de Información Fitosanitaria. 255 págs. ISBN 978-607-9453-82-4.</li>
+              </ul>
               <strong>Capítulos de libros</strong><br><br>
-              <p>
-                (2018) Medina Garza Hugo, <b>Contreras Servín Carlos</b>, Galindo Mendoza Ma. Guadalupe, Mejía Saavedra José de Jesús y Arreola Martínez Beatriz Estrella. Trypanosoma cruzi, del ambiente silvestre a ambientes domiciliados en la huasteca potosina: un análisis desde el enfoque de la biocomplejidad, publicado en: Ecología y Conservación de Fauna en Ambientes Antropizados. ISBN 978-607-513-347-8.
-              </p>
+              <ul class="vineta">
+                <li>(2018) Medina Garza Hugo, <b>Contreras Servín Carlos</b>, Galindo Mendoza Ma. Guadalupe, Mejía Saavedra José de Jesús y Arreola Martínez Beatriz Estrella. Trypanosoma cruzi, del ambiente silvestre a ambientes domiciliados en la huasteca potosina: un análisis desde el enfoque de la biocomplejidad, publicado en: Ecología y Conservación de Fauna en Ambientes Antropizados. ISBN 978-607-513-347-8.</li>
+              </ul>
             </div>
           </div>
         </div>
@@ -125,10 +129,9 @@
             </div>
           </div>
         </div>-->
-      </div>
+      </div>    <br><br><br>
     </div>
     </div>
-    <br><br><br>
 </div>
 
 @endsection

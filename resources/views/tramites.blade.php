@@ -27,10 +27,10 @@
                                         <a href="/storage/pdf/1.4 F_AltasBajas.pdf"> 1.4 Formato de altas y bajas </a>
                                 </div>
                                 <div class="col-12 col-sm-12 my-4" id="enlacetramites">
-                                        <a href="#"> 1.5 Formato de baja temporal </a>
+                                        <a href="/storage/pdf/1.5 FormatoBajatemporales.pdf"> 1.5 Formato de baja temporal </a>
                                 </div>
                                 <div class="col-12 col-sm-12 my-4" id="enlacetramites">
-                                        <a href="#"> 1.6 Carta de responsabilidad de alumnos de la UASLP </a>
+                                        <a href="/storage/pdf/1.6 CartaResponsabilidadesAlumnos.pdf"> 1.6 Carta de responsabilidad de alumnos de la UASLP </a>
                                 </div>
                             </p>
                             <br><br>
@@ -115,10 +115,10 @@
                             <br><br>
                             <p><strong>6. Formatos Conacyt</strong><br>
                                 <div class="col-12 col-sm-12 my-4" id="enlacetramites">
-                                        <a href="#"> 6.1 Formato para la evaluación semestral de becario Conacyt </a>
+                                        <a href="/storage/pdf/6.1 Formato_Evaluacion_Desempeno_Becario_PMPCA.pdf"> 6.1 Formato para la evaluación semestral de becario Conacyt </a>
                                 </div>
                                 <div class="col-12 col-sm-12 my-4" id="enlacetramites">
-                                        <a href="#"> 6.2 Actividades de retribución social + anexo</a>
+                                        <a href="/storage/pdf/6.2 FormatoRetribucionSocial_Anexo.pdf"> 6.2 Actividades de retribución social + anexo</a>
                                 </div>
                             </p>
 
@@ -145,10 +145,10 @@
                                         <a href="/storage/pdf/1.4 F_AltasBajas.pdf"> 1.4 Formato de altas y bajas </a>
                                 </div>
                                 <div class="col-12 col-sm-12 my-4" id="enlacetramites">
-                                        <a href="#"> 1.5 Formato de baja temporal </a>
+                                        <a href="/storage/pdf/1.5 FormatoBajatemporales.pdf"> 1.5 Formato de baja temporal </a>
                                 </div>
                                 <div class="col-12 col-sm-12 my-4" id="enlacetramites">
-                                        <a href="#"> 1.6 Carta de responsabilidad de alumnos de la UASLP </a>
+                                        <a href="/storage/pdf/1.6 CartaResponsabilidadesAlumnos.pdf"> 1.6 Carta de responsabilidad de alumnos de la UASLP </a>
                                 </div>
                             </p>
                             <br><br>
@@ -233,10 +233,10 @@
                             <br><br>
                             <p><strong>6. Formatos Conacyt</strong><br>
                                 <div class="col-12 col-sm-12 my-4" id="enlacetramites">
-                                        <a href="#"> 6.1 Formato para la evaluación semestral de becario Conacyt </a>
+                                        <a href="/storage/pdf/6.1 Formato_Evaluacion_Desempeno_Becario_PMPCA.pdf"> 6.1 Formato para la evaluación semestral de becario Conacyt </a>
                                 </div>
                                 <div class="col-12 col-sm-12 my-4" id="enlacetramites">
-                                        <a href="#"> 6.2 Actividades de retribución social + anexo</a>
+                                        <a href="/storage/pdf/6.2 FormatoRetribucionSocial_Anexo.pdf"> 6.2 Actividades de retribución social + anexo</a>
                                 </div>
                             </p>
                                 </div>
@@ -258,16 +258,16 @@
                             <div class="accordion-body" id="accordionTextM"><br>
                             <p><strong>1. Inscripción</strong><br>
                                 <div class="col-12 col-sm-12 my-4" id="enlacetramites">
-                                        <a href="#"> 1.3 Formato de inscripción al Doctorado en Ciencias Ambientales </a>
+                                        <a href="/storage/pdf/1.3_Inscripcion_DCA.pdf"> 1.3 Formato de inscripción al Doctorado en Ciencias Ambientales </a>
                                 </div>
                                 <div class="col-12 col-sm-12 my-4" id="enlacetramites">
                                         <a href="/storage/pdf/1.4 F_AltasBajas.pdf"> 1.4 Formato de altas y bajas </a>
                                 </div>
                                 <div class="col-12 col-sm-12 my-4" id="enlacetramites">
-                                        <a href="#"> 1.5 Formato de baja temporal </a>
+                                        <a href="/storage/pdf/1.5 FormatoBajatemporales.pdf"> 1.5 Formato de baja temporal </a>
                                 </div>
                                 <div class="col-12 col-sm-12 my-4" id="enlacetramites">
-                                        <a href="#"> 1.6 Carta de responsabilidad de alumnos de la UASLP </a>
+                                        <a href="/storage/pdf/1.6 CartaResponsabilidadesAlumnos.pdf"> 1.6 Carta de responsabilidad de alumnos de la UASLP </a>
                                 </div>
                             </p>
                             <br><br>
@@ -352,10 +352,10 @@
                             <br><br>
                             <p><strong>6. Formatos Conacyt</strong><br>
                                 <div class="col-12 col-sm-12 my-4" id="enlacetramites">
-                                        <a href="#"> 6.1 Formato para la evaluación semestral de becario Conacyt </a>
+                                        <a href="/storage/pdf/6.1 Formato_Evaluacion_Desempeno_Becario_PMPCA.pdf"> 6.1 Formato para la evaluación semestral de becario Conacyt </a>
                                 </div>
                                 <div class="col-12 col-sm-12 my-4" id="enlacetramites">
-                                        <a href="#"> 6.2 Actividades de retribución social + anexo</a>
+                                        <a href="/storage/pdf/6.2 FormatoRetribucionSocial_Anexo.pdf"> 6.2 Actividades de retribución social + anexo</a>
                                 </div>
                             </p>
 
