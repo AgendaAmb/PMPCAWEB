@@ -27,7 +27,7 @@
 
         <div class="enlacesprof">
             <!--<a target="_blank" href="http://sociales.uaslp.mx/Paginas/Profesores/Leonardo.aspx">Webpage</a>-->
-            <a target="_blank" href="/storage/CV/Marquez_Mireles_LeonardoErnesto.pdf">Curriculum Vitae </a>
+            <a target="_blank" href="{{asset('storage/CV/Marquez_Mireles_LeonardoErnesto.pdf')}}">Curriculum Vitae </a>
             <a target="_blank" href="https://investigadores.uaslp.mx/InvestigadorProfile/ekAAAA%3d%3d">Directorio de Investigadores</a>
             <a target="_blank" href="http://orcid.org/0000-0001-6732-8156"><img src="{{asset('storage/images/orcid.png')}}" alt=""></a>
             <a target="_blank" href="https://www.scopus.com/authid/detail.uri?authorId=57210815176"> <img src="{{asset('storage/images/scopus.png')}}" alt=""></a>

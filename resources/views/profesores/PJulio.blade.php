@@ -26,7 +26,7 @@
 
         <div class="enlacesprof">
             <!--<a target="_blank" href="#">Webpage</a>-->
-            <a target="_blank" href="/storage/CV/Julio_Miranda_Patricia.pdf">Curriculum Vitae </a>
+            <a target="_blank" href="{{asset('storage/CV/Julio_Miranda_Patricia.pdf')}}">Curriculum Vitae </a>
             <a target="_blank" href="https://investigadores.uaslp.mx/InvestigadorProfile/oEQAAA==">Directorio de Investigadores</a>
             <a target="_blank" href="https://orcid.org/0000-0001-8379-4528"><img src="{{asset('storage/images/orcid.png')}}" alt=""></a>
             <a target="_blank" href="https://www.scopus.com/authid/detail.uri?authorId=15729187700"> <img src="{{asset('storage/images/scopus.png')}}" alt=""></a>

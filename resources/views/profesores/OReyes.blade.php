@@ -27,7 +27,7 @@
         <div class="enlacesprof">
             <a target="_blank" href="https://sociales.uaslp.mx/Paginas/Investigacion/745#gsc.tab=0/">Webpage 1</a>
             <a target="_blank" href="https://osrpdune.wixsite.com/oscar-reyes-uaslp">Webpage 2</a>
-            <a target="_blank" href="/storage/CV/Reyes_Perez_Oscar.pdf">Currículum Vitae </a>
+            <a target="_blank" href="{{asset('storage/CV/Reyes_Perez_Oscar.pdf')}}">Currículum Vitae </a>
             <a target="_blank" href="https://investigadores.uaslp.mx/InvestigadorProfile/mj8AAA==">Directorio de Investigadores</a>
             <a target="_blank" href="https://orcid.org/0000-0002-1433-9887"><img src="{{asset('storage/images/orcid.png')}}" alt=""></a>
             <a target="_blank" href="https://www.scopus.com/authid/detail.uri?authorId=35604448300"> <img src="{{asset('storage/images/scopus.png')}}" alt=""></a>

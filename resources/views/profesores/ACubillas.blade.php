@@ -26,7 +26,7 @@
                     <div class="enlacesprof">
                         <!--<a target="_blank" href="http://cienciasquimicas.uaslp.mx/index.php/home/docentes/23">Webpage</a>-->
                         <a target="_blank"
-                            href="/storage/CV/Cubillas_Tejeda_AnaCristina.pdf">Currículum
+                            href="{{asset('storage/CV/Cubillas_Tejeda_AnaCristina.pdf')}}">Currículum
                             Vitae </a>
                         <a target="_blank"
                             href="https://investigadores.uaslp.mx/InvestigadorProfile/XCYAAA%3d%3d">Directorio de

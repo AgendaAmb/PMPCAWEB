@@ -28,7 +28,7 @@
         <div class="enlacesprof">
             <a target="_blank" href="http://langif.uaslp.mx/">Webpage 1</a>
             <a target="_blank" href="http://lages.uaslp.mx/">Webpage 2</a>
-            <a target="_blank" href="/storage/CV/Galindo_Mendoza_MariaGuadalupe.pdf">Currículum Vitae </a>
+            <a target="_blank" href="{{asset('storage/CV/Galindo_Mendoza_MariaGuadalupe.pdf')}}">Currículum Vitae </a>
             <a target="_blank" href="https://investigadores.uaslp.mx/InvestigadorProfile/3zoAAA%3d%3d">Directorio de Investigadores</a>
             <a target="_blank" href="https://orcid.org/0000-0001-8775-5120"><img src="{{asset('storage/images/orcid.png')}}" alt=""></a>
             <a target="_blank" href="https://www.scopus.com/authid/detail.uri?authorId=24481192500"> <img src="{{asset('storage/images/scopus.png')}}" alt=""></a>

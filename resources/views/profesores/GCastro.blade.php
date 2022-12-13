@@ -27,7 +27,7 @@
 
         <div class="enlacesprof">
             <a target="_blank" href="http://ciep.ing.uaslp.mx/minerales/profesor.php?id=3133323833">Webpage</a>
-            <a target="_blank" href="/storage/CV/Castro_Larragoitia_GuillermoJavier.pdf">Currículum Vitae </a>
+            <a target="_blank" href="{{asset('storage/CV/Castro_Larragoitia_GuillermoJavier.pdf')}}">Currículum Vitae </a>
             <a target="_blank" href="https://investigadores.uaslp.mx/InvestigadorProfile/4zMAAA%3d%3d">Directorio de Investigadores</a>
             <a target="_blank" href="https://orcid.org/0000-0003-3756-454X"><img src="{{asset('storage/images/orcid.png')}}" alt=""></a>
             <!--<a target="_blank" href="https://www.scopus.com/authid/detail.uri?authorId=7005334227"> <img src="{{asset('storage/images/scopus.png')}}" alt=""></a>-->
