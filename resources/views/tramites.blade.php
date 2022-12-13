@@ -258,10 +258,10 @@
                             <div class="accordion-body" id="accordionTextM"><br>
                             <p><strong>1. Inscripción</strong><br>
                                 <div class="col-12 col-sm-12 my-4" id="enlacetramites">
-                                        <a href="/storage/pdf/1.3_Inscripcion_DCA.pdf"> 1.3 Formato de inscripción al Doctorado en Ciencias Ambientales </a>
+                                        <a href="storage/pdf/1.3_Inscripcion_DCA.pdf"> 1.3 Formato de inscripción al Doctorado en Ciencias Ambientales </a>
                                 </div>
                                 <div class="col-12 col-sm-12 my-4" id="enlacetramites">
-                                        <a href="/storage/pdf/1.4 F_AltasBajas.pdf"> 1.4 Formato de altas y bajas </a>
+                                        <a href="storage/pdf/1.4 F_AltasBajas.pdf"> 1.4 Formato de altas y bajas </a>
                                 </div>
                                 <div class="col-12 col-sm-12 my-4" id="enlacetramites">
                                         <a href="/storage/pdf/1.5 FormatoBajatemporales.pdf"> 1.5 Formato de baja temporal </a>
