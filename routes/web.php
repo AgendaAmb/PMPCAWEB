@@ -237,7 +237,7 @@ Route::prefix('areas')->name('areas.')->group(function () {
                 return view('profesores.HRamirez');
             })->name('HRamirez');
 
-            Route::get('JDNova', function () {
+         Route::get('JDNova', function () {
                 return view('profesores.JDNova');
             })->name('JDNova');
 
