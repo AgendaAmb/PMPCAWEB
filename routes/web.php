@@ -290,6 +290,30 @@ Route::prefix('areas')->name('areas.')->group(function () {
                 return view('profesores.JCalderon');
             })->name('JCalderon');
 
+            Route::get('JMejia', function () {
+                return view('profesores.JMejia');
+            })->name('JMejia');
+
+            Route::get('LYanez', function () {
+                return view('profesores.LYanez');
+            })->name('LYanez');
+
+            Route::get('MVallejo', function () {
+                return view('profesores.MVallejo');
+            })->name('MVallejo');
+
+            Route::get('RFlores', function () {
+                return view('profesores.RFlores');
+            })->name('RFlores');
+
+            Route::get('SRomero', function () {
+                return view('profesores.SRomero');
+            })->name('SRomero');
+
+            Route::get('VCilia', function () {
+                return view('profesores.VCilia');
+            })->name('VCilia');
+
         });
     });
 });

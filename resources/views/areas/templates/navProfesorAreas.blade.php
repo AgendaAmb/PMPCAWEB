@@ -143,21 +143,21 @@
 
                 <div class="mb-5 mx-5">
                     <h4><strong>Profesores del área</strong></h4>
-                    <a href="#" id="enlacesProfEvaluacion">Dr. José Antonio Ávalos Lozano</a> <br>
-                    <a href="#" id="enlacesProfEvaluacion">Dra. Jaqueline Calderón Hernández</a> <br>
-                    <a href="#" id="enlacesProfEvaluacion">Dra. Virginia Gabriela Cilia López</a> <br>
+                    <a href="{{route('areas.SaludAmbiental.Profesores.JAvalos')}}" id="enlacesProfEvaluacion">Dr. José Antonio Ávalos Lozano</a> <br>
+                    <a href="{{route('areas.SaludAmbiental.Profesores.JCalderon')}}" id="enlacesProfEvaluacion">Dra. Jaqueline Calderón Hernández</a> <br>
+                    <a href="{{route('areas.SaludAmbiental.Profesores.VCilia')}}" id="enlacesProfEvaluacion">Dra. Virginia Gabriela Cilia López</a> <br>
                     <a href="{{route('areas.SaludAmbiental.Profesores.ACubillas')}}" id="enlacesProfEvaluacion">Dra. Ana Cristina Cubillas Tejeda</a> <br>
-                    <a href="#" id="enlacesProfEvaluacion">Dr. Fernando Díaz-Barriga Martínez</a> <br>
-                    <a href="#" id="enlacesProfEvaluacion">Dra. Gabriela Domínguez Cortinas</a> <br>
-                    <a href="#" id="enlacesProfEvaluacion">Dr. Guillermo Espinosa Reyes</a> <br>
-                    <a href="#" id="enlacesProfEvaluacion">Dr. Rogelio Flores Ramírez</a> <br>
-                    <a href="#" id="enlacesProfEvaluacion">Dra. Donají Josefina González Mille</a> <br>
-                    <a href="{{route('areas.SaludAmbiental.Profesores.CIlizaliturri')}}" id="enlacesProfEvaluacion">Dr. César Ilizaliturri Hernández</a> <br>
-                    <a href="#" id="enlacesProfEvaluacion">Dr. José de Jesús Mejía Saavedra</a> <br>
-                    <a href="#" id="enlacesProfEvaluacion">Dr. Francisco Javier Pérez Vázquez</a> <br>
-                    <a href="#" id="enlacesProfEvaluacion">Dra. Silvia Romero Contreras</a> <br>
-                    <a href="#" id="enlacesProfEvaluacion">Dr. Moisés Roberto Vallejo Pérez</a> <br>
-                    <a href="#" id="enlacesProfEvaluacion">Dra. Leticia Guadalupe Yáñez Estrada</a> <br>
+                    <a href="{{route('areas.SaludAmbiental.Profesores.FDiaz')}}" id="enlacesProfEvaluacion">Dr. Fernando Díaz-Barriga Martínez</a> <br>
+                    <a href="{{route('areas.SaludAmbiental.Profesores.GDominguez')}}" id="enlacesProfEvaluacion">Dra. Gabriela Domínguez Cortinas</a> <br>
+                    <a href="{{route('areas.SaludAmbiental.Profesores.GEspinosa')}}" id="enlacesProfEvaluacion">Dr. Guillermo Espinosa Reyes</a> <br>
+                    <a href="{{route('areas.SaludAmbiental.Profesores.RFlores')}}" id="enlacesProfEvaluacion">Dr. Rogelio Flores Ramírez</a> <br>
+                    <a href="{{route('areas.SaludAmbiental.Profesores.ACubillas')}}" id="enlacesProfEvaluacion">Dra. Donají Josefina González Mille</a> <br>
+                    <a href="{{route('areas.SaludAmbiental.Profesores.DGonzalez')}}" id="enlacesProfEvaluacion">Dr. César Ilizaliturri Hernández</a> <br>
+                    <a href="{{route('areas.SaludAmbiental.Profesores.JMejia')}}" id="enlacesProfEvaluacion">Dr. José de Jesús Mejía Saavedra</a> <br>
+                    <a href="{{route('areas.SaludAmbiental.Profesores.FPerez')}}" id="enlacesProfEvaluacion">Dr. Francisco Javier Pérez Vázquez</a> <br>
+                    <a href="{{route('areas.SaludAmbiental.Profesores.SRomero')}}" id="enlacesProfEvaluacion">Dra. Silvia Romero Contreras</a> <br>
+                    <a href="{{route('areas.SaludAmbiental.Profesores.MVallejo')}}" id="enlacesProfEvaluacion">Dr. Moisés Roberto Vallejo Pérez</a> <br>
+                    <a href="{{route('areas.SaludAmbiental.Profesores.LYanez')}}" id="enlacesProfEvaluacion">Dra. Leticia Guadalupe Yáñez Estrada</a> <br>
                 </div>
             </div>
         </div>

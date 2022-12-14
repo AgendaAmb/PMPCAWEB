@@ -5,35 +5,35 @@
         <div id="professor-description" class="row mb-4">
             <div class="col-12 col-sm-12">
                 <br>
-                <h1><strong>DRA. JAQUELINE CALDERÓN HERNÁNDEZ</strong></h1><br>
+                <h1><strong>DR. JOSÉ DE JESÚS MEJIA SAAVEDRA</strong></h1><br>
             </div>
             <div class="col-12 col-sm-3 ">
-                <img class="mx-auto d-block" src="{{ asset('storage/images/Jaqueline_Calderon_Hernandez.png') }}" alt="">
+                <img class="mx-auto d-block" src="{{ asset('storage/images/Jose_de_Jesus_Mejia_Saavedra.png') }}"
+                    alt="">
             </div>
             <div class="col-12 col-sm-9">
                 <div>
-                    <h4><strong>Profesor Investigador de Tiempo Completo Nivel VI.</strong></h4>
+                    <h4><strong>Profesor Investigador de Tiempo Completo. Nivel VI.</strong></h4>
                     <h5><strong>Facultad de Medicina.</strong></h5>
                     <h5><strong>SNI nivel I.</strong></h5>
                     <p>
                         Av. Venustiano Carranza 2405 Colonia Los Filtros,<br>
                         C.P. 78210 San Luis Potosí, S.L.P.<br>
                         Tel. (444) 8262300 Ext. 6619 <br>
-                        calderoj@uaslp.mx
+                        jjesus@uaslp.mx
                     </p>
 
                     <div class="enlacesprof">
+                        <a target="_blank" href="http://www.ciacyt.uaslp.mx/Grupo_ciaas.aspx">Webpage</a>
                         <a target="_blank"
-                            href="https://investigadores.uaslp.mx/InvestigadorProfile/3A4AAA%3D%3D">Webpage</a>
-                        <a target="_blank"
-                            href="http://www.ciacyt.uaslp.mx/images/pdf/Ciaas/Dra.JaquelineCalderonHernandez.pdf">Curriculum
+                            href="http://www.ciacyt.uaslp.mx/images/pdf/Ciaas/Dr.JesusMejiaSaavedra.pdf">Curriculum
                             Vitae </a>
                         <a target="_blank"
-                            href="https://investigadores.uaslp.mx/InvestigadorProfile/3A4AAA%3D%3D">Directorio de
+                            href="https://investigadores.uaslp.mx/InvestigadorProfile/tRwAAA%3d%3d">Directorio de
                             Investigadores</a>
-                        <a target="_blank" href="https://orcid.org/0000-0002-7865-3357"><img
+                        <a target="_blank" href="https://orcid.org/0000-0002-5924-5286"><img
                                 src="{{ asset('storage/images/orcid.png') }}" alt=""></a>
-                        <a target="_blank" href="https://www.scopus.com/authid/detail.uri?authorId=7102018652">
+                        <a target="_blank" href="https://www.scopus.com/authid/detail.uri?authorId=22734618500">
                             <img src="{{ asset('storage/images/scopus.png') }}" alt=""></a>
                     </div>
                 </div>
@@ -54,8 +54,7 @@
                             <li><strong>Cursos:</strong></li>
                             <p>
                             <ul class="vineta">
-                                <li> Bioestadística aplicada y epidemiologia ambiental </li>
-                                <li> Análisis probabilístico de riesgos</li>
+                                <li> Ecotoxicología</li>
                             </ul>
                             </p>
                             <li><strong>LGAC:</strong></li>
@@ -65,61 +64,84 @@
                             </ul>
                             </p>
                             <li><strong>Dirección de Tesis:</strong></li>
-
-                            <p><em>Maestría en Ciencias Ambientales (Doble Titulación), Co-Dirección: </em>
+                            <p><em>Maestría en Ciencias Ambientales (Doble Titulación), Co-Dirección</em></p>
                             <ul class="vineta">
-                                <li> Ramírez Paredes Socorro Isabel. 2018. <a
-                                        href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/4395/MCA1RPS201801.pdf?sequence=1&isAllowed=y">
-                                        Monitoreo del entorno para la salud infantil desde un enfoque integral: en un
-                                        escenario metropolitano.</a></li>
+                                <li> Velázquez Vázquez Viridiana Wendy. 2013. <a
+                                        href="http://ambiental.uaslp.mx/pmpca/tesis/Mae/Gen%202011-08/2013_pmpca_velazquezvazquez.pdf">The
+                                        devil comes through water: invasion of the devil fish (Loricariidae) in the Grijalva
+                                        River, Mexico</a>.</li>
                             </ul>
-                            </p>
 
                             <p><em>Maestría en Ciencias Ambientales</em>
                             <ul class="vineta">
-                                <li> <a
-                                        href="http://ambiental.uaslp.mx/pmpca/Anterior/tesis/Mae/Gen%202002-08/2005_pmpca_rochaamador.pdf">Rocha
-                                        Amador Diana Olivia. 2005. Efectos sobre el sistema nervioso central por la
-                                        exposición simultánea a flúor y arsénico.</a>.</li><br>
-                                <li> <a
-                                        href="http://ambiental.uaslp.mx/pmpca/Anterior/tesis/Mae/Gen%202003-08/2006_pmpca_martinezsalinas.pdf">Martínez
-                                        Salinas Rebeca Isabel. 2006. Exposición a hidrocarburos aromáticos policíclicos en
-                                        población infantil</a>.</li><br>
-                                <li> <a
-                                        href="http://ambiental.uaslp.mx/pmpca/Anterior/tesis/Mae/Gen%202006-08/2008_pmpca_munizcarreon.pdf">Muñiz
-                                        Carreón Gregoria Patricia. 2008. Evaluación de los efectos crónicos asociados a la
-                                        exposición de plaguicidas en comunidades vulnerables</a>.</li><br>
-                                <li> <a
-                                        href="http://ambiental.uaslp.mx/pmpca/Anterior/tesis/Mae/Gen%202014-08/2016_pmpca_murillovaldez.pdf">Murillo
-                                        Valdez Daniela. 2016. Metodología para identificar áreas prioritarias para inversión
-                                        en investigación de la enfermedad renal crónica</a>. </li>
-                                <li> <a
-                                        href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/4528/MCA1RCH201801.pdf?sequence=1&isAllowed=y">Rojas
-                                        Calderón Hector. 2018. Modelaje de las interacciones entre el ambiente, la población
-                                        y el desarrollo cognitivo</a>.</li>
+                                <li> González Mille Donaji Josefina. 2006. <a
+                                        href="http://ambiental.uaslp.mx/pmpca/tesis/Mae/Gen%202003-08/2006_pmpca_gonzalezmille.pdf">Riesgo
+                                        ecológico en la zona minera de Villa de la Paz, San Luis Potosí</a>. </li>
+                                <li> Medina Fernández Maribel. 2008. <a
+                                        href="http://ambiental.uaslp.mx/pmpca/tesis/Mae/Gen%202006-08/2008_pmpca_medinafernandez.pdf">Estimación
+                                        del riesgo en salud por exposición a manganeso en la Huasteca Sur de San Luis
+                                        Potosí</a>.</li>
+                                <li> Pérez Fragoso María Eugenia. 2010. <a
+                                        href="http://ambiental.uaslp.mx/pmpca/tesis/Mae/Gen%202008-08/2010_pmpca_perezfragoso.pdf">Evaluación
+                                        morfológica del bazo del sapo gigante <em>(Rhinella marina)</em> expuesto a una
+                                        mezcla de contaminantes en una zona de Coatzacoalcos, Veracruz</a>. (Co-Dirección)
+                                </li>
+                                <li> Medina Garza Hugo. 2012. <a
+                                        href="http://ambiental.uaslp.mx/pmpca/tesis/Mae/Gen%202010-08/2012_pmpca_medinagarza.pdf">Uso
+                                        de biomarcadores en peces como herramienta para evaluar la exposición y efecto de
+                                        contaminantes ambientales en cuerpos de agua</a>. </li>
+                                <li> Barrera Pérez Martha Isabel. 2013. <a
+                                        href="http://ambiental.uaslp.mx/pmpca/tesis/Mae/Gen%202011-08/2013_pmpca_barreraperez.pdf">Determinación
+                                        de contaminantes orgánicos persistentes en tilapia <em>(Oreochromis sp)</em> de
+                                        diferentes presas del país</a>.</li>
+                                <li> Somohano Gamboa Ricardo Ernesto. 2013. <a
+                                        href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/4164/MCA1SGR201301.pdf?sequence=1&amp;isAllowed=y">Evaluación
+                                        de la fitotoxicidad en suelos contaminados por metales pesados en pasivos
+                                        ambientales minero-metalúrgicos</a>. (Co-dirección) </li>
+                                <li> Jarquín Yáñez Lizet del Carmen. 2014. <a
+                                        href="http://ambiental.uaslp.mx/pmpca/tesis/Mae/Gen%202012-08/2014_pmpca_jarquinyanez.pdf">Prevalencia
+                                        de fluorosis dental y presencia de polimorfismos genéticos en una comunidad afectada
+                                        por contenido de flúor en el agua de consumo</a>.</li>
+                                <li> Campillo Cortés Luis Andrés. 2018. <a
+                                        href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/4540/MCA1CCL201801.pdf?sequence=1&amp;isAllowed=y">Asociación
+                                        entre vitamina D y densidad mineral ósea en población infantil expuesta a flúor y
+                                        arsénico a través del agua de consumo en una comunidad rural de San Luis Potosí</a>.
+                                </li>
+                                <li> Bravo Zamora Roxana. 2018. <a href="https://ninive.uaslp.mx/xmlui/handle/i/4542">Diseño
+                                        e implementación de un programa de nutrición en población infantil vulnerable a
+                                        condiciones socio-ambientales: el caso de la reforma, Salinas de Hidalgo, San Luis
+                                        Potosí</a>. </li>
                             </ul>
                             </p>
 
                             <p><em>Doctorado en Ciencias Ambientales</em>
                             <ul class="vineta">
-                                <li> <a
-                                        href="http://ambiental.uaslp.mx/pmpca/Anterior/tesis/Doc/Gen2005-08/2009_pmpca_rochaamador.pdf">Rocha
-                                        Amador Diana Olivia. 2009. Neurotoxicidad asociada a DDT, DDE y BPCs en niños
-                                        residentes de comunidades rurales del Sureste Mexicano</a>.</li><br>
-                                <li> <a
-                                        href="http://ambiental.uaslp.mx/pmpca/Anterior/tesis/Doc/Gen2010-08/2014_pmpca_villasenorlozano.pdf">Villaseñor
-                                        Lozano César Gerardo. 2014. Metodología para la evaluación del riesgo del desarrollo
-                                        infantil de comunidades vulnerables</a>.</li><br>
-                                <li> <a
-                                        href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/4529/DCA1GJE201801.pdf?sequence=1&isAllowed=y">Gaytán
-                                        Jiménez Efraín. 2018. Determinantes sociales y ambientales en el desarrollo
-                                        cognitivo y salud mental infantil</a>.</li><br>
-                                <li> <a
-                                        href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/4765/DCA1VMJ201901.pdf?sequence=1&isAllowed=y">Vázquez
-                                        Medina Jazmín Lizzeth. 2019. Influencia del ambiente sobre el desarrollo en niños
-                                        residentes en la zona metropolitana de San Luis Potosí</a>.</li>
+                                <li> Espinosa Reyes Guillermo. 2009. <a
+                                        href="http://ambiental.uaslp.mx/pmpca/tesis/Doc/Gen2005-08/2009_pmpca_espinosareyes.pdf">Diseño
+                                        y aplicación de una metodología de evaluación de riesgo ecológico para fauna
+                                        terrestre</a>. </li>
+                                <li> González Mille Donaji Josefina. 2010. <a
+                                        href="http://ambiental.uaslp.mx/pmpca/tesis/Doc/Gen2006-02/2010_pmpca_gonzalezmille.pdf">Aplicación
+                                        de una metodología de evaluación de riesgo ecológico en fauna acuática de
+                                        Coatzacoalcos, Veracruz</a>. </li>
+                                <li> Ilizaliturri Hernández César Arturo. 2010. <a
+                                        href="http://ambiental.uaslp.mx/pmpca/tesis/Doc/Gen2006-02/2010_pmpca_ilizaliturrihernandez.pdf">Aplicación
+                                        de una metodología de evaluación de riesgo ecológico en el sistema de humedales de
+                                        Coatzacoalcos, Veracruz</a>.</li>
+                                <li> Gaytán Hernández Dario. 2015. <a
+                                        href="http://ambiental.uaslp.mx/pmpca/tesis/Doc/Gen2011-08/2015_pmpca_gaytanhernandez.pdf">Diseño
+                                        de un paquete de herramientas metodológicas para una sala situacional de salud
+                                        ambiental para el estado de San Luis Potosí</a>. (Co-Dirección) </li>
+                                <li> Martínez Acuña Mónica Imelda. 2017. <a
+                                        href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/4204/DCA1MAM201701.pdf?sequence=1&amp;isAllowed=y">Determinación
+                                        de biomarcadores de exposición, efecto y susceptibilidad para evaluar riesgo en
+                                        salud por exposición a fluoruro y arsénico en población infantil del Estado de
+                                        Zacatecas</a>.</li>
+                                <li> Jarquín Yáñez Lizet del Carmen. 2019. <a
+                                        href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/4731/DCA1JYL201902.pdf?sequence=1&amp;isAllowed=y">Polimorfismos
+                                        genéticos asociados a enfermedades óseas y fluorosis dental en población expuesta a
+                                        flúor a través del agua de consumo</a>. </li>
                             </ul>
-                            </p>
                         </ol>
                     </div>
                 </div>

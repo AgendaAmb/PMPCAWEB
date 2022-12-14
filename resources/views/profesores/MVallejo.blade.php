@@ -5,35 +5,35 @@
         <div id="professor-description" class="row mb-4">
             <div class="col-12 col-sm-12">
                 <br>
-                <h1><strong>DRA. JAQUELINE CALDERÓN HERNÁNDEZ</strong></h1><br>
+                <h1><strong>DR. MOISÉS ROBERTO VALLEJO PÉREZ</strong></h1><br>
             </div>
             <div class="col-12 col-sm-3 ">
-                <img class="mx-auto d-block" src="{{ asset('storage/images/Jaqueline_Calderon_Hernandez.png') }}" alt="">
+                <img class="mx-auto d-block" src="{{ asset('storage/images/MoisesRobertoVallejoPerez.png') }}" alt="">
             </div>
             <div class="col-12 col-sm-9">
                 <div>
-                    <h4><strong>Profesor Investigador de Tiempo Completo Nivel VI.</strong></h4>
-                    <h5><strong>Facultad de Medicina.</strong></h5>
-                    <h5><strong>SNI nivel I.</strong></h5>
+                    <h4><strong>Catedra CONACyT.</strong></h4>
+                    <h5><strong>Coordinación para la Innovación y Aplicación de la Ciencia y la Tecnología. (CIACyT).
+                        </strong></h5>
+                    <h5><strong>Candidato a SNI.</strong></h5>
                     <p>
-                        Av. Venustiano Carranza 2405 Colonia Los Filtros,<br>
-                        C.P. 78210 San Luis Potosí, S.L.P.<br>
-                        Tel. (444) 8262300 Ext. 6619 <br>
-                        calderoj@uaslp.mx
+                        Sierra Leona #550, Col. Lomas 2a. Sección,<br>
+                        C.P. 78210, San Luis Potosí, S.L.P., México.<br>
+                        Tel. + 52 (444) 826-2300 Ext. 8410 <br>
+                        moises.vallejo@uaslp.mx
                     </p>
 
                     <div class="enlacesprof">
+                        <a target="_blank" href="https://www.researchgate.net/profile/Vallejo-Perez-M-R">Webpage</a>
                         <a target="_blank"
-                            href="https://investigadores.uaslp.mx/InvestigadorProfile/3A4AAA%3D%3D">Webpage</a>
-                        <a target="_blank"
-                            href="http://www.ciacyt.uaslp.mx/images/pdf/Ciaas/Dra.JaquelineCalderonHernandez.pdf">Curriculum
+                            href="https://investigadores.uaslp.mx/InvestigadorProfile/descargarCV/SmQAAA%3d%3d">Curriculum
                             Vitae </a>
                         <a target="_blank"
-                            href="https://investigadores.uaslp.mx/InvestigadorProfile/3A4AAA%3D%3D">Directorio de
+                            href="https://investigadores.uaslp.mx/InvestigadorProfile/SmQAAA%3d%3d">Directorio de
                             Investigadores</a>
-                        <a target="_blank" href="https://orcid.org/0000-0002-7865-3357"><img
+                        <a target="_blank" href="https://orcid.org/0000-0002-9167-2632"><img
                                 src="{{ asset('storage/images/orcid.png') }}" alt=""></a>
-                        <a target="_blank" href="https://www.scopus.com/authid/detail.uri?authorId=7102018652">
+                        <a target="_blank" href="https://www.scopus.com/authid/detail.uri?authorId=55871895700">
                             <img src="{{ asset('storage/images/scopus.png') }}" alt=""></a>
                     </div>
                 </div>
@@ -54,72 +54,17 @@
                             <li><strong>Cursos:</strong></li>
                             <p>
                             <ul class="vineta">
-                                <li> Bioestadística aplicada y epidemiologia ambiental </li>
-                                <li> Análisis probabilístico de riesgos</li>
+                                <li> Microbiología</li>
                             </ul>
                             </p>
                             <li><strong>LGAC:</strong></li>
                             <p>
                             <ul class="vineta">
-                                <li> Evaluación integrada del riesgo y salud ambiental </li>
+                                <li> Microbiología en suelo </li>
+                                <li> Diversidad microbiana </li>
                             </ul>
                             </p>
-                            <li><strong>Dirección de Tesis:</strong></li>
-
-                            <p><em>Maestría en Ciencias Ambientales (Doble Titulación), Co-Dirección: </em>
-                            <ul class="vineta">
-                                <li> Ramírez Paredes Socorro Isabel. 2018. <a
-                                        href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/4395/MCA1RPS201801.pdf?sequence=1&isAllowed=y">
-                                        Monitoreo del entorno para la salud infantil desde un enfoque integral: en un
-                                        escenario metropolitano.</a></li>
-                            </ul>
-                            </p>
-
-                            <p><em>Maestría en Ciencias Ambientales</em>
-                            <ul class="vineta">
-                                <li> <a
-                                        href="http://ambiental.uaslp.mx/pmpca/Anterior/tesis/Mae/Gen%202002-08/2005_pmpca_rochaamador.pdf">Rocha
-                                        Amador Diana Olivia. 2005. Efectos sobre el sistema nervioso central por la
-                                        exposición simultánea a flúor y arsénico.</a>.</li><br>
-                                <li> <a
-                                        href="http://ambiental.uaslp.mx/pmpca/Anterior/tesis/Mae/Gen%202003-08/2006_pmpca_martinezsalinas.pdf">Martínez
-                                        Salinas Rebeca Isabel. 2006. Exposición a hidrocarburos aromáticos policíclicos en
-                                        población infantil</a>.</li><br>
-                                <li> <a
-                                        href="http://ambiental.uaslp.mx/pmpca/Anterior/tesis/Mae/Gen%202006-08/2008_pmpca_munizcarreon.pdf">Muñiz
-                                        Carreón Gregoria Patricia. 2008. Evaluación de los efectos crónicos asociados a la
-                                        exposición de plaguicidas en comunidades vulnerables</a>.</li><br>
-                                <li> <a
-                                        href="http://ambiental.uaslp.mx/pmpca/Anterior/tesis/Mae/Gen%202014-08/2016_pmpca_murillovaldez.pdf">Murillo
-                                        Valdez Daniela. 2016. Metodología para identificar áreas prioritarias para inversión
-                                        en investigación de la enfermedad renal crónica</a>. </li>
-                                <li> <a
-                                        href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/4528/MCA1RCH201801.pdf?sequence=1&isAllowed=y">Rojas
-                                        Calderón Hector. 2018. Modelaje de las interacciones entre el ambiente, la población
-                                        y el desarrollo cognitivo</a>.</li>
-                            </ul>
-                            </p>
-
-                            <p><em>Doctorado en Ciencias Ambientales</em>
-                            <ul class="vineta">
-                                <li> <a
-                                        href="http://ambiental.uaslp.mx/pmpca/Anterior/tesis/Doc/Gen2005-08/2009_pmpca_rochaamador.pdf">Rocha
-                                        Amador Diana Olivia. 2009. Neurotoxicidad asociada a DDT, DDE y BPCs en niños
-                                        residentes de comunidades rurales del Sureste Mexicano</a>.</li><br>
-                                <li> <a
-                                        href="http://ambiental.uaslp.mx/pmpca/Anterior/tesis/Doc/Gen2010-08/2014_pmpca_villasenorlozano.pdf">Villaseñor
-                                        Lozano César Gerardo. 2014. Metodología para la evaluación del riesgo del desarrollo
-                                        infantil de comunidades vulnerables</a>.</li><br>
-                                <li> <a
-                                        href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/4529/DCA1GJE201801.pdf?sequence=1&isAllowed=y">Gaytán
-                                        Jiménez Efraín. 2018. Determinantes sociales y ambientales en el desarrollo
-                                        cognitivo y salud mental infantil</a>.</li><br>
-                                <li> <a
-                                        href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/4765/DCA1VMJ201901.pdf?sequence=1&isAllowed=y">Vázquez
-                                        Medina Jazmín Lizzeth. 2019. Influencia del ambiente sobre el desarrollo en niños
-                                        residentes en la zona metropolitana de San Luis Potosí</a>.</li>
-                            </ul>
-                            </p>
+                            <!--<li><strong>Dirección de Tesis:</strong></li>-->
                         </ol>
                     </div>
                 </div>

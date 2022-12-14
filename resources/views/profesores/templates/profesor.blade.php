@@ -9,7 +9,7 @@
         <div class="col-12 col-sm-12">
             <br>
             <h1>
-                <strong> @yield('name') </strong>
+                <strong style="text-transform: uppercase"> @yield('name') </strong>
             </h1>
             <br>
         </div>
