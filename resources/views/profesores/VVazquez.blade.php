@@ -27,7 +27,7 @@
 
         <div class="enlacesprof">
             <a target="_blank" href="https://sociales.uaslp.mx/Paginas/Investigacion/3546#gsc.tab=0">Webpage</a>
-            <a target="_blank" href="/storage/CV/Vazquez_Solis_Valente.pdf">Curriculum Vitae </a>
+            <a target="_blank" href="{{asset('storage/CV/Vazquez_Solis_Valente.pdf')}}">Curriculum Vitae </a>
             <a target="_blank" href="https://investigadores.uaslp.mx/InvestigadorProfile/mz8AAA==">Directorio de Investigadores</a>
             <a target="_blank" href="https://orcid.org/0000-0002-8421-7201"><img src="{{asset('storage/images/orcid.png')}}" alt=""></a>
             <a target="_blank" href="https://www.scopus.com/authid/detail.uri?authorId=26665082600"> <img src="{{asset('storage/images/scopus.png')}}" alt=""></a>

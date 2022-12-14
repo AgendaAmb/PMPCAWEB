@@ -26,7 +26,7 @@
         </p>
 
         <div class="enlacesprof">
-            <a target="_blank" href="/storage/CV/Palacio_Aponte_AlvaroGerardo.pdf">Curriculum Vitae </a>
+            <a target="_blank" href="{{asset('storage/CV/Palacio_Aponte_AlvaroGerardo.pd')}}">Curriculum Vitae </a>
             <a target="_blank" href="https://investigadores.uaslp.mx/InvestigadorProfile/EUoAAA==">Directorio de Investigadores</a>
             <a target="_blank" href="https://orcid.org/0000-0002-5020-2482"><img src="{{asset('storage/images/orcid.png')}}" alt=""></a>
             <a target="_blank" href="https://www.scopus.com/authid/detail.uri?authorId=35176529400"> <img src="{{asset('storage/images/scopus.png')}}" alt=""></a>

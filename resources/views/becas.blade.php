@@ -10,17 +10,17 @@
                     </div>
                 </div>
 
-                <p>Nuestro posgrado se encuentra dentro del Padrón Nacional de Posgrados de Calidad (PNPC) de CONACyT. Sí
+                <p>Nuestro posgrado se encuentra dentro del Sistema Nacional de Posgrados (SNP) de CONACyT. Sí
                     has
                     sido admitido para realizar tus estudios en el PMPCA, y cumples con los requisitos indicados por
                     CONACyT,
                     podrás
                     ser postulado en la convocatoria correspondiente para obtener una beca nacional.</p>
 
-                <div class="col-12 col-sm-12 my-4" id="becasEnlace">
+                <!--<div class="col-12 col-sm-12 my-4" id="becasEnlace">
                     <h4><strong>SNP</strong> </h4>
                     <p>En trámite.</p>
-                </div>
+                </div>-->
                 <div class="col-12 col-sm-12 my-4" id="becasEnlace">
                     <h4><strong>Requisitos</strong> </h4>
                     <a
