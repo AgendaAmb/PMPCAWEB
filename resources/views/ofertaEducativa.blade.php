@@ -11,6 +11,19 @@
                 <div class="col-12 col-sm-12 mb-4">
                     <h1><strong>DOCTORADO EN CIENCIAS AMBIENTALES</strong></h1>
                 </div>
+
+                <div class="row col-12 col-sm-12 mb-4 "> 
+                    <div class="col-6 col-md-4 col-lg-2 d-block d-sm-none">
+                        <a class="btn btn-primary" id="botonesGeneral" target="_blank"
+                            href="storage/Doc/Plan_Estudios_Doctorado.pdf" role="button">Plan de estudios</a>
+                    </div>
+                    
+                    <div class="col-6 col-md-4 col-lg-2  d-block d-sm-none">
+                        <a class="btn btn-primary" id="botonesGeneral" target="_blank" href="storage/Doc/Conv_DCA2022.pdf"
+                            role="button">Convocatoria</a>
+                    </div>
+                </div>
+
                 <div class="row col-12 col-sm-12 mb-4 ">
                     <div class="col-12 col-sm-1 ">
                     </div>
@@ -18,14 +31,14 @@
                     </div>
                     <div class="col-12 col-sm-1 ">
                     </div>
-                    <div class="col-12 col-sm-3 ">
-                        <a class="btn btn-primary" id="botonesGeneral" target="_blank"
+                    <div class="col-12 col-sm-3 d-none d-sm-block">
+                        <a class="btn btn-primary text-nowrap" id="botonesGeneral" target="_blank"
                             href="storage/Doc/Plan_Estudios_Doctorado.pdf" role="button">Plan de estudios</a>
                     </div>
 
                     <div class="col-12 col-sm-1 ">
                     </div>
-                    <div class="col-12 col-sm-3 ">
+                    <div class="col-12 col-sm-3 d-none d-sm-block">
                         <a class="btn btn-primary" id="botonesGeneral" target="_blank" href="storage/Doc/Conv_DCA2022.pdf"
                             role="button">Convocatoria</a>
                     </div>
@@ -130,6 +143,18 @@
                 <div class="col-12 col-sm-12 mb-4" id="seccionMCA">
                     <h1><strong>MAESTRÍA EN CIENCIAS AMBIENTALES</strong></h1>
                 </div>
+                <div class="row col-12 col-sm-12 mb-4 "> 
+                    <div class="col-6 col-md-4 col-lg-2 d-block d-sm-none">
+                        <a class="btn btn-primary" id="botonesGeneral" target="_blank"
+                            href="storage/Doc/Plan_Estudios_Maestria.pdf" role="button">Plan de estudios</a>
+                    </div>
+                    
+                    <div class="col-6 col-md-4 col-lg-2  d-block d-sm-none">
+                        <a class="btn btn-primary" id="botonesGeneral" target="_blank" href="storage/Doc/Conv_MCA2022.pdf"
+                            role="button">Convocatoria</a>
+                    </div>
+                </div>
+
                 <div class="row col-12 col-sm-12 mb-4 ">
                     <div class="col-12 col-sm-1 ">
                     </div>
@@ -137,14 +162,14 @@
                     </div>
                     <div class="col-12 col-sm-1 ">
                     </div>
-                    <div class="col-12 col-sm-3 ">
+                    <div class="col-12 col-sm-3 d-none d-sm-block">
                         <a class="btn btn-primary" id="botonesGeneral" target="_blank"
                             href="storage/Doc/Plan_Estudios_Maestria.pdf" role="button">Plan de estudios</a>
                     </div>
 
                     <div class="col-12 col-sm-1 ">
                     </div>
-                    <div class="col-12 col-sm-3 ">
+                    <div class="col-12 col-sm-3 d-none d-sm-block">
                         <a class="btn btn-primary" id="botonesGeneral" target="_blank" href="storage/Doc/Conv_MCA2022.pdf"
                             role="button">Convocatoria</a>
                     </div>
@@ -234,6 +259,18 @@
                 <div class="col-12 col-sm-12 mb-4" id="seccionMCADT">
                     <h1><strong>MAESTRÍA EN CIENCIAS AMBIENTALES <br> DOBLE TITULACIÓN</strong></h1>
                 </div>
+                <div class="row col-12 col-sm-12 mb-4 "> 
+                    <div class="col-6 col-md-4 col-lg-2 d-block d-sm-none">
+                        <a class="btn btn-primary" id="botonesGeneral" target="_blank"
+                            href="https://www.enrem-master.info/about-enrem/programme-structure" role="button">Plan de estudios</a>
+                    </div>
+                    
+                    <div class="col-6 col-md-4 col-lg-2  d-block d-sm-none">
+                        <a class="btn btn-primary" id="botonesGeneral" target="_blank" href="storage/Doc/ENREM_Flyer.pdf"
+                            role="button">Convocatoria</a>
+                    </div>
+                </div>
+
                 <div class="row col-12 col-sm-12 mb-4 ">
                     <div class="col-12 col-sm-1 ">
                     </div>
@@ -241,17 +278,16 @@
                     </div>
                     <div class="col-12 col-sm-1 ">
                     </div>
-                    <div class="col-12 col-sm-3 ">
+                    <div class="col-12 col-sm-3 d-none d-sm-block">
                         <a class="btn btn-primary" id="botonesGeneral" target="_blank"
-                            href="https://www.enrem-master.info/about-enrem/programme-structure" role="button">Plan de
-                            estudios</a>
+                            href="https://www.enrem-master.info/about-enrem/programme-structure" role="button">Plan de estudios</a>
                     </div>
 
                     <div class="col-12 col-sm-1 ">
                     </div>
-                    <div class="col-12 col-sm-3 ">
-                        <a class="btn btn-primary" id="botonesGeneral" target="_blank"
-                            href="storage/Doc/ENREM_Flyer.pdf" role="button">Convocatoria</a>
+                    <div class="col-12 col-sm-3 d-none d-sm-block">
+                        <a class="btn btn-primary" id="botonesGeneral" target="_blank" href="storage/Doc/ENREM_Flyer.pdf"
+                            role="button">Convocatoria</a>
                     </div>
                     <div class="col-12 col-sm-1 ">
                     </div>
