@@ -24,9 +24,9 @@
 
                 <div class="col-12 my-3 m-1">
 
-                    <div class="row row-cols-lg-3 row-cols-md-2">
+                    <div class="row row-cols-lg-3 row-cols-md-2 mx-3">
 
-                        <div class="col col-6 my-3">
+                        <div class="col col-12 my-3">
                             <div class="card h-100 rounded-0" id="colorCard">
                                 <img src="{{ asset('storage/images/izquierda.png') }}" class="card-img-top rounded-0" alt="...">
                                 <div class="barraAzulFuerteS"></div>
@@ -38,7 +38,7 @@
                             </div>
                         </div>
 
-                        <div class="col col-6 my-3">
+                        <div class="col col-12 my-3">
                             <div class="card h-100 rounded-0" id="colorCard">
                                 <img src="{{ asset('storage/images/centro.png') }}" class="card-img-top rounded-0" alt="...">
                                 <div class="barraAzulFuerteS"></div>
@@ -50,7 +50,7 @@
                             </div>
                         </div>
 
-                        <div class="col col-6 my-3">
+                        <div class="col col-12 my-3 mr-5">
                             <div class="card h-100 rounded-0" id="colorCard">
                                 <img src="{{ asset('storage/images/derecha.png') }}" class="card-img-top rounded-0" alt="...">
                                 <div class="barraAzulFuerteS"></div>
@@ -71,7 +71,7 @@
 
             <div class=¨container-fluid¨ id="videoInicio">
 
-                <div class="row">
+                <div class="row mx-3">
 
                     <div class="col-md-6 col-sm-12 m-0 p-0">
                         <div class="ratio ratio-16x9">
@@ -98,32 +98,37 @@
 
             <div class="col-12 col-sm-12 mt-5" id="rowInicio">
                 <div class="row">
-                    <div class="col-12 col-sm-2">
+                    <div class="col-6 col-md-4 col-lg-2">
                         <a href="{{ url('/calendario') }}"><img src="{{ asset('storage/images/Calendario.png') }}"
                                 alt="" style="width:150px;height:150px"> </a>
                         <p> <strong>Calendario</strong></p>
                     </div>
-                    <div class="col-12 col-sm-2">
+                    <div class="col-6 col-md-4 col-lg-2">
                         <a href="#"><img src="{{ asset('storage/images/Solicitud de instalaciones.png') }}"
                                 alt="" style="width:150px;height:150px"></a>
                         <p> <strong>Solicitud instalaciones</strong></p>
                     </div>
-                    <div class="col-12 col-sm-2">
+                    <div class="col-6 col-md-4 col-lg-2">
                         <a href="#"><img src="{{ asset('storage/images/Intranet.png') }}" alt=""
                                 style="width:150px;height:150px"></a>
                         <p> <strong>INTRANET</strong></p>
                     </div>
-                    <div class="col-12 col-sm-2">
+                    <div class="col-6 col-md-4 col-lg-2">
                         <a href="#"><img src="{{ asset('storage/images/Programación semestral.png') }}"
                                 alt="" style="width:150px;height:150px"></a>
                         <p> <strong>Programación semestral</strong></p>
                     </div>
-                    <div class="col-12 col-sm-2">
+                    <div class="col-6 col-md-4 col-lg-2">
                         <a href="{{ url('/tramites') }}"><img src="{{ asset('storage/images/Tramites.png') }}"
                                 alt="" style="width:150px;height:150px"></a>
                         <p> <strong>Trámites</strong> </p>
                     </div>
-                    <div class="col-12 col-sm-2">
+                    <div class="col-6 col-md-4 col-lg-2">
+                        <a href="{{ url('/becas') }}"><img src="{{ asset('storage/images/Becas.png') }}"
+                            alt="" style="width:150px;height:150px"></a>
+                        <p> <strong>Becas</strong></p>
+                    </div>
+                    {{-- <div class="col-12 col-sm-2">
                         <div class="col-12 col-sm-12">
                             <a href="{{ url('/becas') }}"><img src="{{ asset('storage/images/Becas.png') }}"
                                     alt="" style="width:150px;height:150px"></a>
@@ -131,7 +136,7 @@
                         <div class="col-12 col-sm-12">
                             <p> <strong>Becas</strong></p>
                         </div>
-                    </div>
+                    </div> --}}
                 </div>
             </div>
 

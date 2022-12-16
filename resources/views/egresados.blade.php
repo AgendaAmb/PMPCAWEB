@@ -6,7 +6,7 @@
             <div id="professor-description" class="row mb-4">
 
                 <div class="col-12 col-sm-12 my-5">
-                    <div class="row row-cols-1 row-cols-md-3 g-4">
+                    <div class="row row-cols-1 row-cols-md-3 g-4 mx-3">
                         <div class="col">
                             <div class="card h-100" id="colorCard">
                                 <img src="{{ asset('storage/images/DrIdrissa.png') }}" class="card-img-top" alt="...">

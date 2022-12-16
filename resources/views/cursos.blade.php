@@ -11,26 +11,146 @@
             <div class="col-12 col-sm-12 mb-4">
                 <h1><strong>CURSOS</strong></h1>
             </div>
-            <div class="row col-12 col-sm-12 mb-4 ">
+
+    {{-- XS --}}
+            <div class="row col-12 col-sm-12 ">
+                <div class="col-6 col-md-4 col-lg-3  d-block d-md-none">
+                    <a class="btn btn-primary rounded-pill" style="margin:5px;" id="botonesGeneral"
+                        v-on:click="scrollTo('primero')"
+                        data-bs-toggle="collapse"
+                        data-bs-target="#collapseThree"
+                        role="button">&nbsp&nbsp&nbsp&nbspBásicos&nbsp&nbsp&nbsp&nbsp</a>
+                </div>
+                <div class="col-6 col-md-4 col-lg-3 d-block d-md-none">
+                    <a class="btn btn-primary rounded-pill" style="margin:5px;" id="botonesGeneral"
+                        v-on:click="scrollTo('segundo')"
+                        data-bs-toggle="collapse"
+                        data-bs-target="#collapseTwo"
+                        role="button">&nbsp&nbsp&nbsp&nbspOptativos&nbsp&nbsp&nbsp&nbsp</a>
+                </div>
+                <div class="col-2 col-md-4 col-lg-3 d-block d-md-none">
+                </div>
+                
+                <div class="col-6 col-md-4 col-lg-3 d-block d-md-none">
+                    <a class="btn btn-primary rounded-pill" style="margin:5px;" id="botonesGeneral"
+                        v-on:click="scrollTo('tercero')"
+                        data-bs-toggle="collapse"
+                        data-bs-target="#collapseFour"
+                        role="button">&nbsp&nbsp&nbsp&nbsp&nbspTópicos&nbspselectos&nbsp&nbsp&nbsp&nbsp&nbsp</a>
+                </div>
+            </div>
+
+            {{-- MD --}}
+            <div class="row col-12 col-sm-12  ">
+                <div class="col-4 col-md-4 col-lg-3 d-none d-md-block d-lg-none">
+                    <a class="btn btn-primary rounded-pill" id="botonesGeneral"
+                        v-on:click="scrollTo('primero')"
+                        data-bs-toggle="collapse"
+                        data-bs-target="#collapseThree"
+                        role="button">&nbsp&nbsp&nbsp&nbsp&nbspBásicos&nbsp&nbsp&nbsp&nbsp&nbsp</a>
+                </div>
+                <div class="col-4 col-md-4 col-lg-3 d-none d-md-block d-lg-none">
+                    <a class="btn btn-primary rounded-pill" id="botonesGeneral"
+                        v-on:click="scrollTo('segundo')"
+                        data-bs-toggle="collapse"
+                        data-bs-target="#collapseTwo"
+                        role="button">&nbsp&nbsp&nbsp&nbsp&nbspOptativos&nbsp&nbsp&nbsp&nbsp&nbsp</a>
+                </div>
+                
+                <div class="col-4 col-md-4 col-lg-3 d-none d-md-block d-lg-none">
+                    <a class="btn btn-primary rounded-pill" id="botonesGeneral"
+                        v-on:click="scrollTo('tercero')"
+                        data-bs-toggle="collapse"
+                        data-bs-target="#collapseFour"
+                        role="button">&nbsp&nbsp&nbsp&nbsp&nbsp&nbspTópicos&nbspselectos&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</a>
+                </div>
+            </div>
+            {{-- XL --}}
+            <div class="row col-12 col-sm-12 ">
+                <div class="col-12 col-sm-1 ">
+                </div>
+                <div class="col-3 col-md-4 col-lg-3 d-none d-lg-block d-xl-none">
+                    <a class="btn btn-primary rounded-pill" id="botonesGeneral"
+                        v-on:click="scrollTo('primero')"
+                        data-bs-toggle="collapse"
+                        data-bs-target="#collapseThree"
+                        role="button">&nbsp&nbsp&nbsp&nbsp&nbspBásicos&nbsp&nbsp&nbsp&nbsp&nbsp</a>
+                </div>
+                <div class="col-12 col-sm-1 ">
+                </div>
+                <div class="col-3 col-md-4 col-lg-3 d-none d-lg-block d-xl-none">
+                    <a class="btn btn-primary rounded-pill" id="botonesGeneral"
+                        v-on:click="scrollTo('segundo')"
+                        data-bs-toggle="collapse"
+                        data-bs-target="#collapseTwo"
+                        role="button">&nbsp&nbsp&nbsp&nbsp&nbspOptativos&nbsp&nbsp&nbsp&nbsp&nbsp</a>
+                </div>
+                <div class="col-12 col-sm-1 ">
+                </div>
+                
+                <div class="col-3 col-md-4 col-lg-3 d-none d-lg-block d-xl-none">
+                    <a class="btn btn-primary rounded-pill" id="botonesGeneral"
+                        v-on:click="scrollTo('tercero')"
+                        data-bs-toggle="collapse"
+                        data-bs-target="#collapseFour"
+                        role="button">&nbsp&nbsp&nbsp&nbsp&nbsp&nbspTópicos&nbspselectos&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</a>
+                </div>
+            </div>
+
+
+            <div class="row col-12 col-sm-12">
                 <div class="col-12 col-sm-1 ">
                 </div>
                 <div class="col-12 col-sm-1 ">
                 </div>
-                <div class="col-12 col-sm-3 ">
+                <div class="col-12 col-sm-3 d-none d-xxl-block">
                     <a class="btn btn-primary rounded-pill" id="botonesGeneral"
                         v-on:click="scrollTo('primero')"
                         data-bs-toggle="collapse"
                         data-bs-target="#collapseThree"
                         role="button">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspBásicos&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</a>
                 </div>
-                <div class="col-12 col-sm-3 ml-5">
+                <div class="col-12 col-sm-3 ml-5 d-none d-xxl-block">
                     <a class="btn btn-primary rounded-pill" id="botonesGeneral"
                         v-on:click="scrollTo('segundo')"
                         data-bs-toggle="collapse"
                         data-bs-target="#collapseTwo"
                         role="button">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspOptativos&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</a>
                 </div>
-                <div class="col-12 col-sm-3">
+                <div class="col-12 col-sm-3 d-none d-xxl-block">
+                    <a class="btn btn-primary rounded-pill" id="botonesGeneral"
+                        v-on:click="scrollTo('tercero')"
+                        data-bs-toggle="collapse"
+                        data-bs-target="#collapseFour"
+                        role="button">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspTópicos
+                        selectos&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</a>
+                </div>
+                <div class="col-12 col-sm-1">
+                </div>
+            </div>
+
+
+            {{-- XXL --}}
+            <div class="row col-12 col-sm-12  mb-4">
+                <div class="col-12 col-sm-1 ">
+                </div>
+                <div class="col-12 col-sm-1 ">
+                </div>
+                <div class="col-12 col-sm-3 d-none d-xl-block d-xxl-none">
+                    <a class="btn btn-primary rounded-pill" id="botonesGeneral"
+                        v-on:click="scrollTo('primero')"
+                        data-bs-toggle="collapse"
+                        data-bs-target="#collapseThree"
+                        role="button">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspBásicos&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</a>
+                </div>
+                <div class="col-12 col-sm-3 ml-5 d-none d-xl-block d-xxl-none">
+                    <a class="btn btn-primary rounded-pill" id="botonesGeneral"
+                        v-on:click="scrollTo('segundo')"
+                        data-bs-toggle="collapse"
+                        data-bs-target="#collapseTwo"
+                        role="button">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspOptativos&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</a>
+                </div>
+                <div class="col-12 col-sm-3 d-none d-xl-block d-xxl-none">
                     <a class="btn btn-primary rounded-pill" id="botonesGeneral"
                         v-on:click="scrollTo('tercero')"
                         data-bs-toggle="collapse"
@@ -75,7 +195,7 @@
                     <h2 ref="primero" class="accordion-header" id="headingThree">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                            <strong>Cursos básicos &nbsp</strong>
+                            <strong>Cursos básicos </strong>
                         </button>
                     </h2>
                     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"

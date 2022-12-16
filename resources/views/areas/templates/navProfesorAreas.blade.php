@@ -1,39 +1,69 @@
 <div id="p-container" class="container px-lg-8.5">
-    <ul class="nav nav-pills mb-3 d-flex justify-content-center" id="pills-tab" role="tablist">
-        <li class="nav-item px-1" role="presentation">
-            <button id="botonesGeneral" style="color: white;" v-bind:class="{ active: area == 1 }" class="nav-link btn btn-primary rounded-pill" id="pills-evaluacion-tab" data-bs-toggle="pill" data-bs-target="#pills-evaluacion" type="button" role="tab" aria-controls="pills-evaluacion" aria-selected="true"
+
+    <ul class=" nav nav-pills mb-3 d-flex justify-content-center" id="pills-tab" role="tablist">
+        <li class="nav-item px-1 " role="presentation">
+            <button id="botonesGeneral" style="color: white;" v-bind:class="{ active: area == 1 } " class="d-none d-md-block nav-link btn btn-primary rounded-pill my-1" id="pills-evaluacion-tab" data-bs-toggle="pill" data-bs-target="#pills-evaluacion" type="button" role="tab" aria-controls="pills-evaluacion" aria-selected="true"
             @click="setAreaData(1)"
             >Evaluación&nbspambiental
             </button>
         </li>
         <li class="nav-item px-1" role="presentation">
-            <button id="botonesGeneral" style="color: white;" v-bind:class="{ active: area == 2 }" class="nav-link btn btn-primary rounded-pill" id="pills-gestion-tab" data-bs-toggle="pill" data-bs-target="#pills-gestion" type="button" role="tab" aria-controls="pills-gestion" aria-selected="false"
+            <button id="botonesGeneral" style="color: white;" v-bind:class="{ active: area == 2 }" class="d-none d-md-block nav-link btn btn-primary rounded-pill my-1" id="pills-gestion-tab" data-bs-toggle="pill" data-bs-target="#pills-gestion" type="button" role="tab" aria-controls="pills-gestion" aria-selected="false"
             @click="setAreaData(2)"
             >&nbsp&nbspGestión&nbspambiental&nbsp&nbsp</button>
         </li>
         <li class="nav-item px-1" role="presentation">
-            <button id="botonesGeneral" style="color: white;" v-bind:class="{ active: area == 3 }" class="nav-link btn btn-primary rounded-pill" id="pills-prevencion-tab" data-bs-toggle="pill" data-bs-target="#pills-prevencion" type="button" role="tab" aria-controls="pills-prevencion" aria-selected="false"
+            <button id="botonesGeneral" style="color: white;" v-bind:class="{ active: area == 3 }" class="d-none d-md-block nav-link btn btn-primary rounded-pill my-1" id="pills-prevencion-tab" data-bs-toggle="pill" data-bs-target="#pills-prevencion" type="button" role="tab" aria-controls="pills-prevencion" aria-selected="false"
             @click="setAreaData(3)"
             >Prevención&nbspy&nbspcontrol</button>
         </li>
         <li class="nav-item px-1" role="presentation">
-            <button id="botonesGeneral" style="color: white;" v-bind:class="{ active: area == 4 }" class="nav-link btn btn-primary rounded-pill" id="pills-recursos-tab" data-bs-toggle="pill" data-bs-target="#pills-recursos" type="button" role="tab" aria-controls="pills-recursos" aria-selected="false"
+            <button id="botonesGeneral" style="color: white;" v-bind:class="{ active: area == 4 }" class="d-none d-md-block nav-link btn btn-primary rounded-pill my-1" id="pills-recursos-tab" data-bs-toggle="pill" data-bs-target="#pills-recursos" type="button" role="tab" aria-controls="pills-recursos" aria-selected="false"
             @click="setAreaData(4)"
             >&nbsp&nbspRecursos&nbspnaturales&nbsp&nbsp</button>
         </li>
         <li class="nav-item px-1" role="presentation">
-            <button id="botonesGeneral" style="color: white;" v-bind:class="{ active: area == 5 }" class="nav-link btn btn-primary rounded-pill" id="pills-salud-tab" data-bs-toggle="pill" data-bs-target="#pills-salud" type="button" role="tab" aria-controls="pills-salud" aria-selected="false"
+            <button id="botonesGeneral" style="color: white;" v-bind:class="{ active: area == 5 }" class="d-none d-md-block nav-link btn btn-primary rounded-pill my-1" id="pills-salud-tab" data-bs-toggle="pill" data-bs-target="#pills-salud" type="button" role="tab" aria-controls="pills-salud" aria-selected="false"
             @click="setAreaData(5)"
             >&nbsp&nbspSalud&nbspambiental&nbsp&nbsp</button>
+        </li>
+    </ul>
+
+    <ul class=" d-md-none nav nav-pills mb-3 d-flex justify-content-center" id="pills-tab" role="tablist">
+        <li class="nav-item px-1 " role="presentation">
+            <button id="botonesGeneral" style="color: white;" v-bind:class="{ active: area == 1 }" class="nav-link btn btn-primary rounded-pill" id="pills-evaluacion-tab" data-bs-toggle="pill" data-bs-target="#pills-evaluacion" type="button" role="tab" aria-controls="pills-evaluacion" aria-selected="true"
+            @click="setAreaData(1)"
+            >EA
+            </button>
+        </li>
+        <li class="nav-item px-1" role="presentation">
+            <button id="botonesGeneral" style="color: white;" v-bind:class="{ active: area == 2 }" class="nav-link btn btn-primary rounded-pill" id="pills-gestion-tab" data-bs-toggle="pill" data-bs-target="#pills-gestion" type="button" role="tab" aria-controls="pills-gestion" aria-selected="false"
+            @click="setAreaData(2)"
+            >GE</button>
+        </li>
+        <li class="nav-item px-1" role="presentation">
+            <button id="botonesGeneral" style="color: white;" v-bind:class="{ active: area == 3 }" class="nav-link btn btn-primary rounded-pill" id="pills-prevencion-tab" data-bs-toggle="pill" data-bs-target="#pills-prevencion" type="button" role="tab" aria-controls="pills-prevencion" aria-selected="false"
+            @click="setAreaData(3)"
+            >PYC</button>
+        </li>
+        <li class="nav-item px-1" role="presentation">
+            <button id="botonesGeneral" style="color: white;" v-bind:class="{ active: area == 4 }" class="nav-link btn btn-primary rounded-pill" id="pills-recursos-tab" data-bs-toggle="pill" data-bs-target="#pills-recursos" type="button" role="tab" aria-controls="pills-recursos" aria-selected="false"
+            @click="setAreaData(4)"
+            >RN</button>
+        </li>
+        <li class="nav-item px-1" role="presentation">
+            <button id="botonesGeneral" style="color: white;" v-bind:class="{ active: area == 5 }" class="nav-link btn btn-primary rounded-pill" id="pills-salud-tab" data-bs-toggle="pill" data-bs-target="#pills-salud" type="button" role="tab" aria-controls="pills-salud" aria-selected="false"
+            @click="setAreaData(5)"
+            >SA</button>
         </li>
     </ul>
 
     <div class="tab-content" id="pills-tabContent">
         
         <div v-bind:class="{ active: area == 1, show: area == 1}" class="tab-pane fade" id="pills-evaluacion" role="tabpanel" aria-labelledby="pills-evaluacion-tab">
-            <div class="col-12 col-sm-12 mx-5">
+            <div class="col-12 col-sm-12 px-5 py-2">
                 <div>
-                    <div class="mx-5">
+                    <div>
                         <br><br>
                         <h4><strong>Nombre de la LGAC del área:</strong></h4>
                         Identificación, análisis y caracterización de problemas ambientales.
@@ -41,7 +71,7 @@
 
                     <hr>
 
-                    <div class="mb-5 mx-5">
+                    <div>
                         <h4><strong>Profesores del área</strong></h4>
                         <a href="{{route('areas.EvaluacionAmbiental.Profesores.MAlgara')}}" id="enlacesProfEvaluacion">Dr. Marcos Algara Siller</a> <br>
                         <a href="{{route('areas.EvaluacionAmbiental.Profesores.AAvila')}}" id="enlacesProfEvaluacion">Dr. Alfredo Ávila Galarza</a> <br>
@@ -55,14 +85,14 @@
         </div>
 
         <div v-bind:class="{ active: area == 2, show: area == 2}" class="tab-pane fade" id="pills-gestion" role="tabpanel" aria-labelledby="pills-gestion-tab">
-            <div class="col-12 col-sm-12 mx-5">
-                <div class="mx-5">
+            <div class="col-12 col-sm-12 px-5 py-2">
+                <div>
                     <br><br>
                     <h4><strong>Nombre de la LGAC del área:</strong></h4>
                     Gestión ambiental, territorio y sustentabilidad.
                 </div>
                 <hr>
-                <div class="mb-5 mx-5">
+                <div>
                     <h4><strong>Profesores del área</strong></h4>
                     <a href="{{route('areas.GestionAmbiental.Profesores.CContreras')}}" id="enlacesProfEvaluacion">Dr. Carlos Contreras Servín</a> <br>
                     <a href="{{route('areas.GestionAmbiental.Profesores.MGalindo')}}" id="enlacesProfEvaluacion">Dra. María Guadalupe Galindo Mendoza</a> <br>
@@ -78,8 +108,8 @@
         </div>
 
         <div v-bind:class="{ active: area == 3, show: area == 3}" class="tab-pane fade" id="pills-prevencion" role="tabpanel" aria-labelledby="pills-prevencion-tab">
-            <div class="col-12 col-sm-12 mx-5">
-                <div class="mx-5">
+            <div class="col-12 col-sm-12 px-5 py-2">
+                <div>
                     <br><br>
                     <h4><strong>Nombre de la LGAC del área:</strong></h4>
                     Tecnología ambiental para la remediación de sitios contaminados y aprovechamiento de residuos.
@@ -87,7 +117,7 @@
 
                 <hr>
 
-                <div class="mb-5 mx-5">
+                <div>
                     <h4><strong>Profesores del área</strong></h4>
                     <a href="#" id="enlacesProfEvaluacion">Dra. Ma. Catalina Alfaro de la Torre</a> <br>
                     <a href="#" id="enlacesProfEvaluacion">Dr. Valter Armando Barrera López</a> <br>
@@ -103,8 +133,8 @@
         </div>
 
         <div v-bind:class="{ active: area == 4, show: area == 4}" class="tab-pane fade" id="pills-recursos" role="tabpanel" aria-labelledby="pills-recursos-tab">
-            <div class="col-12 col-sm-12 mx-5">
-                <div class="mx-5">
+            <div class="col-12 col-sm-12 px-5 py-2">
+                <div>
                     <br><br>
                     <h4><strong>Nombre de la LGAC del área:</strong></h4>
                     Conocimiento, aprovechamiento racional y conservación de los recursos naturales renovables.
@@ -112,7 +142,7 @@
 
                 <hr>
 
-                <div class="mb-5 mx-5">
+                <div>
                     <h4><strong>Profesores del área</strong></h4>
                     <a href="{{route('areas.RecursosNaturales.Profesores.GAguilar')}}" id="enlacesProfEvaluacion">Dra. Gisela Aguilar Benítez</a> <br>
                     <a href="{{route('areas.RecursosNaturales.Profesores.GAlvarez')}}" id="enlacesProfEvaluacion">Dr. Gregorio Álvarez Fuentes</a> <br>
@@ -132,8 +162,8 @@
         </div>
         
         <div v-bind:class="{ active: area == 5, show: area == 5}" class="tab-pane fade" id="pills-salud" role="tabpanel" aria-labelledby="pills-salud-tab">
-            <div class="col-12 col-sm-12 mx-5">
-                <div class="mx-5">
+            <div class="col-12 col-sm-12 px-5 py-2">
+                <div>
                     <br><br>
                     <h4><strong>Nombre de la LGAC del área:</strong></h4>
                     Evaluación del riesgo en salud humana y ecológica a través de intervenciones comunitarias.
@@ -141,7 +171,7 @@
 
                 <hr>
 
-                <div class="mb-5 mx-5">
+                <div>
                     <h4><strong>Profesores del área</strong></h4>
                     <a href="{{route('areas.SaludAmbiental.Profesores.JAvalos')}}" id="enlacesProfEvaluacion">Dr. José Antonio Ávalos Lozano</a> <br>
                     <a href="{{route('areas.SaludAmbiental.Profesores.JCalderon')}}" id="enlacesProfEvaluacion">Dra. Jaqueline Calderón Hernández</a> <br>
