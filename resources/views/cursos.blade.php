@@ -15,28 +15,28 @@
     {{-- XS --}}
             <div class="row col-12 col-sm-12 ">
                 <div class="col-6 col-md-4 col-lg-3  d-block d-md-none">
-                    <a class="btn btn-primary rounded-pill" id="botonesGeneral"
+                    <a class="btn btn-primary rounded-pill" style="margin:5px;" id="botonesGeneral"
                         v-on:click="scrollTo('primero')"
                         data-bs-toggle="collapse"
                         data-bs-target="#collapseThree"
-                        role="button">&nbsp&nbsp&nbsp&nbsp&nbspBásicos&nbsp&nbsp&nbsp&nbsp&nbsp</a>
+                        role="button">&nbsp&nbsp&nbsp&nbspBásicos&nbsp&nbsp&nbsp&nbsp</a>
                 </div>
                 <div class="col-6 col-md-4 col-lg-3 d-block d-md-none">
-                    <a class="btn btn-primary rounded-pill" id="botonesGeneral"
+                    <a class="btn btn-primary rounded-pill" style="margin:5px;" id="botonesGeneral"
                         v-on:click="scrollTo('segundo')"
                         data-bs-toggle="collapse"
                         data-bs-target="#collapseTwo"
-                        role="button">&nbsp&nbsp&nbsp&nbsp&nbspOptativos&nbsp&nbsp&nbsp&nbsp&nbsp</a>
+                        role="button">&nbsp&nbsp&nbsp&nbspOptativos&nbsp&nbsp&nbsp&nbsp</a>
                 </div>
                 <div class="col-2 col-md-4 col-lg-3 d-block d-md-none">
                 </div>
                 
                 <div class="col-6 col-md-4 col-lg-3 d-block d-md-none">
-                    <a class="btn btn-primary rounded-pill" id="botonesGeneral"
+                    <a class="btn btn-primary rounded-pill" style="margin:5px;" id="botonesGeneral"
                         v-on:click="scrollTo('tercero')"
                         data-bs-toggle="collapse"
                         data-bs-target="#collapseFour"
-                        role="button">&nbsp&nbsp&nbsp&nbsp&nbsp&nbspTópicos&nbspselectos&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</a>
+                        role="button">&nbsp&nbsp&nbsp&nbsp&nbspTópicos&nbspselectos&nbsp&nbsp&nbsp&nbsp&nbsp</a>
                 </div>
             </div>
 

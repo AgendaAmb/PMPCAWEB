@@ -14,7 +14,7 @@
 
                 <div class="row col-12 col-sm-12 mb-4 "> 
                     <div class="col-6 col-md-4 col-lg-2 d-block d-sm-none">
-                        <a class="btn btn-primary" id="botonesGeneral" target="_blank"
+                        <a class="btn btn-primary text-nowrap" id="botonesGeneral" target="_blank"
                             href="storage/Doc/Plan_Estudios_Doctorado.pdf" role="button">Plan de estudios</a>
                     </div>
                     
