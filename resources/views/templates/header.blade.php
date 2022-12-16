@@ -3,7 +3,7 @@
         <div class="row h-auto">
             <div class="d-sm-block d-none col-12 d-flex align-items-lg-center justify-content-start px-4 py-4">
                 <a id="logo-header" href="{{route('index')}}">
-                    <img class="img-header" src="{{asset('storage/images/logos.png')}}" height="390" width="290" alt="uaslp">
+                    <img class="img-header" src="{{asset('storage/images/logos.png')}}" height="290" width="190" alt="uaslp">
                 </a> <!-- / #logo-header -->
             </div>
             <div class="d-sm-none d-block col-12 d-flex align-items-lg-center justify-content-center px-4 py-4">
