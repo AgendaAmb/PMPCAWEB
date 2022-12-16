@@ -100,13 +100,17 @@ Dr. Javier Fortanelli Martínez
         <strong>Publicaciones</strong>
       </button>
     </h2>
-    <div id="collapse-publicaciones" class="accordion-collapse collapse show" aria-labelledby="headingOne"
+    <div id="collapse-publicaciones" class="accordion-collapse collapse" aria-labelledby="headingOne"
       data-bs-parent="#accordionExample">
       <div class="accordion-body">
 
         <strong>Artículos cientifícos</strong>
         <p></p>
         <ul class="vineta">
+          <li>Diedhiou, I.; H.M. Ramírez-Tobías; J. Fortanelli-Martínez; R. Flores-Ramírez; J. Flores. 2022. Induced passive heating on the emergence, early growth and photochemical responses of seedlings of native maize (Zea mays L.) genotypes from warm-dry, temperate, and hot and humid climates. Emirates Journal of Food and Agriculture. 35 (10):815-826. <a href="https://www.ejfa.me/index.php/journal/article/view/2929">https://doi: 10.9755/ejfa.2022.v34.i10.2929</a></li><br>
+          <li>Diedhiou, I.; H.M. Ramírez Tobías; J. Fortanelli Martínez.; R. Flores Ramírez. 2022. Maize intercropping in the traditional “Milpa” system. Physiological, morphological, and agronomical parameters under induced warming: evidence of related effect of climate change in San Luis Potosí (Mexico). Life. 2022, 12 1589, 37 p. ISSN: 2075-1729. <a href="https://doi.org/10.3390/life12101589">https://doi.org/10.3390/life12101589</a></li><br>
+          <li>Yáñez-Espinosa, L.; J.Flores; J. Fortanelli-Martínez; J.R. Quintero-Ruiz; J.A. De Nova-Vázquez; H. Reyes-Hernández. 2022. Leaf traits variation of Myriocarpa longipes and Brosimum alicastrum in relation to microclimatic gradient in tropical dolines of Mexico. The Journal of the Torrey Botanical Society. 149 (4): 262-272 DOI: <a href="https://doi.org/10.3159/TORREY-D-22-00011.1">https://doi.org/10.3159/TORREY-D-22-00011.1</a></li><br>
+          <li>Cruz-Armendáriz, N.M.; J.A. Reyes-Agüero; E. Ruiz-Sánchez; <b>J. Fortanelli Martínez</b>; Fernanda Martínez Armendáriz. 2022. Geographical and ecological distribution of native bamboo species in San Luis Potosí, Mexico. Phytotaxa. 543 (3): 170-180. ISSN 1179-3155 (print); ISSN 1179-3163 (online). DOI: <a href="https://doi.org/10.11646/phytotaxa.543.3.1">https://doi.org/10.11646/phytotaxa.543.3.1</a></li>
           <li><b>Fortanelli-Martínez, J.</b>, G.A. Salazar; P. Castillo-Lara; J. García-Pérez; C. Alfaro-Medina, H.A. Castillo-Gómez, T.L. Ramírez-Palomeque; J.I. Morales de la Torre; J.A. De-Nova. 2022. Orchidaceae de San Luis Potosí, México: riqueza y distribución. Botanical Sciences. 100 (1): 223-246. DOI: <a href="https://www.botanicalsciences.com.mx/index.php/botanicalSciences/article/view/2875">10.17129/botsci.2875</a>.</li><br>
           <li>Castillo-Pérez, L.J.; A.J. Alonso-Castro; <b>J. Fortanell-Martínez</b>; C. Carranza-Álvarez. 2022 Micropropagation of <i>Catasetum integerrimum</i> Hook (Orchidaceae) through seed germination and direct shoot regeneration from pseudobulbs and roots. In Vitro Cellular & Developmental Biology – Plant ISSN: 1054-5476, <a href="https://doi.org/10.1007/s11627-021-10248-3">https://doi.org/10.1007/s11627-021-10248-3</a></li><br>
           <li>Diédhiou, I.; H. M. Ramírez-Tobías; <b>J. Fortanelli-Martínez</b>; R. Flores-Ramírez. 2021. Effects of different temperatures and water stress in germination and initial growth of creole genotypes of maize from three different agroclimatics regions of San Luis Potosí (México). Maydica. 66 (1): 1-16. ISSN: 2279-8013.</li><br>
@@ -158,7 +162,7 @@ Dr. Javier Fortanelli Martínez
         </ul>
       </div>
     </div>
-  </div>
+  </div><br><br><br>
 </div>
 
 @endsection
