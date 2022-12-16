@@ -22,12 +22,11 @@ Dr. Javier Fortanelli Martínez
   </p>
 
   <div class="enlacesprof">
-      {{-- <a target="_blank" href="http://www.iizd.uaslp.mx/Documents/JFM.pdf">Webpage 1</a> --}}
-      <a target="_blank" href="https://uaslp.academia.edu/JavierFortanelliMart%C3%ADnez">Webpage</a>
-      <a target="_blank" href="http://www.iizd.uaslp.mx/Documents/CV_JFM.pdf">Curriculum Vitae </a>
+      <a target="_blank" href="https://uaslpedu-my.sharepoint.com/personal/difusion_iizd_uaslp_mx/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fdifusion%5Fiizd%5Fuaslp%5Fmx%2FDocuments%2FCURRICULUM%2F2022%2FCV%5FJFM%2Epdf&parent=%2Fpersonal%2Fdifusion%5Fiizd%5Fuaslp%5Fmx%2FDocuments%2FCURRICULUM%2F2022&ga=1">Webpage</a>
+      <a target="_blank" href="{{asset('storage/CV/Fortanelli_Martinez_Javier.pdf')}}">Currículum Vitae </a>
       <a target="_blank" href="https://investigadores.uaslp.mx/InvestigadorProfile/jyMAAA%3d%3d">Directorio de Investigadores</a>
-      {{-- <a target="_blank" href="https://orcid.org/0000-0003-0903-0428"><img src="{{asset('storage/images/orcid.png')}}" alt=""></a> --}}
-      {{-- <a target="_blank" href="https://www.scopus.com/authid/detail.uri?authorId=56586111500"> <img src="{{asset('storage/images/scopus.png')}}" alt=""></a> --}}
+      <a target="_blank" href="https://orcid.org/0000-0003-1958-7553"><img src="{{asset('storage/images/orcid.png')}}" alt=""></a>
+      <a target="_blank" href="https://www.scopus.com/authid/detail.uri?authorId=12753922700"> <img src="{{asset('storage/images/scopus.png')}}" alt=""></a>
   </div>
 </div>
 
@@ -46,58 +45,50 @@ Dr. Javier Fortanelli Martínez
     <div id="collapse-actividad-academica" class="accordion-collapse collapse show" aria-labelledby="headingOne"
       data-bs-parent="#accordionExample">
       <div class="accordion-body">
-
-        <p> Artículos cientifícos </p>
-        <p></p>
-        <ul class="vineta">
-          <li>Ecología de la producción de cosechas</li>
-          <li>Ecología</li>
-        </ul>
-
-        <p> LGAC </p>
-        <p></p>
-        <ul class="vineta">
-          <li>Etnobiología </li>
-          <li>Sistemas de producción de cosechas vegetales</li>
-        </ul>
-
-        <p> Dirección de Tesis </p>
-        <p></p>
-        <ul>
-          <p> Maestría en Ciencias Ambientales (Doble Titulación), Co-Dirección </p>
-          <p></p>
+       <ol>
+        <li><strong>Cursos</strong> </li>
           <ul class="vineta">
-              <li>Chávez Acuña Isaac Jacob. 2010. <a href="http://ambiental.uaslp.mx/pmpca/tesis/Mae/Gen%202008-08/2010_pmpca_chavezacuna.pdf">Análisis estructural de dos poblaciones de <em>Dioon edule</em> Lindl. (Zamieaceae) en comunidades indígenas y mestizas de la región <em>Xi'iuy</em> de La Palma, S.L.P.: implicaciones ecológicas y culturales</a>.</li>
-              <li>Medrano Echalar Ana María. 2010. <a href="http://ambiental.uaslp.mx/pmpca/tesis/Mae/Gen%202008-08/2010_pmpca_medranoechalar.pdf"> Expansión del cultivo de Quinua <em>(Chenopodium quinoa</em> Willd.) y calidad de suelos. Análisis en un contexto de sostenibilidad en el intersalar boliviano</a>.</li>
-              <li>Van Deuren Christine Milunka. 2010. <a href="http://ambiental.uaslp.mx/pmpca/tesis/Mae/Gen%202008-08/2010_pmpca_vandeurenchristine.pdf">Ecoturismo regional en el cañón del Espinazo del Diablo, S.L.P., México</a>.</li>
-              <li>Giraldo Arias Andrea. 2013. <a href="http://ambiental.uaslp.mx/pmpca/tesis/Mae/Gen%202011-08/2013_pmpca_giraldoarias.pdf"> Problemática y propuestas para el manejo sostenible del Río Tamasopo, San Luis Potosí, México</a>.</li>
-              <li>Muñoz Blanco Marco Arturo. 2014. <a href="http://ambiental.uaslp.mx/pmpca/tesis/Mae/Gen%202012-08/2014_pmpca_munozblanco.pdf">Análisis de la erosión mediante modelado e indicadores visuales en la microcuenca batatal, Río Guapi-Macacu, Rio de Janeiro, Brasil</a>.</li>
-              <li>Villalobos Moreira Guillermo. 2015. <a href="../tesis/Mae/Gen%202013-08/2015_pmpca_villalobosmoreira.pdf"> Transformaciones en los medios de vida y en la organización social de comunidades productoras de quinua real orgánica en el Altiplano Sur de Bolivia</a></li>
-              <li>Barrales Carvajal Eyleen Alejandra. 2016. <a href="https://ninive.uaslp.mx/xmlui/handle/i/4129">Estrategias para la seguridad alimentaria en zonas rurales secas: el caso de San Antonio de Coronados, Catorce, San Luis Potosí, México</a>.</li>
-          </ul>
-
-          <p></p>
-          <p> Maestría en Ciencias Ambientales </p>
-          <p></p>
+            <li>Ecología de la producción de cosechas</li>
+            <li>Ecología</li>
+          </ul><br>
+        <li><strong>LGAC</strong></li>
           <ul class="vineta">
-            <li>Carbajal Esquivel Haydeé. 2008. <a href="http://ambiental.uaslp.mx/pmpca/tesis/Mae/Gen%202005-08/2008_pmpca_carbajalesquivel.pdf">Importancia de las plantas dentro de la cultura alimentaria de la comunidad <em>XI'OI</em> Las Guapas, Rayón, San Luis Potosí</a>.</li>
-            <li>Torres Reyna Juan Carlos. 2010. <a href="http://ambiental.uaslp.mx/pmpca/tesis/Mae/Gen%202007-08/2009_pmpca_torresreyna.pdf">Arquitectura y etnobotánica de la vivienda rural <em>Xi'iuy</em> en la Palma, San Luis Potosí</a>.</li>
-            <li>Errejón Gómez Julio César. 2011. <a href="http://ambiental.uaslp.mx/pmpca/tesis/Mae/Gen%202009-08/2011_pmpca_errejongomez.pdf">Problemática para la protección de un área natural: el cañón del Espinazo del Diablo, San Luis Potosí, México</a>.</li>
-            <li>Pineda Manzano Ulises. 2013. <a href="http://ambiental.uaslp.mx/pmpca/tesis/Mae/Gen%202011-08/2013_pmpca_pinedamanzano.pdf"> Participación comunitaria en la protección de los recursos forestales del ejido San Nicolás de los Montes, Tamasopo, San Luis Potosí</a>.</li>
-            <li>Castillo Gómez Hugo Alberto. 2015. <a href="http://ambiental.uaslp.mx/pmpca/tesis/Mae/Gen%202012-08/2015_pmpca_castillogomez.pdf">Flora vascular, vegetación y plantas útiles del cañón del Espinazo del Diablo, San Luis Potosí, México</a>.</li>
-            <li>Spíritu Ruíz Paola Monserrat. 2015. <a href="http://ambiental.uaslp.mx/pmpca/tesis/Mae/Gen%202012-08/2015_pmpca_spirituruiz.pdf">Estrategias comunitarias para la conservación del bosque: el caso de ejido San José del Corito y Durazno, Alaquines, San Luis Potosí, México</a>.</li>
-            <li>Ramírez Palomeque Tania Lucely. 2017. <a href="http://ninive.uaslp.mx/jspui/bitstream/i/4519/1/MCA1RPT201701.pdfhttps://ninive.uaslp.mx/xmlui/bitstream/handle/i/4519/MCA1RPT201701.pdf?sequence=1&isAllowed=y"> Aprovechamiento comercial sustentable de orquídeas en contextos privados y comunitarios: dos estudios de caso en Xilitla, San Luis Potosí</a>.</li>
-            <li>Zamora García Elizabeth Giomara. 2018. <a href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/4708/MCA1ZGE201801.pdf?sequence=1&isAllowed=y">Turismo de naturaleza para el desarrollo comunitario y la conservación de los recursos naturales en San Nicolás de los Montes, Tamasopo, San Luis Potosí</a>.</li>
-          </ul>
-
-          <p></p>
-          <p> Maestría en Ciencias Ambientales </p>
-          <p></p>
+            <li>Etnobiología </li>
+            <li>Sistemas de producción de cosechas vegetales</li>
+          </ul><br>
+        <li><strong>Dirección de Tesis</strong></li><br>
+          <p><em>Maestría en Ciencias Ambientales (Doble Titulación), Co-Dirección</em></p>
           <ul class="vineta">
-            <li>Ramos Pérez Pedro Pablo. 2016. <a href="http://ambiental.uaslp.mx/pmpca/tesis/Doc/Gen2012-02/2016_pmpca_ramosperez.pdf">Alternativas para el desarrollo rural sostenible en tres zonas cafetaleras indígenas de México</a>. (Co-Dirección)</li>
+              <li>Chávez Acuña Isaac Jacob. 2010. <a href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/3614/MCA1ZAM01001.pdf?sequence=3&isAllowed=y">Análisis estructural de dos poblaciones de <em>Dioon edule</em> Lindl. (Zamieaceae) en comunidades indígenas y mestizas de la región <em>Xi'iuy</em> de La Palma, S.L.P.: implicaciones ecológicas y culturales</a></li>
+              <li>Medrano Echalar Ana María. 2010. <a href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/3610/MCA1CQW01001.pdf?sequence=3&isAllowed=y"> Expansión del cultivo de Quinua <em>(Chenopodium quinoa</em> Willd.) y calidad de suelos. Análisis en un contexto de sostenibilidad en el intersalar boliviano</a></li>
+              <li>Van Deuren Christine Milunka. 2010. <a href="https://ninive.uaslp.mx/xmlui/handle/i/3613">Ecoturismo regional en el cañón del Espinazo del Diablo, S.L.P., México</a>.</li>
+              <li>Giraldo Arias Andrea. 2013. <a href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/3700/MCA1PPM01301.pdf?sequence=1&isAllowed=y"> Problemática y propuestas para el manejo sostenible del Río Tamasopo, San Luis Potosí, México</a></li>
+              <li>Muñoz Blanco Marco Arturo. 2014. <a href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/3845/MCA1AEM01401.pdf?sequence=3&isAllowed=y">Análisis de la erosión mediante modelado e indicadores visuales en la microcuenca batatal, Río Guapi-Macacu, Rio de Janeiro, Brasil</a></li>
+              <li>Villalobos Moreira Guillermo. 2015. <a href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/3970/MCA1TMV01501.pdf?sequence=1&isAllowed=y"> Transformaciones en los medios de vida y en la organización social de comunidades productoras de quinua real orgánica en el Altiplano Sur de Bolivia</a></li>
+              <li>Barrales Carvajal Eyleen Alejandra. 2016. <a href="https://ninive.uaslp.mx/xmlui/handle/i/4129">Estrategias para la seguridad alimentaria en zonas rurales secas: el caso de San Antonio de Coronados, Catorce, San Luis Potosí, México</a></li>
+              <li>Wild Clara Mila. 2020. Quantification of the ecosystem function pest control: assessing predation rates of artificial caterpillars by birds in secondary forest fragments within a peri-urban area in southeastern Brazil</li>
+              <li>González Villacís Denisse Lucía. 2021. Analysis of potential reduction of atmospheric emissions from harvesting process in sugarcane fields in Tamasopo-Mexico and Campos dos Goytacazes - Brazil </li>
+              <li>Pacheco Mafla Leonel. 2022. Sustainability strategies for the Bellavista Community (Ecuador): Potential of bio aquiatic production</li>
+              <li>Jáquez González Laura Elizabeth. 2022. Bioplastic use feasibility in greenhouse farming in the Mexican Potosino Plateau</li>
           </ul>
-
-        </ul>
+          <br>
+          <p><em>Maestría en Ciencias Ambientales</em></p>
+          <ul class="vineta">
+            <li>Carbajal Esquivel Haydeé. 2008. <a href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/2056/MCA1IPC00801.pdf?sequence=3&isAllowed=y">Importancia de las plantas en la cultura alimentaria de la comunidad <em>XI'OI</em> Las Guapas, Rayón, San Luis Potosí</a></li>
+            <li>Torres Reyna Juan Carlos. 2010. <a href="https://ninive.uaslp.mx/xmlui/handle/i/3563">Arquitectura y etnobotánica de la vivienda rural <em>Xi'iuy</em> en la Palma, San Luis Potosí</a></li>
+            <li>Errejón Gómez Julio César. 2011. Problemática para la protección de un área natural: el cañón del Espinazo del Diablo, San Luis Potosí, México</li>
+            <li>Pineda Manzano Ulises. 2013. <a href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/3835/MCA1PCR01301.pdf?sequence=3&isAllowed=y"> Participación comunitaria en la protección de los recursos forestales del ejido San Nicolás de los Montes, Tamasopo, San Luis Potosí</a></li>
+            <li>Castillo Gómez Hugo Alberto. 2015. <a href="https://ninive.uaslp.mx/xmlui/handle/i/3853">Flora vascular, vegetación y plantas útiles del cañón del Espinazo del Diablo, San Luis Potosí, México</a></li>
+            <li>Spíritu Ruíz Paola Monserrat. 2015. <a href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/3883/MCA1ECO01501.pdf?sequence=3&isAllowed=y">Estrategias comunitarias para la conservación del bosque: el caso de ejido San José del Corito y Durazno, Alaquines, San Luis Potosí, México</a></li>
+            <li>Ramírez Palomeque Tania Lucely. 2017. <a href="http://ninive.uaslp.mx/jspui/bitstream/i/4519/1/MCA1RPT201701.pdfhttps://ninive.uaslp.mx/xmlui/bitstream/handle/i/4519/MCA1RPT201701.pdf?sequence=1&isAllowed=y"> Aprovechamiento comercial sustentable de orquídeas en contextos privados y comunitarios: dos estudios de caso en Xilitla, San Luis Potosí</a></li>
+            <li>Zamora García Elizabeth Giomara. 2018. <a href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/4708/MCA1ZGE201801.pdf?sequence=1&isAllowed=y">Turismo de naturaleza para el desarrollo comunitario y la conservación de los recursos naturales en San Nicolás de los Montes, Tamasopo, San Luis Potosí</a></li>
+          </ul>
+          <br>
+          <p><em>Doctorado en Ciencias Ambientales</em></p>
+          <ul class="vineta">
+            <li>Ramos Pérez Pedro Pablo. 2016. <a href="https://ninive.uaslp.mx/xmlui/handle/i/4123">Alternativas para el desarrollo rural sostenible en tres zonas cafetaleras indígenas de México</a>. (Co-Dirección)</li>
+          </ul>
+        </ol>
       </div>
     </div>
   </div>
@@ -113,7 +104,7 @@ Dr. Javier Fortanelli Martínez
       data-bs-parent="#accordionExample">
       <div class="accordion-body">
 
-        <p> Artículos cientifícos </p>
+        <strong>Artículos cientifícos</strong>
         <p></p>
         <ul class="vineta">
           <li><b>Fortanelli-Martínez, J.</b>, G.A. Salazar; P. Castillo-Lara; J. García-Pérez; C. Alfaro-Medina, H.A. Castillo-Gómez, T.L. Ramírez-Palomeque; J.I. Morales de la Torre; J.A. De-Nova. 2022. Orchidaceae de San Luis Potosí, México: riqueza y distribución. Botanical Sciences. 100 (1): 223-246. DOI: <a href="https://www.botanicalsciences.com.mx/index.php/botanicalSciences/article/view/2875">10.17129/botsci.2875</a>.</li><br>

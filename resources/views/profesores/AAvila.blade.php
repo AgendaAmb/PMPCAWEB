@@ -89,7 +89,7 @@
                   <li>Velázquez Angulo Gilberto. 2008. Diseño de una red de monitoreo atmosférico para la ciudad de San Luis Potosí: ubicación de nodos</li>
                   <li>Ortega Montoya Claudia Yazmin. 2015. <a target="_blank" href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/3858/DCA1PMT01501.pdf?sequence=3&isAllowed=y">Propuesta metodológica para la evaluación del riesgo ambiental debido al manejo de materiales peligrosos en el estado de San Luis Potosí</a></li>
                   <li>Hernández Cerda Claudia Nalleli. 2022. Elementos para la evaluación de la movilidad urbana en áreas conurbadas: diagnóstico y propuesta de movilidad integral. El caso de la zona metropolitana de San Luis Potosí</li>
-                </p>
+                </ul>
               </ol>
             </div>
           </div>

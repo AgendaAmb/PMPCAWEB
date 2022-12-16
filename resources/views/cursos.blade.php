@@ -81,10 +81,10 @@
                     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body" id="enlacesCursos">
-                            <a href="{{route('cursos.Basicos.DesarrolloSustentable')}}" target="_blank">76900001 Desarrollo sustentable</a><br>
-                            <a target="_blank">76900053 Ecología</a><br> <!--{{route('cursos.Basicos.Ecologia')}}-->
-                            <a href="{{route('cursos.Basicos.IntroduccionEstadistica')}}" target="_blank">76900057 Introducción a la estadística</a><br>
-                            <a target="_blank">76900058 Problemática y gestión ambiental</a><br>
+                            <a href="{{route('cursos.Basicos.DesarrolloSustentable')}}" target="_blank">769001 Desarrollo sustentable</a><br>
+                            <a target="_blank">769053 Ecología</a><br> <!--{{route('cursos.Basicos.Ecologia')}}-->
+                            <a href="{{route('cursos.Basicos.IntroduccionEstadistica')}}" target="_blank">769057 Introducción a la estadística</a><br>
+                            <a target="_blank">769058 Problemática y gestión ambiental</a><br>
                         </div>
                     </div>
                 </div>
@@ -99,11 +99,11 @@
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body" >
                             <strong>Evaluación ambiental</strong><br><br>
-                            769006 Gestión ambiental de operaciones minerometalúrgicas<br>
-                            769012 Evaluación de impacto y riesgo ambiental<br><br><br>
+                            769006 Gestión ambiental de operaciones minerometalúrgicas<br><br><br>
                             <strong>Gestión ambiental</strong><br><br>
-                            769031 Naturaleza y sociedad una introducción a las posiciones teóricas recientes<br>
-                            76900022 Participación social<br><br><br>
+                            769031 Naturaleza y sociedad. Una introducción a las posiciones teóricas recientes<br>
+                            Teoría de la historia ambiental<br>
+                            769022 Participación social<br><br><br>
                             <strong>Prevención y control</strong><br><br>
                             769033 Fisicoquímica de las aguas naturales<br>
                             769059 Remediación de sitios contaminados<br><br><br>
@@ -111,7 +111,7 @@
                             769014 Ecología de la producción de cosechas<br>
                             769019 Evaluación y manejo de los recursos naturales renovables<br>
                             769017 Fisiología animal ambiental<br>
-                            76900016 Manejo de recursos renovables en zonas secas<br>
+                            769016 Manejo de recursos renovables en zonas secas<br>
                         </div>
                     </div>
                 </div>
@@ -126,15 +126,17 @@
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             <strong>Evaluación ambiental</strong><br><br>
+                            Evaluación de impacto y riesgo ambiental<br>
                             769046 Hidrogeología ambiental<br>
                             769046 Hidrogeoquímica<br>
                             769046 Ingeniería ambiental<br>
-                            7690046 Gestión de residuos y economía circular<br><br><br>
+                            769046 Gestión de residuos y economía circular<br><br><br>
                             <strong>Gestión ambiental</strong><br><br>
                             769045 Diseño y evaluación de proyectos de investigación<br>
-                            76900045 Climatología aplicada<br>
-                            76900045 ECO-DRR: reducción del riesgo de desastres y ecosistemas<br>
-                            76900045 Evaluación ambiental y análisis espacial apoyados en PR y SIG<br><br><br>
+                            769045 Climatología aplicada<br>
+                            769045 Ecosistemas y reducción del riesgo de desastre<br>
+                            Estrategias para la aprobación social del conocimiento
+                            769045 Evaluación ambiental y análisis espacial apoyados en PR y SIG<br><br><br>
                             <strong>Prevención y Control</strong><br><br>
                             769045 Biología molecular aplicada a las ciencias ambientales<br>
                             769046 Sistemas de adsorción: equilibrio y cinética<br>
@@ -149,13 +151,14 @@
                             769046 Métodos estadísticos para investigadores<br>
                             769045 Modelos animales para la investigación de compuestos naturales<br>
                             769045 Tipos de energía<br>
-                            76900046 Farmacognosia, química y farmacología de plantas medicinales<br><br><br>
+                            769046 Farmacognosia, química y farmacología de plantas medicinales<br><br><br>
                             <strong>Salud ambiental integrada</strong><br><br>
                             769046 Ecotoxicología<br>
                             769046 Biodiversidad, nutrición y seguridad alimentaria<br>
                             769046 Fundamentos teórico-metodológicos para evaluar la salud de los ecosistemas<br>
                             769046 Evaluación de riesgos en salud humana<br>
-                            76900045 Evaluación de los efectos de la variabilidad y el cambio climático sobre los sistemas de producción de alimentos<br>
+                            769045 Comunicación de riesgos y salud ambiental<br>
+                            769045 Evaluación de los efectos de la variabilidad y el cambio climático sobre los sistemas de producción de alimentos<br>
                         </div>
                     </div>
                 </div>
