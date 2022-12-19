@@ -19,7 +19,7 @@
         <h5><strong>SNI nivel I.</strong></h5>
         <br>
         <p>
-            Av. Industrias #101-A Fracc. Talleres <br>
+            Av. Industrias No. 101-A Fracc. Talleres <br>
             C.P. 78399, San Luis Potosí, S. L. P., México <br> <br>
             Teléfono: +52 (444) 832-1000<br>
             coser@uaslp.mx <br>
@@ -28,7 +28,7 @@
         <div class="enlacesprof">
             <a target="_blank" href="http://langif.uaslp.mx/">Webpage 1</a>
             <a target="_blank" href="http://lages.uaslp.mx/">Webpage 2</a>
-            <a target="_blank" href="{{asset('storage/CV/Contreras_Servin_Carlos.pdf')}}">Currículum Vitae </a>
+            <a target="_blank" href="{{asset('storage/CV/Contreras_Servin_Carlos.pdf')}}"><i>Curriculum vitae</i></a>
             <a target="_blank" href="https://investigadores.uaslp.mx/InvestigadorProfile/4DoAAA%3d%3d">Directorio de Investigadores</a>
             <a target="_blank" href="http://orcid.org/0000-0003-2221-1565"><img src="{{asset('storage/images/orcid.png')}}" alt=""></a>
             <a target="_blank" href="https://www.scopus.com/authid/detail.uri?authorId=23485024400"> <img src="{{asset('storage/images/scopus.png')}}" alt=""></a>
@@ -80,7 +80,7 @@
                 <br>
                 <p><em>Doctorado en Ciencias Ambientales</em></p>
                 <ul class="vineta">
-                  <li>Algara Siller Marcos. 2009. Propuesta metodológica para medir el impacto del fenómeno de la sequía en la Huasteca Potosina y propuesta general de manejo.</li>
+                  <li>Algara Siller Marcos. 2009. <a target="_blank" href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/3625/MarcosAlgaraSiller_TesisDoctoral_CienciasAmbientales_090907.pdf?sequence=1&isAllowed=y"> Propuesta metodológica para medir el impacto del fenómeno de la sequía en la Huasteca Potosina y propuesta general de manejo</a></li>
                   <li>Peralta Rivero Carmelo. 2016. <a target="_blank" href="https://repositorioinstitucional.uaslp.mx/xmlui/handle/i/4116">Evaluación de los cambios de cobertura y uso de suelo en la región huasteca de México: “Un análisis del pasado, el presente y tendencias futuras de deforestación. </a> (Co-Dirección)</li>
                   <li>Medina Garza Hugo. 2017. <a target="_blank" href="https://ninive.uaslp.mx/xmlui/handle/i/4518">Sistema de vigilancia epidemiológica sanitaria para la Huasteca Potosina. Una plataforma para la vigilancia de la enfermedad de Chagas</a></li>
                 </ul>

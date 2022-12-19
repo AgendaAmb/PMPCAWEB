@@ -1,7 +1,7 @@
 @extends('profesores.templates.profesor')
 
 @section('name')
-Dr. Javier Fortanelli Martínez
+DR. JAVIER FORTANELLI MARTÍNEZ
 @endsection
 
 @section('image')

@@ -27,7 +27,7 @@
 
           <div class="enlacesprof">
               <a target="_blank" href="http://ciep.ing.uaslp.mx/agua/profesor.php?id=3130363637">Webpage</a>
-              <a target="_blank" href="{{asset('storage/CV/Avila_Galarza_Alfredo.pdf')}}">Currículum Vitae </a>
+              <a target="_blank" href="{{asset('storage/CV/Avila_Galarza_Alfredo.pdf')}}"><i>Curriculum vitae</i></a>
               <a target="_blank" href="https://investigadores.uaslp.mx/InvestigadorProfile/qykAAA%3d%3d">Directorio de Investigadores</a>
               <a target="_blank" href="https://orcid.org/0000-0003-0903-0428"><img src="{{asset('storage/images/orcid.png')}}" alt=""></a>
               <a target="_blank" href="https://www.scopus.com/authid/detail.uri?authorId=56586111500"> <img src="{{asset('storage/images/scopus.png')}}" alt=""></a>

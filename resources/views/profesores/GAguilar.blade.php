@@ -18,7 +18,7 @@ Dra. Gisela Aguilar Benítez
       Altair num. 200, Col. del Llano C.P. 78377 <br>
       San Luis Potosí, SLP. México <br>
       Tel.: 52(444) 842 11 46 Fax.: 52(444) 842 23 59 ext. 106 <br>
-      <a href="mailto:erika.garcia@uaslp.mx"> gisela.aguilar@uaslp.mx </a> 
+      <a href="mailto:gisela.aguilar@uaslp.mx"> gisela.aguilar@uaslp.mx </a>
   </p>
 
   <div class="enlacesprof">
@@ -43,7 +43,7 @@ Dra. Gisela Aguilar Benítez
       data-bs-parent="#accordionExample">
       <div class="accordion-body">
 
-        <p> Cursos </p>
+        <p><strong>Cursos</strong></p>
         <p></p>
         <ul class="vineta">
           <li> Manejo de recursos naturales renovables en zonas secas</li>

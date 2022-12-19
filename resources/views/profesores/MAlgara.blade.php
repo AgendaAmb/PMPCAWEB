@@ -27,7 +27,7 @@
 
         <div class="enlacesprof">
             <a target="_blank" href="http://ciep.ing.uaslp.mx/agua/profesor.php?id=3132343537">Webpage</a>
-            <a target="_blank" href="{{asset('storage/CV/Algara_Siller_Marcos.pdf')}}">Currículum Vitae </a>
+            <a target="_blank" href="{{asset('storage/CV/Algara_Siller_Marcos.pdf')}}"><i>Curriculum vitae</i></a>
             <a target="_blank" href="https://investigadores.uaslp.mx/InvestigadorProfile/qTAAAA%3d%3d">Directorio de Investigadores</a>
             <a target="_blank" href="https://orcid.org/0000-0002-9070-9624"><img src="{{asset('storage/images/orcid.png')}}" alt=""></a>
             <a target="_blank" href="https://www.scopus.com/authid/detail.uri?authorId=57189049601"> <img src="{{asset('storage/images/scopus.png')}}" alt=""></a>

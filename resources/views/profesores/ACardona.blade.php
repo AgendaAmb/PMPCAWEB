@@ -27,7 +27,7 @@
 
         <div class="enlacesprof">
             <a target="_blank" href="http://ciep.ing.uaslp.mx/geologia/profesor.php?id=3133333235">Webpage</a>
-            <a target="_blank" href="{{asset('storage/CV/Cardona_Benavides_Antonio.pdf')}}">Currículum Vitae </a>
+            <a target="_blank" href="{{asset('storage/CV/Cardona_Benavides_Antonio.pdf')}}"><i>Curriculum vitae</i></a>
             <a target="_blank" href="https://investigadores.uaslp.mx/InvestigadorProfile/DTQAAA%3d%3d">Directorio de Investigadores</a>
             <a target="_blank" href="http://orcid.org/0000-0001-8121-4657"><img src="{{asset('storage/images/orcid.png')}}" alt=""></a>
             <a target="_blank" href="https://www.scopus.com/authid/detail.uri?authorId=7005334227"> <img src="{{asset('storage/images/scopus.png')}}" alt=""></a>

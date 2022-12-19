@@ -20,7 +20,7 @@
                     <h2 class="accordion-header" id="headingTwo">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                            <strong>Evaluación Ambiental &nbsp</strong> <i class="fa-solid fa-arrow-down-long"></i>
+                            <strong>Evaluación Ambiental &nbsp</strong>
                         </button>
                     </h2>
                     <div id="collapseTwo" class="accordion-collapse collapse active show" aria-labelledby="headingTwo"
@@ -151,7 +151,7 @@
                     <h2 class="accordion-header" id="headingFive">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                            <strong>Gestión Ambiental &nbsp</strong> <i class="fa-solid fa-arrow-down-long"></i>
+                            <strong>Gestión Ambiental &nbsp</strong>
                         </button>
                     </h2>
                     <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive"
@@ -401,7 +401,7 @@
                     <h2 class="accordion-header" id="headingThree">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                            <strong>Prevención y Control &nbsp</strong> <i class="fa-solid fa-arrow-down-long"></i>
+                            <strong>Prevención y Control &nbsp</strong>
                         </button>
                     </h2>
                     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
@@ -537,8 +537,7 @@
                     <h2 class="accordion-header" id="headingFour">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                            <strong>Recursos Naturales Renovables &nbsp</strong> <i
-                                class="fa-solid fa-arrow-down-long"></i>
+                            <strong>Recursos Naturales Renovables &nbsp</strong>
                         </button>
                     </h2>
                     <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
@@ -827,7 +826,7 @@
                     <h2 class="accordion-header" id="headingSix">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-                            <strong>Salud Ambiental Integrada &nbsp</strong> <i class="fa-solid fa-arrow-down-long"></i>
+                            <strong>Salud Ambiental Integrada &nbsp</strong>
                         </button>
                     </h2>
                     <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix"
@@ -1189,6 +1188,7 @@
         <br>
 
         <div class="col-12 col-sm-12 my-4">
+            <p><br></p>
             <p><strong>Maestría en Ciencias Ambientales</strong></p>
         </div>
 
@@ -1198,7 +1198,7 @@
                     <h2 class="accordion-header" id="headingSeven">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
-                            <strong>Evaluación Ambiental &nbsp</strong> <i class="fa-solid fa-arrow-down-long"></i>
+                            <strong>Evaluación Ambiental &nbsp</strong>
                         </button>
                     </h2>
                     <div id="collapseSeven" class="accordion-collapse collapse" aria-labelledby="headingSeven"
@@ -1751,7 +1751,7 @@
                     <h2 class="accordion-header" id="headingEight">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
-                            <strong>Gestión Ambiental &nbsp</strong> <i class="fa-solid fa-arrow-down-long"></i>
+                            <strong>Gestión Ambiental &nbsp</strong>
                         </button>
                     </h2>
                     <div id="collapseEight" class="accordion-collapse collapse" aria-labelledby="headingEight"
@@ -3116,7 +3116,7 @@
                     <h2 class="accordion-header" id="headingNine">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
-                            <strong>Prevención y Control &nbsp</strong> <i class="fa-solid fa-arrow-down-long"></i>
+                            <strong>Prevención y Control &nbsp</strong>
                         </button>
                     </h2>
                     <div id="collapseNine" class="accordion-collapse collapse" aria-labelledby="headingNine"
@@ -3580,7 +3580,7 @@
                     <h2 class="accordion-header" id="headingEleven">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseEleven" aria-expanded="false" aria-controls="collapseEleven">
-                            <strong>Salud Ambiental Integrada &nbsp</strong> <i class="fa-solid fa-arrow-down-long"></i>
+                            <strong>Salud Ambiental Integrada &nbsp</strong>
                         </button>
                     </h2>
                     <div id="collapseEleven" class="accordion-collapse collapse" aria-labelledby="headingEleven"

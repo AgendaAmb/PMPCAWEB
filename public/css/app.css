@@ -416,19 +416,19 @@ body {
 }
 
 table.width200, table.rwd_auto {
-  border: 1px solid black;
+  border: 1px solid #E7ECF1;
   width: 100%;
   margin: 0 0 50px 0;
 }
 
 .width200 th, .rwd_auto th {
-  background: transparent;
+  background: #E7ECF1;
   padding: 5px;
   text-align: center;
 }
 
 .width200 td, .rwd_auto td {
-  border-bottom: 1px solid black;
+  border-bottom: 1px solid #E7ECF1;
   padding: 5px;
   text-align: center;
 }
@@ -461,11 +461,11 @@ table.width200, table.rwd_auto {
     left: -9999px;
   }
   .width200 tr {
-    border: 1px solid black;
+    border: 1px solid #E7ECF1;
   }
   .width200 td {
     border: none;
-    border-bottom: 1px solid black;
+    border-bottom: 1px solid #E7ECF1;
     position: relative;
     padding-left: 50%;
     text-align: left;
@@ -506,19 +506,19 @@ table.width200, table.rwd_auto {
   }
 }
 table.width201, table.rwd_auto {
-  border: 1px solid black;
+  border: 1px solid #E7ECF1;
   width: 100%;
   margin: 0 0 50px 0;
 }
 
 .width201 th, .rwd_auto th {
-  background: transparent;
+  background: #E7ECF1;
   padding: 5px;
   text-align: center;
 }
 
 .width201 td, .rwd_auto td {
-  border-bottom: 1px solid black;
+  border-bottom: 1px solid #E7ECF1;
   padding: 5px;
   text-align: center;
 }
@@ -551,11 +551,11 @@ table.width201, table.rwd_auto {
     left: -9999px;
   }
   .width201 tr {
-    border: 1px solid black;
+    border: 1px solid #E7ECF1;
   }
   .width201 td {
     border: none;
-    border-bottom: 1px solid black;
+    border-bottom: 1px solid #E7ECF1;
     position: relative;
     padding-left: 50%;
     text-align: left;
@@ -596,19 +596,19 @@ table.width201, table.rwd_auto {
   }
 }
 table.width202, table.rwd_auto {
-  border: 1px solid black;
+  border: 1px solid #E7ECF1;
   width: 100%;
   margin: 0 0 50px 0;
 }
 
 .width202 th, .rwd_auto th {
-  background: transparent;
+  background: #E7ECF1;
   padding: 5px;
   text-align: center;
 }
 
 .width202 td, .rwd_auto td {
-  border-bottom: 1px solid black;
+  border-bottom: 1px solid #E7ECF1;
   padding: 5px;
   text-align: center;
 }
@@ -641,11 +641,11 @@ table.width202, table.rwd_auto {
     left: -9999px;
   }
   .width202 tr {
-    border: 1px solid black;
+    border: 1px solid #E7ECF1;
   }
   .width202 td {
     border: none;
-    border-bottom: 1px solid black;
+    border-bottom: 1px solid #E7ECF1;
     position: relative;
     padding-left: 50%;
     text-align: left;
