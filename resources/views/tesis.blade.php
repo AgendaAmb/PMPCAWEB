@@ -1761,9 +1761,10 @@
                                 <table class="width201" id="colorTexto">
                                     <thead>
                                         <tr>
-                                            <th scope="col">Año</th>
-                                            <th scope="col">Semestre</th>
-                                            <th scope="col">Descargar</th>
+                                            <th scope="col" id="tablaTitulos">Año</th>
+                                            <th scope="col" id="tablaTitulos">Nombre del alumno</th>
+                                            <th scope="col" id="tablaTitulos">Título de tesis</th>
+                                            <th scope="col" id="tablaTitulos">Director de tesis</th>
                                         </tr>
                                     </thead>
                                     <tbody>
