@@ -38,6 +38,18 @@
                                     </thead>
                                     <tbody>
                                         <tr>
+                                            <td>2022</td>
+                                            <td>Hernández Cerda Claudia Nalleli</td>
+                                            <td><a target="_blank" href="https://repositorioinstitucional.uaslp.mx/xmlui/handle/i/7982">Elementos para la evaluación de la movilidad urbana en áreas conurbadas: Diagnóstico y propuesta de movilidad integral. El caso de la zona metropolitana de San Luis Potosí</a></td>
+                                            <td>Dr. Alfredo Ávila Galarza</td>
+                                        </tr>
+                                        <tr>                                            
+                                            <td>2021</td>
+                                            <td>Vargas Berrones Karla Ximena</td>
+                                            <td><a target="_blank" href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/7596/TesisD.PMPCA.2021.Reduccion.Vargas.pdf?sequence=1&isAllowed=y">Reducción de compuestos tóxicos presentes en detergentes, utilizando nuevas materias primas ecológicas</a></td>
+                                            <td>Dr. Luis Armando Bernal Jácome</td>
+                                        </tr>                                        
+                                        <tr>
                                             <td>2020</td>
                                             <td>Buendía Oliva Mariana</td>
                                             <td><a target="_blank" href="https://ninive.uaslp.mx/xmlui/handle/i/5681">Diseño
@@ -92,7 +104,7 @@
                                             <td>2016</td>
                                             <td>Pérez Rodríguez Rebeca Yasmín</td>
                                             <td><a target="_blank"
-                                                    href="http://ambiental.uaslp.mx/pmpca/tesis/Doc/Gen2010-02/2016_pmpca_perezrodriguez.pdf">Identificación
+                                                    href="#">Identificación
                                                     de fuentes y rutas de exposición en sitios contaminados por plomo,
                                                     usando métodos
                                                     isotópicos</a></td>
@@ -112,7 +124,7 @@
                                             <td>2015</td>
                                             <td>Ortega Montoya Claudia Yazmín</td>
                                             <td><a target="_blank"
-                                                    href="http://ambiental.uaslp.mx/pmpca/Anterior/tesis/Doc/Gen2011-02/2015_pmpca_ortegamontoya.pdf">Propuesta
+                                                    href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/3858/DCA1PMT01501.pdf?sequence=3&isAllowed=y">Propuesta
                                                     metodológica para la evaluación del riesgo ambiental debido al manejo de
                                                     materiales
                                                     peligrosos en el Estado de San Luis Potosí</a></td>
@@ -122,7 +134,7 @@
                                             <td>2009</td>
                                             <td>Hergt Thomas</td>
                                             <td><a target="_blank"
-                                                    href="http://ambiental.uaslp.mx/pmpca/tesis/Doc/Gen2005-08/2009_pmpca_hergtthomas.pdf">Diseño
+                                                    href="https://repositorioinstitucional.uaslp.mx/xmlui/handle/i/3554">Diseño
                                                     optimizado de redes de monitoreo de la calidad del agua de los sistemas
                                                     de flujo
                                                     subterráneo en el acuífero 2411 "San Luis Potosí": hacia un manejo
@@ -134,7 +146,7 @@
                                             <td>2008</td>
                                             <td>Velázquez Angulo Gilberto</td>
                                             <td><a target="_blank"
-                                                    href="http://ambiental.uaslp.mx/pmpca/tesis/Doc/Gen2004-08/2008_pmpca_velazquezangulo.pdf">Diseño
+                                                    href="#">Diseño
                                                     de una red de monitoreo atmosférico para la ciudad de San Luis Potosí:
                                                     Ubicación de
                                                     nodos</a></td>
@@ -168,6 +180,18 @@
                                         </tr>
                                     </thead>
                                     <tbody>
+                                        <tr>
+                                            <td>2022</td>
+                                            <td>Morales Jasso Gerardo</td>
+                                            <td><a target="_blank" href="https://repositorioinstitucional.uaslp.mx/xmlui/handle/i/7983">Construir el conocimiento interdisciplinario en el Programa Multidisciplinario de Posgrado en Ciencias Ambientales. Historia, teoría y praxis.</a></td>
+                                            <td>Dr. Leonardo Ernesto Márquez Mireles</td>
+                                        </tr>                                         
+                                        <tr>
+                                            <td>2021</td>
+                                            <td>Rontard Benjamín Nicolás Franck</td>
+                                            <td><a target="_blank" href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/7610/TesisD.PMPCA.2021.Progress.Rontard.pdf?sequence=1&isAllowed=y">Progress and limits of carbon market in Mexico: analysis of the national emissions trading system</a></td>
+                                            <td>Dr. Humberto Reyes Hernández</td>
+                                        </tr>                                        
                                         <tr>
                                             <td>2020</td>
                                             <td>Trinidad García Karina Lizbeth</td>
@@ -265,7 +289,7 @@
                                             <td>2015</td>
                                             <td>Blanco López Paloma</td>
                                             <td><a target="_blank"
-                                                    href="http://ambiental.uaslp.mx/pmpca/tesis/Doc/Gen2010-02/2015_pmpca_blancolopez.pdf">Planificación
+                                                    href="#">Planificación
                                                     del turismo sustentable en la zona Altiplano de San Luis Potosí.
                                                     Una propuesta
                                                     metodológica</a></td>
@@ -305,7 +329,7 @@
                                             <td>2015</td>
                                             <td>Robayo Avendaño Angélica</td>
                                             <td><a target="_blank"
-                                                    href="http://ambiental.uaslp.mx/pmpca/tesis/Doc/Gen2011-08/2015_pmpca_robayoavendano.pdf">Bioseguridad
+                                                    href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/3943/DCA1CAM01501.pdf?sequence=3&isAllowed=y">Bioseguridad
                                                     en el campo agrícola mexicano. Análisis de estudios de caso</a>
                                             </td>
                                             <td>Dra. María Guadalupe Galindo Mendoza</td>
@@ -419,9 +443,15 @@
                                     </thead>
                                     <tbody>
                                         <tr>
+                                            <td>2021</td>
+                                            <td>Flores Rojas Alfredo Israel</td>
+                                            <td><a target="_blank" href="#">Biomateriales de liberación controlada: alternativa para el control de la contaminación de suelos por sobre exposición a compuestos químicos</a></td>
+                                            <td>Dra. Paola Elizabeth Díaz Flores</td>
+                                        </tr>                                        
+                                        <tr>
                                             <td>2020</td>
                                             <td>Wong Argüelles Cynthia</td>
-                                            <td><a target="_blank" href="tesis/doc/2020/DCA1WAC202002.pdf">Análisis de la
+                                            <td><a target="_blank" href="#">Análisis de la
                                                     calidad
                                                     de
                                                     agua y de la distribución elemental en <i>Typha domingensis</i>
@@ -478,7 +508,7 @@
                                             <td>2015</td>
                                             <td>Rodríguez Hernández Mayra Cecilia</td>
                                             <td><a target="_blank"
-                                                    href="http://ambiental.uaslp.mx/pmpca/tesis/Doc/Gen2009-08/2015_pmpca_rodriguezhernandez.pdf">Efecto
+                                                    href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/3945/DCA1EMT01501.pdf?sequence=3&isAllowed=y">Efecto
                                                     de los mecanismos de transporte de Calcio, Hierro y Zinc en la
                                                     captación de Cadmio y
                                                     Plomo en plantas fitorremediadoras</a></td>
@@ -488,7 +518,7 @@
                                             <td>2012</td>
                                             <td>Chávez Toledo Carlos</td>
                                             <td><a target="_blank"
-                                                    href="http://ambiental.uaslp.mx/pmpca/tesis/Doc/Gen2005-08/2012_pmpca_chaveztoledo.pdf">Evaluación
+                                                    href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/3547/DCA1RAM01201.pdf?sequence=3&isAllowed=y">Evaluación
                                                     de riesgos ambientales para sitios mineros: caso del distrito
                                                     minero Santa María de
                                                     la Paz</a></td>
@@ -498,7 +528,7 @@
                                             <td>2012</td>
                                             <td>Gamiño Gutiérrez Sandra Patricia</td>
                                             <td><a target="_blank"
-                                                    href="http://ambiental.uaslp.mx/pmpca/tesis/Doc/Gen2005-08/2012_pmpca_gaminogutierrez.pdf">Evaluación
+                                                    href="https://repositorioinstitucional.uaslp.mx/xmlui/handle/i/3711">Evaluación
                                                     de la genotoxicidad en poblaciones infantiles expuestas a
                                                     contaminación por As, Pb y
                                                     Cd en zonas mineras</a></td>
@@ -508,7 +538,7 @@
                                             <td>2008</td>
                                             <td>Chiprés de la Fuente Jorge Arturo</td>
                                             <td><a target="_blank"
-                                                    href="http://ambiental.uaslp.mx/pmpca/tesis/Doc/Gen2003-08/2008_pmpca_chipresdelafuente.pdf">Cartografía
+                                                    href="https://repositorioinstitucional.uaslp.mx/xmlui/handle/i/1801">Cartografía
                                                     geoquímica multiescalar de valores de fondo y líneas base en el
                                                     Altiplano Potosino,
                                                     S.L.P., México</a></td>
@@ -518,7 +548,7 @@
                                             <td>2006</td>
                                             <td>Razo Soto Israel</td>
                                             <td><a target="_blank"
-                                                    href="http://ambiental.uaslp.mx/pmpca/tesis/Doc/Gen2002-08/2006_pmpca_razosoto.pdf">Identificación
+                                                    href="#">Identificación
                                                     de áreas prioritarias de restauración de suelos contaminados por
                                                     arsénico y metales
                                                     pesados en el sitio minero y metalúrgico de Villa de la Paz -
@@ -554,6 +584,14 @@
                                         </tr>
                                     </thead>
                                     <tbody>
+                                        <tr>
+                                            <td>2022</td>
+                                            <td>Diédhiou Idrissa</td>
+                                            <td><a target="_blank"
+                                                    href="#">Physiology, metabolomic profiles, and yield of native genotypes of maize (<em>Zea Mays L.</em>) and their <em>milpa</em> systems (maize+bean+squash) from San Luis Potosi, Mexico, under related effects of climate change</a>
+                                            </td>
+                                            <td>Dr. Hugo Magdaleno Ramírez Tobías</td>
+                                        </tr>                                        
                                         <tr>
                                             <td>2020</td>
                                             <td>Guadiana Alvarado Zoe Arturo</td>
@@ -731,10 +769,10 @@
                                             <td>2012</td>
                                             <td>Michel Cuello Christian</td>
                                             <td><a target="_blank"
-                                                    href="http://ambiental.uaslp.mx/pmpca/tesis/Doc/Gen2007-08/2012_pmpca_michelcuello.pdf">Caracterización
+                                                    href="#">Caracterización
                                                     fisicoquímica y estudio cinético de la hidrólisis enzimática de
                                                     los fructanos de
-                                                    maguey mezcalero potosino<em>(agave salmiana)</em></a></td>
+                                                    maguey mezcalero potosino<em>(Agave salmiana)</em></a></td>
                                             <td>Dr. Miguel Ángel Ruiz Cabrera</td>
                                         </tr>
                                         <tr>
@@ -780,7 +818,7 @@
                                             <td>2007</td>
                                             <td>Castillo Lara Pedro</td>
                                             <td><a target="_blank"
-                                                    href="http://ambiental.uaslp.mx/pmpca/tesis/Doc/Gen2003-02/2007_pmpca_castillolara.pdf">Evolución
+                                                    href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/1806/DCA1ERE00701.pdf?sequence=3&isAllowed=y">Evolución
                                                     reciente y estado actual de la vegetación del área natural
                                                     protegida Sierra de
                                                     Álvarez, S.L.P.</s></a></td>
@@ -790,8 +828,8 @@
                                             <td>2007</td>
                                             <td>Cilia López Virginia Gabriela</td>
                                             <td><a target="_blank"
-                                                    href="http://ambiental.uaslp.mx/pmpca/tesis/Doc/Gen2002-08/2007_pmpca_cilialopez.pdf">Biología
-                                                    y utilización del chilcuague <em>(heliopsis longipes S.F.
+                                                    href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/1807/DCA1BUC00701.pdf?sequence=3&isAllowed=y">Biología
+                                                    y utilización del Chilcuague <em>(heliopsis longipes S.F.
                                                         Blake)</em></a></td>
                                             <td>Dr. Juan Rogelio Aguirre Rivera</td>
                                         </tr>
@@ -809,7 +847,7 @@
                                             <td>2007</td>
                                             <td>Gómez Ruiz Walter Jorge</td>
                                             <td><a target="_blank"
-                                                    href="http://ambiental.uaslp.mx/pmpca/tesis/Doc/Gen2004-02/2007_pmpca_gomezruiz.pdf">La
+                                                    href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/2061/DCA1CEA00701.pdf?sequence=3&isAllowed=y">La
                                                     caprinocultura como elemento articulador del desarrollo rural en
                                                     el Altiplano
                                                     Potosino</a></td>
@@ -844,9 +882,33 @@
                                     </thead>
                                     <tbody>
                                         <tr>
+                                            <td>2022</td>
+                                            <td>Cruz Santiago Omar</td>
+                                            <td><a target="_blank" href="#">Evaluación de riesgo ecológico en el ecosistema acuático del humedal potosino Ciénega de Tamasopo</a></td>
+                                            <td>Dr. César Arturo Ilizaliturri Hernández</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2022</td>
+                                            <td>Diego Rodríguez Mariana</td>
+                                            <td><a target="_blank" href="#">Caracterización y evaluación de la prevalencia de enfermedades respiratorias y gastrointestinales en comunidades vulnerables impactadas por eventos climáticos extremos en el Estado de San Luis Potoaí</a></td>
+                                            <td>Dra. Gabriela Domínguez Cortinas</td>
+                                        </tr>                                        
+                                        <tr>
+                                            <td>2022</td>
+                                            <td>Macías Pérez Asaneth Careli</td>
+                                            <td><a target="_blank" href="#">Factores ambientales y la evolución de enfermedades crónicas en el municipio de El Naranjo S.L.P., México</a></td>
+                                            <td>Dra. Gabriela Domínguez Cortinas</td>
+                                        </tr>                                                                                
+                                        <tr>
+                                            <td>2021</td>
+                                            <td>Ramírez Landeros Laura María</td>
+                                            <td><a target="_blank" href="#">Fortalecimiento de capacidades comunitarias enfocadas en educación, salud y ambiente en una región indígena</a></td>
+                                            <td>Dr. Fernando Díaz Barriga Martínez</td>
+                                        </tr>                                        
+                                        <tr>
                                             <td>2020</td>
                                             <td>Monsiváis Nava Claudia Davinia</td>
-                                            <td><a target="_blank" href="tesis/doc/2020/DCA1MNC202001.pdf">Análisis de
+                                            <td><a target="_blank" href="#">Análisis de
                                                     factores
                                                     asociados al sistema alimentario infantil en un área suburbana
                                                     vulnerable de la
@@ -855,6 +917,12 @@
                                                     intervención</a></td>
                                             <td>Dra. Ana Cristina Cubillas Tejeda</td>
                                         </tr>
+                                        <tr>
+                                            <td>2019</td>
+                                            <td>González Mares Mariana Odemaris</td>
+                                            <td>Propuesta de una estrategia de intervención para la prevención de factores de riesgo para el desarrollo de enfermedades no transmisibles en comunidades suburbanas vulnerables del municipio de San Luis Potosí</td>
+                                            <td>Dra. Ana Cristina Cubillas Tejeda</td>
+                                        </tr>                                        
                                         <tr>
                                             <td>2019</td>
                                             <td>Camacho de la Cruz Arlette Andrea</td>
@@ -941,7 +1009,7 @@
                                             <td>2015</td>
                                             <td>Gaytán Hernández Darío</td>
                                             <td><a target="_blank"
-                                                    href="http://ambiental.uaslp.mx/pmpca/Anterior/tesis/Doc/Gen2011-08/2015_pmpca_gaytanhernandez.pdf">Diseño
+                                                    href="https://repositorioinstitucional.uaslp.mx/xmlui/handle/i/3852">Diseño
                                                     de un paquete de herramientas metodológicas para una sala
                                                     situacional de salud
                                                     ambiental para el estado de San Luis Potosí</a></td>
@@ -950,7 +1018,7 @@
                                         <tr>
                                             <td>2015</td>
                                             <td>Morales Villegas Raúl</td>
-                                            <td><a target="_blank" href="#">Rendimiento cognitivo de niños
+                                            <td><a target="_blank" href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/3949/DCA1RCN01501.pdf?sequence=3&isAllowed=y">Rendimiento cognitivo de niños
                                                     indígenas que viven en
                                                     escenarios socio-ambientales vulnerables. Hacia una propuesta de
                                                     intervención</a>
@@ -961,7 +1029,7 @@
                                             <td>2015</td>
                                             <td>Ramírez Jiménez Ma. del Rocío</td>
                                             <td><a target="_blank"
-                                                    href="http://ambiental.uaslp.mx/pmpca//tesis/Doc/Gen2008-08/2015_pmpca_ramirezjimenez.pdf">Asociación
+                                                    href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/3948/DCA1EXO01501.pdf?sequence=3&isAllowed=y">Asociación
                                                     entre la exposición a plaguicidas organofosforados y la
                                                     paraoxonasa 1 (PON1) y
                                                     alteraciones neurocognitivas en niños y adolescentes de una
@@ -973,7 +1041,7 @@
                                             <td>2014</td>
                                             <td>Flores Ramírez Rogelio</td>
                                             <td><a target="_blank"
-                                                    href="http://ambiental.uaslp.mx/pmpca/tesis/Doc/Gen2010-08/2014_pmpca_floresramirez.pdf">Diseño
+                                                    href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/3944/DCA1DYA01401.pdf?sequence=3&isAllowed=y">Diseño
                                                     y aplicación de una metodología de evaluación de riesgos por
                                                     exposición a sustancias
                                                     tóxicas persistentes en zonas vulnerables de México</a></td>
@@ -983,7 +1051,7 @@
                                             <td>2014</td>
                                             <td>Villaseñor Lozano César Gerardo</td>
                                             <td><a target="_blank"
-                                                    href="http://ambiental.uaslp.mx/pmpca/tesis/Doc/Gen2010-08/2014_pmpca_villasenorlozano.pdf">Metodología
+                                                    href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/3859/DCA1MPE01401.pdf?sequence=3&isAllowed=y">Metodología
                                                     para la evaluación del riesgo del desarrollo infantil de
                                                     comunidades vulnerables</a>
                                             </td>
@@ -993,7 +1061,7 @@
                                             <td>2013</td>
                                             <td>Hernández Cruz María Teresa</td>
                                             <td><a target="_blank"
-                                                    href="http://ambiental.uaslp.mx/pmpca/tesis/Doc/Gen2009-02/2013_pmpca_hernandezcruz.pdf">La
+                                                    href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/3672/DCA1AUT01301.pdf?sequence=1&isAllowed=y">La
                                                     autogestión como estrategia para contribuir a mejorar la calidad
                                                     de vida en los
                                                     hogares de una comunidad indígena de la Huasteca Potosina</a>
@@ -1004,7 +1072,7 @@
                                             <td>2012</td>
                                             <td>Escobar García Diana María</td>
                                             <td><a target="_blank"
-                                                    href="http://ambiental.uaslp.mx/pmpca/tesis/Doc/Gen2005-08/2012_pmpca_escobargarcia.pdf">Análisis
+                                                    href="#">Análisis
                                                     de asociación de los polimorfismos E155del, A140D y E208K de la
                                                     glutatión S
                                                     transferasa &#8486; 1-1 (GST01-1) con los perfiles de expresión
@@ -1017,7 +1085,7 @@
                                             <td>2012</td>
                                             <td>Rivero Pérez Norma Edith</td>
                                             <td><a target="_blank"
-                                                    href="http://ambiental.uaslp.mx/pmpca/tesis/Doc/Gen2004-08/2012_pmpca_riveroperez.pdf">Evaluación
+                                                    href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/3707/DCA1EES01201.pdf?sequence=1&isAllowed=y">Evaluación
                                                     de los efectos en salud por la exposición a plaguicidas en niños
                                                     de San Luis
                                                     Potosí</a></td>
@@ -1027,7 +1095,7 @@
                                             <td>2012</td>
                                             <td>Torres Nerio Rocío</td>
                                             <td><a target="_blank"
-                                                    href="http://ambiental.uaslp.mx/pmpca/tesis/Doc/Gen2006-02/2012_pmpca_torresnerio.zip">Diseño
+                                                    href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/3546/DCA1DEI01201.pdf?sequence=3&isAllowed=y">Diseño
                                                     e implementación de Programas de Comunicación de Riesgos para
                                                     mejorar la salud
                                                     ambiental en una comunidad de la Huasteca Potosina</a></td>
@@ -1037,7 +1105,7 @@
                                             <td>2011</td>
                                             <td>Bocanegra Salazar Melissa</td>
                                             <td><a target="_blank"
-                                                    href="http://ambiental.uaslp.mx/pmpca/tesis/Doc/Gen2006-08/2011_pmpca_bocanegrasalazar.pdf">Muestreo
+                                                    href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/3564/Tesis-doctorado_Bocanegra.pdf?sequence=1&isAllowed=y">Muestreo
                                                     pasivo de hidrocarburos aromáticos policíclicos en las hojas de
                                                     la especie vegetal
                                                     <em>Eriobotrya japonica</em></a></td>
@@ -1047,7 +1115,7 @@
                                             <td>2011</td>
                                             <td>Cossío Torres Patricia Elizabeth</td>
                                             <td><a target="_blank"
-                                                    href="http://ambiental.uaslp.mx/pmpca/tesis/Doc/Gen2006-08/2011_pmpca_cossiotorres.pdf">Factores
+                                                    href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/3567/Thesis_Patricia_Cossi%cc%81o.pdf?sequence=1&isAllowed=y">Factores
                                                     asociados al estado de salud de adolescentes con exposición
                                                     continua a Plomo,
                                                     Arsénico y Flúor, que viven cerca de una zona metalúrgica en la
@@ -1059,7 +1127,7 @@
                                             <td>2011</td>
                                             <td>Martínez Salinas Rebeca Isabel</td>
                                             <td><a target="_blank"
-                                                    href="http://ambiental.uaslp.mx/pmpca/tesis/Doc/Gen2006-08/2011_pmpc_martinezsalinas.pdf">Estimación
+                                                    href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/3657/DCA1ERS01101.pdf?sequence=3&isAllowed=y">Estimación
                                                     de riesgo en salud por exposición a hidrocarburos aromáticos
                                                     policíclicos y DDT
                                                     residual en población infantil del Estado de Chiapas</a></td>
@@ -1069,7 +1137,7 @@
                                             <td>2010</td>
                                             <td>Costilla Salazar Rogelio</td>
                                             <td><a target="_blank"
-                                                    href="http://ambiental.uaslp.mx/pmpca/tesis/Doc/Gen2005-02/2010_pmpca_costillasalazar.pdf">Evaluación
+                                                    href="https://repositorioinstitucional.uaslp.mx/xmlui/handle/i/3611">Evaluación
                                                     de riesgo en salud en dos sitios contaminados por bifenilos
                                                     policlorados (PCBs) y
                                                     metales pesados</a></td>
@@ -1079,7 +1147,7 @@
                                             <td>2010</td>
                                             <td>González Mille Donaji Josefina</td>
                                             <td><a target="_blank"
-                                                    href="http://ambiental.uaslp.mx/pmpca/tesis/Doc/Gen2006-02/2010_pmpca_gonzalezmille.pdf">Aplicación
+                                                    href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/3584/DJGM-Tesis%20Doctorado.pdf?sequence=1&isAllowed=y">Aplicación
                                                     de una metodología de evaluación de riesgo ecológico en fauna
                                                     acuática de
                                                     Coatzacoalcos, Veracruz</a></td>
@@ -1089,7 +1157,7 @@
                                             <td>2010</td>
                                             <td>Ilizaliturri Hernández César Arturo</td>
                                             <td><a target="_blank"
-                                                    href="http://ambiental.uaslp.mx/pmpca/tesis/Doc/Gen2006-02/2010_pmpca_ilizaliturrihernandez.pdf">Aplicación
+                                                    href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/3583/DCA1SHU01001.pdf?sequence=3&isAllowed=y">Aplicación
                                                     de una metodología de evaluación de riesgo ecológico en el
                                                     sistema de humedales de
                                                     Coatzacoalcos, Veracruz</a></td>
@@ -1099,7 +1167,7 @@
                                             <td>2010</td>
                                             <td>Pelallo Martínez Nadia Azenet</td>
                                             <td><a target="_blank"
-                                                    href="http://ambiental.uaslp.mx/pmpca/tesis/Doc/Gen2006-02/2010_pmpca_pelallomartinez.pdf">Evaluación
+                                                    href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/3738/DCA1COA01001.pdf?sequence=1&isAllowed=y">Evaluación
                                                     de riesgo en salud en población infantil expuesta a una mezcla
                                                     de contaminantes en
                                                     Coatzacoalcos, Veracruz</a></td>
@@ -1107,9 +1175,9 @@
                                         </tr>
                                         <tr>
                                             <td>2009</td>
-                                            <td>Alegría Torres jorge Alejandro</td>
+                                            <td>Alegría Torres Jorge Alejandro</td>
                                             <td><a target="_blank"
-                                                    href="http://ambiental.uaslp.mx/pmpca/tesis/Doc/Gen2005-08/2009_pmpca_alegriatorres.pdf">DDE:
+                                                    href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/3622/DCA1DDE00901.pdf?sequence=3&isAllowed=y">DDE:
                                                     Mecanismos moleculares de apoptosis y de respuesta génica en
                                                     células mononucleares
                                                     de sangre periférica</a></td>
@@ -1119,7 +1187,7 @@
                                             <td>2009</td>
                                             <td>Domínguez Cortinas Gabriela</td>
                                             <td><a target="_blank"
-                                                    href="http://ambiental.uaslp.mx/pmpca/tesis/Doc/Gen2004-08/2009_pmpca_dominguezcortinas.pdf">Evaluación
+                                                    href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/3604/DCA1EIF00901.pdf?sequence=3&isAllowed=y">Evaluación
                                                     del impacto del fenómeno de iniquidad ambiental en la salud de
                                                     poblaciones
                                                     infantiles en San Luis Potosí, S.L.P., México</a></td>
@@ -1129,7 +1197,7 @@
                                             <td>2009</td>
                                             <td>Espinosa Reyes Guillermo</td>
                                             <td><a target="_blank"
-                                                    href="http://ambiental.uaslp.mx/pmpca/tesis/Doc/Gen2005-08/2009_pmpca_espinosareyes.pdf">Diseño
+                                                    href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/3633/DCA1DYA00901.pdf?sequence=3&isAllowed=y">Diseño
                                                     y aplicación de una metodología de evaluación de riesgo
                                                     ecológico para fauna
                                                     terrestre</a></td>
@@ -1139,7 +1207,7 @@
                                             <td>2009</td>
                                             <td>Rocha Amador Diana Olivia</td>
                                             <td><a target="_blank"
-                                                    href="http://ambiental.uaslp.mx/pmpca/tesis/Doc/Gen2005-08/2009_pmpca_rochaamador.pdf">Neurotoxicidad
+                                                    href="#">Neurotoxicidad
                                                     asociada a DDT, DDE y BPCs en niños residentes de comunidades
                                                     rurales del sureste
                                                     mexicano</a></td>
@@ -1149,7 +1217,7 @@
                                             <td>2009</td>
                                             <td>Trejo Acevedo Antonio</td>
                                             <td><a target="_blank"
-                                                    href="http://ambiental.uaslp.mx/pmpca/tesis/Doc/Gen2005-08/2009_pmpca_rochaamador.pdf">Evaluación
+                                                    href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/4019/DCA1COP00901.pdf?sequence=1&isAllowed=y">Evaluación
                                                     de la exposición a contaminantes orgánicos persistentes (COPs)
                                                     en niños de
                                                     mesoamérica</a></td>
@@ -1159,7 +1227,7 @@
                                             <td>2007</td>
                                             <td>López Guzmán Olga Dania</td>
                                             <td><a target="_blank"
-                                                    href="http://ambiental.uaslp.mx/pmpca/tesis/Doc/Gen2002-08/2007_pmpca_lopezguzman.pdf">Determinación
+                                                    href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/4000/DCA1DET00701.pdf?sequence=1&isAllowed=y">Determinación
                                                     de los niveles de exposición perinatal al DDT y sus metabolitos
                                                     a través de sangre y
                                                     leche materna en comunidades endémicas de paludismo</a></td>
@@ -1169,7 +1237,7 @@
                                             <td>2006</td>
                                             <td>Torres Dosal Arturo</td>
                                             <td><a target="_blank"
-                                                    href="http://ambiental.uaslp.mx/pmpca/tesis/Doc/Gen2002-08/2006_pmpca_torresdosal.pdf">Desarrollo
+                                                    href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/2392/DCA1DME00601.pdf?sequence=3&isAllowed=y">Desarrollo
                                                     de la metodología para la evaluación de riesgo en sitios
                                                     contaminados</a></td>
                                             <td>Dr. Fernando Díaz-Barriga Martínez</td>

@@ -27,7 +27,7 @@
 
         <div class="enlacesprof">
             <!--<a target="_blank" href="http://sociales.uaslp.mx/Paginas/Profesores/Leonardo.aspx">Webpage</a>-->
-            <a target="_blank" href="{{asset('storage/CV/Marquez_Mireles_LeonardoErnesto.pdf')}}">Curriculum Vitae </a>
+            <a target="_blank" href="{{asset('storage/CV/Marquez_Mireles_LeonardoErnesto.pdf')}}"><i>Curriculum Vitae</i></a>
             <a target="_blank" href="https://investigadores.uaslp.mx/InvestigadorProfile/ekAAAA%3d%3d">Directorio de Investigadores</a>
             <a target="_blank" href="http://orcid.org/0000-0001-6732-8156"><img src="{{asset('storage/images/orcid.png')}}" alt=""></a>
             <a target="_blank" href="https://www.scopus.com/authid/detail.uri?authorId=57210815176"> <img src="{{asset('storage/images/scopus.png')}}" alt=""></a>
@@ -48,25 +48,35 @@
             <div class="accordion-body">
               <ol>
                 <li><strong>Cursos</strong></li>
-                    <p>TSCA: Diseño y Evaluación de Proyectos de Investigación</p>
-
+                    <ul class="vineta">
+                      <li>TSCA: Diseño y Evaluación de Proyectos de Investigación</li>
+                    </ul>
                 <li><strong>LGAC</strong></li>
-                <p>Desarrollo Sostenible
+                  <ul class="vineta">
+                    <li>Desarrollo Sostenible</li>
+                  </ul>
                 </p>
                 <li><strong>Dirección de Tesis</strong></li><br>
                 <p><em>Maestría en Ciencias Ambientales (Doble titulación), Co-Dirección</em></p>
-                <p>
-                  Riemann Sebastian. 2012. <a href="http://ambiental.uaslp.mx/pmpca/tesis/Mae/Gen%202010-08/2012_pmpca_riemannsebastian.pdf">Resource management in sustainable tourism: a facilitator for community empowering development in la Vainilla, Oaxaca.</a><br>
-                  Jaramillo Duque Andrea Estefania. 2016. <a href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/4120/MCA1JDA201601.pdf?sequence=3&amp;isAllowed=y">A comparison between two management systems of protected areas from Mexico (Sierra del Abra Tanchipa biosphere reserve) and from Ecuador (Yasuni National Park).</a><br>
-                  Pedrotti Jung Valentina Andrea. 2016. <a href="http://ambiental.uaslp.mx/pmpca/tesis/Mae/Gen%202014-08/2016_pmpca_pedrottijung.pdf">Sustainable coffee alternatives for the rural community of San Francisco, municipality of Tamazunchale San Luis Potosi, Mexico.</a>
-                </p>
+                <ul class="vineta">
+                  <li>Riemann Sebastian. 2012. <a href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/3650/MCA1RSE201201.pdf?sequence=3&isAllowed=y">Resource management in sustainable tourism: a facilitator for community empowering development in la Vainilla, Oaxaca.</a></li>
+                  <li>Jaramillo Duque Andrea Estefania. 2016. <a target="_blank" href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/4120/MCA1JDA201601.pdf?sequence=3&amp;isAllowed=y">A comparison between two management systems of protected areas from Mexico (Sierra del Abra Tanchipa biosphere reserve) and from Ecuador (Yasuni National Park).</a></li>
+                  <li>Pedrotti Jung Valentina Andrea. 2016. <a target="_blank" href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/4119/MCA1PJV201601.pdf?sequence=3&isAllowed=y">Sustainable coffee alternatives for the rural community of San Francisco, municipality of Tamazunchale San Luis Potosi, Mexico.</a></li>
+                  <li>Quintero Vargas Tania Berenice. 2020. <a target="_blank" href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/7581/TesisM.PMPCA.2020.Effects.Quintero.pdf?sequence=1&isAllowed=y">  Effects of eco-labels on consumer intentions to purchase sustainable food within the student community of Cologne.</a></li>
+                </ul>
                 <br>
                 <p><em>Maestría en Ciencias Ambientales</em></p>
-                <p>
-                  Trenti Very Luis Carlos. 2016. <a href="http://ambiental.uaslp.mx/pmpca/tesis/Mae/Gen%202013-08/2016_pmpca_trentivery.pdf">Caracterización e importancia social de los sistemas agrícolas tradicionales en El Ejido, Escalerillas, San Luis Potosí.</a><br>
-                  Alvarado Casas Karla Alejandra. 2018. <a href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/4514/MCA1ACK201801.pdf?sequence=1&amp;isAllowed=y">Gobernanza ambiental en la reserva de la biosfera de Sierra Abra Tanchipa.</a><br>
-                  Castillo Cardona Carlos Eduardo. 2019. <a href="#"> Historia ambiental de las inundaciones en San Luis Potosí: 1930-1940. </a>
-                </p>
+                <ul class="vineta">
+                  <li>Trenti Very Luis Carlos. 2016. <a target="_blank" href="http://ambiental.uaslp.mx/pmpca/tesis/Mae/Gen%202013-08/2016_pmpca_trentivery.pdf">Caracterización e importancia social de los sistemas agrícolas tradicionales en El Ejido, Escalerillas, San Luis Potosí.</a></li>
+                  <li>Alvarado Casas Karla Alejandra. 2018. <a target="_blank" href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/4514/MCA1ACK201801.pdf?sequence=1&amp;isAllowed=y">Gobernanza ambiental en la reserva de la biosfera de Sierra Abra Tanchipa.</a></li>
+                  <li>Castillo Cardona Carlos Eduardo. 2019. <a href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/5731/MCA1CCC201901.pdf?sequence=1&isAllowed=y"> Historia ambiental de las inundaciones en San Luis Potosí: 1930-1940.</a></li>
+                  <li>Varela Trevilla Aurora Sofía. 2020. Propuesta metodológica para la evaluación de la sustentabilidad de la producción del ganado de lidia en la ganadería de Monte Caldera, San Luis Potosí.</li>
+                </ul>
+                <br>
+                <p><em>Doctorado en Ciencias Ambientales</em></p>
+                <ul class="vineta">
+                  <li>Morales Jasso Gerardo. 2022. <a target="_blank" href="https://repositorioinstitucional.uaslp.mx/xmlui/handle/i/7983">Construir el conocimiento interdisciplinario en el Programa Multidisciplinario de Posgrado en Ciencias Ambientales. Historia, teoría y praxis.</a></li>
+                </ul>
               </ol>
             </div>
           </div>
@@ -112,10 +122,9 @@
             </div>
           </div>
         </div>-->
-      </div>
+      </div><br><br><br>
     </div>
     </div>
-    <br><br><br>
 </div>
 
 @endsection

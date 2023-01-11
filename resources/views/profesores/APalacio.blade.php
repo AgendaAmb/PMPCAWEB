@@ -26,7 +26,7 @@
         </p>
 
         <div class="enlacesprof">
-            <a target="_blank" href="{{asset('storage/CV/Palacio_Aponte_AlvaroGerardo.pd')}}">Curriculum Vitae </a>
+            <a target="_blank" href="{{asset('storage/CV/Palacio_Aponte_AlvaroGerardo.pd')}}"><i>Curriculum Vitae</i></a>
             <a target="_blank" href="https://investigadores.uaslp.mx/InvestigadorProfile/EUoAAA==">Directorio de Investigadores</a>
             <a target="_blank" href="https://orcid.org/0000-0002-5020-2482"><img src="{{asset('storage/images/orcid.png')}}" alt=""></a>
             <a target="_blank" href="https://www.scopus.com/authid/detail.uri?authorId=35176529400"> <img src="{{asset('storage/images/scopus.png')}}" alt=""></a>
@@ -47,24 +47,26 @@
             <div class="accordion-body">
               <ol>
                 <li><strong>Cursos</strong></li>
-                    <p>TSCA: Medioambiente y reducción del riesgo de desastres (ECO-DRR) </p>
-
+                    <ul class="vineta">
+                      <li>TSCA: Medioambiente y reducción del riesgo de desastres (ECO-DRR)</li>
+                    </ul><br>
                 <li><strong>LGAC</strong></li>
-                <p>Estudios multidisciplinarios de los desastres<br>
-                   Planeación y ordenamiento territorial y ambiental
-                </p>
+                <ul class="vineta">
+                  <li>Estudios multidisciplinarios de los desastres</li>
+                  <li>Planeación y ordenamiento territorial y ambiental</li>
+                </ul><br>
                 <li><strong>Dirección de Tesis</strong></li><br>
                 <p><em>Maestría en Ciencias Ambientales (Doble titulación), Co-Dirección</em></p>
-                <p>
-                  Souza Lenzi Fernanda. 2012. <a href="http://ambiental.uaslp.mx/pmpca/tesis/Mae/Gen%202010-08/2012_pmpca_souzalenzi.pdf">The flood early warning system in the Itajaí River Basin: its institutional structure and the role of the civil defense.</a>
-                </p>
+                <ul class="vineta">
+                  <li>Souza Lenzi Fernanda. 2012. <a target="_blank" href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/3645/MCA1SLF201201.pdf?sequence=3&isAllowed=y">The flood early warning system in the Itajaí River Basin: its institutional structure and the role of the civil defence.</a></li>
+                </ul>
                 <br>
                 <p><em>Maestría en Ciencias Ambientales</em></p>
-                <p>
-                  Castillo Moncada Jenny Alejandra. 2011. <a href="http://ambiental.uaslp.mx/pmpca/tesis/Mae/Gen%202009-08/2011_pmpca_castillomoncada.pdf">Prioritization Measures within the Watershed Management Master Plan. (Co-dirección).</a><br>
-                  Guevara Macías María de Jesús. 2012. <a href="http://ambiental.uaslp.mx/pmpca/tesis/Mae/Gen%202009-08/2012_pmpca_guevaramacias.pdf">Análisis de la vulnerabilidad socioeconómica por inundaciones en la ciudad de San Luis Potosí.</a> <br>
-                  Sánchez Tapia Víctor Manuel. 2014. <a href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/3827/MCA1PRI01401.pdf?sequence=3&amp;isAllowed=y">La percepción del riesgo ante inundaciones súbitas en la ciudad de San Luis Potosí.</a> (Co-dirección).
-                </p>
+                <ul class="vineta">
+                  <li>Castillo Moncada Jenny Alejandra. 2011. <a target="_blank" href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/3681/MCA1CMJ201101.pdf?sequence=3&isAllowed=y">Prioritization Measures within the Watershed Management Master Plan. (Co-dirección).</a></li>
+                  <li>Guevara Macías María de Jesús. 2012. <a target="_blank" href="https://repositorioinstitucional.uaslp.mx/xmlui/handle/i/4168">Análisis de la vulnerabilidad socioeconómica por inundaciones en la ciudad de San Luis Potosí.</a></li>
+                  <li>Sánchez Tapia Víctor Manuel. 2014. <a target="_blank" href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/3827/MCA1PRI01401.pdf?sequence=3&amp;isAllowed=y">La percepción del riesgo ante inundaciones súbitas en la ciudad de San Luis Potosí.</a> (Co-dirección).</li>
+                </ul>
                 <!--<br>
                 <p><em>Doctorado en Ciencias Ambientales</em></p>
                 <p>
@@ -118,10 +120,9 @@
             </div>
           </div>
         </div>-->
-      </div>
+      </div>    <br><br><br>
     </div>
     </div>
-    <br><br><br>
 </div>
 
 @endsection

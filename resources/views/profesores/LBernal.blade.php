@@ -81,7 +81,7 @@
                 <p><em>Doctorado en Ciencias Ambientales</em></p>
                 <ul class="vineta">
                   <li>Padilla González Claudio Manuel. 2017. <a target="_blank" href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/4512/DCA1PGC201702.pdf?sequence=1&isAllowed=y">Evaluación de la calidad del agua del río San Juan (Edo. Mex., Qro., Hgo) y propuesta de un índice biótico utilizando macroinvertebrados </a></li>
-                  <li>Vargas Berrones Karla Ximena. 2021. Reducción de compuestos tóxicos presentes en detergentes, utilizando nuevas materias primas ecológicas</li>
+                  <li>Vargas Berrones Karla Ximena. 2021. <a target="_blank" href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/7596/TesisD.PMPCA.2021.Reduccion.Vargas.pdf?sequence=1&isAllowed=y">Reducción de compuestos tóxicos presentes en detergentes, utilizando nuevas materias primas ecológicas</a></li>
                 </ul>
               </ol>
             </div>
