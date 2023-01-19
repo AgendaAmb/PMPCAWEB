@@ -98,16 +98,15 @@
                                 <h4><strong>Área de recursos naturales renovables</strong></h4>
                                 <p><strong id="nameProf">Dra. Gisela Aguilar Benítez</strong> <br>Titular y Coordinadora de
                                     área<br></p>
-                                <p><strong id="nameProf">Dra. Bertha Irene Juárez Flores</strong> <br>Titular<br></p>
-                                <p><strong id="nameProf">Dra. Erika García Chávez</strong> <br>Suplente<br></p>
+                                <p><strong id="nameProf">Dra. Erika García Chávez</strong> <br>Titular<br></p>
+                                <p><strong id="nameProf">Dr. Juan Antonio Reyes Agüero</strong> <br>Suplente<br></p>
                                 <hr>
                                 <br>
                                 <h4><strong>Área de salud ambiental integral</strong></h4>
                                 <p><strong id="nameProf">Dr. José Antonio Ávalos Lozano</strong> <br>Titular y Coordinador
-                                    de
-                                    área<br></p>
+                                    de área<br></p>
                                 <p><strong id="nameProf">Dra. Donají Josefina González Mille</strong> <br>Titular<br></p>
-                                <p><strong id="nameProf">Dr. Francisco Javier Pérez Vázquez</strong> <br>Suplente<br></p>
+                                <p><strong id="nameProf">Dra. Silvia Romero Contreras</strong> <br>Suplente<br></p>
                             </div>
                         </div>
                     </div>
