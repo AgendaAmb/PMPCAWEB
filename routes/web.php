@@ -175,6 +175,10 @@ Route::prefix('areas')->name('areas.')->group(function () {
         // * Profesores
         Route::prefix('Profesores')->name('Profesores.')->group(function () {
 
+            Route::get('/MAlfaro', function () {
+                return view('profesores.MAlfaro');
+            })->name('MAlfaro');
+
             Route::get('/CCarranza', function () {
                 return view('profesores.CCarranza');
             })->name('CCarranza');

@@ -60,24 +60,26 @@
                 <p><em>Maestría en Ciencias Ambientales (Doble titulación), Co-Dirección</em></p>
                 <ul class="vineta">
                   <li>Ake Hernández Josue Hiram. 2010. <a href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/3629/MCA1WQM01001.pdf?sequence=5&isAllowed=y">Water quality monitoring system approach to support Guapi-Macacu River Basin management, Rio de Janeiro, Brazil.</a></li>
-                  <li> Zieke Gregor. 2011. <a href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/3570/MCA1ZGR201101.pdf?sequence=3&isAllowed=y">Development of a low-cost, high-efficiency solar distillation unit for small-scale use in rural communities.</a></li>
-                  <li> Castillo Taleno Vilmaurora. 2012. <a href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/3694/MCA1CTV201201.pdf?sequence=3&isAllowed=y">Comparison of two constructed wetlands with different soil depths in relation to their nitrogen removal.</a></li>
-                            <li> Aguirre Muñoz Carolina. 2013. <a href="http://ambiental.uaslp.mx/pmpca/tesis/Mae/Gen%202010-08/2012_pmpca_aguirremunoz.pdf">The water framework directive and the Chilean normative: towards a comprehensive relation between water quality and morphological characterization in surface water, Limari Basin, Chile.</a></li>
-                            <li> Villarraga Morales Huayna Paola. 2014. <a href="http://ambiental.uaslp.mx/pmpca/tesis/Mae/Gen%202012-08/2014_pmpca_villarragamorales.pdf"> Removal of selected constituents of coal pyrolysis effluents in constructed wetlands-laboratory-scale experimental systems.</a></li>
-                            <li> Rincón Mejía Carlos Andrés. 2015. <a href="http://ambiental.uaslp.mx/pmpca/tesis/Mae/Gen%202013-08/2015_pmpca_rinconmejia.pdf">Biodegradation of dimethylphenols in a laboratory scaled constructed wetland.</a></li>
+                  <li>Zieke Gregor. 2011. <a href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/3570/MCA1ZGR201101.pdf?sequence=3&isAllowed=y">Development of a low-cost, high-efficiency solar distillation unit for small-scale use in rural communities.</a></li>
+                  <li>Castillo Taleno Vilmaurora. 2012. <a href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/3694/MCA1CTV201201.pdf?sequence=3&isAllowed=y">Comparison of two constructed wetlands with different soil depths in relation to their nitrogen removal.</a></li>
+                  <li>Aguirre Muñoz Carolina. 2013. <a href="https://repositorioinstitucional.uaslp.mx/xmlui/handle/i/3679">The water framework directive and the Chilean normative: towards a comprehensive relation between water quality and morphological characterization in surface water, Limari Basin, Chile.</a></li>
+                  <li>Villarraga Morales Huayna Paola. 2014. <a href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/3886/MCA1VMH201401.pdf?sequence=3&isAllowed=y"> Removal of selected constituents of coal pyrolysis effluents in constructed wetlands laboratory scale.</a></li>
+                  <li> Rincón Mejía Carlos Andrés. 2015. <a href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/3891/MCA1RMC201501.pdf?sequence=3&isAllowed=y">Biodegradation of dimethylphenols in a laboratory scaled constructed wetland.</a></li>
                 </ul>
                 <br>
                 <p><em>Maestría en Ciencias Ambientales</em></p>
                 <ul class="vineta">
-                  <li>Hernández Martínez Ilse Patricia. 2016. <a target="_blank" href="https://ninive.uaslp.mx/xmlui/handle/i/5723">Propuestas al reglamento de construcciones del Municipio de San Luis Potosí para transitar hacia una zona metropolitana sustentable</a></li>
-                  <li>Arredondo García Erika Herminia. 2016. <a target="_blank" href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/4128/MCA1AGE201601.pdf?sequence=3&isAllowed=y">Costos ambientales por emisiones GEI en el marco normativo para la producción de caña de azúcar en la Huasteca Potosina</a></li>
-                  <li>Torres Martínez Guillermo. 2021. Análisis de los elementos de sostenibilidad en la política pública de México para una propuesta de programas de escuelas sostenibles</li>
+                  <li>Pelallo Martínez Nadia Azenet. 2006. <a href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/5744/MCA1PMN200601.pdf?sequence=1&isAllowed=y">Comportamiento químico del arsénico en sedimentos de sistemas acuáticos contaminados.</a></li>
+                  <li>Wong Arguelles Cynthia. 2009. <a href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/3575/MCA1WAC200901.pdf?sequence=3&isAllowed=y">Estudio de organismos acuáticos macrobentónicos como indicadores de la contaminación por metales pesados en ríos de la Huasteca Potosina.</a></li>
+                  <li>Tejeda González Juan Carlos. 2010. <a href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/3701/MCA1TGJ201001.pdf?sequence=3&isAllowed=y">Diseño de un humedal para la remoción de Cd, As y Cr con plantas <em>Thypa Latifolia</em> (Espadaña).</a></li>
                 </ul>
                 <br>
                 <p><em>Doctorado en Ciencias Ambientales</em></p>
                 <ul class="vineta">
-                  <li>Flores Jiménez David Enrique. 2016. <a target="_blank" href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/3955/DCA1EEM01601.pdf?sequence=3&isAllowed=y">Estimación de las emisiones y modelado del transporte de metano en la atmósfera generado por la quema de caña de azúcar en México. (Co-Dirección)</a></li>
-                  <li>Buendía Oliva Mariana. 2020. <a target="_blank" href="https://ninive.uaslp.mx/xmlui/handle/i/5681"> Diseño y evaluación del Club de Educación Ambiental y Sustentabilidad como estrategia para la aprobación de ecotecnicas en la escuela Francisco González Bocanegra de la delegación la Pila San Luis Potosí, SLP</a></li>
+                   <li>Rodríguez Hernández Mayra Cecilia. 2015. <a href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/3945/DCA1EMT01501.pdf?sequence=3&isAllowed=y">Efecto de los mecanismos de transporte de calcio, hierro y zinc en la captación de cadmio y plomo en plantas fitoremediadoras.</a> (Co-Dirección)</li>
+                    <li>Pérez Castillo Filiberta Virginia. 2017.  <a href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/4333/DCA1PCF201701.pdf?sequence=1&amp;isAllowed=y">Dinámica de C, N, P y Fe en agua y sedimento en el humedal natural Ciénega de Tamasopo, S.L.P.</a></li>
+                    <li>Tejeda González Juan Carlos. 2017. <a href="https://ninive.uaslp.mx/xmlui/handle/i/4203">Methodological approach for using strategic environmental assessment within the mexican decision-making and planning system based on two case studies.</a> (Co-Dirección)</li>
+                    <li>Monzalvo Santos Idalia Karina. 2018. <a href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/4527/DCA1MSI201801.pdf?sequence=1&isAllowed=y">Transferencia de elementos tóxicos resultantes de actividades mineras hacia las poblaciones de aves terrestres residentes del Altiplano Potosino y sus efectos sobre el sistema inmune. </a>(Co-Dirección)</li>
                 </ul>
               </ol>
             </div>
@@ -95,41 +97,12 @@
             <div class="accordion-body">
               <strong>Artículos de investigación</strong><br><br>
               <ul class="vineta">
-                <li>Aguilar-Rivera, N, <b>Algara-Siller, M.</b> and Olvera-Vargas, L. A. 2018. Land Management in Mexican sugarcane crop fields. Land Use Policy. 78(2018)763-780. ISSN:0264-8377. DOI <a target="_blank" href="https://doi.org/10.1016/j.landusepol.2018.07.034">https://doi.org/10.1016/j.landusepol.2018.07.034.</a></li><br>
-                <li>Flores-Jiménez, D. E., <b>Algara-Siller, M.</b>, Aguilar-Rivera, N., Carbajal, N., Aldama-Aguilera, C., Ávila-Galarza, A. y Álvarez-Fuentes, G. 2016. Influence of sugarcane burning on carbón and nitrogen reléase under drought and evapotranspiration conditions in a Mexican sugarcane supply zone. Revista Internacional de Contaminación Ambiental. Aceptado para publicar en mayo 2016. 2(32). ISSN:0188-4999. Indizado ISI Web of Science Impacto: 0.177. CONACyT. http://www.revistas.unam.mx/index.php/rica. <a target="_blank" href="http://dx.doi.org/10.20937/RICA.2016.32.02.04">http://dx.doi.org/10.20937/RICA.2016.32.02.04</a></li><br>
-                <li>Peralta-Rivero, C., Galindo-Mendoza, M. G., Contreras-Servín, C., <b>Algara-Siller, M.</b> y Mas-Caussel, J. F. 2016. Percepción local respecto a la valoración ambiental y pérdida de los recursos forestales en la región Huasteca de San Luis Potosí, México. Madera y Bosques. 22(1)71-93. ISSN: 1405-0471. México.</li>
-              </ul><br>
-              <strong>Artículos de Divulgación</strong><br><br>
-              <ul class="vineta">
-                <li><b>Algara-Siller, M.</b> 2016. Llamado celestial. Universitarios Potosinos. 12(196)37. ISSN:1870-1698. Febrero 2016.</li>
-              </ul><br>
-              <strong>Capítulos de libros</strong><br><br>
-              <ul class="vineta">
-                <li>Aguilar-Rivera, N., Olvera-Vargas, L. A., <b>Algara-Siller, M.</b> y Michel-Coello, Ch. 2018. Gestión de recursos ambientales, socioeconómicos y tecnológicos en la sostenibilidad de la agroindustria azucarera. En Sustentabilidad e innovación en la gestión fitosaniaria en caña de azúcar. Editado por Isabel Vásquez-López y Fernando Carlos Gómez-Merino. Biblioteca Básica de Agriciultura. Colegio de Posgraduados. 57-93. ISBN:978-607-715-374-0. Septiembre 2018.</li><br>
-                <li>Flores-Jiménez, D. E., <b>Algara-Siller, M.</b>, Aguilar-Rivera, N., Álvarez-Fuentes, G., Ávila-Galarza, A. and Aldama-Aguilera, C. 2018. Competitive management of sugarcane waste and reduction of CO2 emissions from harvest burning in supply regions. En Sugarcane technology and research. InTech Open Publishers. ISBN:978-1-78923-150-2 print. DOI <a target="_blank" href="https://dx.doi.org/10.5772/intechopen.71531">https://dx.doi.org/10.5772/intechopen.71531</a>. Mayo 16, 2018. Indizado en Web of Science.</li><br>
-                <li>Flores-Jiménez, D., <b>Algara-Siller, M.</b>, Aguilar-Rivera, N. y Aldama-Aguilera, C. 2017. Methane Emissions and Productivity Index in the Mexican Sugarcane Crop Fields. En Sugarcane Productions Systems, Uses and Economic Importance. Editado por Rachel Murphy. Nova Publishers New York. Indizado en Scopus. ISBN: 978-1-53610-938-2. Estados Unidos.</li><br>
-                <li>Quintero-Ruiz, J., Contreras-Servin, C., Yáñez-Espinosa, L. y <b>Algara-Siller, M.</b> 2016. Problemática social y ambiental en la Huasteca Potosina en el marco del desarrollo económico regional. En Tópicos Ambientales y Conservación de Ecosistemas Naturales. Editado por Carmelo Peralta Rivero, Carlos Contreras Servín, Guadalupe Galindo Mendoza, Luis Armando Bernal Jácome. México. 118-129. ISBN: 987-607-9453-81-7.</li><br>
+                <li><b>Alfaro-De la Torre, Ma. Catalina</b>. Chitosan-macroalgae biocomposites as potential adsorbents of water - soluble hydrocarbons: Organic matter and ionic strength effects, Journal of Cleaner Production. Fecha de Pub. 06-2018</li><br>
+                <li><b>Alfaro-De la Torre, Ma. Catalina</b>, Medellín-Milán, Pedro. Requerimientos para la implementación del derecho humano al agua y al saneamiento en México: caso de estudio en el altiplano potosino, Revista Legislativa de Estudios Sociales y de Opinión Pública. Fecha de Pub. 03-2018</li><br>
+                <li><b>Alfaro-De la Torre, Ma. Catalina</b>. Tracing anthropogenic disturbances of a wetland through carbon and nitrogen isotope analyses of sediments, Journal of Environmental Quality. Fecha de Pub. 07-2017</li><br>
+                <li>Biosorption removal of benzene and toluene by three-dried macroalgae at different ionic strength and temperatures: algae biochemical composition an, Journal of Environmental Management. Fecha de Pub. 05-2017</li><br>
+                <li>Optimization of an acidic digestion method for the determination of total Pb concentration and its isotope ratios in human blood using ICP-QMS, Journal of Environmental Science and Health. Fecha de Pub. 03-2017</li><br>
               </ul>
-            </div>
-          </div>
-        </div>
-        <div class="accordion-item">
-          <h2 class="accordion-header" id="headingThree">
-            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-              data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-              <strong>Vinculación</strong>
-            </button>
-          </h2>
-          <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
-            data-bs-parent="#accordionExample">
-            <div class="accordion-body"><br>
-              <ul class="vineta">
-                <li><b>FAI-UASLP</b> “Diseño de una propuesta de incorporación de contenidos de ambiente y sostenibilidad en el currículo de educación primaria” C17-FAI-06-29.29. Junio 12 de 2017 a marzo 11 de 2018.</li><br>
-                <li><b>CUMMINS-UASLP </b>a través de GlobalGiving Foundation. “Modelo sostenible para la soberanía de comunidades vulnerables”. Enero 2017 a diciembre 2019.</li><br>
-                <li><b>CUMMINS-UASLP</b> a través de Asociación Filantrópica CUMMINS. “Modelo sostenible para la soberanía de comunidades vulnerables”. De agosto 2015 a diciembre 2016.</li><br>
-                <li><b>GIZ-UASLP</b> “Desarrollo de capacidades para la elaboración de proyectos de Educación Ambiental para la conservación del Corredor Ecológico de la Sierra Madre Oriental”. Abril 22 a septiembre 24 de 2016.</li><br>
-                <li><b>PRODEP.</b> Líder Dr. Renato Ramos en colaboración y co-dirección de tesis. “Introducción de módulos de vegetación urbana para el control de escurrimientos en vialidades con pendiente”. Septiembre 2015 – Septiembre 2016</li><br>
-                <li><b>CUMMINS-UASLP</b> a través de GlobalGiving Foundation, Proyecto “Techo Vivo”. Convenio del 12 de mayo de 2014.</li>
             </div>
           </div>
         </div>

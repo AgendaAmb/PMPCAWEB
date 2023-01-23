@@ -109,7 +109,7 @@
                         <p> <strong>Solicitud instalaciones</strong></p>
                     </div>
                     <div class="col-6 col-md-4 col-lg-2">
-                        <a href="#"><img src="{{ asset('storage/images/Intranet.png') }}" alt=""
+                        <a href="http://comunidadpmpca.uaslp.mx/Login.aspx"><img src="{{ asset('storage/images/Intranet.png') }}" alt=""
                                 style="width:150px;height:150px"></a>
                         <p> <strong>INTRANET</strong></p>
                     </div>
