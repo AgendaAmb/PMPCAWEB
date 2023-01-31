@@ -319,7 +319,7 @@
                                             <td>2015</td>
                                             <td>Ramírez Guevara Sonia Judith</td>
                                             <td><a target="_blank"
-                                                    href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/3947/DCA1MRS01501.pdf?sequence=3&isAllowed=y">El
+                                                    href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/3947/DCA1RGS201502.pdf?sequence=3&isAllowed=y">El
                                                     manejo de los residuos sólidos urbanos, un asunto de justicia
                                                     ambiental. Estudio de
                                                     caso zona Metropolitana de San Luis Potosí</a></td>

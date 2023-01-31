@@ -21,13 +21,13 @@
         <p>
             Av. Industrias #101-A Fracc. Talleres <br>
             C.P. 78399, San Luis Potosí, S. L. P., México <br> <br>
-            Teléfono: +52 (444) 832-1000 Ext.. 9218<br>
+            Teléfono: +52 (444) 832-1000 Ext. 9218<br>
             ggm@uaslp.mx <br>
         </p>
 
         <div class="enlacesprof">
             <a target="_blank" href="https://sociales.uaslp.mx/Paginas/Investigacion/3546#gsc.tab=0">Webpage</a>
-            <a target="_blank" href="{{asset('storage/CV/Vazquez_Solis_Valente.pdf')}}">Curriculum Vitae </a>
+            <a target="_blank" href="{{asset('storage/CV/Vazquez_Solis_Valente.pdf')}}"><i>Curriculum Vitae</i></a>
             <a target="_blank" href="https://investigadores.uaslp.mx/InvestigadorProfile/mz8AAA==">Directorio de Investigadores</a>
             <a target="_blank" href="https://orcid.org/0000-0002-8421-7201"><img src="{{asset('storage/images/orcid.png')}}" alt=""></a>
             <a target="_blank" href="https://www.scopus.com/authid/detail.uri?authorId=26665082600"> <img src="{{asset('storage/images/scopus.png')}}" alt=""></a>
@@ -48,10 +48,12 @@
             <div class="accordion-body">
               <ol>
                 <li><strong>Cursos</strong></li>
-                    <p>TSCA: Medioambiente y reducción del riesgo de desastres (ECO-DRR)</p>
-
+                    <ul class="vineta">
+                      <li>TSCA: Medioambiente y reducción del riesgo de desastres (ECO-DRR)</li>
+                    </ul><br>
                 <li><strong>LGAC</strong></li>
-                <p>Estudios multidisciplinarios de los desastres<br>
+                <ul class="vineta">
+                  <li>Estudios multidisciplinarios de los desastres<br>
                    Planeación y ordenamiento territorial y ambiental
                 </p>
                 <li><strong>Dirección de Tesis</strong></li><br>

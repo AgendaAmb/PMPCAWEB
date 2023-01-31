@@ -21,13 +21,13 @@
         <p>
             Av. Industrias #101-A Fracc. Talleres <br>
             C.P. 78399, San Luis Potosí, S. L. P., México <br> <br>
-            Teléfono: +52 (444) 832-1000 Ext. 9218<br>
+            Teléfono: +52 (444) 832-1000 Ext. 9226<br>
             avanthooft@uaslp.mx <br>
         </p>
 
         <div class="enlacesprof">
             <a target="_blank" href="https://sociales.uaslp.mx/Paginas/Investigacion/2108#gsc.tab=0">Webpage</a>
-            <a target="_blank" href="/storage/CV/Vant_Hooft_AnuschkaJohannaMaria.pdf"><i>Curriculum Vitae</i></a>
+            <a target="_blank" href="{{asset('storage/CV/Vant_Hooft_AnuschkaJohannaMaria.pdf')}}"><i>Curriculum Vitae</i></a>
             <a target="_blank" href="https://investigadores.uaslp.mx/InvestigadorProfile/azUAAA%3d%3d">Directorio de Investigadores</a>
             <a target="_blank" href="http://orcid.org/0000-0002-3742-9121"><img src="{{asset('storage/images/orcid.png')}}" alt=""></a>
             <a target="_blank" href="https://www.scopus.com/authid/detail.uri?authorId=55304325900"> <img src="{{asset('storage/images/scopus.png')}}" alt=""></a>
@@ -100,6 +100,10 @@
             <div class="accordion-body">
               <strong>Artículos de investigación</strong><br><br>
               <ul class="vineta">
+                <li>Heindorf, C.; J.A. Reyes-Agüero, J. Fortanelli Martínez, <b>A. van 't Hooft</b> y G. Cilia López (en prensa). “Los huertos familiares de San Luis Potosí”, en María de Jesús Ordóñez (coord.), <i>Atlas biocultural de huertos familiares en México. Estado de México, Guerrero, Michoacán, Morelos, San Luis Potosí, Tabasco y Tamaulipas</i>. Tomo 2. México, UNAM.</li><br>
+                <li>Reyes-Samilpa, Alicia; Juan Antonio Reyes-Agüero; <b>Anuschka van 't Hooft</b>; Gregorio Álvarez-Fuentes; Erich Dietmar Rössel-Kipping (2023). “Fibers of Agave salmiana cultivar Xa’mni: physical characterization and comparison between leaf maturity and growth environment”, <i>Emergent Materials</i>. Print ISSN: 2522-5731, 2522574X. DOI: <a href="https://doi.org/10.1007/s42247-022-00439-y">https://doi.org/10.1007/s42247-022-00439-y</a>.</li><br>
+                <li>Reyes-Samilpa, Alicia, J. Antonio Reyes-Agüero, Gregorio Álvarez-Fuentes, Juan Rogelio Aguirre Rivera, & <b>Anuschka van 't Hooft</b> (2022). “Physical characterization of the fibers of Agave salmianaand A. mapisagafrom the Mezquital Valley, Mexico”, <i>Journal of Natural Fibers</i> 19 (10): 3710-3717. ISSN: 1544 0478. eISSN: 1544 046X. First published online: 02 Dec 2020. DOI: <a href="https://doi.org/10.1080/15440478.2020.1848722">https://doi.org/10.1080/15440478.2020.1848722</a>.</li><br>
+                <li>León-Arce, Mauricio, Angélica Torres-Díaz, Karen Mendoza-Pérez, <b>Anuschka van't Hooft</b>, Rogelio Flores-Ramírez y Fernando Díaz-Barriga (2022). “Escenarios humanitarios: una herramienta para abordar las violencias como un problema asociado a la salud y al ambiente”, <i>Revista de Salud Ambiental</i> 22 (1): 21-34. ISSN: 1577-9572.</li><br>
                 <li>Heindorf, C.; J. A. Reyes Agüero; <b>A. van 't Hooft</b>. 2021. Local markets: agrobiodiversity reservoirs and access points for farmers' plant propagation materials. Frontiers in Sustainable Food Systems 5:597822. Section Agroecology and Ecosystem Services. ISSN: 2571-581X (Online). DOI: <a href="https://doi.org/10.3389/fsufs.2021.597822" target="_blank">10.3389/fsufs.2021.597822</a></li><br>
                 <li>Heindorf, C.; J. A. Reyes-Agüero; J. Fortanelli-Martínez; <b>A. van 't Hooft</b>. 2021. More than Maize, Bananas, and Coffee: The Inter– and Intraspecific Diversity of Edible Plants of the Huastec Mayan Landscape Mosaics in Mexico. Economic Botany 75 (2): 158-174. ISSN:1874-9364 (Online). DOI: <a href="https://link.springer.com/article/10.1007/s12231-021-09520-9"> 10.1007/s12231-021-09520-9</a></li><br>
                 <li>Reyes-Samilpa, A.; J.A. Reyes-Agüero; <b>A. van 't Hooft</b>. 2021. El conocimiento tradicional <i>hñähñu</i> de las características físicas de la fibra del ixtle (<i>Agave</i> spp.). Anthropos 116 (2): 393-403. ISSN: 0257 9774. ISSN online: 0257 9774 <a href="https://doi.org/10.5771/0257-9774-2021-2-393">https://doi.org/10.5771/0257-9774-2021-2-393</a></li><br>
