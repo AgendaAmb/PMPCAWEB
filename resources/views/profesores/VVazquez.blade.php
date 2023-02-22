@@ -55,7 +55,7 @@
                 <ul class="vineta">
                   <li>Estudios multidisciplinarios de los desastres</li>
                    <li>Planeación y ordenamiento territorial y ambiental</li>
-                </ul>
+                </ul><br>
                 <li><strong>Dirección de Tesis</strong></li><br>
                 <p><em>Maestría en Ciencias Ambientales (Doble titulación), Co-Dirección</em></p>
                 <ul class="vineta">
