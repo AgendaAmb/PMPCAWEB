@@ -120,13 +120,12 @@
                 <div>
                     <h4><strong>Profesores del área</strong></h4>
                     <a href="{{route('areas.PrevencionYControl.Profesores.MAlfaro')}}" id="enlacesProfEvaluacion">Dra. Ma. Catalina Alfaro de la Torre</a> <br>
-                    <a href="#" id="enlacesProfEvaluacion">Dr. Valter Armando Barrera López</a> <br>
                     <a href="#" id="enlacesProfEvaluacion">Dr. Roberto Briones Gallardo</a> <br>
                     <a href="{{route('areas.PrevencionYControl.Profesores.CCarranza')}}" id="enlacesProfEvaluacion">Dra. Candy Carranza Álvarez</a> <br>
                     <a href="#" id="enlacesProfEvaluacion">Dra. Elsa Cervantes González</a> <br>
                     <a href="{{route('areas.PrevencionYControl.Profesores.PDiaz')}}" id="enlacesProfEvaluacion">Dra. Paola Elizabeth Díaz Flores</a> <br>
                     <a href="#" id="enlacesProfEvaluacion">Dr. Nahúm Andrés Medellín Castillo</a> <br>
-                    <a href="#" id="enlacesProfEvaluacion">Dr. Israel Rodríguez Torres</a> <br>
+                    <a href="{{route('areas.PrevencionYControl.Profesores.IRodriguez')}}" id="enlacesProfEvaluacion">Dr. Israel Rodríguez Torres</a> <br>
                     <a href="#" id="enlacesProfEvaluacion">Dr. Luis Manuel Rosales Colunga</a> <br>
                 </div>
             </div>

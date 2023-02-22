@@ -21,7 +21,7 @@
         <p>
             Sierra Leona #550, Lomas 2a sección<br>
             C.P. 78350, San Luis Potosí, S.L.P., México.<br><br>
-            Tel. + 52 (444) 826-1450 <br>
+            Tel. + 52 (444) 825-4326 Ext. 8236 <br>
             <a href="mailto:learsi@uaslp.mx"> learsi@uaslp.mx</a> <br>
         </p>
 
@@ -59,18 +59,19 @@
                 <li><strong>Dirección de Tesis</strong></li><br>
                 <p><em>Maestría en Ciencias Ambientales (Doble titulación), Co-Dirección</em></p>
                 <ul class="vineta">
-                  <li>Hasselbring Clara Louisa Anna. 2016. <a href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/4124/MCA1HCL201601.pdf?sequence=3&isAllowed=y"> The planning phase of an energy management system according to ISO 50001: elaboration for the Robert Bosch plant in San Luis Potosi, Mexico.</a></li>
+                  <li>Hasselbring Clara Louisa Anna. 2016. <a href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/4124/MCA1HCL201601.pdf?sequence=3&isAllowed=y" target="_blank"> The planning phase of an energy management system according to ISO 50001: elaboration for the Robert Bosch plant in San Luis Potosi, Mexico.</a></li>
                 </ul>
                 <br>
                 <p><em>Maestría en Ciencias Ambientales</em></p>
                 <ul class="vineta">
-                  <li>Alanís Leal Iris Alessandra. 2019. <a href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/5741/MCA1ALI201901.pdf?sequence=1&isAllowed=y"> Oxidación electroquímica avanzada para la degradación de contaminantes emergentes derivados de benzotiazol obtenidos a partir de fotólisis a condiciones ambientales controladas</a>.</li>
+                  <li>Alanís Leal Iris Alessandra. 2019. <a href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/5741/MCA1ALI201901.pdf?sequence=1&isAllowed=y" target="_blank"> Oxidación electroquímica avanzada para la degradación de contaminantes emergentes derivados de benzotiazol obtenidos a partir de fotólisis a condiciones ambientales controladas.</a></li>
+                  <li>Sánchez Mata Omar. 2022. <a href="#" target="_blank">Evaluación de reúso de agua industrial mediante el tratamiento de generación electroquímica de un agente coagulante.</a> </li>
                 </ul>
               </ol>
             </div>
           </div>
         </div>
-        <<div class="accordion-item">
+        <div class="accordion-item">
           <h2 class="accordion-header" id="headingTwo">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
               data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
@@ -141,11 +142,10 @@
             </ul>
             </div>
           </div>
-        </div>
+        </div><br><br><br>
       </div>
     </div>
     </div>
-    <br><br><br>
 </div>
 
 @endsection

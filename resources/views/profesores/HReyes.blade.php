@@ -112,7 +112,7 @@
             <div class="accordion-body">
               <strong>Artículos científicos</strong><br><br>
               <ul class="vineta">
-                <li>González-Avilés, B. E., <b>Reyes-Hernández, H.</b>, Yáñez-Espinosa, L., Carranza-González, E., De-Nova-Vazquez, J. A. 2023. La flora melífera del paisaje aledaño a la Reserva de la Biósfera Sierra del Abra Tanchipa, San Luis Potosí, México. <i>Botanical Sciences</i> (aceptado).<li><br>
+                <li>González-Avilés, B. E., <b>Reyes-Hernández, H.</b>, Yáñez-Espinosa, L., Carranza-González, E., De-Nova-Vazquez, J. A. 2023. La flora melífera del paisaje aledaño a la Reserva de la Biósfera Sierra del Abra Tanchipa, San Luis Potosí, México. <i>Botanical Sciences</i> (aceptado).</li><br>
                 <li>Alemán Contreras, U. A., <b>Reyes-Hernández, H.</b>, van´t Hooft, A., Santacruz de León, G. 2023. Dinámica espacio-temporal de los cambios en la cubierta vegetal y usos de suelo asociados al fracking en las cuencas de Burgos, México y Neuquina, Argentina. <i>Revista de Geografía Norte Grande</i> (aceptado).</li><br>
                 <li>Yáñez-Espinosa, L., Flores, J., Fortanelli-Martínez, J., Quintero-Ruiz, J. R., de Nova-Vázquez, J. A, <b>Reyes-Hernández, H.</b> 2022. Leaf traits variation of <i>Myriocarpa longipes</i> and <i>Brosimum alicastrum</i> in relation to microclimatic gradient in tropical dolines of Mexico. <i>The Journal of the Torrey Botanical Society.</i> 149 (4): 262-272 <a href="https://doi.org/10.3159/TORREY-D-22-00011.1">https://doi.org/10.3159/TORREY-D-22-00011.1</a></li><br>
                 <li><b>Reyes-Hernández, H.</b>, Silva-Flores M. A., Muñoz-Robles, C. A. Ortiz-Rodríguez, A. J. 2022. Strengthening environmental management and local planning in indigenous communities through hydrological connectivity analysis. Experiences from a tropical region of Mexico. <i>Human Ecology.</i> 50 (4): 617-632. <a href="https://doi.org/10.1007/s10745-022-00329-1">https://doi.org/10.1007/s10745-022-00329-1</a></li><br>
@@ -165,7 +165,7 @@
             </div>
           </div>
         </div>
-        <!--<div class="accordion-item">
+        <div class="accordion-item">
           <h2 class="accordion-header" id="headingThree">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
               data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
@@ -175,15 +175,17 @@
           <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
             data-bs-parent="#accordionExample">
             <div class="accordion-body">
-              <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin
-              adds the appropriate classes that we use to style each element. These classes control the overall
-              appearance,
-              as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or
-              overriding our default variables. It's also worth noting that just about any HTML can go within the
-              <code>.accordion-body</code>, though the transition does limit overflow.
+              <ul class="vineta">
+                <li>Adaptación al cambio climático en comunidades rurales: Una aproximación desde la gobernanza ambiental. Financiado CONACYT, Ciencia de Frontera (FOP16-2021-01-320575), vigencia 2022-2023.
+                </li><br>
+                <li>Caracterización y priorización de sitios para la restauración de suelos basada en Sistemas de Información Geográfica en la Reserva de la Biosfera Sierra del Abra Tanchipa. Financiado por el Fondo de Apoyo a la Investigación UASLP (C19-FAI-05-77.77), vigencia 2019-2020.</li><br>
+                <li>Cambios en la cubierta vegetal y usos de la tierra en la Región Prioritaria para la Conservación Xilitla. Financiado por el Fondo de Apoyo a la Investigación UASLP (C17-FAI-06-46.46), vigencia 2017-2018.</li><br>
+                <li>Caracterización de los encinares tropicales (Quercus oleoides) en la Reserva de la Biosfera Sierra del Abra Tanchipa y su área de influencia. CONANP/PROCODES/3698/2017. Financiado por CONANP, vigencia 2017.</li><br>
+                <li>Fortalecimiento de las acciones de restauración del bosque de niebla en la RPC Xilitla. PROCER/CCER/DRNEySMO/XILITLA/12/2016. Financiado por CONANP, vigencia 2016.</li>
+              </ul>
             </div>
           </div>
-        </div>-->
+        </div>
       </div>    <br><br><br>
     </div>
     </div>

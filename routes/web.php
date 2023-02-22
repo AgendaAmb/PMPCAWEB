@@ -187,6 +187,10 @@ Route::prefix('areas')->name('areas.')->group(function () {
                 return view('profesores.PDiaz');
             })->name('PDiaz');
 
+            Route::get('/IRodriguez', function () {
+                return view('profesores.IRodriguez');
+            })->name('IRodriguez');
+
         });
     });
 

@@ -22,7 +22,7 @@
             Av. Industrias #101-A Fracc. Talleres <br>
             C.P. 78399, San Luis Potosí, S. L. P., México <br> <br>
             Teléfono: +52 (444) 832-1000 Ext. 9218<br>
-            ggm@uaslp.mx <br>
+            vazquezsv@uaslp.mx <br>
         </p>
 
         <div class="enlacesprof">
@@ -53,27 +53,30 @@
                     </ul><br>
                 <li><strong>LGAC</strong></li>
                 <ul class="vineta">
-                  <li>Estudios multidisciplinarios de los desastres<br>
-                   Planeación y ordenamiento territorial y ambiental
-                </p>
+                  <li>Estudios multidisciplinarios de los desastres</li>
+                   <li>Planeación y ordenamiento territorial y ambiental</li>
+                </ul>
                 <li><strong>Dirección de Tesis</strong></li><br>
                 <p><em>Maestría en Ciencias Ambientales (Doble titulación), Co-Dirección</em></p>
-                <p>
-                  Navarro Gamboa Miguel. 2013. <a href="http://ambiental.uaslp.mx/pmpca/tesis/Mae/Gen%202011-08/2013_pmpca_navarrogamboa.pdf">Community participation in the alternative tourism center Ecoturixtlán, municipality of Ixtlán de Juárez, Oaxaca Mexico.</a><br>
-                  Moreno Freydig Hugo César. 2016. <a href="https://ninive.uaslp.mx/xmlui/handle/i/4672">Design of non-motorized mobility plan for warm climate cities-case: Hermosillo, Sonora, Mexico.</a><br>
-                  Suárez Flores Nathalie Alejandra. 2019. <a href="#"> Tourism carrying capacity as an instrument for local sustainable development in Peña de Bernal, Querétaro. </a>
-                </p>
+                <ul class="vineta">
+                  <li>Navarro Gamboa Miguel. 2013. <a href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/3693/MCA1NGM201301.pdf?sequence=3&isAllowed=y" target="_blank">Community participation in the alternative tourism center Ecoturixtlán, municipality of Ixtlán de Juárez, Oaxaca Mexico.</a></li>
+                  <li>Moreno Freydig Hugo César. 2016. <a href="https://ninive.uaslp.mx/xmlui/handle/i/4672" target="_blank">Design of non-motorized mobility plan for warm climate cities-case: Hermosillo, Sonora, Mexico.</a></li>
+                  <li>Suárez Flores Nathalie Alejandra. 2019. <a href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/5735/MCA1SFN201901.pdf?sequence=1&isAllowed=y" target="_blank"> Tourism carrying capacity as an instrument for local sustainable development in Peña de Bernal, Querétaro. </a></li>
+                  <li>Chasi Tinoco Pedro Sebastián. 2020. <a href="#" target="_blank">The touristic potential in Real de Catorce, Altiplano area of San Luis Potosi by using sustainable indicators</a></li>
+                  <li>López Siguenza Luis Felipe. 2021. <a href="#" target="_blank">Tourism carrying capacity assessment for the sustainable management of the protected area "Mario Ballena" National Park, Costa Rica</a> </li>
+                </ul>
                 <br>
                 <p><em>Maestría en Ciencias Ambientales</em></p>
-                <p>
-                  Soto Torres María de Lourdes. 2017. <a href="https://ninive.uaslp.mx/xmlui/handle/i/4334">Condiciones ambientales en el ejido San Francisco, municipio Zaragoza, San Luis Potosí, para la incorporación de proyectos asociados al turismo alternativo.</a> <br>
-                  Pérez Silva Sandy Ivonne. 2019. <a href="#">Capacidad de carga turística como instrumento para la gestión sustentable en el Cerro de la Bufa, Municipio de Zacatecas. </a><br>
-                  García García Ana Mónica de Jhesú. 2019. <a href="#">Vulnerabilidad de los sitios turísticos en San Luis Potosí, a través de escenarios de variabilidad climática. </a>
-                </p>
+                <ul class="vineta">
+                  <li>Soto Torres María de Lourdes. 2017. <a href="https://ninive.uaslp.mx/xmlui/handle/i/4334" target="_blank">Condiciones ambientales en el ejido San Francisco, municipio Zaragoza, San Luis Potosí, para la incorporación de proyectos asociados al turismo alternativo.</a> </li>
+                  <li>Pérez Silva Sandy Ivonne. 2019. <a href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/5733/MCA1PSS201901.pdf?sequence=1&isAllowed=y" target="_blank">Capacidad de carga turística como instrumento para la gestión sustentable en el Cerro de la Bufa, Municipio de Zacatecas. </a></li>
+                  <li>García García Ana Mónica de Jhesú. 2019. <a href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/5730/MCA1GGA201901.pdf?sequence=1&isAllowed=y" target="_blank">Vulnerabilidad de los sitios turísticos en la región Huasteca, San Luis Potosí, como resultado de la variabilidad climática.</a></li>
+                  <li>Vera González Vanessa. 2019. <a href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/5736/MCA1VGV201901.pdf?sequence=1&isAllowed=y" target="_blank">Propuesta de gestión turística sustentable para la ruta del mezcal en la región Altiplano de San Luis Potosí.</a></li>
+                </ul>
                 <br>
                 <p><em>Doctorado en Ciencias Ambientales</em></p>
-                <p>
-                  Blanco López Paloma. 2015. <a href="http://ambiental.uaslp.mx/pmpca/tesis/Doc/Gen2010-02/2015_pmpca_blancolopez.pdf">Planificación del turismo sustentable en la zona altiplano de San Luis Potosí. Una propuesta metodológica.</a> (Co-Dirección)
+                <ul class="vineta">
+                  <li>Blanco López Paloma. 2015. <a href="#" target="_blank">Planificación del turismo sustentable en la zona Altiplano de San Luis Potosí. Una propuesta metodológica.</a> (Co-Dirección)</li>
                 </p>
               </ol>
             </div>
@@ -123,10 +126,9 @@
             </div>
           </div>
         </div>-->
-      </div>
+      </div><br><br><br>
     </div>
     </div>
-    <br><br><br>
 </div>
 
 @endsection

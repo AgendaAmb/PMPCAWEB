@@ -131,6 +131,7 @@
                 <li><b>GIZ-UASLP</b> “Desarrollo de capacidades para la elaboración de proyectos de Educación Ambiental para la conservación del Corredor Ecológico de la Sierra Madre Oriental”. Abril 22 a septiembre 24 de 2016.</li><br>
                 <li><b>PRODEP.</b> Líder Dr. Renato Ramos en colaboración y co-dirección de tesis. “Introducción de módulos de vegetación urbana para el control de escurrimientos en vialidades con pendiente”. Septiembre 2015 – Septiembre 2016</li><br>
                 <li><b>CUMMINS-UASLP</b> a través de GlobalGiving Foundation, Proyecto “Techo Vivo”. Convenio del 12 de mayo de 2014.</li>
+              </ul>
             </div>
           </div>
         </div>
