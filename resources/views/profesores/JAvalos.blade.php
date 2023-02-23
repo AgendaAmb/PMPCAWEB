@@ -25,18 +25,18 @@
 
                     <div class="enlacesprof">
                         <a target="_blank"
-                            href="https://investigadores.uaslp.mx/InvestigadorProfile/TUsAAA%3D%3D">Webpage</a>
+                            href="http://variclim.fav.uaslp.mx/appvariclim/">Webpage</a>
                         <a target="_blank"
-                            href="https://investigadores.uaslp.mx/InvestigadorProfile/descargarCV/TUsAAA%3d%3d">Curriculum
-                            Vitae </a>
+                            href="https://investigadores.uaslp.mx/InvestigadorProfile/descargarCV/TUsAAA%3d%3d"><em>Curriculum
+                            Vitae</em></a>
                         <a target="_blank"
                             href="https://investigadores.uaslp.mx/InvestigadorProfile/TUsAAA%3d%3d">Directorio de
                             Investigadores</a>
                         <a target="_blank" href="https://orcid.org/0000-0002-0645-4236"><img
                                 src="{{ asset('storage/images/orcid.png') }}" alt=""></a>
-                        <a target="_blank"
+                        <!--<a target="_blank"
                             href="https://www.scopus.com/results/authorNamesList.uri?sort=count-f&src=al&sid=1fb0b93ce0efea4084719194ae7bba2e&sot=al&sdt=al&sl=55&s=AUTHLASTNAME%28%c3%81valos+Lozano%29+AND+AUTHFIRST%28Jos%c3%a9+Antonio%29&st1=%c3%81valos+Lozano&st2=Jos%c3%a9+Antonio&orcidId=&selectionPageSearch=anl&reselectAuthor=false&activeFlag=true&showDocument=false&resultsPerPage=20&offset=1&jtp=false&currentPage=1&previousSelectionCount=0&tooManySelections=false&previousResultCount=0&authSubject=LFSC&authSubject=HLSC&authSubject=PHSC&authSubject=SOSC&exactAuthorSearch=false&showFullList=false&authorPreferredName=&origin=searchauthorfreelookup&affiliationId=&txGid=8d9a7e159a50913edd718ef20693501d">
-                            <img src="{{ asset('storage/images/scopus.png') }}" alt=""></a>
+                            <img src="{{ asset('storage/images/scopus.png') }}" alt=""></a>-->
                     </div>
                 </div>
             </div>

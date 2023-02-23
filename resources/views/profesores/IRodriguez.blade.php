@@ -27,7 +27,7 @@
 
         <div class="enlacesprof">
             <a target="_blank" href="http://ciep.ing.uaslp.mx/minerales/profesor.php?id=3132393938">Webpage</a>
-            <a target="_blank" href="/storage/CV/Rodriguez_Torres_Israel.pdf"><em>Curriculum Vitae</em></a>
+            <a target="_blank" href="{{asset('storage/CV/Rodriguez_Torres_Israel.pdf')}}"><em>Curriculum Vitae</em></a>
             <a target="_blank" href="https://investigadores.uaslp.mx/InvestigadorProfile/xjIAAA==">Directorio de Investigadores</a>
             <a target="_blank" href="https://orcid.org/0000-0003-4923-5671"><img src="{{asset('storage/images/orcid.png')}}" alt=""></a>
             <a target="_blank" href="https://www.scopus.com/authid/detail.uri?authorId=56319267200"> <img src="{{asset('storage/images/scopus.png')}}" alt=""></a>

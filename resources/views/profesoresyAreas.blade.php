@@ -86,8 +86,7 @@
                         con
                         la perturbación natural y humana; evaluaciones experimentales en condiciones controladas, efectos
                         del
-                        ambiente en la producción y repro-
-                        ducción del ganado, y cambios ecofisiológicos en plantas silvestres y cultivadas debidos al cambio
+                        ambiente en la producción y reproducción del ganado, y cambios ecofisiológicos en plantas silvestres y cultivadas debidos al cambio
                         climático; el análisis de las relaciones recíprocas entre humanos y la biota, a través de los
                         hechos,
                         procesos, materiales recolectados, productos primarios y otras manifestaciones culturales; el

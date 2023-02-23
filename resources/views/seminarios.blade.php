@@ -47,7 +47,7 @@
                                                 <td>2017</td>
                                                 <td>Febrero - Junio</td>
                                                 <td><a href="{{asset('storage/Doc/Multi_Feb-Jun2017.pdf')}}" target="_blank">Memorias</a> / <a
-                                                        href="docs/Plenarias1_2017.pdf" target="_blank">Presentaciones</a>
+                                                        href="{{asset('storage/Doc/Plenarias1_2017.pdf')}}" target="_blank">Presentaciones</a>
                                                 </td>
                                             </tr>
                                             <tr>

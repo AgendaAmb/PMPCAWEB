@@ -15,7 +15,7 @@
                     <div>
                         <h5> <strong id="directorioprofes">Dra. Paola Elizabeth Díaz Flores</strong> </h5>
                         <p>
-                            Coordinador Académico del PMPCA <br>
+                            Coordinadora Académica del PMPCA <br>
                             Periodo de actividad 2021 - 2023
                             coordinacion.academica@uaslp.mx <br>
                             Tel: +52 (444) 826-2439 Ext. 7206 <br><br>

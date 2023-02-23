@@ -32,7 +32,7 @@
                                 mejor aprovechamiento de sus recursos naturales y la utilización de la tecnología en la
                                 atención de necesidades locales.</li> <br><br>
                             <li id="contTablaIzq">Aplicación de la investigación básica en problemas de interés local, regional e
-                                internacional con todos los actores para concientizar, intervenir y crear alternativas de
+                                internacional con todos los factores para concientizar, intervenir y crear alternativas de
                                 cambio para el desarrollo de un entorno más sustentable.</li><br>
                         </ol>
                         </p>
