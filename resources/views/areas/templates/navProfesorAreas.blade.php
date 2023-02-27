@@ -68,9 +68,7 @@
                         <h4><strong>Nombre de la LGAC del área:</strong></h4>
                         Identificación, análisis y caracterización de problemas ambientales.
                     </div>
-
                     <hr>
-
                     <div>
                         <h4><strong>Profesores del área</strong></h4>
                         <a href="{{route('areas.EvaluacionAmbiental.Profesores.MAlgara')}}" id="enlacesProfEvaluacion">Dr. Marcos Algara Siller</a> <br>
@@ -103,6 +101,22 @@
                     <a href="{{route('areas.GestionAmbiental.Profesores.OReyes')}}" id="enlacesProfEvaluacion">Dr. Oscar Reyes Pérez</a> <br>
                     <a href="{{route('areas.GestionAmbiental.Profesores.AVant')}}" id="enlacesProfEvaluacion">Dra. Anuschka Van´t Hooft</a> <br>
                     <a href="{{route('areas.GestionAmbiental.Profesores.VVazquez')}}" id="enlacesProfEvaluacion">Dr. Valente Vázquez Solís</a> <br>
+                </div>
+                <hr>
+                <div>
+                    <h4><strong>Infraestructura</strong></h4>
+                    <h5>CIACYT (responsable: Dra. María Guadalupe Galindo Mendoza)</h5>
+                    <ol>
+                        <li>Laboratorio Nacional de Geoprocesamiento de Información Fitosanitaria (LaNGIF)</li>
+                        <li>Laboratorio de Diagnóstico Fitosanitaria para la Validación de Modelos Basados en Sensores Remotos (LaNGIF)</li>
+                    </ol>
+                    <br>
+                    <h5>Facultad de Ciencias Sociales y Humanidades</h5>
+                    <ol>
+                        <li>Laboratorio audiovisual (responsable: Lic. Oscar Silva Silva)</li>
+                        <li>Laboratorio de Cómputo (responsable: Ing. Juan Enrique Avalos Arguijo)</li>
+                        <li>Laboratorio SIG y Percepción Remota (repsonsable: Mtra. Erika Galarza Rincón)</li>
+                    </ol>
                 </div>
             </div>
         </div>
@@ -157,6 +171,29 @@
                     <a href="{{route('areas.RecursosNaturales.Profesores.JReyes')}}" id="enlacesProfEvaluacion">Dr. Juan Antonio Reyes Agüero</a> <br>
                     <a href="{{route('areas.RecursosNaturales.Profesores.LYanez')}}" id="enlacesProfEvaluacion">Dra. Laura Yáñez Espinosa</a> <br>
                 </div>
+                <hr>
+                    <div>
+                        <h4><strong>Infraestructura</strong></h4>
+                        <ol>
+                            <li>Un auditorio (80) personas</li>
+                            <li>4 salones (para 35 personas cada uno)</li>
+                            <li>3 salas de trabajo grupal (para 8 y/o 10 personas)</li>
+                            <li>Herbario Isidro Palacios</li>
+                            <li>Laboratorio de Fitoquímica</li>
+                            <li>Laboratorio de Recursos Bióticos</li>
+                            <li>Laboratorio de Fisiología vegetal</li>
+                            <li>Laboratorio de Agroprocesos</li>
+                            <li>Laboratorio de Nutrición animal con un área de Ecología Vegetal</li>
+                            <li>Laboratorio de Usos rudos</li>
+                            <li>Unidad de Secado por dispersión</li>
+                            <li>Invernadero tipo túnel</li>
+                            <li>Camioneta tipo Van para 9 pasajeros</li>
+                            <li>Vehículo Jeep 2 puertas 4 x 4</li>
+                            <li>Camioneta Pick up estándar 2 puertas</li>
+                            <li>Jeep para 5 pasajeros</li>
+                            <li>Jeep wrangler Sahara techo duro</li>
+                        </ol>
+                    </div>
             </div>
         </div>
         

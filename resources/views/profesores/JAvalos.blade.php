@@ -12,7 +12,7 @@
             </div>
             <div class="col-12 col-sm-9">
                 <div>
-                    <h4><strong>Profesor Investigador de Tiempo Completo. Nivel V.</strong></h4>
+                    <h4><strong>Profesor Investigador de Tiempo Completo. Nivel VI.</strong></h4>
                     <h5><strong>Facultad de Agronomía y Veterinaria.</strong></h5>
                     <h5><strong>SNI nivel C.</strong></h5>
                     <p>
@@ -27,7 +27,7 @@
                         <a target="_blank"
                             href="http://variclim.fav.uaslp.mx/appvariclim/">Webpage</a>
                         <a target="_blank"
-                            href="https://investigadores.uaslp.mx/InvestigadorProfile/descargarCV/TUsAAA%3d%3d"><em>Curriculum
+                            href="{{asset('storage/CV/Avalos_Lozano_JoseAntonio.pdf')}}"><em>Curriculum
                             Vitae</em></a>
                         <a target="_blank"
                             href="https://investigadores.uaslp.mx/InvestigadorProfile/TUsAAA%3d%3d">Directorio de
@@ -56,33 +56,32 @@
                             <li><strong>Cursos:</strong></li>
                             <p>
                             <ul class="vineta">
-                                <li> Evaluación de los efectos de la variabilidad y el cambio climático sobre la integridad
+                                <li>Evaluación de los efectos de la variabilidad y el cambio climático sobre la integridad
                                     funcional de los paisajes</li>
-                                <li> Problemática y Gestión Ambiental</li>
-                                <li> Evaluación del Riesgo e Impacto Ambiental</li>
-                                <li> Cambio Global</li>
-                                <li> Sistemas de Manejo y Calidad Ambiental</li>
+                                <li>Problemática y Gestión Ambiental</li>
+                                <li>Evaluación del Riesgo e Impacto Ambiental</li>
+                                <li>Cambio Global</li>
+                                <li>Sistemas de Manejo y Calidad Ambiental</li>
                             </ul>
                             </p>
                             <li><strong>LGAC:</strong></li>
                             <p>
                             <ul class="vineta">
-                                <li> Evaluación de riesgos producidos por la variabilidad y el cambio climático en la
+                                <li>Evaluación de riesgos producidos por la variabilidad y el cambio climático en la
                                     agricultura y los ecosistemas</li>
-                                <li> Economía del Paisaje</li>
-                                <li> Teledetección</li>
+                                <li>Economía del Paisaje</li>
+                                <li>Teledetección</li>
                             </ul>
                             </p>
-                            <li><strong>Dirección de Tesis:</strong></li>
+                            <li><strong>Dirección de Tesis:</strong></li><br>
 
                             <p><em>Maestría en Ciencias Ambientales</em>
                             <ul class="vineta">
-                                <li> Olivo Menchaca Georgina. 2013. <a
-                                        href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/3837/MCA1IEG01301.pdf?sequence=3&amp;isAllowed=y">Inventario
-                                        estatal de emisiones de gases de efecto invernadero del sector energía, balance
+                                <li>Olivo Menchaca Georgina. 2013. <a
+                                        href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/3837/MCA1IEG01301.pdf?sequence=3&amp;isAllowed=y">Inventari de emisiones de gases de efecto invernadero del sector energía, balance
                                         estatal de energía y estrategias de mitigación</a>. (Co-dirección)</li>
-                                <li> Vargas Huipe Nuria Delia. 2013. <a
-                                        href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/3668/MCA1CMO01301.pdf?sequence=1&isAllowed=y">Construcción
+                                <li>Vargas Huipe Nuria Delia. 2013. <a
+                                        href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/3668/MCA1VHN201301.pdf?sequence=3&isAllowed=y">Construcción
                                         de un modelo de ordenamiento ecológico local comunitario, Pokchich, San Antonio, San
                                         Luis Potosí.</a> (Co-dirección)</li>
                             </ul>
@@ -104,16 +103,23 @@
                         <p><strong>Artículos de Investigación</strong></p>
                         <p>
                         <ul class="vineta">
-                            <li> Mónica Terán Hernández, Rebeca Ramis Prieto, Jaqueline Calderón Hernández, Carlos Garrocho
+                            <li><b>Ávalos-Lozano José Antonio</b>, (2021). Socioeconomic Drought in a Mexican Semiarid City: Monterrey Metropolitan Area, a case study. Frontiers in Water. DOI: 10.3389/frwa.2021.579564.</li><br>
+                            <li>Mónica Terán Hernández, Rebeca Ramis Prieto, Jaqueline Calderón Hernández, Carlos Garrocho
                                 Rangel, Juan Campos Alanís; <b>Antonio Ávalos Lozano</b>, Miguel Aguilar Robledo., (2016).
                                 Geographic variations in cervical cancer risk in San Luis Potosí state, México: A spatial
-                                statistical approach. Universidad Nacional Autónoma de México, D.F. MEXICO.</li>
+                                statistical approach. Universidad Nacional Autónoma de México, D.F. MEXICO.</li><br>
+                            <li>Mónica Terán Hernández, Rebeca Ramis Prieto, Jaqueline Calderón Hernández, Carlos Garrocho Rangel, Juan Campos Alanís; <b>Antonio Ávalos Lozano</b>, Miguel Aguilar Robledo., (2016). Geographic variations in cervical cancer risk in San Luis Potosí state, México: A spatial statistical approach. Universidad Nacional Autónoma de México, DF MEXICO ISSN 1011484X</li><br>
+                            <li>Gutiérrez-Escajeda, M.T., Medellín-Milán, P., <b>Ávalos-Lozano, J.A.</b>, & Ávila-Galarza, A., (2014). El enfoque bottom-up y el control de calidad imprescindible en el inventario de emisiones de gases de efecto invernadero del sector industrial en San Luis Potosí, México. Ambiente y Desarrollo, 18(34), 93-108.</li><br>
+                            <li>Erika Loyola Martínez, Dr. Pedro Medellín Milán, <b>Dr. José Antonio Ávalos Lozano</b>, Dr. Miguel Aguilar Robledo. (2011). Cambio Climático y Variabilidad en la Dinámica de los Ecosistemas de Wirikuta, Municipio de Catorce (1950-2010). Revista Geográfica de América Central, Número Especial EGAL, pp 1-18, ISSN-2115-2563</li><br>
+                            <li>Pedro Medellín Milán, <b>José Antonio Ávalos Lozano</b>, Luz María Nieto Caraveo. (2011). Más Allá de la Economía Ecológica, la Construcción de Nichos de Sostenibilidad. Polis, Revista Latinoamericana, Vol. 29: 1-127.</li><br>
+                            <li><b>José Antonio Ávalos Lozano</b>, Miguel Aguilar Robledo, Pedro Medellín Milán (2009). La construcción del Metaparadigma de la Sostenibilidad: El caso de la Reserva de la Biósfera Wirikuta, San Luis Potosí, México. 7705. EGAL. ISBN 978-9974-8194-0-5.</li><br>
+                            <li><b>José Antonio Ávalos Lozano</b>, Pedro Medellín Milán, Miguel Aguilar Robledo y Luz María Nieto Caraveo (2007). Amenaza previsible. Lecciones de historia sobre la aplicabilidad del principio precautorio. Trayectorias. 24: 31-44.</li>
                         </ul>
                         </p>
                         <p><strong>Capítulos de Libros</strong></p>
                         <p>
                         <ul class="vineta">
-                            <li> <b>Antonio Avalos-Lozano</b> (2017). Propuesta estratégica para el desarrollo sustentable
+                            <li><b>Antonio Avalos-Lozano</b> (2017). Propuesta estratégica para el desarrollo sustentable
                                 de las comunidades rurales en zonas áridas de México. En Diálogos temáticos sobre desarrollo
                                 rural sustentable y soberanía alimentaria. Rocky Alvarado Hernández, <b>José Antonio Ávalos
                                     Lozano</b>, Anabell Guadalupe Díaz Espinosa, Antonio Manuel García Gonzáles, Luis Gómez
@@ -121,21 +127,21 @@
                                 Juárez, Liv Lafontaine Navarro, Roberto Martínez Yllescas, Martín Martínez Salvador, Jorge
                                 Galo Medina Torres, Abel Pérez Zamorano, Vinicio Horacio Santoyo Cortés, Fernando Soto
                                 Baquero y Antonio Yúnez Naude (Eds). Honorable Cámara de Diputados LXIII Legislatura/
-                                Congreso de la Unión. ISBN 978-607-8501-34-2 </li>
-                            <li> <b>Antonio Avalos-Lozano</b>, Miguel Aguilar-Robledo, (2017). Reconstructing the
+                                Congreso de la Unión. ISBN 978-607-8501-34-2 </li><br>
+                            <li><b>Antonio Avalos-Lozano</b>, Miguel Aguilar-Robledo, (2017). Reconstructing the
                                 Environmental History of Colonial Mining: The Real del Catorce Mining District, 18th to 19th
                                 centuries; in J.R. Mcneill, George H. Vrtis, the Environmental History of Mining in North
-                                America, University of California Press. ISBN 978 052 027 916 2.</li>
-                            <li> Moreno-Unda,l A.A., Aguilar-Robledo y <b>J.A. Ávalos Lozano</b>, (2017). “El Programa
+                                America, University of California Press. ISBN 978 052 027 916 2.</li><br>
+                            <li>Moreno-Unda,l A.A., Aguilar-Robledo y <b>J.A. Ávalos Lozano</b>, (2017). “El Programa
                                 Nacional de Desmontes en México”. La historia ambiental en México: estudios de caso. M.
                                 Aguilar-Robledo, H. Reyes-Hernández y O. Reyes-Pérez, eds. Universidad Autónoma de San Luis
-                                Potosí-Centro de Investigaciones en Geografía Ambiental, UNAM. Aceptado.</li>
-                            <li> <b>Ávalos Lozano, J.A.</b>, M. Aguilar Robledo, P. Medellín Milán y J. A. Alcalá Jáuregui.
+                                Potosí-Centro de Investigaciones en Geografía Ambiental, UNAM. Aceptado.</li><br>
+                            <li><b>Ávalos Lozano, J.A.</b>, M. Aguilar Robledo, P. Medellín Milán y J. A. Alcalá Jáuregui.
                                 (2017). “Esbozo histórico de la industria minera-metalúrgica de producción de plata en la
                                 Nueva España/México, siglos XVIII y XIX”. La historia ambiental en México: estudios de caso.
                                 M. Aguilar-Robledo, H. Reyes-Hernández y O. Reyes-Pérez, eds. Universidad Autónoma de San
-                                Luis Potosí-Centro de Investigaciones en Geografía Ambiental, UNAM. Aceptado.</li>
-                            <li> Gerardo A. Hernández Cendejas, <b>Antonio Ávalos Lozano</b> y Pedro Urquijo. (2016). El
+                                Luis Potosí-Centro de Investigaciones en Geografía Ambiental, UNAM. Aceptado.</li><br>
+                            <li>Gerardo A. Hernández Cendejas, <b>Antonio Ávalos Lozano</b> y Pedro Urquijo. (2016). El
                                 Te’lom ¿Una alternativa a la deforestación en la Huasteca? Analisis de un sistema
                                 agroforestal entre los Teenek Potosinos, en Etnoagroforestería en México. A.I.
                                 Moreno-Calles, A.Casas, V.M. Toledo, M. Vallejo, UNAM. ISBN 978 607 028 164 8</li>
@@ -156,26 +162,25 @@
                     <div class="accordion-body">
                         <p>
                             <ul class="vineta">
-                                <li> <b>Estudio de Cuencas Atmosféricas para la Zona Metropolitana de la Ciudad de San Luis Potosí.</b><br>Director del Proyecto<br>Secretaría de Ecología y Gestión Ambiental del Gobierno del Estado de San Luis Potosí y Universidad Autónoma de San Luis Potosí. <br>2018 </li><br>
-                                <li> <b>Plan de Manejo de la Presa San José.</b> <br>Director del Proyecto<br>Secretaría de Ecología y Gestión Ambiental del Gobierno del Estado de San Luis Potosí  y Universidad Autónoma de San Luis Potosí. <br>2018</li><br>
-                                <li> <b>Inventario Estatal de Gases de Efecto Invernadero del Estado de San Luis Potosí 2007 - 14. </b><br>Director del Proyecto<br>Secretaría de Ecología y Gestión Ambiental del Gobierno del Estado de San Luis Potosí  y Universidad Autónoma de San Luis Potosí. <br>2018</li><br>
-                                <li> <b>Estrategia Estatal de Acción ante el Cambio Climático.</b> <br>Director del Proyecto<br>Secretaría de Ecología y Gestión Ambiental del Gobierno del Estado de San Luis Potosí  y Universidad Autónoma de San Luis Potosí. <br>2018</li><br>
-                                <li> <b>Mantenimiento a los cuadrantes de la flora rescatada del proyecto Ramones Fase II Sur, localizados en el estado de San Luis Potosí.</b><br>Director del Proyecto<br>TAG Pipelines S. de R.L. de C.V., y Universidad Autónoma de San Luis Potosí. <br>2017 a 2019</li><br>
-                                <li> <b>Construcción del “Jardín Botánico del Desierto Chihuahuense” para el rescate y reubicación de las plantas removidas en diferentes polígonos de los tramos T05-San Luis Potosí y T06-San Luis Potosí del proyecto Sistema de Transporte de gas natural Los Ramones Fase II Sur.</b> <br>Director del Proyecto<br>ICA-FLUOR DANIEL S.R.L de C.V.  y Universidad Autónoma de San Luis Potosí.<br> 2016-2017 </li><br>
-                                <li> <b>Programa Estatal de Acción ante el Cambio Climático para el Estado de San Luis Potosí.</b> <br>Director del Proyecto<br>Secretaría de Ecología y Gestión Ambiental del Gobierno del Estado de San Luis Potosí  y Universidad Autónoma de San Luis Potosí. <br>2017</li><br>
-                                <li> <b>Diseño, establecimiento, arranque y operación de un sistema de vigilancia satelital, monitorización de riesgos y evaluación de siniestros agropecuarios para la República Mexicana. (SISMOR)</b><br>Director del Proyecto<br>MAPFRE-TEPEYAC S.A.<br>
+                                <li><b>Estudio de Cuencas Atmosféricas para la Zona Metropolitana de la Ciudad de San Luis Potosí.</b><br>Director del Proyecto<br>Secretaría de Ecología y Gestión Ambiental del Gobierno del Estado de San Luis Potosí y Universidad Autónoma de San Luis Potosí. <br>2018 </li><br>
+                                <li><b>Plan de Manejo de la Presa San José.</b> <br>Director del Proyecto<br>Secretaría de Ecología y Gestión Ambiental del Gobierno del Estado de San Luis Potosí  y Universidad Autónoma de San Luis Potosí. <br>2018</li><br>
+                                <li><b>Inventario Estatal de Gases de Efecto Invernadero del Estado de San Luis Potosí 2007 - 14. </b><br>Director del Proyecto<br>Secretaría de Ecología y Gestión Ambiental del Gobierno del Estado de San Luis Potosí  y Universidad Autónoma de San Luis Potosí. <br>2018</li><br>
+                                <li><b>Estrategia Estatal de Acción ante el Cambio Climático.</b> <br>Director del Proyecto<br>Secretaría de Ecología y Gestión Ambiental del Gobierno del Estado de San Luis Potosí  y Universidad Autónoma de San Luis Potosí. <br>2018</li><br>
+                                <li><b>Mantenimiento a los cuadrantes de la flora rescatada del proyecto Ramones Fase II Sur, localizados en el estado de San Luis Potosí.</b><br>Director del Proyecto<br>TAG Pipelines S. de R.L. de C.V., y Universidad Autónoma de San Luis Potosí. <br>2017 a 2019</li><br>
+                                <li><b>Construcción del “Jardín Botánico del Desierto Chihuahuense” para el rescate y reubicación de las plantas removidas en diferentes polígonos de los tramos T05-San Luis Potosí y T06-San Luis Potosí del proyecto Sistema de Transporte de gas natural Los Ramones Fase II Sur.</b> <br>Director del Proyecto<br>ICA-FLUOR DANIEL S.R.L de C.V.  y Universidad Autónoma de San Luis Potosí.<br> 2016-2017 </li><br>
+                                <li><b>Programa Estatal de Acción ante el Cambio Climático para el Estado de San Luis Potosí.</b> <br>Director del Proyecto<br>Secretaría de Ecología y Gestión Ambiental del Gobierno del Estado de San Luis Potosí  y Universidad Autónoma de San Luis Potosí. <br>2017</li><br>
+                                <li><b>Diseño, establecimiento, arranque y operación de un sistema de vigilancia satelital, monitorización de riesgos y evaluación de siniestros agropecuarios para la República Mexicana. (SISMOR)</b><br>Director del Proyecto<br>MAPFRE-TEPEYAC S.A.<br>
                                 Primer contrato: agosto 2015 a julio 2016<br>
                                 Segundo contrato: agosto 2016 a julio 2017<br>
                                 Tercer contrato: agosto 2017 a julio 2018<br>
                                 Cuarto contrato: agosto 2018 a julio 2019</li><br>
-                                <li> <b>La GEO WEB Sistema Producto Caña de Azúcar, definida como una Plataforma WEB, diseñada en software libre.</b><br>Director del Proyecto<br>El Ingenio Plan de Ayala, la unión local de productores de Caña de Azúcar C.N.P.R., Unión Local C.N.C., Grupo Ejidal Universidad Autónoma de San Luis Potosí.<br> 15 de diciembre de 2016 al 15 de diciembre del 2017</li><br>
+                                <li><b>La GEO WEB Sistema Producto Caña de Azúcar, definida como una Plataforma WEB, diseñada en software libre.</b><br>Director del Proyecto<br>El Ingenio Plan de Ayala, la unión local de productores de Caña de Azúcar C.N.P.R., Unión Local C.N.C., Grupo Ejidal Universidad Autónoma de San Luis Potosí.<br> 15 de diciembre de 2016 al 15 de diciembre del 2017</li><br>
                         </p>
                     </div>
                 </div>
             </div>
-        </div>
+        </div>    <br><br><br>
     </div>
     </div>
-    <br><br><br>
     </div>
 @endsection

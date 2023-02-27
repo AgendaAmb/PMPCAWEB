@@ -60,6 +60,7 @@
                 <p><em>Maestría en Ciencias Ambientales (Doble titulación), Co-Dirección</em></p>
                 <ul class="vineta">
                   <li>Hasselbring Clara Louisa Anna. 2016. <a href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/4124/MCA1HCL201601.pdf?sequence=3&isAllowed=y" target="_blank"> The planning phase of an energy management system according to ISO 50001: elaboration for the Robert Bosch plant in San Luis Potosi, Mexico.</a></li>
+                  <li>Bossek David Benedikt. 2018. Analysis of the integration of Volkswagen de México´s sustainable projects into the emerging Mexican Emissions Trading System and their environmental and social potential.</li>
                 </ul>
                 <br>
                 <p><em>Maestría en Ciencias Ambientales</em></p>
@@ -83,6 +84,13 @@
             <div class="accordion-body">
               <strong>Artículos de investigación</strong><br><br>
               <ul class="vineta">
+                <li>Rubicelia García-Garnica, Néstor Castillo-Magallanes, <b>Israel Rodríguez</b>, Roel Cruz, Isabel Lázaro. “Electrochemical study of enargite within the mixed potential zone attained with different oxidizing reagents in an alkaline medium”. Electrochimica Acta, 425 (2022) 140719. ISSN: 0013-4686. doi: <a href="https://doi.org/10.1016/j.electacta.2022.140719" target="_blank">10.1016/j.electacta.2022.140719</a></li><br>
+                <li>Mary C. Nolasco, Lucia F. Flores, Emmanuel J. Gutiérrez, Javier Aguilar, Elia G. Palacios, Mizraim U. Flores, <b>Israel Rodríguez</b>, Iván A. Reyes. “Acid dissolution of jarosite-type compounds: Effect of the incorporation of divalent cations into the structure on the reaction rate”. Hydrometallurgy, 212 (2022) 105907. ISSN: 0304-386X, doi: <a href="https://doi.org/10.1016/j.hydromet.2022.105907" target="_blank">10.1016/j.hydromet.2022.105907</a></li><br>
+                <li>Jessica Meléndez-Marmolejo, Lorena Díaz de León-Martínez, Vanessa Galván-Romero, Samantha Villarreal-Lucio, Raúl Ocampo-Pérez, Nahum A. Medellín-Castillo, Erika Padilla-Ortega, <b>Israel Rodríguez-Torres</b>, Rogelio Flores-Ramírez. “Design and application of molecularly imprinted polymers for adsorption and environmental assessment of anti-inflammatory drugs in wastewater samples”. Environmental Science and Pollution Research, (2022). ISSN: 1614-7499. doi: <a href="https://link.springer.com/article/10.1007/s11356-022-19130-0" target="_blank">10.1007/s11356-022-19130-0</a></li><br>
+                <li>Hernán Islas, Mizraim U. Flores, Julio C. Juárez, Martín Reyes, Alien Blanco, Emmanuel J. Gutiérrez, Javier Aguilar, Mary C. Nolasco, <b>Israel Rodríguez</b>, Iván A. Reyes. “Raw data of silver extraction from sodium-silver jarosite using three different lixiviants in alkaline medium”. Data in Brief, 39 (2021) 107511. ISSN: 23523409. doi: <a href="https://doi.org/10.1016/j.dib.2021.107511" target="_blank"> 10.1016/j.dib.2021.107511</a></li><br>
+                <li>Hernán Islas, Mizraim U. Flores, Julio C. Juárez, Martín Reyes, Alien Blanco, Emmanuel J. Gutiérrez, Javier Aguilar, Mary C. Nolasco, <b>Israel Rodríguez</b>, Iván A. Reyes. “Silver leaching from jarosite-type compounds using cyanide and non-cyanide lixiviants: A kinetic approach”. Minerals Engineering, 174 (2021) 10725. ISSN: 0892-6875. doi: <a href="https://doi.org/10.1016/j.mineng.2021.107250" target="_blank">10.1016/j.mineng.2021.107250</a></li><br>
+                <li><b>Rodríguez-Torres I.</b>, Perez-Alonso C., Delgadillo J., Espinosa E., Rosales-Marín G. “Study of the Effect of the Mineral Feed Size Distribution on a Ball Mill Using Mathematical Modeling”. Iranian Journal of Chemistry and Chemical Engineering. 40 (2021), 303-312. ISSN: 1021-9986. doi: <a href="https://doi.org/10.30492/ijcce.2020.39002" target="_blank">10.30492/ijcce.2020.39002</a></li><br>
+                <li><b>I. Rodríguez-Torres</b> and E. R. Henquín. “General Simplified Model to Calculate Current Distribution in Electrochemical Reactors with N Bipolar Electrodes”. J. Electrochem. Soc., 166 (2019) E201-E211. ISSN: 0013-4651. doi: <a href="https://www.researchgate.net/publication/332515656_General_Simplified_Model_to_Calculate_Current_Distribution_in_Electrochemical_Reactors_with_N_Bipolar_Electrodes" target="_blank">10.1149/2.1291906jes</a></li><br>
                 <li>A. Blanco-Flores, N.V. Arteaga-Larios, M.C. Ojeda-Escamilla, H.P. Toledo-Jaldin, G. López-Téllez, <b>I. Rodríguez-Torres</b>. “Adsorption of fluoride using bimetallic oxide nanoparticles supported on industrial waste prepared by a chemical reduction method”. Desalin. Water Treat., Accepted for publication (2019). ISSN: 1944-3994. doi: 10.5004/dwt.2019.24033</li><br>
                 <li>Toledo Jaldin Helen, Blanco-Flores Alien, López-Téllez Gustavo, Vilchis-Nestor Alfredo, Arteaga-Larios Nubia and <b>Israel Rodríguez-Torres</b>. “Magnetic sugarcane bagasse composite for atrazine and fluoride removal”. J. Chem. Technol. Biot., (2019). ISSN: ‎0268-2575. doi: 10.1002/jctb.5902</li><br>
                 <li>Armando Vázquez, Lucía Alvarado, Isabel Lázaro, Roel Cruz, José Luis Nava, and <b>Israel Rodríguez-Torres</b>. “A Comparative Analysis of 2-(Thiocyanomethylthio)-Benzothiazole Degradation Using Electro-Fenton and Anodic Oxidation on a Boron-Doped Diamond Electrode”. Int. J. Photoenergy, Vol. 2018, Article ID 5290975, 9 pages, (2018). ISSN: 1110-662X. doi: 10.1155/2018/5290975</li><br>
@@ -123,6 +131,11 @@
             data-bs-parent="#accordionExample">
             <div class="accordion-body">
             <ul class="vineta">
+                <li>Minera Autlán
+                  <ul class="vineta">
+                    <li>Desarrollo de proceso para obtención de MnSO4 a partir de residuos de manganeso</li>
+                  </ul>
+                </li><br>
                 <li>Planta Electrolítica de Zinc, Industrial Minera México SA de CV
                     <ul class="vineta">
                         <li>Desarrollo de un Reactor Electroquímico para el tratamiento de efluentes.</li>
