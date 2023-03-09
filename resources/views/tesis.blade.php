@@ -3609,41 +3609,166 @@
                     </div>
                 </div>
 
-                {{-- <div class="accordion-item">
+                <div class="accordion-item">
                     <h2 class="accordion-header" id="headingTen">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
-                            <strong>Recursos Naturales Renovables &nbsp</strong> <i
-                                class="fa-solid fa-arrow-down-long"></i>
+                            <strong>Recursos Naturales Renovables &nbsp</strong>
                         </button>
                     </h2>
                     <div id="collapseTen" class="accordion-collapse collapse" aria-labelledby="headingTen"
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body" id="accordionTextM">
-                            <div class="col-12 col-sm-12 mx-5">
-                                <div class="col-12 col-sm-10 mx-5">
-                                    <div class="col-12 col-sm-10 border-end border-start border-top mx-5">
-                                        <table class="table table-bordered border-dark" id="colorTexto">
-                                            <thead>
-                                                <tr>
-                                                    <th scope="col" id="tablaTitulos">Año</th>
-                                                    <th scope="col" id="tablaTitulos">Nombre del alumno</th>
-                                                    <th scope="col" id="tablaTitulos">Título de tesis</th>
-                                                    <th scope="col" id="tablaTitulos">Director de tesis</th>
-                                                </tr>
-                                            </thead>
-                                        <tbody>
-
+                            <div class="col-12 col-sm-10 border-end border-start border-top">
+                                <table class="width201" id="colorTexto">
+                                    <thead>
+                                        <tr>
+                                            <th scope="col" id="tablaTitulos">Año</th>
+                                            <th scope="col" id="tablaTitulos">Nombre del alumno</th>
+                                            <th scope="col" id="tablaTitulos">Título de tesis</th>
+                                            <th scope="col" id="tablaTitulos">Director de tesis</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>2010</td>
+                                            <td>Chávez Acuña Isaac Jacob</td>
+                                            <td><a target="_blank" href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/3614/MCA1ZAM01001.pdf?sequence=3&isAllowed=y">Análisis estructural de dos poblaciones de <em>Dioon edule</em> Lindl. (Zamiaceae) en comunidades indígenas y mestizas de la región <em>Xi'iuy</em> de La Palma, S.L.P.: implicaciones ecológicas y culturales </a></td>
+                                            <td>Dr. Javier Fortanelli Martínez</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2010</td>
+                                            <td>Concostrina Zubiri Laura</td>
+                                            <td><a target="_blank" href="#">Composición, estructura y dinámica de la costra biológica del suelo (CBS) en un ecosistema de pastizal semiárido</a></td>
+                                            <td>Dr. José Luis Flores Flores</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2010</td>
+                                            <td>Esparza Sandoval Sandra</td>
+                                            <td><a target="_blank" href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/3582/MCA1DGG01001.pdf?sequence=3&isAllowed=y">Distribución geográfica del género <em>Opuntia</em> (Cactaceae) en México</a></td>
+                                            <td>Dr. Juan Antonio Reyes Agüero</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2010</td>
+                                            <td>Guzmán Guzmán Paulina</td>
+                                            <td><a target="_blank" href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/3593/MCA1EXP01001.pdf?sequence=3&isAllowed=y">Exploración, aprovechamiento y validación experimental de plantas con efecto anti-inflamatorio de la Sierra Madre Oriental de San Luis Potosí</a></td>
+                                            <td>Dra. Erika García Chávez</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2010</td>
+                                            <td>Loaiza Lange Toa</td>
+                                            <td><a target="_blank" href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/3630/MCA1LUL01001.pdf?sequence=3&isAllowed=y">Potential assessment of land use, land use change and forestry (LULUCF) project under the clean development mechanism (CDM) in the Mata Atlantica, municipality of Cachoeiras de Macacu, RJ-Brazil</a></td>
+                                            <td>Dr. Juan Antonio Reyes Agüero</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2010</td>
+                                            <td>Medrano Echalar Ana María</td>
+                                            <td><a target="_blank" href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/3610/MCA1CQW01001.pdf?sequence=3&isAllowed=y">Expansión del cultivo de quinua (<em>Chenopodium quinoa</em> Willd.) y calidad de suelos. Análisis en un contexto de sostenibilidad en el Intersalar Boliviano</a></td>
+                                            <td>Dr. Javier Fortanelli Martínez</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2010</td>
+                                            <td>Nuñez Villarreal Jonathan Javier</td>
+                                            <td><a target="_blank" href="#">Soil erosion assessment in the agricultural micro-basin of Pito Aceso in the Municipality of Bom Jardim, Rio de Janeiro </a></td>
+                                            <td>Dr. José Luis Flores Flores</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2010</td>
+                                            <td>Torres Reyna Juan Carlos</td>
+                                            <td><a target="_blank" href="https://repositorioinstitucional.uaslp.mx/xmlui/handle/i/3563">Arquitectura y etnobotánica de la vivienda rural <em>Xi'iuy</em> en la Palma, San Luis Potosí</a></td>
+                                            <td>Dr. Javier Fortanelli Martínez</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2010</td>
+                                            <td>Van Deuren Christine Milunka</td>
+                                            <td><a target="_blank" href="#">Ecoturismo regional en el cañón del Espinazo del Diablo, SLP, México</a></td>
+                                            <td>Dr. Javier Fortanelli Martínez</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2009</td>
+                                            <td>De Gortari Ludlow Natalia</td>
+                                            <td><a target="_blank" href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/3659/MCA1AYT00901.pdf?sequence=3&isAllowed=y">Agua y tierra en la cuenca del Río Verde, SLP, México, y sus diferentes regímenes jurídicos, siglos XVI-XVIII</a></td>
+                                            <td>Dr. Hilario Charcas Salazar</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2009</td>
+                                            <td>Rendón Huerta Juan Antonio</td>
+                                            <td><a target="_blank" href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/4008/MCA1RHJ200901.pdf?sequence=3&isAllowed=y">Fructanos de maguey: efecto prebiótico y metabólico</a></td>
+                                            <td>Dra. Bertha Irene Juárez Flores</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2009</td>
+                                            <td>Zapata Pérez Elvia</td>
+                                            <td><a target="_blank" href="#">Conteo bacteriano en órganos del aparato digestivo de pollos infectados con <em>Salmonella typhimurium</em> con adición de extracto de <em>Chrysactinia mexicana</em></a></td>
+                                            <td>Dr. Juan Carlos García López</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2008</td>
+                                            <td>Carbajal Esquivel Haydeé</td>
+                                            <td><a target="_blank" href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/2056/MCA1IPC00801.pdf?sequence=3&isAllowed=y">Importancia de las plantas en la cultura alimentaria de la comunidad <em>Xi'oi</em> Las Guapas, Rayón, San Luis Potosí</a></td>
+                                            <td>Dr. Javier Fortanelli Martínez</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2007</td>
+                                            <td>García Bastida Margarita</td>
+                                            <td><a target="_blank" href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/2013/MCA1ECC00701.pdf?sequence=3&isAllowed=y">Ecología comparativa de comunidades de lagartijas en el sur del Desierto Chihuahuense</a></td>
+                                            <td>Dr. Richard Iván Yeaton Hawkins</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2007</td>
+                                            <td>Loza León Jéssica Grétel</td>
+                                            <td><a target="_blank" href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/2060/MCA1CEA00701.pdf?sequence=3&isAllowed=y">Caracterización ecológica y aspectos sociales de los solares en relación con el bienestar en San José de la Peña, Villa de Guadalupe, San Luis Potosí</a></td>
+                                            <td>Dr. Juan Antonio Reyes Agüero</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2007</td>
+                                            <td>Michel Cuello Christian</td>
+                                            <td><a target="_blank" href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/3556/MCA1CAR00701.pdf?sequence=3&isAllowed=y">Caracterización cuantitativa de los carbohidratos no estructurales del maguey mezcalero potosino <em>(Agave salmiana)</em></a></td>
+                                            <td>Dr. Juan Manuel Pinos Rodríguez</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2007</td>
+                                            <td>Paiz Rúbia Cassiana</td>
+                                            <td><a target="_blank" href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/1812/MCA1EHO00701.pdf?sequence=3&isAllowed=y">Efecto hipoglucimiante de <em>Opuntia Joconostle</em> Web. en ratas diabéticas</a></td>
+                                            <td>Dra. Bertha Irene Juárez Flores</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2007</td>
+                                            <td>Sandoval Méndez Carlos</td>
+                                            <td><a target="_blank" href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/1813/MCA1VAP00701.pdf?sequence=3&isAllowed=y">Vegetación actual y potencial y su restauración experimental en el área "Parque urbano paseo de la presa" San Luis Potosí, S.L.P.</a></td>
+                                            <td>Dr. Juan Rogelio Aguirre Rivera</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2006</td>
+                                            <td>García Pedraza Lucía Gabriela</td>
+                                            <td><a target="_blank" href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/1798/MCA1EJM00601.pdf?sequence=3&isAllowed=y">Evaluación de jarabe de maguey mezcalero <em>(Agave salmiana)</em> en ratas diabéticas</a></td>
+                                            <td>Dra. Bertha Irene Juárez Flores</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2006</td>
+                                            <td>López Méndez Mónica Guadalupe</td>
+                                            <td><a target="_blank" href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/1809/MCA1CPC00601.pdf?sequence=3&isAllowed=y">Caracterización de la producción caprina en San José de la Peña, San Luis Potosí y evaluación productiva de la suplementación nitrogenada con bloques</a></td>
+                                            <td>Dr. Juan Manuel Pinos Rodríguez</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2006</td>
+                                            <td>Ramírez Tobías Hugo Magdaleno</td>
+                                            <td><a target="_blank" href="https://repositorioinstitucional.uaslp.mx/xmlui/handle/i/2951">Productividad primaria y calidad nutrimental de nopal (<em>Opuntia</em> spp. y <em>Nopalea</em> sp.) en condiciones intensivas</a></td>
+                                            <td>Dr. Juan Antonio Reyes Agüero</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2005</td>
+                                            <td>Espinosa Reyes Guillermo</td>
+                                            <td><a target="_blank" href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/2058/MCA1OMV00501.pdf?sequence=5&isAllowed=y">Organización de manchones de vegetación leñosa y su relación con roedores en el sur del Desierto Chihuahuense</a></td>
+                                            <td>Dr. Richard Iván Yeaton Hawkins</td>
+                                        </tr>
                                         </tbody>
                                         </table>
-                                    </div>
-                                    <div class="col-12 col-sm-2 mx-5">
-                                    </div>
-                                </div>
+                                 </div>
                             </div>
                         </div>
                     </div>
-                </div> --}}
+                </div>
 
                 <div class="accordion-item">
                     <h2 class="accordion-header" id="headingEleven">
@@ -3819,9 +3944,8 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div><br><br><br><br>
         </div>
-        <br><br>
     </div>
     </div>
 @endsection

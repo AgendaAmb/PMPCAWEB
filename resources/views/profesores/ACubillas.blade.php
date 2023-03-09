@@ -19,15 +19,17 @@
                     <br>
                     <p>
                         Av. Dr. Manuel Nava No.6, Zona Universitaria<br>
-                        C.P. 78210, San Luis Potosí, S.L.P., México.<br>
+                        C.P. 78210, San Luis Potosí, S.L.P., México.<br><br>
                         Tel. + 52 (444) 826-2300 Ext. 6529<br>
+                        <a href="mailto:acris@uaslp.mx" style="color:rgb(0, 178, 227)"> acris@uaslp.mx</a> <br>
+
                     </p>
 
                     <div class="enlacesprof">
                         <!--<a target="_blank" href="http://cienciasquimicas.uaslp.mx/index.php/home/docentes/23">Webpage</a>-->
                         <a target="_blank"
-                            href="{{asset('storage/CV/Cubillas_Tejeda_AnaCristina.pdf')}}">Currículum
-                            Vitae </a>
+                            href="{{asset('storage/CV/Cubillas_Tejeda_AnaCristina.pdf')}}"><em>Currículum
+                            Vitae</em></a>
                         <a target="_blank"
                             href="https://investigadores.uaslp.mx/InvestigadorProfile/XCYAAA%3d%3d">Directorio de
                             Investigadores</a>
@@ -53,12 +55,12 @@
                         <ol>
                             <li><strong>Cursos</strong></li>
                                 <ul class="vineta">
-                                    <li>TSCA: Diseño y Evaluación de Proyectos de Investigación</li>
+                                    <li>Comunicación de riesgos y salud ambiental</li>
+                                    <li>Estrategias para la apropiación social del conocimiento</li>
                                 </ul><br>
                             <li><strong>LGAC</strong></li>
                             <ul class="vineta">
-                                <li>Metodologías para la gestión ambiental</li>
-                                <li>Desarrollo Sostenible</li>
+                                <li>Salud ambiental, salud amibental infantil y comunicación de riesgos</li>
                             </ul><br>
                             <li><strong>Dirección de Tesis</strong></li><br>
                             <p><em>Maestría en Ciencias Ambientales (Doble titulación), Co-Dirección</em></p>
@@ -120,7 +122,8 @@
                                 <li>Juárez Moreno Mariana. 2018. <a target="_blank"
                                     href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/4515/DCA1JMM201801.pdf?sequence=1&amp;isAllowed=y">Diseño,
                                     implementación y evaluación de un programa de comunicación de riesgos como estrategia de
-                                    prevención de la infección por VIH en adolescentes.</a></li>
+                                    prevención de la infección por VIH en adolescentes</a></li>
+                                <li>González Mares Mariana Odemaris. 2019. Propuesta de una estrategia de intervención para la prevención de factores de riesgo para el desarrollo de enfermedades no transmisibles en comunidades suburbanas vulnerables del Municipio de San Luis Potosí</li>
                                 <li>Monsiváis Nava Claudia Davinia. 2020. Análisis de factores asociados al sistema alimentario infantil en un área suburbana vulnerable de la ciudad de San Luis Potosí México, para la implementación de una estrategia de intervención </li>
                             </ul>
                         </ol>
@@ -139,6 +142,13 @@
                     <div class="accordion-body">
                         <strong>Artículos científicos</strong><br><br>
                         <ul class="vineta">
+                            <li>González-Cortés, C.A., Téran-García, M., Luevano-Contreras, C., Portales-Pérez, D.P., Vargas-Morales, J.M., <b>Cubillas-Tejeda, A.C.</b>, Cossío-Torres, P.E., Aradillas-García, C. (2019). Neck circumference and its association with cardiometabolic risk factors in pediatric population. Medicina, 55(5), 183. <a href="doi.org/10.3390/medicina55050183" target="_blank">doi.org/10.3390/medicina55050183</a></li><br>
+                            <li>González-Mares Mariana Odemaris, Aradillas-García Celia, Márquez-Mireles Leonardo Ernesto, Berumen-Rodríguez Alejandra Abigail, Vargas-Morales Juan Manuel, Portales-Pérez Diana Patricia, <b>Cubillas-Tejeda Ana Cristina</b>. (2019). Estado nutricional, prácticas y percepciones sobre alimentación y actividad física en familias de comunidades suburbanas de San Luis Potosí, México. Revista Salud Pública y Nutrición 18(3):21-37. DOI: <a href="https://doi.org/10.29105/respyn18.3-3" target="_blank">https://doi.org/10.29105/respyn18.3-3</a></li><br>
+                            <li>Berumen-Rodríguez, A.A., González-Mares, M.O., Nieto-Caraveo, L.M., Domínguez-Cortinas, G., Portales-Pérez, D.P.,  Ilizaliturri-Hernández, C.A., <b>Cubillas-Tejeda, A.C.</b>. (2020). Implementación de intervenciones educativas enfocadas en la prevención de enfermedades no transmisibles, para mejorar la salud ambiental de zonas urbanas marginadas de San Luis Potosí, México. Rev. salud ambient. 20(2):179-190.  <a href="https://ojs.diffundit.com/index.php/rsa/article/view/1067" target="_blank">https://ojs.diffundit.com/index.php/rsa/article/view/1067</a></li><br>
+                            <li>Macías Pérez A.C., Domínguez Cortinas G., Muñiz Carreón G.P., <b>Cubillas Tejeda A.C.</b>, Márquez Mireles L.E. (2021) Tendencias del comportamiento espaciotemporal de diabetes mellitus y enfermedades isquémicas en San Luis Potosí, México. Revista Salud Pública y Nutrición, 20 (1), 1-11. DOI: <a href="https://doi.org/10.29105/respyn20.1-1" target="_blank">https://doi.org/10.29105/respyn20.1-1</a></li><br>
+                            <li>González-Mares, M.O., Aradillas-García, C., Márquez-Mireles, L.E., Monsiváis-Nava, C.D., Bernal-Medina, J.E., Vargas-Morales, J.M., Portales-Pérezd, D.P., & <b>Cubillas-Tejeda, A.C.</b> (2022). Implementation and evaluation of an educational intervention to prevent risk factors for the development of non-communicable diseases in Mexican families of suburban communities. Evaluation and Program Planning, 92, 102075. <a href="https://doi.org/10.1016/j.evalprogplan.2022.102075" target="_blank">https://doi.org/10.1016/j.evalprogplan.2022.102075</a></li><br>
+                            <li>Diego-Rodríguez M., Domínguez-Cortinas G., <b>Cubillas-Tejeda A.C.</b>, Galindo Mendoza M.G. (2019) Infecciones respiratorias agudas y caracterización de bacterias potencialmente patógenas en comunidades de la Huasteca Potosina. Revista Salud Pública y Nutrición, 18 (4), 1-8. DOI: <a href="https://doi.org/10.29105/respyn18.4-1" target="_blank">https://doi.org/10.29105/respyn18.4-1</a></li><br>
+                            <li>Buendía Oliva, Mariana, Algara-Siller, Marcos, <b>Cubillas-Tejeda, Ana Cristina</b>, & Domínguez-Cortinas, Gabriela. (2019). La importancia del análisis del contexto en el diseño de un programa educativo basado en el uso de ecotecnias. El caso de la escuela Francisco González Bocanegra. Perfiles educativos, 41(166), 105-123. Epub 17 de abril de 2020. <a href="https://doi.org/10.22201/iisue.24486167e.2019.166.59019" target="_blank"> https://doi.org/10.22201/iisue.24486167e.2019.166.59019</a></li><br>
                             <li>Meza-Lozano B, Ortiz-Pérez MD, Ponce-Palomares M, Castillo-Gutiérrez SG, Flores-Ramírez R,
                                 <b>Cubillas-Tejeda AC</b>.<br>Implementación y evaluación de un Programa de Comunicación de
                                 Riesgos por exposición a flúor en la comunidad de El Fuerte, Santa María del Río, San Luis
@@ -205,6 +215,12 @@
                         </ul>
                         <strong>Capítulos en libros</strong><br><br>
                         <ul class="vineta">
+                            <li><b>Cubillas-Tejeda A.C.</b>, Börner S., González-Mares M.O., Díaz-Barriga F. (2020). Los niños, actores clave en la comunicación de riesgos para mejorar la salud ambiental. En: Flores-Serrano R.M. y Pérez-Casimiro G. (Compiladoras). El análisis de riesgos para el diseño de políticas públicas y presupuestales SRA-LA 2018. Instituto de Ingeniería, de la Universidad Nacional Autónoma de México (IIUNAM). pp. 275-277. Disponible en: <a href="http://www.iingen.unam.mx/es-mx/AlmacenDigital/Libros/Paginas/SRA-LA_2018.aspx" target="_blank">http://www.iingen.unam.mx/es-mx/AlmacenDigital/Libros/Paginas/SRA-LA_2018.aspx</a></li><br>
+                            <li>González-Mares M.O., Bernal-Medina J.E., Aradillas-García C., Vargas-Morales J.M., Portales-Pérez D.P., <b>Cubillas-Tejeda A.C.</b> (2020). Riesgos asociados al rol de género encontrados en la contextualización de un programa para prevenir y controlar la malnutrición y enfermedades no transmisibles en familias de comunidades vulnerables del municipio de San Luis Potosí, México. En: Flores-Serrano R.M. y Pérez-Casimiro G. (Compiladoras). El análisis de riesgos para el diseño de políticas públicas y presupuestales SRA-LA 2018. Instituto de Ingeniería, de la Universidad Nacional Autónoma de México (IIUNAM). pp. 163-165. Disponible en: <a href="http://www.iingen.unam.mx/es-mx/AlmacenDigital/Libros/Paginas/SRA-LA_2018.aspx" target="_blank">http://www.iingen.unam.mx/es-mx/AlmacenDigital/Libros/Paginas/SRA-LA_2018.aspx</a></li><br>
+                            <li>Juarez-Moreno M., Cubillas-Tejeda AC. (2020). El dibujo, como herramienta de evaluación de un programa de comunicación de riesgos enfocado a la prevención de la infección por VIH en adolescentes. En: Flores-Serrano R.M. y Pérez-Casimiro G. (Compiladoras). El análisis de riesgos para el diseño de políticas públicas y presupuestales SRA-LA 2018. Instituto de Ingeniería, de la Universidad Nacional Autónoma de México (IIUNAM). pp. 278-280. Disponible en: <a href="http://www.iingen.unam.mx/es-mx/AlmacenDigital/Libros/Paginas/SRA-LA_2018.aspx" target="_blank">http://www.iingen.unam.mx/es-mx/AlmacenDigital/Libros/Paginas/SRA-LA_2018.aspx</a></li><br>
+                            <li>Berumen-Rodríguez A.A., Nieto Caraveo L.M., Domínguez-Cortinas G., Portales-Pérez D.P. Ilizaliturri-Hernández C.A, Cubillas-Tejeda A.C. En: Flores-Serrano R.M. y Pérez-Casimiro G. (Compiladoras). El análisis de riesgos para el diseño de políticas públicas y presupuestales SRA-LA 2018. Instituto de Ingeniería, de la Universidad Nacional Autónoma de México (IIUNAM). pp. 284-286. Disponible en: <a href="http://www.iingen.unam.mx/es-mx/AlmacenDigital/Libros/Paginas/SRA-LA_2018.aspx" target="_blank">http://www.iingen.unam.mx/es-mx/AlmacenDigital/Libros/Paginas/SRA-LA_2018.aspx</a></li><br>
+                            <li>Monsiváis-Nava C.D., Flores-Ramírez R., Cubillas-Tejeda AC. (2020). Disminución de la exposición a plomo y fluoruros en población infantil de una comunidad urbana vulnerable, mediante la implementación de un programa de comunicación de riesgos. En: Flores-Serrano R.M. y Pérez-Casimiro G. (Compiladoras). El análisis de riesgos para el diseño de políticas públicas y presupuestales SRA-LA 2018. Instituto de Ingeniería, de la Universidad Nacional Autónoma de México (IIUNAM). pp. 281-283. Disponible en: <a href="http://www.iingen.unam.mx/es-mx/AlmacenDigital/Libros/Paginas/SRA-LA_2018.aspx" target="_blank">http://www.iingen.unam.mx/es-mx/AlmacenDigital/Libros/Paginas/SRA-LA_2018.aspx</a></li><br>
+                            <li>María Deogracias Ortiz Pérez, Máría Catalina, Alfaro de la Torre, <b>Ana Cristina Cubillas Tejeda</b>, Mauricio León Arce y Lorena Anaya González. (2018). Casos de estudio y experiencias en campo: caso del estado de San Luis Potosí. En: Luz María Del Razo, Juan Manuel Ledón y Mónica N. Velasco (Compiladores). Hacia el cumplimiento del Derecho Humano al Agua. Arsénico y fluoruro en agua: riesgos y perspectivas desde la sociedad civil y la academia en México. Secretaría de Gobernación: México. pp. 123-131.</li><br>
                             <li>Moreno-Sánchez Ana Rosa, <b>Cubillas-Tejeda Ana Cristina</b>, Guerra-García Alberto y Peres
                             Frederico (2016). Risk communication in Latin America. In Luiz Augusto Galvao, Jacobo Finkelman,
                             and Samuel Henao (Ed.), Environmental and Social Determinants of Health, Pan American Health
@@ -232,7 +248,7 @@
                     </div>
                 </div>
             </div>
-            <!--<div class="accordion-item">
+            <div class="accordion-item">
                                       <h2 class="accordion-header" id="headingThree">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                           data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
@@ -242,15 +258,14 @@
                                       <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
                                         data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                          <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin
-                                          adds the appropriate classes that we use to style each element. These classes control the overall
-                                          appearance,
-                                          as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or
-                                          overriding our default variables. It's also worth noting that just about any HTML can go within the
-                                          <code>.accordion-body</code>, though the transition does limit overflow.
+                                          <ul class="vineta">
+                                            <li>Escritura y publicación de un Manual para el curso de Comunicación de riesgos y salud ambiental.</li>
+                                            <li>Actualización del curso de Comunicación de riesgos y salud ambiental.</li>
+                                            <li>Desarrollo e impartición del nuevo curso del PMPCA: Estrategias para la apropiación social del conocimiento.</li>
+                                          </ul>
                                         </div>
                                       </div>
-                                    </div>-->
+                                    </div>
         </div>    <br><br><br>
     </div>
     </div>
