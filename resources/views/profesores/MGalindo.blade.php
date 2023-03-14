@@ -22,7 +22,7 @@
             Av. Industrias No. 101-A Fracc. Talleres <br>
             C.P. 78399, San Luis Potosí, S. L. P., México <br> <br>
             Teléfono: +52 (444) 832-1000<br>
-            ggm@uaslp.mx <br>
+            <a href="mailto:ggm@uaslp.mx" style="color:rgb(0, 178, 227)">ggm@uaslp.mx</a><br><br>
         </p>
 
         <div class="enlacesprof">

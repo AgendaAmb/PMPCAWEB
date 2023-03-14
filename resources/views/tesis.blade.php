@@ -3622,7 +3622,7 @@
                             <div class="col-12 col-sm-10 border-end border-start border-top">
                                 <table class="width201" id="colorTexto">
                                     <thead>
-                                        <tr>
+                                        <tr>2
                                             <th scope="col" id="tablaTitulos">Año</th>
                                             <th scope="col" id="tablaTitulos">Nombre del alumno</th>
                                             <th scope="col" id="tablaTitulos">Título de tesis</th>

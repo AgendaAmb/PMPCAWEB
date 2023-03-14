@@ -21,7 +21,7 @@
                         Av. Dr. Manuel Nava No.6, Zona Universitaria<br>
                         C.P. 78210, San Luis Potosí, S.L.P., México.<br><br>
                         Tel. + 52 (444) 826-2300 Ext. 6529<br>
-                        <a href="mailto:acris@uaslp.mx" style="color:rgb(0, 178, 227)"> acris@uaslp.mx</a> <br>
+                        <a href="mailto:acris@uaslp.mx" style="color:rgb(0, 178, 227)"> acris@uaslp.mx</a> <br><br>
 
                     </p>
 

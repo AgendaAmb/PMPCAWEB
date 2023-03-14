@@ -22,7 +22,7 @@
             Av. Industrias No. 101-A Fracc. Talleres <br>
             C.P. 78399, San Luis Potosí, S. L. P., México <br> <br>
             Teléfono: +52 (444) 832-1000<br>
-            coser@uaslp.mx <br>
+            <a href="mailto:coser@uaslp.mx" style="color:rgb(0, 178, 227)">coser@uaslp.mx</a><br><br>
         </p>
 
         <div class="enlacesprof">

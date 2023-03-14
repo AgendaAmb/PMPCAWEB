@@ -19,7 +19,7 @@
                     </div>
                     
                     <div class="col-6 col-md-4 col-lg-2  d-block d-sm-none">
-                        <a class="btn btn-primary" id="botonesGeneral" target="_blank" href="storage/Doc/Conv_DCA2022.pdf"
+                        <a class="btn btn-primary" id="botonesGeneral" target="_blank" href="storage/Doc/Conv_DCA.pdf"
                             role="button">Convocatoria</a>
                     </div>
                 </div>
@@ -39,7 +39,7 @@
                     <div class="col-12 col-sm-1 ">
                     </div>
                     <div class="col-12 col-sm-3 d-none d-sm-block">
-                        <a class="btn btn-primary" id="botonesGeneral" target="_blank" href="storage/Doc/Conv_DCA2022.pdf"
+                        <a class="btn btn-primary" id="botonesGeneral" target="_blank" href="storage/Doc/Conv_DCA.pdf"
                             role="button">Convocatoria</a>
                     </div>
                     <div class="col-12 col-sm-1 ">
@@ -150,7 +150,7 @@
                     </div>
                     
                     <div class="col-6 col-md-4 col-lg-2  d-block d-sm-none">
-                        <a class="btn btn-primary" id="botonesGeneral" target="_blank" href="storage/Doc/Conv_MCA2022.pdf"
+                        <a class="btn btn-primary" id="botonesGeneral" target="_blank" href="storage/Doc/Conv_MCA.pdf"
                             role="button">Convocatoria</a>
                     </div>
                 </div>
@@ -170,7 +170,7 @@
                     <div class="col-12 col-sm-1 ">
                     </div>
                     <div class="col-12 col-sm-3 d-none d-sm-block">
-                        <a class="btn btn-primary" id="botonesGeneral" target="_blank" href="storage/Doc/Conv_MCA2022.pdf"
+                        <a class="btn btn-primary" id="botonesGeneral" target="_blank" href="storage/Doc/Conv_MCA.pdf"
                             role="button">Convocatoria</a>
                     </div>
                     <div class="col-12 col-sm-1 ">
