@@ -32,7 +32,7 @@
                                 <div class="barraAzulFuerteS"></div>
                                 <div class="card-body rounded-0">
                                     <p class="card-title"> <strong>DOCTORADO EN CIENCIAS AMBIENTALES</strong></p>
-                                    <a class="btn btn-primary" id="botonesGeneral" target="_blank" href="storage/Doc/Conv_DCA2022.pdf"
+                                    <a class="btn btn-primary" id="botonesGeneral" target="_blank" href="storage/Doc/Conv_DCA.pdf"
                                     role="button">Convocatoria</a>
                                 </div>
                             </div>
@@ -44,7 +44,7 @@
                                 <div class="barraAzulFuerteS"></div>
                                 <div class="card-body rounded-0">
                                     <p class="card-title"> <strong>MAESTRÍA EN CIENCIAS AMBIENTALES</strong></p>
-                                    <a class="btn btn-primary" id="botonesGeneral" target="_blank" href="storage/Doc/Conv_MCA2022.pdf"
+                                    <a class="btn btn-primary" id="botonesGeneral" target="_blank" href="storage/Doc/Conv_MCA.pdf"
                                     role="button">Convocatoria</a>
                                 </div>
                             </div>
