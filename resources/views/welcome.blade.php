@@ -141,7 +141,7 @@
             </div>
 
             <div class="col-12 col-sm-12 mt-5">
-                <a href="https://www.uaslp.mx/InvestigacionyPosgrado/Paginas/Posgrados/2731#gsc.tab=0"><img src="{{ asset('storage/images/B_ExaniIII.png') }}" alt=""></a>
+                <a href="https://forms.office.com/r/PJVU087gBX" target="_blank"><img src="{{ asset('storage/images/B_ExaniIII.png') }}" alt=""></a>
             </div>
 
         </div>
