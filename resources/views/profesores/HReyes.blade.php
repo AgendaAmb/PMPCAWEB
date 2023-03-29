@@ -21,7 +21,7 @@
         <p>
             Av. Industrias #101-A Fracc. Talleres <br>
             C.P. 78399, San Luis Potosí, S. L. P., México <br> <br>
-            Teléfono: +52 (444) 832-1000 Ext. 9228<br>
+            Teléfono: +52 (444) 832-1000 ext. 9228<br>
             <a href="mailto:hreyes@uaslp.mx" style="color:rgb(0, 178, 227)">hreyes@uaslp.mx</a><br><br>
         </p>
 

@@ -21,7 +21,7 @@
         <p>
             Dr. Manuel Nava No. 8, Zona Universitaria Poniente <br>
             C.P. 78290, San Luis Potosí, S. L. P., México <br> <br>
-            Teléfono: +52 (444) 826-2300 Ext. 7201 <br>
+            Teléfono: +52 (444) 826-2300 ext. 6082 <br>
             <a href="mailto:gcastro@uaslp.mx" style="color:rgb(0, 178, 227)">gcastro@uaslp.mx</a><br><br>
         </p>
 

@@ -20,7 +20,7 @@
         <p>
             Av. Industrias #101-A Fracc. Talleres <br>
             C.P. 78399, San Luis Potosí, S. L. P., México <br> <br>
-            Teléfono: +52 (444) 832-1000 Ext. 9218<br>
+            Teléfono: +52 (444) 832-1000 ext. 9231<br>
             <a href="mailto:osrp@uaslp.mx" style="color:rgb(0, 178, 227)">osrp@uaslp.mx</a><br><br>
         </p>
 

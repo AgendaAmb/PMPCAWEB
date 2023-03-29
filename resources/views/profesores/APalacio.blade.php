@@ -21,12 +21,12 @@
         <p>
             Av. Industrias #101-A Fracc. Talleres <br>
             C.P. 78399, San Luis Potosí, S. L. P., México <br> <br>
-            Teléfono: +52 (444) 832-1000 Ext. 9218<br>
+            Teléfono: +52 (444) 818-2475 ext. 9233<br>
             <a href="mailto:alvaro.palacio@uaslp.mx" style="color:rgb(0, 178, 227)">alvaro.palacio@uaslp.mx</a><br><br>
         </p>
 
         <div class="enlacesprof">
-            <a target="_blank" href="{{asset('storage/CV/Palacio_Aponte_AlvaroGerardo.pd')}}"><i>Curriculum Vitae</i></a>
+            <a target="_blank" href="{{asset('storage/CV/Palacio_Aponte_AlvaroGerardo.pdf')}}"><i>Curriculum Vitae</i></a>
             <a target="_blank" href="https://investigadores.uaslp.mx/InvestigadorProfile/EUoAAA==">Directorio de Investigadores</a>
             <a target="_blank" href="https://orcid.org/0000-0002-5020-2482"><img src="{{asset('storage/images/orcid.png')}}" alt=""></a>
             <a target="_blank" href="https://www.scopus.com/authid/detail.uri?authorId=35176529400"> <img src="{{asset('storage/images/scopus.png')}}" alt=""></a>

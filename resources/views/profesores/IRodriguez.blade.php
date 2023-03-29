@@ -21,8 +21,8 @@
         <p>
             Sierra Leona #550, Lomas 2a sección<br>
             C.P. 78350, San Luis Potosí, S.L.P., México.<br><br>
-            Tel. + 52 (444) 825-4326 Ext. 8236 <br>
-            <a href="mailto:learsi@uaslp.mx" style="color:rgb(0, 178, 227)"> learsi@uaslp.mx</a> <br>
+            Tel. + 52 (444) 825-4326 ext. 8236 <br>
+            <a href="mailto:learsi@uaslp.mx" style="color:rgb(0, 178, 227)"> learsi@uaslp.mx</a> <br><br>
         </p>
 
         <div class="enlacesprof">

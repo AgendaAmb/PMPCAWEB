@@ -23,7 +23,7 @@
             Ejido Palma de la Cruz, Soledad de Graciano Sánchez,<br>
             San Luis Potosí, S.L.P., Apdo. Postal 32, CP. 78321, <br>
             Teléfonos (444) 852-4056 al 60<br>
-            paola.diaz@uaslp.mx <br>
+            <a href="mailto:paola.diaz@uaslp.mx" style="color:rgb(0, 178, 227)"> paola.diaz@uaslp.mx</a><br>
         </p>
 
         <div class="enlacesprof">

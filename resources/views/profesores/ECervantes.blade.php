@@ -7,30 +7,30 @@
     <div id="professor-description" class="row mb-4">
     <div class="col-12 col-sm-12">
       <br>
-        <h1><strong>DR. ROBERTO BRIONES GALLARDO</strong></h1><br>
+        <h1><strong>DRA. ELSA CERVANTES GONZÁLEZ</strong></h1><br>
     </div>
     <div class="col-12 col-sm-3 ">
-        <img class="mx-auto d-block" src="{{asset('storage/images/P_hombre.png')}}" alt="">
+        <img class="mx-auto d-block" src="{{asset('storage/images/ElsaCervantesGonzalez.png')}}" alt="">
     </div>
     <div class="col-12 col-sm-9">
         <div>
         <h4><strong>Profesor Investigador de Tiempo Completo Nivel VI.</strong></h4>
-        <h5><strong>Facultad de Ingeniería / Instituto de Metalurgia</strong></h5>
-        <h5><strong>SNI nivel II.</strong></h5>
+        <h5><strong>Coordinación Académica Región Altiplano</strong></h5>
+        <h5><strong>SNI nivel I.</strong></h5>
         <br>
         <p>
-            Av. Sierra Leona No. 500 Lomas 2a. Sección <br>
-            C.P. 78210, San Luis Potosí, S. L. P., México <br> <br>
-            Teléfono: +52 (444) 826-2300 ext. 8212<br>
-            <a href="mailto:briones@uaslp.mx" style="color:rgb(0, 178, 227)">briones@uaslp.mx</a><br><br>
+            Carretera Cedral Km 5+600, Ejido San José de las Trojes, <br>
+            C.P. 78700, Matehuala, S. L. P., México <br> <br>
+            Teléfono: +52 (488) 125-0159 ext. 4321<br>
+            <a href="mailto:elsa.cervantes@uaslp.mx" style="color:rgb(0, 178, 227)">elsa.cervantes@uaslp.mx</a><br><br>
         </p>
 
         <div class="enlacesprof">
-            <a target="_blank" href="http://ciep.ing.uaslp.mx/minerales/profesor.php?id=3134333737">Webpage</a>
-            <a target="_blank" href="{{asset('storage/CV/Briones_Gallardo_Roberto.pdf')}}"><i>Curriculum vitae</i></a>
-            <a target="_blank" href="https://investigadores.uaslp.mx/InvestigadorProfile/KTgAAA%3d%3d">Directorio de Investigadores</a>
-            <a target="_blank" href="https://orcid.org/0000-0001-8093-2526"><img src="{{asset('storage/images/orcid.png')}}" alt=""></a>
-            <a target="_blank" href="https://www.scopus.com/authid/detail.uri?authorId=15519429900"> <img src="{{asset('storage/images/scopus.png')}}" alt=""></a>
+            <!--<a target="_blank" href="#">Webpage</a>-->
+            <a target="_blank" href="{{asset('storage/CV/Cervantes_Gonzalez_Elsa.pdf')}}"><i>Curriculum vitae</i></a>
+            <a target="_blank" href="https://investigadores.uaslp.mx/InvestigadorProfile/I0cAAA%3d%3d">Directorio de Investigadores</a>
+            <a target="_blank" href="https://orcid.org/0000-0001-8894-5532"><img src="{{asset('storage/images/orcid.png')}}" alt=""></a>
+            <a target="_blank" href="https://www.scopus.com/authid/detail.uri?authorId=56002671300"> <img src="{{asset('storage/images/scopus.png')}}" alt=""></a>
         </div>
         </div>
     </div>
