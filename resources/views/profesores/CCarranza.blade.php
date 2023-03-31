@@ -21,7 +21,7 @@
         <p>
             Romualdo del Campo #501, Fraccionamiento Rafael Curiel<br>
             C.P. 79060, Ciudad Valles, San Luis Potosí, México<br><br>
-            Teléfonos: (481) 381-2348, 381-2349 y 382-3644 ext. 143<br>
+            Teléfonos: +52 (481) 381-2348, 381-2349 y 382-3644 ext. 143<br>
             <a href="mailto:candy.carranza@uaslp.mx" style="color:rgb(0, 178, 227)">candy.carranza@uaslp.mx</a><br><br>
         </p>
 
