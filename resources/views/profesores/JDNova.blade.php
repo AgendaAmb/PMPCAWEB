@@ -11,7 +11,7 @@ Dr. José Arturo de Nova Vázquez
 @section('information')
 
 <div>
-  <h4><strong>Profesor Investigador de Tiempo Completo Nivel V.</strong></h4>
+  <h4><strong>Profesor Investigador de Tiempo Completo Nivel VI.</strong></h4>
   <h5><strong>Instituto de Investigación de Zonas Desérticas.<br> SNI nivel II.</strong></h5>
   <br>
   <p>

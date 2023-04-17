@@ -1626,11 +1626,8 @@
                                             <td>2011</td>
                                             <td>Flores Jiménez David Enrique</td>
                                             <td><a target="_blank"
-                                                    href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/3955/DCA1EEM01601.pdf?sequence=1&isAllowed=y">Estimación
-                                                    de las emisiones y modelado del transporte de metano en la
-                                                    atmósfera generado por la
-                                                    quema de caña de azúcar en México</a></td>
-                                            <td>Dr. Marcos Algara Siller y Dr. José Noel Carbajal Pérez</td>
+                                                    href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/3653/MCA1MTP01101.pdf?sequence=3&isAllowed=y">Modelado del transporte y propuesta de metodología para la ublicación de estaciones de monitoreo de PM10 en una mina a cielo abierto</a></td>
+                                            <td>Dr. Alfredo Ávila Galarza</td>
                                         </tr>
                                         <tr>
                                             <td>2011</td>
