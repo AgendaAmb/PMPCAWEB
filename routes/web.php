@@ -187,13 +187,25 @@ Route::prefix('areas')->name('areas.')->group(function () {
                 return view('profesores.CCarranza');
             })->name('CCarranza');
 
+            Route::get('/ECervantes', function () {
+                return view('profesores.ECervantes');
+            })->name('ECervantes');
+
             Route::get('/PDiaz', function () {
                 return view('profesores.PDiaz');
             })->name('PDiaz');
 
+            Route::get('/NMedellin', function () {
+                return view('profesores.NMedellin');
+            })->name('NMedellin');
+
             Route::get('/IRodriguez', function () {
                 return view('profesores.IRodriguez');
             })->name('IRodriguez');
+
+            Route::get('/LRosales', function () {
+                return view('profesores.LRosales');
+            })->name('LRosales');
 
         });
     });
