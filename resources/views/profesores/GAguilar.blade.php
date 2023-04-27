@@ -66,7 +66,7 @@ Dra. Gisela Aguilar Benítez
               <li>Sabatinelli Rodrigues Thiago. 2019. <a href="#">Resilience of agroecological systems to extreme weather events: a social network theory approach in el cobre production cooperative, Santiago de Cuba</a>.</li>
           </ul>
         </ol>
-      </div><br><br><br>
+      </div>
     </div>
   </div>
 </div>

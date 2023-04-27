@@ -15,8 +15,8 @@ Dr. José Luis Flores Flores
   <h5><strong>Instituto de Investigación de Zonas Desérticas. SNI nivel I.</strong></h5>
   <br>
   <p>
-      Altair num. 200, Col. del Llano C.P. 78377 <br>
-      San Luis Potosí, SLP. México <br><br>
+      Altair No. 200, Col. del Llano <br>
+      C.P. 78377, San Luis Potosí, SLP. México <br><br>
       Tel.: +52 (444) 832-1000 ext. 9416 <br>
       <a href="mailto:joseluis.flores@uaslp.mx" style="color:rgb(0, 178, 227)"> joseluis.flores@uaslp.mx </a>
   </p>

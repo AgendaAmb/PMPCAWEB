@@ -1284,6 +1284,50 @@
                                     </thead>
                                     <tbody>
                                         <tr>
+                                            <td>2020</td>
+                                            <td>Coenen Heleen</td>
+                                            <td><a target="_blank"
+                                                    href="#">A methodological guideline to assess integrated municipal solid waste management in Ecuador</a></td>
+                                            <td>Dr. Alfredo Ávila Galarza y Dr. Johannes Hamhaber</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2020</td>
+                                            <td>De Castro Soares Raisa</td>
+                                            <td><a target="_blank"
+                                                    href="#">The contribution of decentralized photovoltaic systems to energy poverty alleviation in La Pila, SLP, Mexico</a></td>
+                                            <td>Dr. Marcos Algara Siller y Dr. Johannes Hamhaber</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2020</td>
+                                            <td>Gardea López Alejandra</td>
+                                            <td><a target="_blank"
+                                                    href="https://ninive.uaslp.mx/xmlui/handle/i/5721">Caracterización
+                                                    ambiental del manantial "Ojo de Agua", Moctezuma, S.L.P. y
+                                                    acciones para su
+                                                    conservación y uso</a></td>
+                                            <td>Dr. Antonio Cardona Benavides y Dr. Juan Antonio Reyes Agüero</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2020</td>
+                                            <td>Gardea López Alejandra</td>
+                                            <td><a target="_blank"
+                                                    href="https://ninive.uaslp.mx/xmlui/handle/i/5721">Caracterización
+                                                    ambiental del manantial "Ojo de Agua", Moctezuma, S.L.P. y
+                                                    acciones para su
+                                                    conservación y uso</a></td>
+                                            <td>Dr. Antonio Cardona Benavides y Dr. Juan Antonio Reyes Agüero</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2020</td>
+                                            <td>Gardea López Alejandra</td>
+                                            <td><a target="_blank"
+                                                    href="https://ninive.uaslp.mx/xmlui/handle/i/5721">Caracterización
+                                                    ambiental del manantial "Ojo de Agua", Moctezuma, S.L.P. y
+                                                    acciones para su
+                                                    conservación y uso</a></td>
+                                            <td>Dr. Antonio Cardona Benavides y Dr. Juan Antonio Reyes Agüero</td>
+                                        </tr>
+                                        <tr>
                                             <td>2019</td>
                                             <td>Gardea López Alejandra</td>
                                             <td><a target="_blank"

@@ -15,7 +15,7 @@ Dr. José Arturo de Nova Vázquez
   <h5><strong>Instituto de Investigación de Zonas Desérticas.<br> SNI nivel II.</strong></h5>
   <br>
   <p>
-      Altair num. 200, Col. del Llano <br>
+      Altair No. 200, Col. del Llano <br>
       C.P. 78377, San Luis Potosí, SLP. México <br>
       Tel.: +52 (444) 826-2300 ext. 9414 <br>
       <a href="mailto:arturo.denova@uaslp.mx" style="color:rgb(0, 178, 227)">arturo.denova@uaslp.mx </a><br><br>

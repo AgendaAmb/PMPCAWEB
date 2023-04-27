@@ -15,15 +15,15 @@ DR. JAVIER FORTANELLI MARTÍNEZ
   <h5><strong>Instituto de Investigación de Zonas Desérticas</strong></h5>
   <br>
   <p>
-      Altair num. 200, Col. del Llano C.P. 78377 <br>
-      San Luis Potosí, SLP. México <br>
-      Tel.: 52(444) 842 11 46 Fax.: 52(444) 842 23 59 ext. 106 <br>
-      fortanel@uaslp.mx <br>
+      Altair No. 200, Col. del Llano <br>
+      C.P. 78377, San Luis Potosí, SLP. México <br>
+      Tel.: + 52 (444) 832-1000 ext. 9413 <br>
+      <a href="mailto:fortanel@uaslp.mx" style="color:rgb(0, 178, 227)">fortanel@uaslp.mx</a><br><br>
   </p>
 
   <div class="enlacesprof">
-      <a target="_blank" href="https://uaslpedu-my.sharepoint.com/personal/difusion_iizd_uaslp_mx/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fdifusion%5Fiizd%5Fuaslp%5Fmx%2FDocuments%2FCURRICULUM%2F2022%2FCV%5FJFM%2Epdf&parent=%2Fpersonal%2Fdifusion%5Fiizd%5Fuaslp%5Fmx%2FDocuments%2FCURRICULUM%2F2022&ga=1">Webpage</a>
-      <a target="_blank" href="{{asset('storage/CV/Fortanelli_Martinez_Javier.pdf')}}">Currículum Vitae </a>
+      <!--<a target="_blank" href="#">Webpage</a>-->
+      <a target="_blank" href="{{asset('storage/CV/Fortanelli_Martinez_Javier.pdf')}}"><i>Currículum Vitae</i></a>
       <a target="_blank" href="https://investigadores.uaslp.mx/InvestigadorProfile/jyMAAA%3d%3d">Directorio de Investigadores</a>
       <a target="_blank" href="https://orcid.org/0000-0003-1958-7553"><img src="{{asset('storage/images/orcid.png')}}" alt=""></a>
       <a target="_blank" href="https://www.scopus.com/authid/detail.uri?authorId=12753922700"> <img src="{{asset('storage/images/scopus.png')}}" alt=""></a>
@@ -147,7 +147,7 @@ DR. JAVIER FORTANELLI MARTÍNEZ
             <li><b>Fortanelli M., J.</b>; J. García P. 2019. Bosques tropicales. En: Comisión Nacional para el Conocimiento y Uso de la Biodiversidad (CONABIO) y Gobierno del Estado de San Luis Potosí. La biodiversidad en San Luis Potosí. Estudio de Estado. CONABIO, México. Vol. 2, pp. 31-36. ISBN: 978-607-8570-32-4.</li><br>
             <li>Ramírez P., T.L.; C.S. Alfaro M.; <b>J. Fortanelli M.</b>; J. A. de Nova V. 2019. Biodiversidad, conservación y aprovechamiento de orquídeas. En: H. Reyes H., A. Durán F., F.J. Sahagún S. (Coords.) Biodiversidad y conservación de ecosistemas de la Región Prioritaria para la Conservación Xilitla. Universidad Autónoma de San Luis Potosí y Universidad de Guadalajara. México. pp. 114-131. ISBN: 978-607-535-102-5.</li><br>
             <li><b>Fortanelli M., J.</b>; P. Castillo L.; J.A. de Nova V. 2018. Las orquídeas. En: H. Reyes H., J.A. de Nova V., A. Durán F. (Coords.) Reserva de la Biosfera Sierra del Abra Tanchipa. Biodiversidad y Acciones para su Conservación. Universidad Autónoma de San Luis Potosí y Comisión Nacional de Áreas Naturales Protegidas. San Luis Potosí, México. pp. 79- 96. ISBN: 978-607-535-054-7.</li><br>
-            <li>De Nova V., J.A.; P. Castillo L.; M.M. Salinas R.; <b>J. Fortanelli M.</b>; A. Mora O. 2018. Los bosques tropicales estacionales. En: H. Reyes H., J.A. de Nova V., A. Durán F. (Coords.) Reserva de la Biosfera Sierra del Abra Tanchipa. Biodiversidad y Acciones para su Conservación. Universidad Autónoma de San Luis Potosí y Comisión Nacional de Áreas Naturales Protegidas. San Luis Potosí, México. pp. 59-78. ISBN: 978-607-535-054-7.</li>
+            <li>De Nova V., J.A.; P. Castillo L.; M.M. Salinas R.; <b>J. Fortanelli M.</b>; A. Mora O. 2018. Los bosques tropicales estacionales. En: H. Reyes H., J.A. de Nova V., A. Durán F. (Coords.) Reserva de la Biosfera Sierra del Abra Tanchipa. Biodiversidad y Acciones para su Conservación. Universidad Autónoma de San Luis Potosí y Comisión Nacional de Áreas Naturales Protegidas. San Luis Potosí, México. pp. 59-78. ISBN: 978-607-535-054-7.</li><br>
         </ul>
 
         <p><strong>Libros</strong></p>
