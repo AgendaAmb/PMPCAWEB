@@ -1299,33 +1299,21 @@
                                         </tr>
                                         <tr>
                                             <td>2020</td>
-                                            <td>Gardea López Alejandra</td>
-                                            <td><a target="_blank"
-                                                    href="https://ninive.uaslp.mx/xmlui/handle/i/5721">Caracterización
-                                                    ambiental del manantial "Ojo de Agua", Moctezuma, S.L.P. y
-                                                    acciones para su
-                                                    conservación y uso</a></td>
-                                            <td>Dr. Antonio Cardona Benavides y Dr. Juan Antonio Reyes Agüero</td>
+                                            <td>Díaz Barriga Yáñez Diego</td>
+                                            <td><a target="_blank" href="#">Identificación y evaluación de pasivos ambientales mineros en Real de Catorce, San Luis Potosí, México</a></td>
+                                            <td>Dr. Israel Razo Soto</td>
                                         </tr>
                                         <tr>
                                             <td>2020</td>
-                                            <td>Gardea López Alejandra</td>
-                                            <td><a target="_blank"
-                                                    href="https://ninive.uaslp.mx/xmlui/handle/i/5721">Caracterización
-                                                    ambiental del manantial "Ojo de Agua", Moctezuma, S.L.P. y
-                                                    acciones para su
-                                                    conservación y uso</a></td>
-                                            <td>Dr. Antonio Cardona Benavides y Dr. Juan Antonio Reyes Agüero</td>
+                                            <td>Martínez Moreno Carolina</td>
+                                            <td><a target="_blank" href="#">Análisis y definición de elementos de innovación para la mejora de un sistema de gestión ambiental en una empresa metal-mecánica</a></td>
+                                            <td>Dr. Alfredo Ávila Galarza y Dr. Héctor Martín Durán García</td>
                                         </tr>
                                         <tr>
                                             <td>2020</td>
-                                            <td>Gardea López Alejandra</td>
-                                            <td><a target="_blank"
-                                                    href="https://ninive.uaslp.mx/xmlui/handle/i/5721">Caracterización
-                                                    ambiental del manantial "Ojo de Agua", Moctezuma, S.L.P. y
-                                                    acciones para su
-                                                    conservación y uso</a></td>
-                                            <td>Dr. Antonio Cardona Benavides y Dr. Juan Antonio Reyes Agüero</td>
+                                            <td>Rivera Cabrera Ana Cecilia</td>
+                                            <td><a target="_blank" href="#">The role of the USMCA in multi-level governance of transboundary air pollution in the border region of US-MX: case California-Baja California</a></td>
+                                            <td>Dr. Alfredo Ávila Galarza y Dr. Johannes Hamhaber</td>
                                         </tr>
                                         <tr>
                                             <td>2019</td>

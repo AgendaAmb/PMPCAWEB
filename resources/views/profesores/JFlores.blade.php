@@ -18,7 +18,7 @@ Dr. José Luis Flores Flores
       Altair No. 200, Col. del Llano <br>
       C.P. 78377, San Luis Potosí, SLP. México <br><br>
       Tel.: +52 (444) 832-1000 ext. 9416 <br>
-      <a href="mailto:joseluis.flores@uaslp.mx" style="color:rgb(0, 178, 227)"> joseluis.flores@uaslp.mx </a>
+      <a href="mailto:joseluis.flores@uaslp.mx" style="color:rgb(0, 178, 227)"> joseluis.flores@uaslp.mx </a><br><br>
   </p>
 
   <div class="enlacesprof">
