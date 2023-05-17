@@ -141,7 +141,7 @@
             </div>
 
             <div class="col-12 col-sm-12 mt-5">
-                <a href="https://forms.office.com/r/PJVU087gBX" target="_blank"><img src="{{ asset('storage/images/B_ExaniIII.png') }}" alt=""></a>
+                <img src="{{ asset('storage/images/B_avisos.png') }}" alt="">
             </div>
 
         </div>
