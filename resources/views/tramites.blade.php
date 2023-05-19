@@ -291,7 +291,7 @@
                                         <a href="{{asset('storage/pdf/3.3 ActaEvalTrabTesis.pdf')}}"> 3.3 Acta de trabajo de tesis semestral para el programa de Doctorado en Ciencias Ambientales </a>
                                 </div>
                                 <div class="col-12 col-sm-12 my-4" id="enlacetramites">
-                                        <a href="{{asset('storage/pdf/3.4 Calif_SemTesis.pdf')}}"> 3.4 Formato para calificación de seminario de tesis para Maestría y Doctorado en Ciencias Ambientales </a>
+                                        <a href="{{asset('storage/pdf/3.4 Calif_SemTesisD.pdf')}}"> 3.4 Formato para calificación de seminario de tesis para Maestría y Doctorado en Ciencias Ambientales </a>
                                 </div>
                             </p>
                             <br><br>
