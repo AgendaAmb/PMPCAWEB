@@ -884,37 +884,31 @@
                                         <tr>
                                             <td>2022</td>
                                             <td>Cruz Santiago Omar</td>
-                                            <td><a target="_blank" href="#">Evaluación de riesgo ecológico en el ecosistema acuático del humedal potosino Ciénega de Tamasopo</a></td>
+                                            <td><a target="_blank" href="https://repositorioinstitucional.uaslp.mx/xmlui/handle/i/8297">Evaluación de riesgo ecológico en el ecosistema acuático del humedal potosino Ciénega de Tamasopo</a></td>
                                             <td>Dr. César Arturo Ilizaliturri Hernández</td>
                                         </tr>
                                         <tr>
                                             <td>2022</td>
                                             <td>Diego Rodríguez Mariana</td>
-                                            <td><a target="_blank" href="#">Caracterización y evaluación de la prevalencia de enfermedades respiratorias y gastrointestinales en comunidades vulnerables impactadas por eventos climáticos extremos en el Estado de San Luis Potoaí</a></td>
+                                            <td>Caracterización y evaluación de la prevalencia de enfermedades respiratorias y gastrointestinales en comunidades vulnerables impactadas por eventos climáticos extremos en el Estado de San Luis Potosí</td>
                                             <td>Dra. Gabriela Domínguez Cortinas</td>
                                         </tr>                                        
                                         <tr>
                                             <td>2022</td>
                                             <td>Macías Pérez Asaneth Careli</td>
-                                            <td><a target="_blank" href="#">Factores ambientales y la evolución de enfermedades crónicas en el municipio de El Naranjo S.L.P., México</a></td>
+                                            <td>Factores ambientales y la evolución de enfermedades crónicas en el municipio de El Naranjo S.L.P., México</td>
                                             <td>Dra. Gabriela Domínguez Cortinas</td>
                                         </tr>                                                                                
                                         <tr>
                                             <td>2021</td>
                                             <td>Ramírez Landeros Laura María</td>
-                                            <td><a target="_blank" href="#">Fortalecimiento de capacidades comunitarias enfocadas en educación, salud y ambiente en una región indígena</a></td>
+                                            <td>Fortalecimiento de capacidades comunitarias enfocadas en educación, salud y ambiente en una región indígena</a></td>
                                             <td>Dr. Fernando Díaz Barriga Martínez</td>
                                         </tr>                                        
                                         <tr>
                                             <td>2020</td>
                                             <td>Monsiváis Nava Claudia Davinia</td>
-                                            <td><a target="_blank" href="#">Análisis de
-                                                    factores
-                                                    asociados al sistema alimentario infantil en un área suburbana
-                                                    vulnerable de la
-                                                    Ciudad de San Luis Potosí México, para la implementación de una
-                                                    estrategia de
-                                                    intervención</a></td>
+                                            <td>Análisis de factores asociados al sistema alimentario infantil en un área suburbana vulnerable de la Ciudad de San Luis Potosí México, para la implementación de una estrategia de intervención</td>
                                             <td>Dra. Ana Cristina Cubillas Tejeda</td>
                                         </tr>
                                         <tr>
