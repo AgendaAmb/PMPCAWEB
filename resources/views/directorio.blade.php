@@ -13,10 +13,10 @@
                 </div>
                 <div class="col-12 col-sm-12">
                     <div>
-                        <h5> <strong id="directorioprofes">Dra. Paola Elizabeth Díaz Flores</strong> </h5>
+                        <h5> <strong id="directorioprofes">Dra. Anuschka Johanna María van't Hooft</strong> </h5>
                         <p>
                             Coordinadora Académica del PMPCA <br>
-                            Periodo de actividad 2021 - 2023
+                            Periodo de actividad 2023 - 2025
                             coordinacion.academica@uaslp.mx <br>
                             Tel: +52 (444) 826-2439 Ext. 7206 <br><br>
                             Funciones:<br>
