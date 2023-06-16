@@ -18,7 +18,7 @@
                             Coordinadora Académica del PMPCA <br>
                             Periodo de actividad 2023 - 2025
                             coordinacion.academica@uaslp.mx <br>
-                            Tel: +52 (444) 826-2439 Ext. 7206 <br><br>
+                            Tel: +52 (444) 826-2300 Ext. 7206 <br><br>
                             Funciones:<br>
                             Responsabilidad académica y administrativa para el buen funcionamiento del PMPCA.
                         </p><br>
@@ -27,7 +27,7 @@
                         <p>
                             Coordinadora del área educativa de la Agenda Ambiental <br>
                             pmpca@uaslp.mx <br>
-                            Tel: +52 (444) 826-2435 Ext. 7207 <br>
+                            Tel: +52 (444) 826-2300 Ext. 7207 <br>
                         <div id="contTablaIzq">
                             Funciones:<br>
                             Encargada del Control Escolar en el PMPCA, algunas de las funciones especificas son: trámite de
@@ -41,7 +41,7 @@
                         <p>
                             Asistente PMPCA <br>
                             lorena.leija@uaslp.mx <br>
-                            Tel: +52 (444) 826-2439 Ext. 7402 <br>
+                            Tel: +52 (444) 826-2300 Ext. 7402 <br>
                             <div id="contTablaIzq">
                             Funciones:<br>
                             Elaboración de constancias, cartas y documentos oficiales, recepción de solicitudes al Comité
