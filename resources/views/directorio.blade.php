@@ -13,7 +13,7 @@
                 </div>
                 <div class="col-12 col-sm-12">
                     <div>
-                        <h5> <strong id="directorioprofes">Dra. Anuschka Johanna María van't Hooft</strong> </h5>
+                        <h5> <strong id="directorioprofes">Dra. Anuschka van 't Hooft</strong> </h5>
                         <p>
                             Coordinadora Académica del PMPCA <br>
                             Periodo de actividad 2023 - 2025
@@ -41,11 +41,22 @@
                         <p>
                             Asistente PMPCA <br>
                             lorena.leija@uaslp.mx <br>
-                            Tel: +52 (444) 826-2300 Ext. 7402 <br>
+                            Tel: +52 (444) 826-2300 Ext. 7204 <br>
                             <div id="contTablaIzq">
                             Funciones:<br>
                             Elaboración de constancias, cartas y documentos oficiales, recepción de solicitudes al Comité
                             Académico, recepción de documentación en general, trámite de becas nacionales CONACyT.
+                            </div>
+                        </p><br>
+
+                        <h5> <strong id="directorioprofes">LEM Jonathan Alejandro Trejo Díaz</strong> </h5>
+                        <p>
+                            Archivo <br>
+                            jonathan.trejo@uaslp.mx <br>
+                            Tel: +52 (444) 826-2300 Ext. 7208 <br>
+                            <div id="contTablaIzq">
+                            Funciones:<br>
+                            Actualizar el archivo general de los expedientes de los alumnos y profesores.
                             </div>
                         </p>
                     </div>
