@@ -100,6 +100,12 @@
                                         </thead>
                                         <tbody>
                                             <tr>
+                                                <td>2023</td>
+                                                <td>Febrero - Julio</td>
+                                                <td><a href="{{asset('storage/Doc/SemTesis_Feb_Jul2023.pdf')}}" target="_blank">Memorias</a><br>
+                                                </td>
+                                            </tr>
+                                            <tr>
                                                 <td>2021</td>
                                                 <td>Febrero - Julio<br> Agosto - Enero</td>
                                                 <td><a href="{{asset('storage/Doc/SemTesis_Feb-Jul2021.pdf')}}" target="_blank">Memorias</a><br><a
