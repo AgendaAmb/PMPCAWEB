@@ -98,7 +98,6 @@
                     <a href="{{route('areas.GestionAmbiental.Profesores.LMarquez')}}" id="enlacesProfEvaluacion">Dr. Leonardo Ernesto Márquez Mireles</a> <br>
                     <a href="{{route('areas.GestionAmbiental.Profesores.APalacio')}}" id="enlacesProfEvaluacion">Dr. Álvaro Gerardo Palacio Aponte</a> <br>
                     <a href="{{route('areas.GestionAmbiental.Profesores.HReyes')}}" id="enlacesProfEvaluacion">Dr. Humberto Reyes Hernández</a> <br>
-                    <a href="{{route('areas.GestionAmbiental.Profesores.OReyes')}}" id="enlacesProfEvaluacion">Dr. Oscar Reyes Pérez</a> <br>
                     <a href="{{route('areas.GestionAmbiental.Profesores.AVant')}}" id="enlacesProfEvaluacion">Dra. Anuschka Van´t Hooft</a> <br>
                     <a href="{{route('areas.GestionAmbiental.Profesores.VVazquez')}}" id="enlacesProfEvaluacion">Dr. Valente Vázquez Solís</a> <br>
                 </div>
