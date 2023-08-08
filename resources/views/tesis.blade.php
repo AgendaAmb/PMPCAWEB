@@ -297,6 +297,13 @@
                                         </tr>
                                         <tr>
                                             <td>2015</td>
+                                            <td>Fuentes Galván María Lina</td>
+                                            <td><a target="_blank"
+                                                    href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/3972/MCA1CAP01501.pdf?sequence=1&isAllowed=y">La captación del agua de lluvia como una alternativa de abastacimiento en el área del acuífero Silao-Romita, Guanajuato</a></td>
+                                            <td>Dr. Hilario Charcas Salazar</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2015</td>
                                             <td>Gil Antonio María de los Angeles</td>
                                             <td><a target="_blank"
                                                     href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/3974/DCA1DUG01501.pdf?sequence=1&isAllowed=y">Disponibilidad,
@@ -443,15 +450,27 @@
                                     </thead>
                                     <tbody>
                                         <tr>
+                                            <td>2023</td>
+                                            <td>Aguilera Flores Miguel Mauricio</td>
+                                            <td><a target="_blank" >Aprovechamiento integral de la especie invasora pez diablo en el desarrollo de tecnologías para la remoción de contaminantes en agua y un análisis de ciclo de vida de su implementación</a></td>
+                                            <td>Dr. Nahum Andrés Medellín Castillo y Dra. Verónica Ávila Vázquez</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2023</td>
+                                            <td>Castillo Pérez Luis Jesús</td>
+                                            <td><a target="_blank" >Study of the ethnpharmacological potential of <i>Catasetum integerrimum</i> Hook. In the Huasteca Potosina</a></td>
+                                            <td>Dra. Candy Carranza Álvarez y Dr. Ángel Josabad Alonso Castro</td>
+                                        </tr>
+                                        <tr>
                                             <td>2021</td>
                                             <td>Flores Rojas Alfredo Israel</td>
-                                            <td><a target="_blank" href="#">Biomateriales de liberación controlada: alternativa para el control de la contaminación de suelos por sobre exposición a compuestos químicos</a></td>
+                                            <td><a target="_blank" >Biomateriales de liberación controlada: alternativa para el control de la contaminación de suelos por sobre exposición a compuestos químicos</a></td>
                                             <td>Dra. Paola Elizabeth Díaz Flores</td>
                                         </tr>                                        
                                         <tr>
                                             <td>2020</td>
                                             <td>Wong Argüelles Cynthia</td>
-                                            <td><a target="_blank" href="#">Análisis de la
+                                            <td><a target="_blank" >Análisis de la
                                                     calidad
                                                     de
                                                     agua y de la distribución elemental en <i>Typha domingensis</i>
@@ -588,7 +607,7 @@
                                             <td>2022</td>
                                             <td>Diédhiou Idrissa</td>
                                             <td><a target="_blank"
-                                                    href="#">Physiology, metabolomic profiles, and yield of native genotypes of maize (<em>Zea Mays L.</em>) and their <em>milpa</em> systems (maize+bean+squash) from San Luis Potosi, Mexico, under related effects of climate change</a>
+                                                    >Physiology, metabolomic profiles, and yield of native genotypes of maize (<em>Zea Mays L.</em>) and their <em>milpa</em> systems (maize+bean+squash) from San Luis Potosi, Mexico, under related effects of climate change</a>
                                             </td>
                                             <td>Dr. Hugo Magdaleno Ramírez Tobías</td>
                                         </tr>                                        
@@ -723,17 +742,6 @@
                                                     de la pulpa de variantes de tuna como alimento funcional</a>
                                             </td>
                                             <td>Dra. Bertha Irene Juárez Flores</td>
-                                        </tr>
-                                        <tr>
-                                            <td>2015</td>
-                                            <td>Fuentes Galván María Lina</td>
-                                            <td><a target="_blank"
-                                                    href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/3972/MCA1CAP01501.pdf?sequence=1&isAllowed=y">La
-                                                    captación del agua de lluvia como una alternativa de
-                                                    abastecimiento en el área del
-                                                    acuífero Silao-Romita, Guanajuato</a></td>
-                                            <td>Dr. Hilario Charcas Salazar y Dra. Xitlali Virginia Delgado Galván
-                                            </td>
                                         </tr>
                                         <tr>
                                             <td>2015</td>

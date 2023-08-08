@@ -68,6 +68,10 @@ Route::prefix('cursos')->name('cursos.')->group(function () {
             return view('programas.IntroduccionEstadistica');
         })->name('IntroduccionEstadistica');
 
+        Route::get('ProblematicayGestion', function () {
+            return view('programas.problematicaygestion');
+        })->name('ProblematicayGestion');
+
     });
 
     Route::prefix('Optativos')->name('Optativos.')->group(function () {

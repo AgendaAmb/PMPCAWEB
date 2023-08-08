@@ -5,10 +5,11 @@
         <div id="colorTexto">
             <div id="professor-description" class="row mb-4 p-5">
                 <div class="col-12 col-sm-12">
-                    <h1><strong>DESARROLLO SUSTENTABLE</strong></h1>
+                    <h1><strong>PROBLEMÁTICA Y GESTIÓN AMBIENTAL</strong></h1>
                 </div>
+                <p></p>
                 <div class="col-12 col-sm-12 container">
-                    <div><br><br>
+                    <div>
                         <h4><strong>Datos generales</strong></h4>
                         <br>
                         <div class="table-responsive" id="contTabla">
@@ -26,7 +27,7 @@
                                         <td>Obligatorio</td>
                                         <td>Curso</td>
                                         <td>Español</td>
-                                        <td>Presencial</td>
+                                        <td>Mixta</td>
                                     </tr>
                                 </tbody>
                             </table>
@@ -55,11 +56,11 @@
                                 <tbody>
                                     <tr>
                                         <td>1</td>
-                                        <td>16</td>
+                                        <td>&nbsp;</td>
                                         <td>3</td>
-                                        <td>0</td>
+                                        <td>2</td>
                                         <td>3</td>
-                                        <td>4</td>
+                                        <td>8</td>
                                     </tr>
                                 </tbody>
                             </table>
@@ -70,17 +71,26 @@
                 <hr>
                 <p></p>
                 <h4> <strong>Objetivo general de aprendizaje</strong> </h4>
-                <p>Contribuir a que los estudiantes desarrollen una visión panorámica sistémica y crítica de los diversos enfoques y
-                    discursos desde los que se conceptualiza el desarrollo sustentable, así como la capacidad de contextualizar y analizar
-                    casos y temas específicos desde la perspectiva de sistemas complejos.</p>
-                    <p></p>
+                <p>Reflexionar sobre la problemática ambiental actual, sus implicaciones y posibles soluciones desde la gestión ambiental</p>
+                <br>
+                <h4> <strong>Objetivos específicos</strong> </h4>
+                <p>Que el estudiante:<br>
+                    <ul>
+                        <li>Comprenda como la problemática y la gestión ambiental son socialmente construidas, enteder la naturaleza social de los problemas ambientales.</li>
+                        <li>Analice las causas y consecuencias de la crisis ambiental global, su dinámica temporal y espacial, sus dimensiones y manifestaciones en diferentes escalas y socioecosistemas.</li>
+                        <li>Indague sobre las bases para la gestión de la problemática ambiental.</li>
+                        <li>Revisar el estatus de los procesos en la biosfera para los que es necesario definir límites planetarios.</li>
+                        <li>Revisar las bases normativas, políticas públicas y la gobernanza en el ámbito de la gestión ambiental en México.</li>
+                        <li>Analizar el proceso de la gestión ambiental en relación a la contaminación ambiental, el sistema agroalimentario, los tecnoensambles y la reducción del riesgo de desastres.</li>
+                    </ul>
+                </p>
+                <p></p>
                 <hr>
                 <p></p>
                 <div class="col-12 col-sm-12 container">
                     <div>
                         <h4><strong>Competencia profesionales a las que contribuye la asignatura</strong></h4>
-                        <p>Esta asignatura contribuye de manera directa al logro de las siguientes competencias profesionales del perfil de egreso
-                            del programa:</p>
+                        <p>Esta asignatura contribuye de manera directa al logro de las siguientes competencias profesionales del perfil de egreso del programa:</p>
                         <div class="table-responsive" id="contTablaIzq">
                             <table class="table table-bordered border-dark" id="colorTexto">
                                 <thead>
@@ -91,22 +101,35 @@
                                 </thead>
                                 <tbody>
                                     <tr>
-                                        <td id="contTabla"> <strong>Enfoque integrador multidisciplinario</strong></td>
+                                        <td id="contTabla"> <strong>Competencia(s) profesional(es) que contribuye a desarrollar la materia</strong></td>
 
-                                        <td>Identificar, analizar y caracterizar problemas ambientales críticos, generando
-                                            propuestas de solución y estrategias tecnológicas a través del trabajo
-                                            multidisciplinario, con base en el conocimiento especializado y en el dominio de
-                                            un lenguaje diverso de las ciencias naturales y sociales que facilite una visión
-                                            integrada de los diferentes dimensiones de la sustentabilidad.</td>
+                                        <td>Diseñar y aplicar sistemas de gestión ambiental estratégica, con base en una aproximación basada en la realidad compleja, la teoría general de sistemas, en forma multidisciplinaria, para la gestión del riesgo, considerando: los peligros, exposición y amenazas provocadas por la crisis ambiental global.</td>
+                                    </tr>
+                                    <tr>
+                                        <td id="contTabla"><strong>Desempeño de la competencia profesional a los que contribuye la materia</strong></td>
+
+                                        <td>
+                                            <ul>
+                                                <li>Caracterizar las diferentes amenazas ambientales a la salud humana, de los ecosistemas y de la biosfera en general.</li>
+                                                <li>Evaluar el estado actual de los servicios ambientales incluyendo todas las dimensiones de la sostenibilidad (física, biológica, ecológica, económica y sociocultural), en forma transescalar o funcional.</li>
+                                                <li>Diseñar sistemas de gestión ambiental del riesgo.</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+
+                                    <tr>
+                                        <td id="contTabla"><strong>Comptencia(s) transversal(es) a las que contribuye a desarrollar la materia</strong>
+                                        </td>
+
+                                        <td>La Ético-valoral; la comunicativa y de información internacional e intercultural; la de sensibilidad, la de cuidado de la salud; la de responsabilidad social y ambiental; y la científico tecnológica.</td>
                                     </tr>
                                 </tbody>
                             </table>
                         </div>
                     </div>
                 </div>
-                <p></p>
+
                 <hr>
-                <p></p>
                 <div class="col-12 col-sm-12 container">
                     <div>
                         <h4><strong>Planeación didáctica general</strong></h4>
@@ -124,67 +147,48 @@
                                 <tbody>
                                     <tr>
                                         <td>1</td>
-                                        <td>Panorama
-                                            general sobre
-                                            desarrollo
-                                            sustentable</td>
-                                        <td id="contTablaIzq">
-                                            <ol type="a">
-                                                <li>Identificar las diferentes per spectivas generadas en el debate
-                                            contemporáneo sobre desarrollo
-                                            sustentable.</li><br>
-                                                <li>Analizar los antecedentes, actores y agencias, énfasis adopta
-                                            dos, alcances y limitaciones de estas perspectivas, desde un en
-                                            foque crítico.</li>
-                                            </ol>
+                                        <td>Introducción a la problemática y la gestión ambiental.</td>
+                                        <td id="contTablaIzq"> Que el estudiantado:
+                                            <ul>
+                                                <li>Comprenda como la problemática y la gestión ambiental, son socialmente construidos, entender la natural social de los problemas ambientales.</li>
+                                                <li>Analice las causas y consecuencias de la crisis ambiental global, su dinámica temporal y espacial, sus dimensiones y manifestaciones en diferentes escalas y socioecosistemas.</li>
+                                                <li>Indague sobre las bases para la gestión de la problemática ambiental.</li>
+                                            </ul>
                                         </td>
                                         <td id="contTablaIzq">
-
+                                            <p>Métodos de enseñanza y prácticas:</p>
                                             <ul>
                                                 <li>
-                                                    Presentaciones PowerPoint
+                                                    En un ambiente de discusión incluyente, los conceptos que aportan las lecturas permitirán construir estructuras de pensamiento para articular los conocimientos previos con las experiencias individuales del estudiantado en relación a la problemática de sus países y regiones de origen.
+                                                </li>
+                                            </ul>
+                                            <p>Actividades de aprendizaje:</p>
+                                            <ul>
+                                                <li>
+                                                    Lecturas previas a cada sesión.
                                                 </li>
                                                 <li>
-                                                    Discusión en clase
+                                                    Discusión, análisis ý síntesis durante las sesiones presenciales.
                                                 </li>
                                                 <li>
-                                                    Trabajo en equipos
+                                                    Presentaciones orales por parte del estudiantado.
                                                 </li>
                                                 <li>
-                                                    Realización de lecturas en forma previa a
-                                            cada sesión
+                                                    Examen escrito.
                                                 </li>
                                                 <li>
-                                                    Formulación de un concepto propio y
-                                            grupal sobre desarrollo sustentable
-                                                </li>
-                                                <li>
-                                                    Selección y presentación de un caso de
-                                                    estudio para el semestre
+                                                    Ensayo.
                                                 </li>
                                             </ul>
                                         </td>
 
                                     <tr>
                                         <td>2</td>
-                                        <td>Evaluación de la
-                                            sostenibilidad e
-                                            indicadores de
-                                            desarrollo sustentable</td>
+                                        <td>Problemática ambiental.</td>
                                         <td id="contTablaIzq">
-                                            <ol type="a">
-                                                <li>Comprender las
-                                            principales modelos,
-                                            metodologías e indicadores
-                                            de evaluación de la
-                                            sostenibilidad en sus
-                                            dimensiones ambiental,
-                                            social, económica y política.</li><br>
-                                            <li>Identificar relaciones entre
-                                            los componentes de la
-                                            sostenibilidad en diversas
-                                            escalas y temas.</li>
-                                            </ol>
+                                            <ul>
+                                                <li>Revisar el estatus de los procesos en la biosfera para los que es necesario definir límites planetarios.</li>
+                                            </ul>
                                         </td>
                                             <td id="contTablaIzq">
 
@@ -215,21 +219,19 @@
                                         <td>Tópicos del
                                             debate</td>
                                         <td id="contTablaIzq">
-                                            <ol type="a">
-                                                <li>Analizar con mayor
+                                            a) Analizar con mayor
                                             profundidad el debate sobre
                                             la sostenibilidad
                                             considerando la diversidad
                                             de aportes conceptuales
                                             sobre la sostenibilidad con un
-                                            enfoque crítico.</li><br>
-                                            <li>Formular argumentaciones
+                                            enfoque crítico. <br> <br>
+                                            b) Formular argumentaciones
                                             conceptualmente
                                             fundamentadas sobre los
                                             enfoques, dimensiones,
                                             escalas y momentos de la
-                                            sostenibilidad.</li>
-                                            </ol>
+                                            sostenibilidad
                                         </td>
                                         <td id="contTablaIzq">
 
@@ -259,9 +261,8 @@
                         </div>
                     </div>
                 </div>
-                <p></p>
+
                 <hr>
-                <p></p>
                 <div class="col-12 col-sm-12 container">
                     <div>
                         <h4><strong>Evaluación</strong></h4>
@@ -318,20 +319,19 @@
                         </div>
                     </div>
                 </div>
-                <p></p>
+
                 <hr>
-                <p></p>
-                <h4> <strong>Recursos bibliográficos y digitales</strong> </h4><br>
+                <h4> <strong>Recursos bibliográficos y digitales</strong> </h4>
                 <h5> <strong>Textos básicos</strong></h5>
                 <div class="margen">
-                    <ul>
-                        <li>Adams, W.M. 2009. Green development. Environment and sustainability in a developing world.
-                        Routledge. London. 449 p.</li>
-                        <li>Foladori, G. 2001. Controversias sobre sustentabilidad. La coeevolución sociedad-naturaleza.
-                        Universidad Autónoma de Zacatecas y Porrúa. México. 233 p.</li>
-                        <li>Heinrichs, H.; P. Martens; G. Michelsen; A. Wiek (Eds.) 2016. Sustainability Science. Springer. New York. 367 p.</li>
-                    </ul>
-                </div>
+                <ul>
+                    <li>Adams, W.M. 2009. Green development. Environment and sustainability in a developing world.
+                    Routledge. London. 449 p. <br></li>
+                    <li>Foladori, G. 2001. Controversias sobre sustentabilidad. La coeevolución sociedad-naturaleza. Universidad Autónoma de Zacatecas y Porrúa. México. 233 p.</li>
+                    • Heinrichs, H.; P. Martens; G. Michelsen; A. Wiek (Eds.) 2016. Sustainability Science. Springer. New
+                    York. 367 p.
+                </ul>
+            </div>
 
                 <hr>
                 <h4> <strong>Requisitos para cursar la asignatura</strong> </h4>
@@ -347,11 +347,11 @@
                 <h4> <strong>Otras formas de acreditación</strong> </h4>
                 <div class="margen">
                     <ul>
-                        <li>Esta asignatura puede ser acreditada a través de la presentación de un documento probatorio
-                        que certifique que el estudiante ya cuenta con los aprendizajes necesarios: <strong>No</strong> </li>
-                        <li>Esta asignatura puede ser acreditada a través de un examen que certifique que el estudiante ya
-                        cuenta con los aprendizajes necesarios: <strong>No</strong></li>
-                    </ul>
+                    <li>Esta asignatura puede ser acreditada a través de la presentación de un documento probatorio
+                    que certifique que el estudiante ya cuenta con los aprendizajes necesarios: <strong>No</strong> <br></li>
+                    <li>Esta asignatura puede ser acreditada a través de un examen que certifique que el estudiante ya
+                    cuenta con los aprendizajes necesarios: <strong>No</strong></li>
+                </ul>
                 </div>
 
                 <hr>
@@ -361,10 +361,10 @@
 
                 <hr>
                 <h4> <strong>Elaboradores y revisores</strong> </h4>
-                <p> <strong>Elaboró: </strong>M.C. Luz María Nieto Caraveo (propuesta original). Dr. Javier Fortanelli
+                <p> <strong> • Elaboró: </strong>M.C. Luz María Nieto Caraveo (propuesta original). Dr. Javier Fortanelli
                     Martínez (modificaciones).
                     <br>
-                    <strong>Revisó:</strong>
+                    <strong> • Revisó:</strong>
                 </p>
             </div>
         </div>

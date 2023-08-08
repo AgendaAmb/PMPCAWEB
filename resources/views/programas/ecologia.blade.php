@@ -8,7 +8,7 @@
                     <h1><strong>ECOLOGÍA</strong></h1><br>
                 </div>
                 <div class="col-12 col-sm-12 container">
-                    <div>
+                    <div><br><br>
                         <h4><strong>Datos generales</strong></h4>
                         <br>
                         <div class="table-responsive" id="contTabla">
