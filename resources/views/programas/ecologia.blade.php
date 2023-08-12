@@ -142,6 +142,13 @@
                                     </tr>
 
                                     <tr>
+                                        <td id="contTabla"> <strong>Desempeños de la competencia profesional a los que contribuye la materia</strong></td>
+
+                                        <td>El posgraduado en ciencias ambientales distinguirá lo escencial de lo accesorio o superficial de textos científicos propios de su profesión.<br>Implementará estrategias o procedimientos para llegar a un determinado resultado. Seleccionará la metodología adecuada para la elaboración de proyectos propios de su profesión.<br>Sistematizará los marcos conceptuales y modelos explicativos provenientes del avance científico y tecnológico de su profesión.<br>Discriminará entre los distintos aspectos, componentes, niveles o factores que configuran una determinada realidad.
+                                        </td>
+                                    </tr>
+
+                                    <tr>
                                         <td id="contTabla"> <strong>Competencias
                                                 transversales a las
                                                 que contribuye a
@@ -301,19 +308,30 @@
                                     <tr id="tablaTitulos">
                                         <th colspan="2" >Unidad 1 Introducción &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6 h</th>
                                     </tr>
-                                    <tr id="tablaTitulos">
+                                    <tr>
                                         <th scope="col">Tema</th>
                                         <th scope="col">Subtema</th>
                                     </tr>
                                 </thead>
                                 <tbody>
                                     <tr>
-                                        <td style="text-align: left;">
+                                        <td>
                                             <strong>1.1 Presentación</strong>
                                         </td>
-                                        <td id="contTablaIzq">
+                                        <td>
                                             1.1.1 Introducción al curso<br>
                                             1.1.2 Los renos de la isla de Saint Mathew
+                                        </td>
+                                    <tr>
+                                    <tr>
+                                        <td class="contTablaB">
+                                            <strong>1.2 La ecología a la luz de los problemas ambientales</strong>
+                                        </td>
+                                        <td>
+                                            1.2.1 El origen de la crisis ambiental<br>
+                                            1.2.2 El quehacer de la ecología en las ciencias ambientales<br>
+                                            1.2.3 Los niveles de organización de la ecología<br>
+                                            1.2.4 Los principios emergentes de la ecología
                                         </td>
                                     <tr>
                                 </tbody>

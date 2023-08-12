@@ -204,8 +204,8 @@
                                                     </li>
                                                     <li>
                                                         Realización de lecturas en forma previa a
-                                                cada sesión
                                                     </li>
+                                                cada sesión
                                                     <li>
                                                         Presentación por equipos de diferentes sistemas de indicadores.
                                                     </li>
