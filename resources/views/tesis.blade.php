@@ -604,10 +604,16 @@
                                     </thead>
                                     <tbody>
                                         <tr>
+                                            <td>2023</td>
+                                            <td>Orta Salazar Carolina</td>
+                                            <td><a target="_blank">Diversidad de lepidópteros diurnos, su identificación como bioindicadores ambientales y propuesta de su uso sustentable en la reserva de la biosfera Sierra del Abra Tanchipa, SLP</a>
+                                            </td>
+                                            <td>Dr. Juan Antonio Reyes Agüero</td>
+                                        </tr>
+                                        <tr>
                                             <td>2022</td>
                                             <td>Diédhiou Idrissa</td>
-                                            <td><a target="_blank"
-                                                    >Physiology, metabolomic profiles, and yield of native genotypes of maize (<em>Zea Mays L.</em>) and their <em>milpa</em> systems (maize+bean+squash) from San Luis Potosi, Mexico, under related effects of climate change</a>
+                                            <td><a target="_blank">Physiology, metabolomic profiles, and yield of native genotypes of maize (<em>Zea Mays L.</em>) and their <em>milpa</em> systems (maize+bean+squash) from San Luis Potosi, Mexico, under related effects of climate change</a>
                                             </td>
                                             <td>Dr. Hugo Magdaleno Ramírez Tobías</td>
                                         </tr>                                        
@@ -889,6 +895,12 @@
                                         </tr>
                                     </thead>
                                     <tbody>
+                                        <tr>
+                                            <td>2023</td>
+                                            <td></td>
+                                            <td>Evaluación de riesgos en salud en escenarios de trabajo precario en una zona ladrillera de San Luis Potosí</td>
+                                            <td>Dr. Rogelio Flores Ramírez</td>
+                                        </tr>
                                         <tr>
                                             <td>2022</td>
                                             <td>Cruz Santiago Omar</td>
@@ -1285,6 +1297,34 @@
                                         </tr>
                                     </thead>
                                     <tbody>
+                                        <tr>
+                                            <td>2021</td>
+                                            <td>Torres Martínez Guillermo</td>
+                                            <td><a target="_blank"
+                                                    href="#">Análisis de los elementos de sostenibilidad en la política pública de México para un propuesta de programas de escuelas sostenibles</a></td>
+                                            <td>Dr. Marcos Algara Siller</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2021</td>
+                                            <td>Samaniego Figueroa Ximena</td>
+                                            <td><a target="_blank"
+                                                    href="#">Integrated waste management assessment for end-of-life photovoltaic modules: a case study of Mexico</a></td>
+                                                    <td>Dr. Alfredo Ávila Galarza y Dr. Johannes Hamhaber</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2021</td>
+                                            <td>Martínez Guzmán Verne Javier</td>
+                                            <td><a target="_blank"
+                                                    href="#">Proposal for a food security program: the urban agriculture guideline at the Autonomous University of San Luis Potosi</a></td>
+                                            <td>Dr. Marcos Algara Siller y Dr. Johannes Hamhaber</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2021</td>
+                                            <td>Fernández Reyes José Salvador</td>
+                                            <td><a target="_blank"
+                                                    href="#">Strategic assessment of an on-campus energy system: the university energy program of UASLP, Mx</a></td>
+                                            <td>Dr. Marcos Algara Siller y Dr. Johannes Hamhaber</td>
+                                        </tr>
                                         <tr>
                                             <td>2020</td>
                                             <td>Coenen Heleen</td>
