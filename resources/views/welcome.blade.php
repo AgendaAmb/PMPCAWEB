@@ -114,7 +114,7 @@
                         <p> <strong>INTRANET</strong></p>
                     </div>
                     <div class="col-6 col-md-4 col-lg-2">
-                        <a href="{{asset('storage/Doc/Prog-Ene_Jul2023.pdf')}}"><img src="{{ asset('storage/images/Programación semestral.png') }}"
+                        <a href="{{asset('storage/Doc/PMPCA_Prog_Ago23-Ene24pdf')}}"><img src="{{ asset('storage/images/Programación semestral.png') }}"
                                 alt="" style="width:150px;height:150px"></a>
                         <p> <strong>Programación semestral</strong></p>
                     </div>
