@@ -222,7 +222,7 @@
                     <a href="{{route('areas.SaludAmbiental.Profesores.FPerez')}}" id="enlacesProfEvaluacion">Dr. Francisco Javier Pérez Vázquez</a> <br>
                     <a href="{{route('areas.SaludAmbiental.Profesores.SRomero')}}" id="enlacesProfEvaluacion">Dra. Silvia Romero Contreras</a> <br>
                     <a href="{{route('areas.SaludAmbiental.Profesores.MVallejo')}}" id="enlacesProfEvaluacion">Dr. Moisés Roberto Vallejo Pérez</a> <br>
-                    <a href="{{route('areas.SaludAmbiental.Profesores.LYanez')}}" id="enlacesProfEvaluacion">Dra. Leticia Guadalupe Yáñez Estrada</a> <br>
+                    Dra. Leticia Guadalupe Yáñez Estrada <br>
                 </div>
             </div>
         </div>
