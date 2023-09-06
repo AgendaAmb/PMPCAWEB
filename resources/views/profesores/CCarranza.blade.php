@@ -17,6 +17,7 @@
         <h4><strong>Profesor Investigador de Tiempo Completo Nivel VI.</strong></h4>
         <h5><strong>Unidad Multidisciplinaria Zona Huasteca.</strong></h5>
         <h5><strong>SNI nivel II.</strong></h5>
+        <h5><strong>UASLP-CA-262 - Biotecnología, Medio Ambiente y Sustentabilidad (BMAS)</strong></h5>
         <br>
         <p>
             Romualdo del Campo #501, Fraccionamiento Rafael Curiel<br>

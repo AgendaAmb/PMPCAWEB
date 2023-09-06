@@ -49,11 +49,12 @@
               <ol>
                 <li><strong>Cursos</strong></li>
                     <ul class="vineta">
-                      <li>TSCA: Medioambiente y reducción del riesgo de desastres (ECO-DRR)</li>
+                      <li>Planeación y ordenamiento</li>
                     </ul><br>
                 <li><strong>LGAC</strong></li>
                 <ul class="vineta">
-                  <li>Estudios multidisciplinarios de los desastres</li>
+                  <li>Procesos territoriales, cultura y ambiente</li>
+                   <li>Procesos territoriales del turismo</li>
                    <li>Planeación y ordenamiento territorial y ambiental</li>
                 </ul><br>
                 <li><strong>Dirección de Tesis</strong></li><br>
