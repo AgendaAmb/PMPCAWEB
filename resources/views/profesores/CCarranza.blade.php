@@ -16,7 +16,7 @@
         <div>
         <h4><strong>Profesor Investigador de Tiempo Completo Nivel VI.</strong></h4>
         <h5><strong>Unidad Multidisciplinaria Zona Huasteca.</strong></h5>
-        <h5><strong>SNI nivel I.</strong></h5>
+        <h5><strong>SNI nivel II.</strong></h5>
         <br>
         <p>
             Romualdo del Campo #501, Fraccionamiento Rafael Curiel<br>
