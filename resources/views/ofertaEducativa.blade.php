@@ -39,7 +39,7 @@
                     <div class="col-12 col-sm-1 ">
                     </div>
                     <div class="col-12 col-sm-3 d-none d-sm-block">
-                        <a class="btn btn-primary" id="botonesGeneral" target="_blank" href="storage/Doc/Conv_DCA.pdf"
+                        <a class="btn btn-primary" id="botonesGeneral" target="_blank" href="storage/Doc/Conv_DCA_2023.pdf"
                             role="button">Convocatoria</a>
                     </div>
                     <div class="col-12 col-sm-1 ">

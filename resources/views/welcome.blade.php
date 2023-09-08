@@ -32,7 +32,7 @@
                                 <div class="barraAzulFuerteS"></div>
                                 <div class="card-body rounded-0">
                                     <p class="card-title"> <strong>DOCTORADO EN CIENCIAS AMBIENTALES</strong></p>
-                                    <a class="btn btn-primary" id="botonesGeneral" target="_blank" href="storage/Doc/Conv_DCA.pdf"
+                                    <a class="btn btn-primary" id="botonesGeneral" target="_blank" href="storage/Doc/Conv_DCA_2023.pdf"
                                     role="button">Convocatoria</a>
                                 </div>
                             </div>
