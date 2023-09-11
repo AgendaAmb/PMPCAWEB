@@ -12,17 +12,18 @@ Dr. Héctor Martín Durán García
 
 <div>
   <h4><strong>Profesor Investigador de Tiempo Completo Nivel VI.</strong></h4>
-  <h5><strong>Instituto de Investigación de Zonas Desérticas. SNI nivel I.</strong></h5>
+  <h5><strong>Instituto de Investigación de Zonas Desérticas.</strong></h5>
+  <h5><strong>SNI nivel I.</strong></h5>
   <br>
   <p>
       Altair No. 200, Col. del Llano<br>
-      C.P. 78377, San Luis Potosí, SLP. México <br>
+      C.P. 78377, San Luis Potosí, SLP. México <br><br>
       Tel.: +52 (444) 832-1000 ext. 9416<br>
       <a href="mailto:hduran@uaslp.mx" style="color:rgb(0, 178, 227)">hduran@uaslp.mx</a><br><br>
   </p>
 
   <div class="enlacesprof">
-      <!--<a target="_blank" href="http://ciep.ing.uaslp.mx/agua/profesor.php?id=3132343537">Webpage</a>-->
+      <a target="_blank" href="https://uaslpedu-my.sharepoint.com/personal/difusion_iizd_uaslp_mx/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fdifusion%5Fiizd%5Fuaslp%5Fmx%2FDocuments%2FFICHAS%20PERSONALES%2F2022%2FHMDG%2Epdf&parent=%2Fpersonal%2Fdifusion%5Fiizd%5Fuaslp%5Fmx%2FDocuments%2FFICHAS%20PERSONALES%2F2022&ga=1">Webpage</a>
       <a target="_blank" href="{{asset('storage/CV/Duran_Garcia_HectorMartin.pdf')}}"><i>Curriculum vitae</i></a>
       <a target="_blank" href="https://investigadores.uaslp.mx/InvestigadorProfile/3iwAAA%3d%3d">Directorio de Investigadores</a>
       <a target="_blank" href="https://orcid.org/0000-0003-0285-4053"><img src="{{asset('storage/images/orcid.png')}}" alt=""></a>
@@ -93,6 +94,8 @@ Dr. Héctor Martín Durán García
         <p><strong>Artículos de investigación</strong></p>
         <p></p>
         <ul class="vineta">
+          <li>López-Díaz, N.L; <b>Durán-García, H. M</b>; Álvarez-Fuentes, G; Ávila-Galarza, A; Pulido-Delgado, J.L; Barajas-Beltrán, M. del S. Cuantificación del biogás generado en tres sitios de disposición final del estado de San Luis Potosí, México. Revista Internacional de Investigación e Innovación Tecnológica. Vol. 11, No. 61. 2023 | Journal article</li><br>
+          <li>Nancy Lorena Pérez Ramos; Rodolfo Cisneros Almazán; <b>Héctor Martín Durán García</b>. Revisión de la ocurrencia de inundaciones en la ciudad de San Luis Potosí, S.L.P. en el periodo 2014-2021. DECUMANUS. Vol. 10, No. 10. 2023 | Journal article. DOI: <a href="https://doi.org/10.20983/decumanus.2023.1.2" target="_blank">https://doi.org/10.20983/decumanus.2023.1.2</a></li><br>
           <li>Aguirre R., J. R.; H. Charcas S.; <b>H.M. Durán G.</b> 2016.  Green corn ear productivity in Rioverde, SLP, Mexico. Revista Mexicana de Ciencias Agrícolas. 7(7): 1563-1573.</li><br>
           <li><b>Durán G., H.M.</b>; O. Guarneros; C. Jiménez; E. Rossel; J. Pulido. 2016. Structural design of a mechanical arm for harvest of cactus pear type Alfajayucan. Journal of Applied Research and Technology. 14:140-147.</li><br>
           <li>Romero M., R.; P. Lara V.; F. Oviedo T.; <b>H.M. Durán G.</b>; F.J. Pérez; A.J. Pacheco V. 2016. Use of artificial neural networks for prediction of the convective heat transfer coefficient in evaporative mini-tubes. Ingeniería, Investigación y Tecnología. 17(1): 23-34.</li><br>
@@ -109,6 +112,26 @@ Dr. Héctor Martín Durán García
           <li>Rossel K., D.; H. Ortiz L.; E.J. González G.; <b>H.M. Durán G.</b> 2017. Técnicas de procesos agrícolas III: Comprimir, limpiar, desinfectar, almacenar. Colegio de Postgraduados. San Luis Potosí, SLP. México. 285p.</li>
         </ul>
       </div>
+    </div>
+  </div>
+          <div class="accordion-item">
+          <h2 class="accordion-header" id="headingThree">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+              data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+              <strong>Vinculación</strong>
+            </button>
+          </h2>
+          <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
+            data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+              <ul class="vineta">
+                <li>En el año 2021 se impartió el taller ¿Cómo nace una sandía? a los alumnos del jardín de niños “Arco Iris” y al jardín de niños “Mariano Matamoros”, del municipio de Charcas, S.L.P. </li><br>
+                <li>En el año 2022, se realizó un taller sobre el tema: “Vida Saludable” a padres de familia del jardín de niños “Pastorcito” en el municipio de Charcas, S.L.P.</li>
+               </ul>
+            </div>
+          </div>
+        </div>
+      </div> <br><br><br>
     </div>
   </div>
 </div>

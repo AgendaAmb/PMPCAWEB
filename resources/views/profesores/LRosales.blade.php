@@ -16,7 +16,7 @@
         <div>
         <h4><strong>Profesor Investigador de Tiempo Completo Nivel VI.</strong></h4>
         <h5><strong>Facultad de Ingeniería</strong></h5>
-        <h5><strong>SNI nivel I.</strong></h5>
+        <h5><strong>SNI nivel C.</strong></h5>
         <br>
         <p>
             Dr. Manuel Nava No. 8, Zona Universitaria Poniente, <br>
@@ -50,6 +50,7 @@
                 <li><strong>Cursos</strong></li>
                     <ul class="vineta">
                       <li>Biocombustibles</li>
+                      <li>Biología molecular aplicada a las Ciencias Ambientales</li>
                     </ul>
                     <br>
                 <li><strong>LGAC</strong></li>
@@ -87,10 +88,15 @@
             <div class="accordion-body">
               <strong>Artículos de Investigación</strong><br><br>
               <ul class="vineta">
+                <li>Freddy Castillo-Alfonso, Alejandro Quintana-Menéndez, Gabriel Vigueras-Ramírez, Alfonso Mauricio Sales-Cruz, <b>Luis Manuel Rosales-Colunga</b> and Roberto Olivares-Hernández “Analysis of the Propionate Metabolism in Bacillus subtilis during 3-Indolacetic Production” Microorganisms, 2022, 10, 2352.</li><br>
+                <li>Sara Gisela Sánchez Ureña, Roberto Emmanuel Bolaños Rosales, Oscar Aguilar Juárez, <b>Luis Manuel Rosales Colunga</b>, Silvia Maribel Contreras Ramos, Erika Nahomy Marino Marmolejo. “Tequila Production Process Infuences on Vinasses Characteristics. A Comparative Study Between Traditional Process and Non cooked Agave Process” Waste and Biomass Valorization</li><br>
+                <li>Freddy Castillo Alfonso, Juan Vigueras Ramírez, <b>Luis Manuel Rosales Colunga</b>, Alberto del Monte Martínez and Roberto Olivares Hernández “Propionate as the preferred carbon source to produce IAA in B. subtilis: comparative flux analysis using five carbon sources” Molecular Omics, 2021, 17 (4) 554-564</li><br>
                 <li>Tzintzun-Camacho, O., Sánchez-Segura, L., Minchaca-Acosta, A. Z., <b>Rosales-Colunga, L. M.</b>, Hernández-Orihuela, A., &amp; Martínez-Antonio, A. (2016). Development of bacterial culture medium from avocado seed waste. Revista Mexicana de Ingeniería Química, 15(3).</li>
               </ul><br>
               <strong>Artículos de Divulgación</strong><br><br>
               <ul class="vineta">
+                <li>Francisco Flores Montiel, <b>Luis Manuel Rosales Colunga</b>, Antonio De león Rodríguez “Bacterias de koala: una solución sustentable en la generación de energía” Universitarios Potosinos. año 18, número 270; pp. 1-5. Febrero 2023.</li><br>
+                <li><b>Luis Manuel Rosales Colunga</b>, “El marciano agroindustrial” Universitarios Potosinos. año 16, número 243; pp. 9. Enero 2020.</li><br>
                 <li>Irma Inés Villalpando Neira, José Luis Martínez Salgado, <b>Luis Manuel Rosales Colunga</b>, “De bebidas alcohólicas, bichos y algo más…” Universitarios Potosinos. año 15, número 228; pp. 22-25. Octubre 2018.</li><br>
                 <li>Ángel Mario López Hidalgo, <b>Luis Manuel Rosales Colunga</b>, Antonio de León Rodríguez. “Las macroalgas, ¿pueden ayudarnos a resolver problemas de índole mundial” Universitarios Potosinos. año 14, número 215; pp. 4-10. Septiembre 2017.</li><br>
                 <li>Cecilia Lizeth Álvarez Guzmán, <b>Luis Manuel Rosales Colunga</b>, Antonio de León Rodríguez. “Bacterias amantes del frío para producir biocombustibles” Universitarios Potosinos. año 12, número 195; pp. 12-15 Enero 2016.</li><br>

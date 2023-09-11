@@ -104,7 +104,7 @@
                         <p> <strong>Calendario</strong></p>
                     </div>
                     <div class="col-6 col-md-4 col-lg-2">
-                        <a href="#"><img src="{{ asset('storage/images/Solicitud de instalaciones.png') }}"
+                        <a href="https://apps.powerapps.com/play/e/default-60681658-0f2d-4a4e-aaf1-6fd5f2dba33f/a/cf4c2f6d-8328-49ab-9881-ce3ae30da8c9?tenantId=60681658-0f2d-4a4e-aaf1-6fd5f2dba33f&hint=d9449612-ac5a-4155-9deb-3ccd9a1d5b56&sourcetime=1694406393065"><img src="{{ asset('storage/images/Solicitud de instalaciones.png') }}"
                                 alt="" style="width:150px;height:150px"></a>
                         <p> <strong>Solicitud instalaciones</strong></p>
                     </div>

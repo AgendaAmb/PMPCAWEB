@@ -16,7 +16,7 @@ Dr. José Arturo de Nova Vázquez
   <br>
   <p>
       Altair No. 200, Col. del Llano <br>
-      C.P. 78377, San Luis Potosí, SLP. México <br>
+      C.P. 78377, San Luis Potosí, SLP. México <br><br>
       Tel.: +52 (444) 826-2300 ext. 9414 <br>
       <a href="mailto:arturo.denova@uaslp.mx" style="color:rgb(0, 178, 227)">arturo.denova@uaslp.mx </a><br><br>
   </p>
@@ -91,6 +91,12 @@ Dr. José Arturo de Nova Vázquez
         <p><strong>Artículos de investigación</strong></p>
         <p></p>
         <ul class="vineta">
+          <li>Díaz-Toribio M.H., <b>J.A. De-Nova</b>, E.M. Piedra-Malagón, D.F. Angulo, V. Sosa. 2023. Wild and cultivated comestible plant species in the Gulf of Mexico: phylogenetic patterns and convergence of type of use. AoB PLANTS plad063. <a href="https://doi.org/10.1093/aobpla/plad063" target="_blank">https://doi.org/10.1093/aobpla/plad063</a></li><br>
+          <li>Ramírez-Díaz C.J., I.M. Ramírez-Morillo, J. Cortés-Flores, <b>J.A. De-Nova</b>, R.D. De Stefano, G.C. Fernández-Concha. 2023. Biogeographical history of the Yucatan peninsula endemic flora (Spermatophyta) from a phylogenetic perspective. Harvard Papers in Botany 28: 99-120. <a href="https://www.proquest.com/openview/70c85432ad7ac4112402fa522e65e84f/1?pq-origsite=gscholar&cbl=6246023" target="_blank">https://doi.org/10.3100/hpib.v28iss1.2023.n13</a></li><br>
+          <li>Aragón-Parada J., P. Carrillo-Reyes, A. Rodríguez, G. Munguía-Lino, M.M. Salinas-Rodríguez, <b>J.A. De-Nova</b>. 2023. Spatial phylogenetics of the flora in the Sierra Madre del Sur, Mexico. Evolutionary puzzles in tropical mountains. Journal of Biogeography (Early View) <a href="https://doi.org/10.1111/jbi.14679" target="_blank">https://doi.org/10.1111/jbi.14679</a></li><br>
+          <li><b>De-Nova J.A.</b>, E. Enríquez-Salaices-Valdez, P. Castillo-Lara. V.G. Cilia-López, L. Yáñez-Espinosa, A.K. Gudiño-Cano, S. Vázquez-Mendoza. 2023. Inventario florístico del Área Natural Protegida Parque Nacional el Potosí, San Luis Potosí, México. Acta Botanica Mexicana 130: e219. <a href="https://doi.org/10.21829/abm130.2023.2191" target="_blank">https://doi.org/10.21829/abm130.2023.2191</a></li><br>
+          <li>González-Avilés B.I., H. Reyes-Hernández, L. Yáñez-Espinosa, E. Carranza-González, <b>J.A. De-Nova</b>. 2023. La flora melífera del paisaje aledaño a la Reserva de la Biosfera Sierra del Abra Tanchipa, San Luis Potosí, México. Botanical Sciences 101: 775-803. <a href="https://doi.org/10.17129/botsci.3206" target="_blank">https://doi.org/10.17129/botsci.3206</a></li><br>
+          <li>Cruz-Jiménez I., P. Delgado-Sánchez, M.L. Guerrero-González, R. Puente-Martínez, J. Flores, <b>J.A. De-Nova</b>. 2023. Predicting geographic distribution and habitat suitability of Opuntia streptacantha in paleoclimatic, current, and future scenarios in Mexico. Ecology and Evolution 13: e10050. <a href="https://doi.org/10.1002/ece3.10050" target="_blank">https://doi.org/10.1002/ece3.10050</a></li><br>
           <li>Meave J.A., K. Oyama, V. Sosa, <b>J.A. De-Nova</b>. 2022. Botanical Sciences: an honorable fellow in the international assembly of botanical journals. Botanical Siences 100: S1-S13. <a href="https://doi.org/10.17129/botsci.3232" target="_blank">https://doi.org/10.17129/botsci.3232</a></li><br>
           <li>Laura Yáñez-Espinosa, J. Flores, J. Fortanelli-Martínez, J.R. Quintero-Ruiz, <b>J.A. De-Nova</b>, H. Reyes-Hernandez. 2022. Leaf traits variation of Myriocarpa longipes and Brosimum alicastrum in relation to microclimatic gradient in tropical dolines of Mexico. Journal of the Torrey Botanical Society 149: 262-272. <a href="https://doi.org/10.3159/TORREY-D-22-00011.1" target="_blank">https://doi.org/10.3159/TORREY-D-22-00011.1</a></li><br>
           <li>Soto-Trejo F., S. Magallón, <b>J.A. De-Nova</b>, P. Dávila, L.A. Sánchez-González, K. Oyama. 2022. The evolutionary history of Fouquieriaceae (Ericales): biogeography, growth habit, habitat colonization, and chromosome evolution. Plant Systematics and Evolution 308: 35. <a href="https://doi.org/10.1007/s00606-022-01827-x" target="_blank">https://doi.org/10.1007/s00606-022-01827-x</a></li><br>
@@ -139,6 +145,7 @@ Dr. José Arturo de Nova Vázquez
             data-bs-parent="#accordionExample">
             <div class="accordion-body">
         <ul class="vineta">
+          <li>Plan de acción y monitoreo para la biodiversidad en matorral desértico rosetófilo y submontano. CEMOSA S.A. de C.V. (Vigente)</li><br>
           <li>Etnobiología evolutiva de la Sierra Madre Oriental. (Vigente)</li><br>
           <li>Diversidad vegetal de San Luis Potosí. (Vigente)</li><br>
           <li>Prospección etnoevolutiva de las plantas medicinales de la región biocultural Huasteca en San Luis Potosí. Ciencia de Frontera 320270, CONACYT, México. (Concluido).</li><br>
