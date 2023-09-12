@@ -49,14 +49,14 @@
                             </div>
                         </p><br>
 
-                        <h5> <strong id="directorioprofes">LEM Jonathan Alejandro Trejo Díaz</strong> </h5>
+                        <h5> <strong id="directorioprofes">L.A.P.P. Jennifer Adela Santillán Hernández</strong> </h5>
                         <p>
-                            Archivo <br>
-                            jonathan.trejo@uaslp.mx <br>
+                            Archivo y redes sociales <br>
+                            jennifer.santillan@uaslp.mx <br>
                             Tel: +52 (444) 826-2300 Ext. 7208 <br>
                             <div id="contTablaIzq">
                             Funciones:<br>
-                            Actualizar el archivo general de los expedientes de los alumnos y profesores.
+                            Actualizar el archivo general de los expedientes de los alumnos y profesores, administrar las redes sociales del PMPCA.
                             </div>
                         </p>
                     </div>
