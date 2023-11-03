@@ -101,9 +101,15 @@
                                         <tbody>
                                             <tr>
                                                 <td>2023</td>
-                                                <td>Febrero - Julio<br>Agosto - Enero</td>
-                                                <td><a href="{{asset('storage/Doc/SemTesis_Feb_Jul2023.pdf')}}" target="_blank">Memorias</a><br>
-                                                    <a href="{{asset('storage/Doc/SemTesis_Ago_Ene2023.pdf')}}" target="_blank">Memorias</a><br>
+                                                <td>Febrero - Julio</td>
+                                                <td><a href="{{asset('storage/Doc/SemTesis_Feb_Jul2023.pdf')}}" target="_blank">Memorias</a>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>2022</td>
+                                                <td>Febrero - Julio<br> Agosto - Enero</td>
+                                                <td><a href="{{asset('storage/Doc/SemTesis_Feb_Jul2022.pdf')}}" target="_blank">Memorias</a><br><a
+                                                        href="{{asset('storage/Doc/SemTesis_Ago_Ene2023.pdf')}}" target="_blank">Memorias</a>
                                                 </td>
                                             </tr>
                                             <tr>

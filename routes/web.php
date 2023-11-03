@@ -367,6 +367,10 @@ Route::get('/tramites', function () {
     return view('tramites');
 });
 
+Route::get('/procesos', function () {
+    return view('procesos');
+});
+
 Route::get('/estadisticas', function () {
     return view('estadisticas');
 });

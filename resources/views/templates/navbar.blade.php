@@ -84,7 +84,7 @@
                             <li>
                                 <hr class="dropdown-divider">
                             </li>
-                            <li><a class="dropdown-item" href="#"><strong>Procesos administrativos</strong></a>
+                            <li><a class="dropdown-item" href="{{url("/procesos")}}"><strong>Procesos administrativos</strong></a>
                             </li>
                             <li>
                                 <hr class="dropdown-divider">
