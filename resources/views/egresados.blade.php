@@ -56,7 +56,7 @@
                                                             <div class="col">
                                                                 <p id="modales-egresados-izq">
                                                                     Me llamo Idrissa Diédhiou, de nacionalidad senegalesa,
-                                                                    Ingeniero Agrónomo de formación, Maestro en Producción
+                                                                    Ingeniero Agrónomo, Maestro en Producción
                                                                     Agropecuaria por
                                                                     parte de la Facultad de Agronomía y Veterinaria de la
                                                                     Universidad
@@ -64,14 +64,8 @@
                                                                     Doctorado en Ciencias
                                                                     Ambientales del Programa Multidisciplinario de Posgrado
                                                                     en Ciencias
-                                                                    Ambientales (PMPCA) de la UASLP en febrero del 2022.<br><br> Mi
-                                                                    testimonio
-                                                                    se basa en mi experiencia personal desde la preparación
-                                                                    de los
-                                                                    documentos para ingresar a finales del 2017 hasta mi
-                                                                    fecha de egreso y se basa en
-                                                                    lo académico y administrativo.<br> Desde lo administrativo
-                                                                    es un programa
+                                                                    Ambientales (PMPCA) de la UASLP en febrero del 2022. Actualmente, soy profesor de bases ecológicas para el manejo de recursos
+                                                                    naturales en la Universidad Earth en Costa Rica.<br><br> El PMPCA es un programa
                                                                     muy abierto y con reglas y principios bien específicos
                                                                     para cada caso, lo
                                                                     que facilita el entendimiento de cómo ingresar y los
@@ -79,22 +73,22 @@
                                                                     formación de los estudiantes.<br> Del lado académico
                                                                     igualmente presenta un
                                                                     plan de estudio específico que permite saber punto a
-                                                                    punto los bases a
-                                                                    cumplir por semestre etc. Además, debo añadir, el
+                                                                    punto las bases a
+                                                                    cumplir por semestre. Además, debo añadir, el
                                                                     trabajo del personal
                                                                     administrativo que es excelente.<br><br>
                                                                     En el PMPCA no es nada más formarse, porque la comunidad
                                                                     científica está compuesta de diferentes campos de la
                                                                     ciencia como
                                                                     historiadores, filósofos, abogados, químicos, y
-                                                                    agrónomos como yo que
+                                                                    agrónomos que
                                                                     debemos intercambiar ideas para solucionar un problema.
                                                                     De ahí,
                                                                     aprendí escuchar al otro científico que tiene una
                                                                     formación diferente al mío
-                                                                    y juntos proponer una solución. Esas son unas de las
+                                                                    y juntos proponer una solución multidisciplinaria. Esas son unas de las
                                                                     experiencias más
-                                                                    bonitas que me ha dejado el PMPCA y esos fueron
+                                                                    bonitas que me ha dejado el PMPCA y fueron
                                                                     adquiridos en los famosos
                                                                     seminarios multidisciplinarios.
                                                                     Igualmente, se debe resaltar la multiculturalidad que
