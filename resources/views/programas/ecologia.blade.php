@@ -315,28 +315,293 @@
                                 </thead>
                                 <tbody>
                                     <tr>
-                                        <td>
+                                        <td id="contTablaIzq">
                                             <strong>1.1 Presentación</strong>
                                         </td>
-                                        <td>
+                                        <td id="contTablaIzq">
                                             1.1.1 Introducción al curso<br>
                                             1.1.2 Los renos de la isla de Saint Mathew
                                         </td>
+                                    </tr>
                                     <tr>
-                                    <tr>
-                                        <td class="contTablaB">
+                                        <td id="contTablaIzq">
                                             <strong>1.2 La ecología a la luz de los problemas ambientales</strong>
                                         </td>
-                                        <td>
+                                        <td id="contTablaIzq">
                                             1.2.1 El origen de la crisis ambiental<br>
                                             1.2.2 El quehacer de la ecología en las ciencias ambientales<br>
                                             1.2.3 Los niveles de organización de la ecología<br>
                                             1.2.4 Los principios emergentes de la ecología
                                         </td>
+                                    </tr>
                                     <tr>
+                                        <td id="contTablaIzq">
+                                            <strong>Lecturas y otros recursos</strong>
+                                        </td>
+                                        <td id="contTablaIzq">
+                                            <ul>
+                                                <li>Klein, D. R. 1987. Vegetation recovery patterns following overgrazing by reindeer on St. Matthew Island. Rangeland Ecology & Management/Journal of Range Management Archives 40(4), 336-338.</li>
+                                                <li>Odum, E.P.; F.O. Sarmiento. 1998. Ecología: el puente entre ciencia y sociedad. McGraw Hill-Interemericana. México, D.F. 343 p.</li>
+                                                <li>Tansley, A.G. 1935. The use and abuse of vegetational concepts and terms. Ecology 16:284-307</li>
+                                                <li>García A., M.C.; G. Pérez V. 2002. Una visión global del deterioro de los recursos bióticos terrestres en México. Revista Geográfica 131:41-77.</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td id="contTablaIzq">
+                                            <strong>Métodos de enseñanza y prácticas</strong>
+                                        </td>
+                                        <td id="contTablaIzq">
+                                            Promover la exposición de conceptos empíricos o investigados como parte de sus tareas, hasta la construcción del concepto formal. Clases presenciales y/o en línea del profesor con apoyo de material visual y/o audiovisual que describa y ejemplifique los conceptos analizados, apoyándose en libros y, sobre todo, artículos actuales.
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td id="contTablaIzq">
+                                            <strong>Actividades de aprendizaje</strong>
+                                        </td>
+                                        <td id="contTablaIzq">
+                                            Lecturas complementarias, posteriores a cada tema, para concretar conceptos y reforzar conocimientos.
+                                        </td>
+                                    </tr>
                                 </tbody>
                             </table>
                         </div>
+
+                        <br>
+                        <div class="table-responsive" id="contTabla">
+                            <table class="table table-bordered border-dark" id="colorTexto">
+                                <thead>
+                                    <tr id="tablaTitulos">
+                                        <th colspan="2" >Unidad 2 La ecología funcional &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;18 h</th>
+                                    </tr>
+                                    <tr>
+                                        <th scope="col">Tema</th>
+                                        <th scope="col">Subtema</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td id="contTablaIzq">
+                                            <strong>2.1 Componente biótico</strong>
+                                        </td>
+                                        <td id="contTablaIzq">
+                                            2.1.1 Productores<br>
+                                            2.1.2 Consumidores<br>
+                                            2.1.3 Desintegradores
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td id="contTablaIzq">
+                                            <strong>2.2 Interacciones bióticas</strong>
+                                        </td>
+                                        <td id="contTablaIzq">
+                                            2.1.1 Las interacciones bióticas<br>
+                                            2.2.2 Las redes tróficas<br>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td id="contTablaIzq">
+                                            <strong>2.3 Componente abiótico</strong>
+                                        </td>
+                                        <td id="contTablaIzq">
+                                            2.3.1 La atmósfera<br>
+                                            2.3.2 La hidrósfera<br>
+                                            2.3.3 La litósfera
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td id="contTablaIzq">
+                                            <strong>2.4 Interacciones bióticas-abióticas</strong>
+                                        </td>
+                                        <td id="contTablaIzq">
+                                            2.4.1 Los ciclos biogeoquímicos<br>
+                                            2.4.2 La alteración de la ciclicidad biogeoquímica
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td id="contTablaIzq">
+                                            <strong>Lecturas y otros recursos</strong>
+                                        </td>
+                                        <td id="contTablaIzq">
+                                            <ul>
+                                                <li>Del Val, E. y K. Boege. 2016. Ecología de las interacciones bióticas. Universidad Nacional Autónoma de México y Fondo de Cultura Económica: Cd. de México, D.F.</li>
+                                                <li>Doney, S.C. 2006. La acidificación de los océanos. Investigación y Ciencia 356:50-57.</li>
+                                                <li>Flores F., J.L. y R. I. Yeaton H. 2000. La importancia de la competencia en la organización de las comunidades vegetales en el altiplano mexicano. Interciencia 25:365-371.</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td id="contTablaIzq">
+                                            <strong>Métodos de enseñanza y prácticas</strong>
+                                        </td>
+                                        <td id="contTablaIzq">
+                                            Promover la exposición de conceptos empíricos o investigados como parte de sus tareas, hasta la construcción del concepto formal. Clases presenciales y/o en línea del profesor con apoyo de material visual y/o audiovisual que describa y ejemplifique los conceptos analizados, apoyándose en libros y, sobre todo, artículos actuales.
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td id="contTablaIzq">
+                                            <strong>Actividades de aprendizaje</strong>
+                                        </td>
+                                        <td id="contTablaIzq">
+                                            Lecturas complementarias, posteriores a cada tema, para concretar conceptos y reforzar conocimientos.
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+
+                        <br>
+                        <div class="table-responsive" id="contTabla">
+                            <table class="table table-bordered border-dark" id="colorTexto">
+                                <thead>
+                                    <tr id="tablaTitulos">
+                                        <th colspan="2" >Unidad 3 La estructura de poblaciones y comunidades&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;30 h</th>
+                                    </tr>
+                                    <tr>
+                                        <th scope="col">Tema</th>
+                                        <th scope="col">Subtema</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td id="contTablaIzq">
+                                            <strong>3.1 Individuos</strong>
+                                        </td>
+                                        <td id="contTablaIzq">
+                                            3.1.1 Los tipos de individuos<br>
+                                            3.1.2 Ecofisiología y ambiente
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td id="contTablaIzq">
+                                            <strong>3.2 Poblaciones</strong>
+                                        </td>
+                                        <td id="contTablaIzq">
+                                            3.2.1 El origen de la demografía y la ecología de poblaciones<br>
+                                            3.2.2 Los atributos de las poblaciones: densidad, estructura etánea, distribución, natalidad, morbilidad, mortalidad, fecundidad, nicho y hábitat<br>
+                                            3.2.3 Las tablas de vida<br>
+                                            3.2.4 Las metapoblaciones
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td id="contTablaIzq">
+                                            <strong>3.3 Comunidades</strong>
+                                        </td>
+                                        <td id="contTablaIzq">
+                                            3.3.1 El origen de la sinecología<br>
+                                            3.3.2 Los atributos de las comunidades: riqueza, composición, diversidad, estructura, dominancia, desarrollo sucesorio<br>
+                                            3.3.3 La biodiversidad, un concepto más allá de las comunidades<br>
+                                            3.3.4 La estructura cualitativa y cuantitativa de las comunidades<br>
+                                            3.3.5 La biogeografía de islas
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td id="contTablaIzq">
+                                            <strong>3.4 La sucesión ecológica</strong>
+                                        </td>
+                                        <td id="contTablaIzq">
+                                            3.4.1 Los cambios en los ecosistemas: el disturbio y el perturbio<br>
+                                            3.4.2 La diferencia entre zonación y sucesión ecológica<br>
+                                            3.4.3 El origen del concepto de sucesión ecológica<br>
+                                            3.4.4 Los modelos de sucesión ecológica: primaria, secundaria, cíclica, alógena<br>
+                                            3.4.5 La sucesión ecológica como herramienta para la restauración ecológica
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td id="contTablaIzq">
+                                            <strong>Lecturas y otros recursos</strong>
+                                        </td>
+                                        <td id="contTablaIzq">
+                                            <ul>
+                                                <li>Boltz, S. y G. Peacock. 2002. Ecological sites: understanding the landscape. Rangelands 25:18-21.</li>
+                                                <li>Dávila, P., M. del C. Arizmendi, A. Valiente B., J.L. Villaseñor, A. Casas y R. Lira. 2002. Biological diversity in the Tehuacan Valley, México. Biological and Conservation 11:421-442.</li>
+                                                <li>Milton, S.J. 2003. ‘Emerging ecosystems’ – a washing-stone for ecologists, economists and sociologists?. South African Journal of Science. 99:404-406.</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td id="contTablaIzq">
+                                            <strong>Métodos de enseñanza y prácticas</strong>
+                                        </td>
+                                        <td id="contTablaIzq">
+                                            Promover la exposición de conceptos empíricos o investigados como parte de sus tareas, hasta la construcción del concepto formal. Clases presenciales y/o en línea del profesor con apoyo de material visual y/o audiovisual que describa y ejemplifique los conceptos analizados, apoyándose en libros y, sobre todo, artículos actuales. Análisis de lecturas.
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td id="contTablaIzq">
+                                            <strong>Actividades de aprendizaje</strong>
+                                        </td>
+                                        <td id="contTablaIzq">
+                                            Lecturas complementarias, posteriores a cada tema, para concretar conceptos y reforzar conocimientos.
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+
+                        <br>
+                        <div class="table-responsive" id="contTabla">
+                            <table class="table table-bordered border-dark" id="colorTexto">
+                                <thead>
+                                    <tr id="tablaTitulos">
+                                        <th colspan="2" >Unidad 4 Los ecosistemas y los problemas ambientales del Antropoceno&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10 h</th>
+                                    </tr>
+                                    <tr>
+                                        <th scope="col">Tema</th>
+                                        <th scope="col">Subtema</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td id="contTablaIzq">
+                                            <strong>4.1 El concepto integrador</strong>
+                                        </td>
+                                        <td id="contTablaIzq">
+                                            4.1.1 La idea del concepto ecosistema<br>
+                                            4.1.2 El objeto de estudio de la ecología: el ecosistema
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td id="contTablaIzq">
+                                            <strong>4.2 Los ecosistemas y los problemas ambientales actuales</strong>
+                                        </td>
+                                        <td id="contTablaIzq">
+                                            4.2.1 Retomando el capítulo incial: El origen de la crisis ambiental y su impacto en los ecosistemas<br>
+                                            4.2.2 El quehacer de la ecología y las ciencias ambientales en el Antropoceno
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td id="contTablaIzq">
+                                            <strong>Lecturas y otros recursos</strong>
+                                        </td>
+                                        <td id="contTablaIzq">
+                                            <ul>
+                                                <li>Vásquez Torre, G. A. M 2001. Ecología y formación ambiental. McGraw Hill. México, DF. 343 p.</li>
+                                                <li>Ungar, M. 2012. The social ecology of resilience. Springer: New York, Estados Unidos. 463 p.</li>
+                                                <li>Terradas, J. 2014. Ecología para entender al mundo. Fundación Interuniversitaria Fernando González: Madrid, España</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td id="contTablaIzq">
+                                            <strong>Métodos de enseñanza y prácticas</strong>
+                                        </td>
+                                        <td id="contTablaIzq">
+                                            Promover la exposición de conceptos empíricos o investigados como parte de sus tareas, hasta la construcción del concepto formal. Clases presenciales y/o en línea del profesor con apoyo de material visual y/o audiovisual que describa y ejemplifique los conceptos analizados, apoyándose en libros y, sobre todo, artículos actuales. Análisis de lecturas.
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td id="contTablaIzq">
+                                            <strong>Actividades de aprendizaje</strong>
+                                        </td>
+                                        <td id="contTablaIzq">
+                                            Lecturas complementarias, posteriores a cada tema, para concretar conceptos y reforzar conocimientos.
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+
                     </div><br>
                 </div>
 
@@ -344,7 +609,7 @@
                 <div class="col-12 col-sm-12 container"><br>
                     <div>
                         <h4><strong>Evaluación</strong></h4>
-                        <p>A continuación, se muestra las condiciones de las evaluaciones parciales:</p>
+                        <p>El curso consta de 32 sesiones teóricas de 2 h cada una y 16 sesiones prácticas de 2 h cada una (que se realizan en tres días de trabajo de campo).</p>
                         <div class="table-responsive" id="contTabla">
                             <table class="table table-bordered border-dark" id="colorTexto">
                                 <thead>
@@ -460,7 +725,7 @@
                     <br>
                 </div>
 
-                <h5> <strong>Textos básicos</strong></h5>
+                <h5> <strong>Recursos digitales</strong></h5>
 
                 <p id="becasEnlace">
                     <a href="http://bibliotecas.uaslp.mx/">http://bibliotecas.uaslp.mx/</a><br><br>
@@ -500,19 +765,19 @@
                 <hr>
                 <h4> <strong><br>Requisitos para cursar la asignatura</strong> </h4>
                 <p>
-                    No aplica
+                    Ninguno
                 </p>
 
                 <hr>
                 <h4> <strong><br>Interoperabilidad</strong> </h4>
                 <p>
-                    No aplica
+                    Ninguna
                 </p>
 
                 <hr>
                 <h4> <strong><br>Otras formas de acreditación</strong> </h4>
                 <p>
-                    No aplica
+                    Ninguna
                 </p>
 
                 <hr>
@@ -528,8 +793,14 @@
                 <h4> <strong><br>Elaboradores y revisores</strong> </h4>
                 <p> <strong>Elaboró: </strong>Juan Antonio Reyes Agüero
                     <br>
-                    <strong>Revisó:</strong>
+                    <strong>Revisó:</strong><br><br>
                 </p>
+                <div class="row m-0 text-center align-items-center justify-content-center">
+                    <div class="col-auto">
+                        <a  class="btn btn-primary rounded-pill" id="botonesGeneral" href="{{asset('storage/Prog/CB_Ecologia.pdf')}}" target="_blank" role="button" download="CB_Ecologia.pdf">Descargar programa</a>
+                    </div>
+                </div>
+
             </div>
         </div>
     </div>

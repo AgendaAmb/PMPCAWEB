@@ -8,7 +8,7 @@
                     <h1><strong>INTRODUCCIÓN A LA ESTADÍSTICA</strong></h1>
                 </div>
                 <div class="col-12 col-sm-12 container">
-                    <div>
+                    <div><br><br>
                         <h4><strong>Datos generales</strong></h4>
                         <br>
                         <div class="table-responsive" id="contTabla">
@@ -63,7 +63,7 @@
                                         <td>4</td>
                                         <td>1</td>
                                         <td>5</td>
-                                        <td>3</td>
+                                        <td>10</td>
                                     </tr>
                                 </tbody>
                             </table>
@@ -558,10 +558,13 @@
         <h4> <strong>Elaboradores y revisores</strong> </h4>
         <p> <strong>Elaboró: </strong>Dr. Gregorio Álvarez Fuentes
             <br>
-            <strong>Revisó:</strong>Dra. Elsa Cervantes González <br>
-            Dr. Israel Razo Soto <br>
-            Dr. Nahúm Andrés Medellín Castillo <br>
+            <strong>Revisó: </strong>Dra. Elsa Cervantes González, Dr. Israel Razo Soto, Dr. Nahúm Andrés Medellín Castillo<br><br>
         </p>
+                <div class="row m-0 text-center align-items-center justify-content-center">
+                    <div class="col-auto">
+                        <a  class="btn btn-primary rounded-pill" id="botonesGeneral" href="{{asset('storage/Prog/CB_IE.pdf')}}" target="_blank" role="button" download="CB_IntroduccionEstadistica.pdf">Descargar programa</a>
+                    </div>
+                </div>
     </div>
     </div>
     </div>

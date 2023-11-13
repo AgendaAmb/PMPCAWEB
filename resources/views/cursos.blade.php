@@ -185,6 +185,12 @@
                         <li>Salud Ambiental Integrada (SAI)</li>
                     </ol>
                     </p>
+                    <br><br>
+                <div class="row m-0 text-center align-items-center justify-content-center">
+                    <div class="col-auto">
+                        <a  class="btn btn-primary rounded-pill" id="botonesGeneral" href="{{asset('storage/Prog/PMPCA_Cursos.pdf')}}" target="_blank" role="button" download="PMPCA_Cursos.pdf">Listado de cursos</a>
+                    </div>
+                </div>
                 </div>
             </div>
         </div>
@@ -202,9 +208,9 @@
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body" id="enlacesCursos">
                             <a href="{{route('cursos.Basicos.DesarrolloSustentable')}}" target="_blank">769001 Desarrollo sustentable</a><br>
-                            <a target="_blank">769053 Ecología</a><br> <!--{{route('cursos.Basicos.Ecologia')}}-->
+                            <a href="{{route('cursos.Basicos.Ecologia')}}" target="_blank">769053 Ecología</a><br>
                             <a href="{{route('cursos.Basicos.IntroduccionEstadistica')}}" target="_blank">769057 Introducción a la estadística</a><br>
-                            <a target="_blank">769058 Problemática y gestión ambiental</a><br>
+                            <a href="{{route('cursos.Basicos.ProblematicayGestion')}}" target="_blank">769058 Problemática y gestión ambiental</a><br>
                         </div>
                     </div>
                 </div>

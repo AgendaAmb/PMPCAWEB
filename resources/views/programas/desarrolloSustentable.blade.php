@@ -364,8 +364,15 @@
                 <p> <strong>Elaboró: </strong>M.C. Luz María Nieto Caraveo (propuesta original). Dr. Javier Fortanelli
                     Martínez (modificaciones).
                     <br>
-                    <strong>Revisó:</strong>
+                    <strong>Revisó:</strong><br><br>
                 </p>
+
+                <div class="row m-0 text-center align-items-center justify-content-center">
+                    <div class="col-auto">
+                        <a  class="btn btn-primary rounded-pill" id="botonesGeneral" href="{{asset('storage/Prog/CB_DS.pdf')}}" target="_blank" role="button" download="CB_DesarrolloSustentable.pdf">Descargar programa</a>
+                    </div>
+                </div>
+
             </div>
         </div>
     </div>
