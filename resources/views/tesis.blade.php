@@ -181,9 +181,15 @@
                                     </thead>
                                     <tbody>
                                         <tr>
+                                            <td>2023</td>
+                                            <td>Pérez Medina Pedro</td>
+                                            <td><a target="_blank" href="#">Situación e impactos de la actividad cañero-azucarera en México: el caso del carbono negro en San Luis Potosí</a></td>
+                                            <td>Dra. María Guadalupe Galindo Mendoza</td>
+                                        </tr>
+                                        <tr>
                                             <td>2022</td>
                                             <td>Morales Jasso Gerardo</td>
-                                            <td><a target="_blank" href="https://repositorioinstitucional.uaslp.mx/xmlui/handle/i/7983">Construir el conocimiento interdisciplinario en el Programa Multidisciplinario de Posgrado en Ciencias Ambientales. Historia, teoría y praxis.</a></td>
+                                            <td><a target="_blank" href="https://repositorioinstitucional.uaslp.mx/xmlui/handle/i/7983">Construir el conocimiento interdisciplinario en el Programa Multidisciplinario de Posgrado en Ciencias Ambientales. Historia, teoría y praxis</a></td>
                                             <td>Dr. Leonardo Ernesto Márquez Mireles</td>
                                         </tr>                                         
                                         <tr>
@@ -452,13 +458,13 @@
                                         <tr>
                                             <td>2023</td>
                                             <td>Aguilera Flores Miguel Mauricio</td>
-                                            <td><a target="_blank" >Aprovechamiento integral de la especie invasora pez diablo en el desarrollo de tecnologías para la remoción de contaminantes en agua y un análisis de ciclo de vida de su implementación</a></td>
+                                            <td><a target="_blank" href="https://ninive.uaslp.mx/xmlui/handle/i/8434">Aprovechamiento integral de la especie invasora pez diablo en el desarrollo de tecnologías para la remoción de contaminantes en agua y un análisis de ciclo de vida de su implementación</a></td>
                                             <td>Dr. Nahum Andrés Medellín Castillo y Dra. Verónica Ávila Vázquez</td>
                                         </tr>
                                         <tr>
                                             <td>2023</td>
                                             <td>Castillo Pérez Luis Jesús</td>
-                                            <td><a target="_blank" >Study of the ethnpharmacological potential of <i>Catasetum integerrimum</i> Hook. In the Huasteca Potosina</a></td>
+                                            <td><a target="_blank" href="https://ninive.uaslp.mx/xmlui/handle/i/8435">Study of the ethnopharmacological potential of <i>Catasetum integerrimum</i> Hook. In the Huasteca Potosina</a></td>
                                             <td>Dra. Candy Carranza Álvarez y Dr. Ángel Josabad Alonso Castro</td>
                                         </tr>
                                         <tr>
@@ -470,12 +476,7 @@
                                         <tr>
                                             <td>2020</td>
                                             <td>Wong Argüelles Cynthia</td>
-                                            <td><a target="_blank" >Análisis de la
-                                                    calidad
-                                                    de
-                                                    agua y de la distribución elemental en <i>Typha domingensis</i>
-                                                    en el humedal
-                                                    natural Ciénega de Tamasopo</a></td>
+                                            <td><a target="_blank" href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/8448/TesisD.PMPCA.2020.Fitoextraccion.Wong.pdf?sequence=1&isAllowed=y" >Fitoextracción y distribución elemental en <i>Typha domingensis</i> en el humedal natural Ciénega de Tamasopo</a></td>
                                             <td>Dra. Candy Carranza Álvarez</td>
                                         </tr>
                                         <tr>
@@ -605,8 +606,15 @@
                                     <tbody>
                                         <tr>
                                             <td>2023</td>
+                                            <td>Herrera Medina Rosa Elena</td>
+                                            <td><a target="_blank" href="https://repositorioinstitucional.uaslp.mx/xmlui/handle/i/8449">Diagnóstico y caracterización de la apicultura y valoración biológica de <i>Larrea tridentata</i> como agente acaricida en San Luis Potosí</a>
+                                            </td>
+                                            <td>Dr. Juan Carlos García López</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2023</td>
                                             <td>Orta Salazar Carolina</td>
-                                            <td><a target="_blank">Diversidad de lepidópteros diurnos, su identificación como bioindicadores ambientales y propuesta de su uso sustentable en la reserva de la biosfera Sierra del Abra Tanchipa, SLP</a>
+                                            <td><a target="_blank" href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/8451/TesisD.PMPCA.2023.Diversidad.Orta.pdf?sequence=1&isAllowed=y">Diversidad de lepidópteros diurnos, su identificación como bioindicadores ambientales y propuesta de su uso sustentable en la reserva de la biosfera Sierra del Abra Tanchipa, SLP</a>
                                             </td>
                                             <td>Dr. Juan Antonio Reyes Agüero</td>
                                         </tr>
@@ -897,9 +905,21 @@
                                     <tbody>
                                         <tr>
                                             <td>2023</td>
-                                            <td></td>
+                                            <td>Berumen Rodríguez Alejandra Abigail</td>
                                             <td>Evaluación de riesgos en salud en escenarios de trabajo precario en una zona ladrillera de San Luis Potosí</td>
                                             <td>Dr. Rogelio Flores Ramírez</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2023</td>
+                                            <td>León Arce Mauricio</td>
+                                            <td><a href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/8455/TesisD.PMPCA.2023.Escenarios.Leon.pdf?sequence=1&isAllowed=y" target="_blank">Escenarios humanitarios: un modelo en salud y ambiente para prevenir la violencia multimodal en comunidades vulnerables</a></td>
+                                            <td>Dr. Fernando Díaz-Barriga Martínez</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2023</td>
+                                            <td>Martínez Esquivel Rosa Adriana</td>
+                                            <td>Los alimentos funcionales de la dieta tradicional: un análisis desde la salud ambiental, caso de estudio Guadalupe, Zacatecas</td>
+                                            <td>Dra. Virginia Gabriela Cilia López</td>
                                         </tr>
                                         <tr>
                                             <td>2022</td>
@@ -922,7 +942,7 @@
                                         <tr>
                                             <td>2021</td>
                                             <td>Ramírez Landeros Laura María</td>
-                                            <td>Fortalecimiento de capacidades comunitarias enfocadas en educación, salud y ambiente en una región indígena</a></td>
+                                            <td><a href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/8454/TesisD.PMPCA.2021.Fortalecimiento.Ramirez.pdf?sequence=1&isAllowed=y" target="_blank">Fortalecimiento de capacidades comunitarias enfocadas en educación, salud y ambiente en una región indígena</a></td>
                                             <td>Dr. Fernando Díaz Barriga Martínez</td>
                                         </tr>                                        
                                         <tr>
@@ -933,12 +953,6 @@
                                         </tr>
                                         <tr>
                                             <td>2019</td>
-                                            <td>González Mares Mariana Odemaris</td>
-                                            <td>Propuesta de una estrategia de intervención para la prevención de factores de riesgo para el desarrollo de enfermedades no transmisibles en comunidades suburbanas vulnerables del municipio de San Luis Potosí</td>
-                                            <td>Dra. Ana Cristina Cubillas Tejeda</td>
-                                        </tr>                                        
-                                        <tr>
-                                            <td>2019</td>
                                             <td>Camacho de la Cruz Arlette Andrea</td>
                                             <td><a target="_blank"
                                                     href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/5671/DCA1CCA201902.pdf?sequence=1&isAllowed=y">Evaluación
@@ -946,6 +960,12 @@
                                                     artesanal de
                                                     mercurio</a></td>
                                             <td>Dr. Fernando Díaz Barriga</td>
+                                        </tr>
+                                        <tr>
+                                            <td>2019</td>
+                                            <td>González Mares Mariana Odemaris</td>
+                                            <td>Propuesta de una estrategia de intervención para la prevención de factores de riesgo para el desarrollo de enfermedades no transmisibles en comunidades suburbanas vulnerables del municipio de San Luis Potosí</td>
+                                            <td>Dra. Ana Cristina Cubillas Tejeda</td>
                                         </tr>
                                         <tr>
                                             <td>2019</td>
@@ -3693,7 +3713,7 @@
                             <div class="col-12 col-sm-10 border-end border-start border-top">
                                 <table class="width201" id="colorTexto">
                                     <thead>
-                                        <tr>2
+                                        <tr>.
                                             <th scope="col" id="tablaTitulos">Año</th>
                                             <th scope="col" id="tablaTitulos">Nombre del alumno</th>
                                             <th scope="col" id="tablaTitulos">Título de tesis</th>

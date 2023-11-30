@@ -358,7 +358,7 @@
                                         <a href="{{asset('storage/pdf/6.1 Formato_Evaluacion_Desempeno_Becario_PMPCA.pdf')}}" target="_blank"> 6.1 Formato para la evaluación semestral de becario Conacyt </a>
                                 </div>
                                 <div class="col-12 col-sm-12 my-4" id="enlacetramites">
-                                        <a href="{{asset('storage/pdf/6.2 FormatoRetribucionSocial_Anexo.pdf')}}" target="_blank"> 6.2 Actividades de retribución social + anexo</a>
+                                        <a href="{{asset('storage/pdf/6.2 FormatoRetribucionSocial_Anexo.pdf')}}" target="_blank-"> 6.2 Actividades de retribución social + anexo</a>
                                 </div>
                             </p>
 
