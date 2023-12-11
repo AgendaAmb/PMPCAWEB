@@ -629,7 +629,7 @@
                                             <td>2020</td>
                                             <td>Guadiana Alvarado Zoe Arturo</td>
                                             <td><a target="_blank"
-                                                    href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/5680/DCA1GAZ202001.pdf?sequence=1&isAllowed=y">Sustentabilidad
+                                                    href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/5680/TesisD.PMPCA.2020.Sustentabilidad.Guadiana.pdf?sequence=3&isAllowed=y">Sustentabilidad
                                                     de la agricultura familiar en regiones áridas y semiáridas</a>
                                             </td>
                                             <td>Dr. Héctor Martín Durán García</td>

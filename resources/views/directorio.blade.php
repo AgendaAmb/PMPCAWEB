@@ -51,12 +51,12 @@
 
                         <h5> <strong id="directorioprofes">L.A.P.P. Jennifer Adela Santillán Hernández</strong> </h5>
                         <p>
-                            Archivo y redes sociales <br>
+                            Asistente PMPCA <br>
                             jennifer.santillan@uaslp.mx <br>
                             Tel: +52 (444) 826-2300 Ext. 7208 <br>
                             <div id="contTablaIzq">
                             Funciones:<br>
-                            Actualizar el archivo general de los expedientes de los alumnos y profesores, administrar las redes sociales del PMPCA.
+                            Responsable del Programa de Acción Tutorial, administración de las redes sociales del PMPCA, actualización del archivo general de los expedientes de los alumnos y profesores.
                             </div>
                         </p>
                     </div>
