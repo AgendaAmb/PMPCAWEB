@@ -50,11 +50,13 @@
                   <ul class="vineta">
                     <li>TSCA: Amenazas Naturales, Desastres, Evaluación y Gestión de Riesgo</li>
                     <li>TSCA: Medioambiente y reducción del riesgo de desastres (ECO-DRR)</li>
+                    <li>TSCA: Estrategias para la apropiación social del conocimiento</li>
                   </ul><br>
 
                 <li><strong>LGAC</strong></li>
                 <ul class="vineta">
                     <li>Estudios multidisciplinarios de los desastres</li>
+                    <li>Comunicación Pública de la Ciencia</li>
                 </ul><br>
                 <li><strong>Dirección de Tesis</strong></li><br>
                 <p><em>Maestría en Ciencias Ambientales (Doble titulación), Co-Dirección</em></p>
@@ -69,6 +71,7 @@
                   <li>Serano Claudelle Anna. 2020. Hurricane resilience and food security in caribbean small island developing states: a study of the commonwealth of Dominica</li>
                   <li>Pirazán Palomar Laura Liseth. 2020. The role or urban wetlands in disaster prevention: the case of flodd risk reduction in Bogota, Colombia</li>
                   <li>Silva Santelices Carolina Alexandra Dolores. 2020. Urban wetlands and resilience to climate change: a case study of Valdivia, Chile</li>
+                  <li>Ramos Gálvez, Alejandra. 2023. Mexico City's Community Resilience to Climate Change: Perception of Flooding Risks in Ecatepec, México</li>
                 </ul>
                 <br>
                 <p><em>Maestría en Ciencias Ambientales</em></p>

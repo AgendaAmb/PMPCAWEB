@@ -12,10 +12,9 @@
                     </div>
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img src="{{ asset('storage/images/1.png') }}" class="d-block w-100" alt="...">
+                            <img src="{{ asset('storage/images/1.jpg') }}" class="d-block w-100" alt="...">
                             <div class="carousel-caption d-none d-md-block">
-                                <p id="bienvenida"> <strong>Programa Multidisciplinario de <br> Posgrado en Ciencias
-                                        Ambientales</strong></p>
+                                <p id="bienvenida"> <strong>Programa Multidisciplinario de <br> Posgrado en Ciencias Ambientales</strong></p>
                             </div>
                         </div>
                     </div>
@@ -28,31 +27,31 @@
 
                         <div class="col col-12 my-3">
                             <div class="card h-100 rounded-0" id="colorCard">
-                                <img src="{{ asset('storage/images/izquierda.png') }}" class="card-img-top rounded-0" alt="...">
+                                <img src="{{ asset('storage/images/izquierda.jpg') }}" class="card-img-top rounded-0" alt="...">
                                 <div class="barraAzulFuerteS"></div>
                                 <div class="card-body rounded-0">
                                     <p class="card-title"> <strong>DOCTORADO EN CIENCIAS AMBIENTALES</strong></p>
-                                    <a class="btn btn-primary" id="botonesGeneral" target="_blank" href="storage/Doc/Conv_DCA_2023.pdf"
-                                    role="button">Convocatoria</a>
+                                    <a class="btn btn-primary" id="botonesGeneral" target="_blank" href="storage/Doc/Conv_DCA.pdf"
+                                    role="button">Nueva convocatoria</a>
                                 </div>
                             </div>
                         </div>
 
                         <div class="col col-12 my-3">
                             <div class="card h-100 rounded-0" id="colorCard">
-                                <img src="{{ asset('storage/images/centro.png') }}" class="card-img-top rounded-0" alt="...">
+                                <img src="{{ asset('storage/images/centro.jpg') }}" class="card-img-top rounded-0" alt="...">
                                 <div class="barraAzulFuerteS"></div>
                                 <div class="card-body rounded-0">
                                     <p class="card-title"> <strong>MAESTRÍA EN CIENCIAS AMBIENTALES</strong></p>
                                     <a class="btn btn-primary" id="botonesGeneral" target="_blank" href="storage/Doc/Conv_MCA.pdf"
-                                    role="button">Convocatoria</a>
+                                    role="button">Nueva convocatoria</a>
                                 </div>
                             </div>
                         </div>
 
                         <div class="col col-12 my-3 mr-5">
                             <div class="card h-100 rounded-0" id="colorCard">
-                                <img src="{{ asset('storage/images/derecha.png') }}" class="card-img-top rounded-0" alt="...">
+                                <img src="{{ asset('storage/images/derecha.jpg') }}" class="card-img-top rounded-0" alt="...">
                                 <div class="barraAzulFuerteS"></div>
                                 <div class="card-body rounded-0">
                                     <p class="card-title"><strong>MAESTRÍA EN CIENCIAS AMBIENTALES (Doble
@@ -97,26 +96,26 @@
             </div>
 
             <div class="col-12 col-sm-12 mt-5" id="rowInicio">
-                <div class="row">
+                <div class="row justify-content-center">
                     <div class="col-6 col-md-4 col-lg-2">
                         <a href="{{ url('/calendario') }}"><img src="{{ asset('storage/images/Calendario.png') }}"
                                 alt="" style="width:150px;height:150px"> </a>
-                        <p> <strong>Calendario</strong></p>
+                        <p> <strong>Calendario</strong> </p>
                     </div>
                     <div class="col-6 col-md-4 col-lg-2">
                         <a href="https://apps.powerapps.com/play/e/default-60681658-0f2d-4a4e-aaf1-6fd5f2dba33f/a/cf4c2f6d-8328-49ab-9881-ce3ae30da8c9?tenantId=60681658-0f2d-4a4e-aaf1-6fd5f2dba33f&hint=d9449612-ac5a-4155-9deb-3ccd9a1d5b56&sourcetime=1694458177132"><img src="{{ asset('storage/images/Solicitud de instalaciones.png') }}"
                                 alt="" style="width:150px;height:150px"></a>
                         <p> <strong>Solicitud instalaciones</strong></p>
                     </div>
-                    <div class="col-6 col-md-4 col-lg-2">
+                    <!--<div class="col-6 col-md-4 col-lg-2">
                         <a href="http://comunidadpmpca.uaslp.mx/Login.aspx"><img src="{{ asset('storage/images/Intranet.png') }}" alt=""
                                 style="width:150px;height:150px"></a>
                         <p> <strong>INTRANET</strong></p>
-                    </div>
+                    </div>-->
                     <div class="col-6 col-md-4 col-lg-2">
-                        <a href="{{asset('storage/Doc/PMPCA_Prog_Ago23-Ene24.pdf')}}"><img src="{{ asset('storage/images/Programación semestral.png') }}"
+                        <a href="{{asset('storage/Doc/ProgramacionSemestral2025-2026-II.pdf')}}"><img src="{{ asset('storage/images/Programación semestral.png') }}"
                                 alt="" style="width:150px;height:150px"></a>
-                        <p> <strong>Programación semestral</strong></p>
+                        <p> <strong>Cursos y horarios</strong></p>
                     </div>
                     <div class="col-6 col-md-4 col-lg-2">
                         <a href="{{ url('/tramites') }}"><img src="{{ asset('storage/images/Tramites.png') }}"
@@ -141,7 +140,7 @@
             </div>
 
             <div class="col-12 col-sm-12 mt-5">
-                <img src="{{ asset('storage/images/B_avisos.png') }}" alt="">
+                <a target="_blank" href="https://www.uaslp.mx/InvestigacionyPosgrado#gsc.tab=0"><img src="{{ asset('storage/images/EXANI_PMPCA.png') }}" alt=""></a>
             </div>
 
         </div>

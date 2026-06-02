@@ -10,8 +10,8 @@
             <a href="#"><i class="fa-brands fa-facebook"></i></a>
             <a href="#"><i class="fa-brands fa-youtube"></i></a>
             <br>
-            <span>Av. Manuel Nava #201, 2do. piso </span><br>
-            <span> Zona Universitaria, C.P. 78000 </span><br>
+            <span>Av. Manuel Nava #304 </span><br>
+            <span> Zona Universitaria, C.P. 78210 </span><br>
             <span>San Luis Potosí, S.L.P., México </span><br>
             <span>Tel. +52 (444) 826-2439</span><br>
             <span>© 2022 Todos los derechos reservados.</span>

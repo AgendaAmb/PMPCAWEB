@@ -64,46 +64,45 @@
                             data-bs-parent="#accordionExample">
                             <div class="accordion-body">
                                 <br>
-                                <h4><strong>Dra. Anuschka van´t Hooft</strong></h4>
-                                <p><strong id="nameProf">Coordinadora Académica del PMPCA</strong></p>
+                                <h4><strong>Dr. Alfredo Ávila Galarza</strong></h4>
+                                <p><strong id="nameProf">Coordinador Académico del PMPCA</strong></p>
                                 <hr>
                                 <br>
                                 <h4><strong>Área de evaluación ambiental</strong></h4>
-                                <p><strong id="nameProf">Dr. Antonio Cardona Benavides</strong> <br> Titular y Coordinador
-                                    de
-                                    área<br></p>
-                                <p><strong id="nameProf">Dr. Marcos Algara Siller</strong> <br> Titular<br></p>
-                                <p><strong id="nameProf">Dr. Guillermo Javier Castro Larragoitia</strong> <br>Suplente<br>
+                                <p><strong id="nameProf">Dr. Alfredo Ávila Galarza</strong> <br> Titular y Coordinador
+                                    Académico<br></p>
+                                <p><strong id="nameProf">Dr. Guillermo Javier Castro Larragoitia</strong> <br> Titular<br></p>
+                                <p><strong id="nameProf">Dr. Marcos Algara Siller</strong> <br>Suplente<br>
                                 </p>
                                 <hr>
                                 <br>
                                 <h4><strong>Área de gestión ambiental</strong></h4>
-                                <p><strong id="nameProf">Dra. Anuschka van´t Hooft</strong> <br> Coordinadora Académica y Titular<br>
-                                </p>
-                                <p><strong id="nameProf">Dr. Valente Vázquez Solís</strong> <br> Titular y Coordinador de área<br></p>
-                                <p><strong id="nameProf">Dr. Humberto Reyes Hernández</strong> <br>Suplente<br></p>
+                                <!--<p><strong id="nameProf"> </strong> <br> Titular y Coordinadora de área<br>
+                                </p>-->
+                                <p><strong id="nameProf">Dr. Leonardo Ernesto Márquez Mieles</strong> <br> Titular<br></p>
+                                <p><strong id="nameProf">Dr. Carlos Contreras Servín</strong> <br>Suplente<br></p>
                                 <hr>
                                 <br>
                                 <h4><strong>Área de prevención y control</strong></h4>
-                                <p><strong id="nameProf">Dr. Nahúm Andrés Medellín Castillo</strong> <br>Titular y Coordinador
+                                <p><strong id="nameProf">Dra. Candy Carranza Álvarez</strong> <br>Titular y Coordinadora
                                     de área<br></p>
-                                <p><strong id="nameProf">Dr. Israel Rodríguez Torres</strong> <br>Titular<br>
+                                <p><strong id="nameProf">Dr. Luis Manuel Rosales Colunga</strong> <br>Titular<br>
                                 </p>
-                                <p><strong id="nameProf">Dra. Candy Carranza Álvarez</strong> <br>Suplente<br></p>
+                                <p><strong id="nameProf">Dra. Ma. Catalina Alfaro de la Torre</strong> <br>Suplente<br></p>
                                 <hr>
                                 <br>
                                 <h4><strong>Área de recursos naturales renovables</strong></h4>
-                                <p><strong id="nameProf">Dra. Erika García Chávez</strong> <br>Titular y Coordinadora de
+                                <p><strong id="nameProf">Dr. José Arturo De Nova Vázquez</strong> <br>Titular y Coordinador de
                                     área<br></p>
-                                <p><strong id="nameProf">Dr. Juan Antonio Reyes Agüero</strong> <br>Titular<br></p>
-                                <p><strong id="nameProf">Dr. José Arturo De Nova Vázquez</strong> <br>Suplente<br></p>
+                                <p><strong id="nameProf">Dr. Carlos Alfonso Muñoz Robles</strong> <br>Titular<br></p>
+                                <p><strong id="nameProf">Dr. Héctor Martín Durán García</strong> <br>Suplente<br></p>
                                 <hr>
                                 <br>
                                 <h4><strong>Área de salud ambiental integral</strong></h4>
-                                <p><strong id="nameProf">Dra. Donají Josefina González Mille</strong> <br>Titular y Coordinadora
+                                <p><strong id="nameProf">Dr. Francisco Javier Pérez Vázquez</strong> <br>Titular y Coordinador
                                     de área<br></p>
-                                <p><strong id="nameProf">Dra. Silvia Romero Contreras</strong> <br>Titular<br></p>
-                                <p><strong id="nameProf">Dr. Francisco Javier Pérez Vázquez</strong> <br>Suplente<br></p>
+                                <p><strong id="nameProf">Dr. César Arturo Ilizaliturri Hernández</strong> <br>Titular<br></p>
+                                <p><strong id="nameProf">Dr. Fernando Díaz-Barriga Martínez</strong> <br>Suplente<br></p>
                             </div>
                         </div>
                     </div>
@@ -124,15 +123,11 @@
                             <a target="_blank" href="storage/Doc/PMCA_PropuestaGral.pdf"> <strong>- Propuesta para la
                                     creación del
                                     Programa Multidisciplinario de Posgrado
-                                    en Ciencias Ambientales</strong>
+                                    en Ciencias Ambientales</strong></a>
                                 <br><br>
-                                <a target="_blank" href="storage/Doc/PMPCA_ReglamentoDoctorado.pdf"> <strong>- Reglamentos
-                                        del PMPCA
-                                        - Doctorado</strong> </a>
+                                <a target="_blank" href="storage/Doc/2024_PMPCA_Normasgenerales_Doctorado.pdf"> <strong>- Normas Generales de Organización y Operación del Doctorado en Ciencias Ambientales</strong> </a>
                                 <br><br>
-                                <a target="_blank" href="storage/Doc/PMPCA_ReglamentoMaestria.pdf"> <strong>- Reglamentos
-                                        del PMPCA
-                                        - Maestría</strong></a>
+                                <a target="_blank" href="storage/Doc/2024_PMPCA_Normasgenerales_Maestria.pdf"> <strong>- Normas Generales de Organización y Operación del Maestría en Ciencias Ambientales</strong></a>
                                 <br><br>
                                 <a target="_blank" href="storage/Doc/SistemaIntAseguramientoCalidad.pdf"> <strong>- Sistema
                                         Interno

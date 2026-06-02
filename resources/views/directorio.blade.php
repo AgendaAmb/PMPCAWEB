@@ -13,17 +13,17 @@
                 </div>
                 <div class="col-12 col-sm-12">
                     <div>
-                        <h5> <strong id="directorioprofes">Dra. Anuschka van 't Hooft</strong> </h5>
+                        <h5> <strong id="directorioprofes">Dr. Alfredo Ávila Galarza</strong> </h5>
                         <p>
-                            Coordinadora Académica del PMPCA <br>
-                            Periodo de actividad 2023 - 2025
+                            Coordinador Académica del PMPCA <br>
+                            Periodo de actividad 2025 - 2027<br>
                             coordinacion.academica@uaslp.mx <br>
                             Tel: +52 (444) 826-2300 Ext. 7206 <br><br>
                             Funciones:<br>
                             Responsabilidad académica y administrativa para el buen funcionamiento del PMPCA.
                         </p><br>
 
-                        <h5> <strong id="directorioprofes">M.I. Maricela Rodríguez Díaz de León</strong> </h5>
+                        <h5> <strong id="directorioprofes">LAE Zoraida Aguilar Pérez</strong> </h5>
                         <p>
                             Coordinadora del área educativa de la Agenda Ambiental <br>
                             pmpca@uaslp.mx <br>
@@ -51,12 +51,13 @@
 
                         <h5> <strong id="directorioprofes">L.A.P.P. Jennifer Adela Santillán Hernández</strong> </h5>
                         <p>
-                            Archivo y redes sociales <br>
+                            Asistente PMPCA <br>
                             jennifer.santillan@uaslp.mx <br>
+                            tutorias.pmpca@uaslp.mx<br>
                             Tel: +52 (444) 826-2300 Ext. 7208 <br>
                             <div id="contTablaIzq">
                             Funciones:<br>
-                            Actualizar el archivo general de los expedientes de los alumnos y profesores, administrar las redes sociales del PMPCA.
+                            Responsable del Programa de Acción Tutorial, administración de las redes sociales del PMPCA, actualización del archivo general de los expedientes de los alumnos y profesores.
                             </div>
                         </p>
                     </div>

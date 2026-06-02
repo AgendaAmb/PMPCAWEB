@@ -8,7 +8,7 @@
                     <h1><strong>INTRODUCCIÓN A LA ESTADÍSTICA</strong></h1>
                 </div>
                 <div class="col-12 col-sm-12 container">
-                    <div>
+                    <div><br><br>
                         <h4><strong>Datos generales</strong></h4>
                         <br>
                         <div class="table-responsive" id="contTabla">
@@ -39,7 +39,9 @@
                         </div>
                     </div>
                 </div>
+                <p></p>
                 <hr>
+                <p></p>
                 <div class="col-12 col-sm-12 container">
                     <div>
                         <h4><strong>Créditos</strong></h4>
@@ -61,16 +63,18 @@
                                         <td>1</td>
                                         <td>16</td>
                                         <td>4</td>
-                                        <td>1</td>
+                                        <td>2</td>
                                         <td>5</td>
-                                        <td>3</td>
+                                        <td>10</td>
                                     </tr>
                                 </tbody>
                             </table>
                         </div>
                     </div>
                 </div>
+                <p></p>
                 <hr>
+                <p></p>
                 <h4> <strong>Objetivo general de aprendizaje</strong> </h4>
                 <p>
                     Actualizar y reforzar los conocimientos en estadística que se aplican en los métodos analíticos
@@ -79,7 +83,9 @@
                     ciencia
                     ambientales.
                 </p>
+                <p></p>
                 <hr>
+                <p></p>
                 <div class="col-12 col-sm-12 container">
                     <div>
                         <h4><strong>Competencia profesionales a las que contribuye la asignatura</strong></h4>
@@ -121,8 +127,9 @@
                         </div>
                     </div>
                 </div>
-
+                <p></p>
                 <hr>
+                <p></p>
                 <div class="col-12 col-sm-12 container">
                     <div>
                         <h4><strong>Planeación didáctica general</strong></h4>
@@ -413,8 +420,9 @@
                 </div>
             </div>
         </div>
-
+        <p></p>
         <hr>
+        <p></p>
         <div class="col-12 col-sm-12 container">
             <div>
                 <h4><strong>Evaluación</strong></h4>
@@ -473,39 +481,42 @@
                 </div>
             </div>
         </div>
-
+        <p></p>
         <hr>
+        <p></p>
         <h4> <strong>Recursos bibliográficos y digitales</strong> </h4>
-        <h5> <strong>Textos básicos</strong></h5>
+        <p></p>
+        <h5> <strong>Textos básicos</strong></h5><br>
 
         <div class="col-12 col-sm-12 container">
-            <ul class="vineta">
+            <ul>
                 <li>Anderson R. D., J. D. Sweeney and T. A. Williams. 2008. Estadística para administración y economía.
-                    CENGAGE. Learning. México 1091p</li>
+                    CENGAGE. Learning. México 1091p</li><br>
                 <li>Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani. 2013. An Introduction to Statistical
-                    Learning, with Applications in R. Springer New York Heidelberg Dordrecht London. 441 p.</li>
+                    Learning, with Applications in R. Springer New York Heidelberg Dordrecht London. 441 p.</li><br>
                 <li>Kandethody M.Ramachandran, Chris P.Tsokos. 2009. Mathematical Statistics with Applications. Elsevier
-                    Academic Press. 849 p. http://www.elsevierdirect.com/companions/9780123748485</li>
-                <li>Mongomery C. D. 2004. Diseño y análisis de experimentos. Segunda Edición. Limusa Wiley. 700 p.</li>
+                    Academic Press. 849 p. http://www.elsevierdirect.com/companions/9780123748485</li><br>
+                <li>Mongomery C. D. 2004. Diseño y análisis de experimentos. Segunda Edición. Limusa Wiley. 700 p.</li><br>
                 <li>Walpole E. R., R. H. Myers, S. L. Myers and K. Ye. 2012. Probabilidad y estadística para ingeniería y
-                    ciencias. Pearson Educación, México. 816 p.</li>
+                    ciencias. Pearson Educación, México. 816 p.</li><br>
                 <li>Wassennan Larry . All of Statistics. 2003. A Concise Course in Statistical Inference. Springer Texts in
                     Statistics. 446 p.</li>
             </ul>
         </div>
+        <p></p>
 
-        <h5> <strong>Textos básicos</strong></h5>
+        <h5> <strong>Recursos digitales</strong></h5>
 
         <p id="becasEnlace">
-            <a href="http://www.springer.com/series/417">http://www.springer.com/series/417</a><br>
+            <a href="http://www.springer.com/series/417">http://www.springer.com/series/417</a><br><br>
             <a
                 href="http://www.elsevierdirect.com/companions/9780123748485">http://www.elsevierdirect.com/companions/9780123748485</a>
             <br>
         </p>
-
+        <p></p>
         <hr>
-        <h4> <strong>Requisitos para cursar la asignatura</strong> </h4>
 
+        <h4> <strong>Requisitos para cursar la asignatura</strong> </h4>
         <div>
             Para poder cursar esta asignatura, es necesario:
             <ul>
@@ -518,8 +529,10 @@
 
         <hr>
         <h4> <strong>Interoperabilidad</strong> </h4>
-        <p>
-            Ninguna
+        <div>
+            <ul>
+                <li>Ninguna</li>
+            </ul>    
         </p>
 
         <hr>
@@ -558,10 +571,13 @@
         <h4> <strong>Elaboradores y revisores</strong> </h4>
         <p> <strong>Elaboró: </strong>Dr. Gregorio Álvarez Fuentes
             <br>
-            <strong>Revisó:</strong>Dra. Elsa Cervantes González <br>
-            Dr. Israel Razo Soto <br>
-            Dr. Nahúm Andrés Medellín Castillo <br>
+            <strong>Revisó: </strong>Dra. Elsa Cervantes González, Dr. Israel Razo Soto, Dr. Nahúm Andrés Medellín Castillo<br><br>
         </p>
+                <div class="row m-0 text-center align-items-center justify-content-center">
+                    <div class="col-auto">
+                        <a  class="btn btn-primary rounded-pill" id="botonesGeneral" href="https://uaslpedu-my.sharepoint.com/:b:/g/personal/pmpca_uaslp_mx/IQCcI65aU3STRYiSEIyWMW5zAbWxA6qOSMUwLeLPEk4CTgc?e=XsbiUP" target="_blank" role="button" download="CB_IntroduccionEstadistica.pdf">Descargar programa</a>
+                    </div>
+                </div>
     </div>
     </div>
     </div>

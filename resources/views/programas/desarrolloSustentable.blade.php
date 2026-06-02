@@ -59,7 +59,7 @@
                                         <td>3</td>
                                         <td>0</td>
                                         <td>3</td>
-                                        <td>4</td>
+                                        <td>6</td>
                                     </tr>
                                 </tbody>
                             </table>
@@ -206,7 +206,7 @@
                                                         Presentación por equipos de diferentes sistemas de indicadores.
                                                     </li>
                                                     <li>
-                                                        Selección y presentación de avances del caso de estudio.
+                                                        Selección y presentación de avances del caso de estudio
                                                     </li>
                                                 </ul>
                                             </td>
@@ -249,7 +249,7 @@
                                                 </li>
                                                 <li>
                                                     Presentación por equipos de trabajo final integrador
-                                                    e infografía del sistema complejo estudiado.
+                                                    e infografía del sistema complejo estudiado
                                                 </li>
                                             </ul>
                                         </td>
@@ -272,7 +272,7 @@
                                     <tr id="tablaTitulos">
                                         <th scope="col"># <br> parcial</th>
                                         <th scope="col">Momento de evaluación</th>
-                                        <th scope="col">Método de evaluación y valor para la</th>
+                                        <th scope="col">Método de evaluación y valor para la evaluación parcial</th>
                                         <th scope="col">Ponderación para evaluación final</th>
                                     </tr>
                                 </thead>
@@ -335,13 +335,19 @@
 
                 <hr>
                 <h4> <strong>Requisitos para cursar la asignatura</strong> </h4>
-                <p>No aplica
-                </p>
+                <div>
+                    <ul>
+                        <li>No aplica</li>
+                    </ul>    
+                </div>
 
                 <hr>
                 <h4> <strong>Interoperabilidad</strong> </h4>
-                <p>No aplica
-                </p>
+                <div>
+                    <ul>
+                        <li>No aplica</li>
+                    </ul>    
+                </div>
 
                 <hr>
                 <h4> <strong>Otras formas de acreditación</strong> </h4>
@@ -356,16 +362,26 @@
 
                 <hr>
                 <h4> <strong>Máximo y mínimo de estudiantes por grupo</strong> </h4>
-                <p>No aplica
-                </p>
+                <div>
+                    <ul>
+                        <li>No aplica</li>
+                    </ul>    
+                </div>
 
                 <hr>
                 <h4> <strong>Elaboradores y revisores</strong> </h4>
                 <p> <strong>Elaboró: </strong>M.C. Luz María Nieto Caraveo (propuesta original). Dr. Javier Fortanelli
                     Martínez (modificaciones).
                     <br>
-                    <strong>Revisó:</strong>
+                    <strong>Revisó:</strong><br><br>
                 </p>
+
+                <div class="row m-0 text-center align-items-center justify-content-center">
+                    <div class="col-auto">
+                        <a  class="btn btn-primary rounded-pill" id="botonesGeneral" href="https://uaslpedu-my.sharepoint.com/:b:/g/personal/pmpca_uaslp_mx/IQCiK-cUE5yHTq9UR0unKyE-AUuU-y_SPHpUKoKcchBhzG4?e=8sXt3i" target="_blank" role="button" download="CB_DesarrolloSustentable.pdf">Descargar programa</a>
+                    </div>
+                </div>
+
             </div>
         </div>
     </div>

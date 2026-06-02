@@ -16,7 +16,7 @@
         <div>
         <h4><strong>Profesor Investigador de Tiempo Completo Nivel VI.</strong></h4>
         <h5><strong>Facultad de Ciencias Sociales y Humanidades</strong></h5>
-        <h5><strong>SNI nivel I.</strong></h5>
+        <h5><strong>SNI nivel II.</strong></h5>
         <br>
         <p>
             Av. Industrias #101-A Fracc. Talleres <br>
@@ -72,6 +72,8 @@
                   <li>Hincapie Agudelo Melisa. 2021. From the mountains to the coast: using bird data to enhance connectivity in the sugar cane landscape of Campos dos Goytacazes, Brazil</li>
                   <li>Calla Durandal Lucia. 2022. Historical trajectory of the Mangroves' loss in the Gulf of Guayaquil, Ecuador</li>
                   <li>Farías Garduño Osmar Alejandro. 2022. Adaptation of human communities to droughts: a systemic sustainability assessment in Rioverde, San Luis Potosi</li>
+                  <li>Jiménez Velandia Jenny Julianna. 2023. Peacebuilding in areas deforested by illicit coca crops in Catatumbo, Colombia: an environmental governance approach  </li>
+                  <li>Villanueva Zapata Gabriel Alejandro. 2024 <a target="_blank" href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/9169/TesisM.PMPCA.2024.Sustainability.Villanueva.pdf?sequence=1&isAllowed=y">Sustainability of Agroforestry coffee cultivation in the Cerro de Kuskawás Natural Reserve, Nicaragua.</a></li>
                 </ul>
                 <br>
                 <p><em>Maestría en Ciencias Ambientales</em></p>
@@ -94,7 +96,8 @@
                   <li>Bara Claudia Rosina. 2018. <a target="_blank" href="https://ninive.uaslp.mx/xmlui/bitstream/handle/i/4531/DCA1BCR201802.pdf?sequence=1&amp;isAllowed=y">Implicaciones y viabilidad de la certificación orgánica participativa como instrumento para promover la producción orgánica y los mercados locales en San Luis Potosí.</a> (Co-dirección).</li>
                   <li>Antoni Carolin Dorothee. 2017. <a target="_blank" href="https://ninive.uaslp.mx/xmlui/handle/i/4525">Dynamics of livelihood and land use/cover change in a tropical social-ecological system in the Huasteca Potosina region.</a></li>
                   <li>Trinidad García Karina Lizbeth. 2020. Manejo y conservación de <em>Vanilla Planifolia</em> en sistemas agroforestales tradicionales de la Huasteca Potosina.</li>
-                  <li>Rontard Benjamín Nicolás Franck. 2021. <a target="_blank" href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/7610/TesisD.PMPCA.2021.Progress.Rontard.pdf?sequence=1&isAllowed=y">Progress and limits of carbon market in Mexico: analysis of national emissions trading system</a></li>
+                  <li>Rontard Benjamín Nicolás Franck. 2021. <a target="_blank" href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/7610/TesisD.PMPCA.2021.Progress.Rontard.pdf?sequence=1&isAllowed=y">Progress and limits of carbon market in Mexico: analysis of national emissions trading system.</a></li>
+                  <li>González Avilés Bertha Yazmín. 2024. La sostenibilidad de la apicultura y la flora melífera en la región de la Reserva de la Biósfera Sierra del Abra Tanchipa.</li>
                 </ul>
               </ol>
             </div>
@@ -112,8 +115,15 @@
             <div class="accordion-body">
               <strong>Artículos científicos</strong><br><br>
               <ul class="vineta">
-                <li>González-Avilés, B. E., <b>Reyes-Hernández, H.</b>, Yáñez-Espinosa, L., Carranza-González, E., De-Nova-Vazquez, J. A. 2023. La flora melífera del paisaje aledaño a la Reserva de la Biósfera Sierra del Abra Tanchipa, San Luis Potosí, México. <i>Botanical Sciences</i> (aceptado).</li><br>
-                <li>Alemán Contreras, U. A., <b>Reyes-Hernández, H.</b>, van´t Hooft, A., Santacruz de León, G. 2023. Dinámica espacio-temporal de los cambios en la cubierta vegetal y usos de suelo asociados al fracking en las cuencas de Burgos, México y Neuquina, Argentina. <i>Revista de Geografía Norte Grande</i> (aceptado).</li><br>
+                <li>Vaca-Genuit, R. A., <b>Reyes-Hernández, H.</b> 2024. Análisis del peligro de sequía meteorológica y percepción social del fenómeno en las regiones Media y Huasteca Potosina, México. Investigaciones Geográficas, 116, e60919  <a href="https://doi.org/10.14350/rig.60919" target="_blank">https://doi.org/10.14350/rig.60919</a></li><br>
+                <li><b>Reyes-Hernández, H.</b>, Bojorquez-Vargas, A. R., Corpus-Saldaña J. E. Durán-Fernández, A. Rivera-Gonzalez, J. G. 2024.  Enfoque participativo para valorar los programas de manejo de áreas naturales protegidas en México. Revista Economía Sociedad y Territorio, 24(76): e1992. <a href="https://doi.org/10.22136/est20241992" target="_blank">https://doi.org/10.22136/est20241992</a></li><br>
+                <li>Parra-Rodriguez, O. Muñoz-Robles, C. A. López-Mares, L., <b>Reyes-Hernández, H.</b> 2024. Land surface temperature and socioeconomic residential segregation in the Metropolitan Zone of San Luis Potosí, Mexico. Science of the Total Environment, 957: 177753. <a target="_blank" href="https://doi.org/10.1016/j.scitotenv.2024.177753">https://doi.org/10.1016/j.scitotenv.2024.177753</a></li><br>
+                <li>Stöcker, N., <b>Reyes-Hernández, H.</b>, Torrico-Albino, J. C. 2024. The Bolivian organic quinoa in the fairtrade market, implications for the weakest link in the value chain: small-scale farmers. Tropical and subtropical agroecosystems, 27(6):1-14. <a target="_blank" href="http://doi.org/10.56369/tsaes.5814">http://doi.org/10.56369/tsaes.5814</a></li><br>
+                <li>Martínez-Acuña, M. I., <b>Reyes-Hernández, H.</b>, Covarrubias, S. A., Martínez-Esquivel, R. A., Estudillo-Wong, L. A. 2024. Mapping environmental risk of fluoride exposure of drinking water in a community of Zacatecas, México. Water, 16: 2428. <a href="https://doi.org/10.3390/w16172428" target="_blank">https://doi.org/10.3390/w16172428</a></li><br>
+                <li>Brauer, C., Trinidad-García, K. L., Parra-Rodriguez, O., <b>Reyes-Hernández, H.</b> 2024. Sustainable vanilla pod dryer for small scale producers based on a participatory learning process. <i>Energy for sustainable development</i>, 78:101366. <a href="https://doi.org/10.1016/j.esd.2023.101366" target="_blank">https://doi.org/10.1016/j.esd.2023.101366</a></li><br>
+                <li>Alemán Contreras, U. A., <b>Reyes-Hernández, H.</b>, van´t Hooft, A., Santacruz de León, G. 2023. Dinámica espacio-temporal de los cambios en la cubierta vegetal y usos de suelo asociados al fracking en las cuencas de Burgos, México y Neuquina, Argentina. <i>Revista de Geografía Norte Grande</i>, 86: 1-24. <a href="https://revistanortegrande.uc.cl/index.php/RGNG/article/view/43599">https://revistanortegrande.uc.cl/index.php/RGNG/article/view/43599</a></li><br>
+                <li><b>Reyes-Hernández, H.</b> 2023. Payment for environmental services: Forests conservation and poverty alleviation in a tropical region of Mexico. <i>Land Use Policy</i> (133):106847. <a href="https://doi.org/10.1016/j.landusepol.2023.106847">https://doi.org/10.1016/j.landusepol.2023.106847</a></li><br>
+                <li>González-Avilés, B. E., <b>Reyes-Hernández, H.</b>, Yáñez-Espinosa, L., Carranza-González, E., De-Nova-Vazquez, J. A. 2023. La flora melífera del paisaje aledaño a la Reserva de la Biósfera Sierra del Abra Tanchipa, San Luis Potosí, México. <i>Botanical Sciences</i> 101 (3): 775-803. <a href="https://doi.org/10.17129/botsci.3206">https://doi.org/10.17129/botsci.3206</a></li><br>
                 <li>Yáñez-Espinosa, L., Flores, J., Fortanelli-Martínez, J., Quintero-Ruiz, J. R., de Nova-Vázquez, J. A, <b>Reyes-Hernández, H.</b> 2022. Leaf traits variation of <i>Myriocarpa longipes</i> and <i>Brosimum alicastrum</i> in relation to microclimatic gradient in tropical dolines of Mexico. <i>The Journal of the Torrey Botanical Society.</i> 149 (4): 262-272 <a href="https://doi.org/10.3159/TORREY-D-22-00011.1">https://doi.org/10.3159/TORREY-D-22-00011.1</a></li><br>
                 <li><b>Reyes-Hernández, H.</b>, Silva-Flores M. A., Muñoz-Robles, C. A. Ortiz-Rodríguez, A. J. 2022. Strengthening environmental management and local planning in indigenous communities through hydrological connectivity analysis. Experiences from a tropical region of Mexico. <i>Human Ecology.</i> 50 (4): 617-632. <a href="https://doi.org/10.1007/s10745-022-00329-1">https://doi.org/10.1007/s10745-022-00329-1</a></li><br>
                 <li>Rontard, B., <b>Reyes-Hernández, H.</b> 2022. Political construction of carbon pricing: Experience from the New Zealand emissions trading scheme. <i>Environmental Development</i>, 43:1-11. <a href="https://doi.org/10.1016/j.envdev.2022.100727">https://doi.org/10.1016/j.envdev.2022.100727</a><li><br>
@@ -176,12 +186,12 @@
             data-bs-parent="#accordionExample">
             <div class="accordion-body">
               <ul class="vineta">
-                <li>Adaptación al cambio climático en comunidades rurales: Una aproximación desde la gobernanza ambiental. Financiado CONACYT, Ciencia de Frontera (FOP16-2021-01-320575), vigencia 2022-2023.
+                <li>Adaptación al cambio climático en comunidades rurales: Una aproximación desde la gobernanza ambiental. CONACYT, Ciencia de Frontera (FOP16-2021-01-320575), vigencia 2022-2024..
                 </li><br>
+                <li>Monitoreo de fauna silvestre mediante el uso de cámaras-trampa en la zona de influencia de la Reserva de la Biosfera Sierra del Abra Tanchipa. Comité de Vigilancia y Monitoreo Biológico Comunitario/752/2023. CONANP/PROREST, vigencia 2023.</li><br>
                 <li>Caracterización y priorización de sitios para la restauración de suelos basada en Sistemas de Información Geográfica en la Reserva de la Biosfera Sierra del Abra Tanchipa. Financiado por el Fondo de Apoyo a la Investigación UASLP (C19-FAI-05-77.77), vigencia 2019-2020.</li><br>
+                <li>Evaluación y actualización del Programa de Manejo de la Reserva de la Biosfera Sierra del Abra Tanchipa, incorporando un enfoque de Manejo Integrado del Paisaje. (PN: 15.2080.8-001.04). Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ), vigencia 2018.</li><br>
                 <li>Cambios en la cubierta vegetal y usos de la tierra en la Región Prioritaria para la Conservación Xilitla. Financiado por el Fondo de Apoyo a la Investigación UASLP (C17-FAI-06-46.46), vigencia 2017-2018.</li><br>
-                <li>Caracterización de los encinares tropicales (Quercus oleoides) en la Reserva de la Biosfera Sierra del Abra Tanchipa y su área de influencia. CONANP/PROCODES/3698/2017. Financiado por CONANP, vigencia 2017.</li><br>
-                <li>Fortalecimiento de las acciones de restauración del bosque de niebla en la RPC Xilitla. PROCER/CCER/DRNEySMO/XILITLA/12/2016. Financiado por CONANP, vigencia 2016.</li>
               </ul>
             </div>
           </div>

@@ -24,7 +24,7 @@ Dra. Gisela Aguilar Benítez
 
   <div class="enlacesprof">
     <!--<a target="_blank" href="#">Webpage</a>-->
-    <a target="_blank" href="{{asset('storage/CV/Aguilar_Benitez_Gisela.pdf')}}"><i>Curriculum vitae</i></a>
+    <a target="_blank" href="{{asset('storage/CV/Aguilar_Benitez_Gisela_2024.pdf')}}"><i>Curriculum vitae</i></a>
     <a target="_blank" href="https://investigadores.uaslp.mx/InvestigadorProfile/mV4AAA%3d%3d">Directorio de Investigadores</a>
     <a target="_blank" href="https://orcid.org/0000-0002-9243-3860"><img src="{{asset('storage/images/orcid.png')}}" alt=""></a>
     <a target="_blank" href="https://www.scopus.com/authid/detail.uri?authorId=55023828100"> <img src="{{asset('storage/images/scopus.png')}}" alt=""></a>
@@ -54,16 +54,25 @@ Dra. Gisela Aguilar Benítez
             <br>
         <li><strong>LGAC</strong></li>
           <ul class="vineta">
-            <li>Sistemas de aprovechamientos de recursos bióticos </li>
-            <li>Sistemas de producción de cosechas vegetales </li>
+            <li>Servicios ecosistémicos, agroecosistemas y sistemas alimentarios sostenibles </li>
+            <li>Abonos orgánicos, bioestimulantes y biofertilizantes en la dinámica suelo-planta</li>
         </ul>
         <br>
         <li><strong>Dirección de Tesis</strong></li><br>
           <p><em>Maestría en Ciencias Ambientales (Doble Titulación), Co-Dirección</em></p>
-          <p></p>
           <ul class="vineta">
-              <li>Díaz Otalora Laura Tatiana. 2016. <a href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/4131/MCA1DOL201601.pdf?sequence=1&isAllowed=y">Prácticas agroecológicas de sistemas familiares en las regiones prioritarias para la conservación: Sierra del Abra Tanchipa y Sierra de Xilitla. </a></li>
+              <li>Díaz Otalora Laura Tatiana. 2016. <a href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/4131/MCA1DOL201601.pdf?sequence=1&isAllowed=y" target="_blank">Prácticas agroecológicas de sistemas familiares en las regiones prioritarias para la conservación: Sierra del Abra Tanchipa y Sierra de Xilitla. </a></li>
               <li>Sabatinelli Rodrigues Thiago. 2019. <a href="#">Resilience of agroecological systems to extreme weather events: a social network theory approach in el cobre production cooperative, Santiago de Cuba</a>.</li>
+          </ul>
+          <br>
+          <p><em>Maestría en Ciencias Ambientales</em></p>
+          <ul class="vineta">
+              <li>Salazar Mata Melissa. 2024. Análisis de los servicios ecosistémicos de los agroecosistemas tradicionales en Villa Hidalgo, S.L.P. </li>
+          </ul>
+          <br>
+          <p><em>Doctorado en Ciencias Ambientales</em></p>
+          <ul class="vineta">
+                <li>Sánchez Martínez Berenice. 2025. <a href="http://repositorioinstitucional.uaslp.mx/xmlui/handle/i/9392" target="_blank">Agricultura familiar y soberanía alimentaria en regiones semiáridas: el caso del Valle de Peotillos, San Luis Potosí, México.</a></li>
           </ul>
         </ol>
       </div>

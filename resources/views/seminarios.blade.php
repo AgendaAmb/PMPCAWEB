@@ -12,7 +12,7 @@
                         <h2 class="accordion-header" id="headingTwo">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                <strong>Seminario Multidisciplinarios &nbsp</strong>
+                                <strong>Seminario Multidisciplinario &nbsp</strong>
                             </button>
                         </h2>
                         <div id="collapseTwo" class="accordion-collapse collapse active show" aria-labelledby="headingTwo"
@@ -27,6 +27,11 @@
                                             </tr>
                                         </thead>
                                         <tbody>
+                                            <tr>
+                                                <td>2024</td>
+                                                <td>Febrero - Julio<br>Agosto - Diciembre</td>
+                                                <td><a href="{{asset('storage/Doc/Multi_Feb-Jul2024.pdf')}}" target="_blank">Memorias</a><br><a href="{{asset('storage/Doc/Multi_Ago-Dic2024.pdf')}}" target="_blank">Memorias</a></td>
+                                            </tr>
                                             <tr>
                                                 <td>2021</td>
                                                 <td>Febrero - Junio</td>
@@ -100,9 +105,22 @@
                                         </thead>
                                         <tbody>
                                             <tr>
+                                                <td>2024</td>
+                                                <td>Febrero - Julio</td>
+                                                <td><a href="{{asset('storage/Doc/SemTesis_Feb_Jul2024.pdf')}}" target="_blank">Memorias</a>
+                                                </td>
+                                            </tr>
+                                            <tr>
                                                 <td>2023</td>
                                                 <td>Febrero - Julio</td>
-                                                <td><a href="{{asset('storage/Doc/SemTesis_Feb_Jul2023.pdf')}}" target="_blank">Memorias</a><br>
+                                                <td><a href="{{asset('storage/Doc/SemTesis_Feb_Jul2023.pdf')}}" target="_blank">Memorias</a>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>2022</td>
+                                                <td>Febrero - Julio<br> Agosto - Enero</td>
+                                                <td><a href="{{asset('storage/Doc/SemTesis_Feb_Jul2022.pdf')}}" target="_blank">Memorias</a><br><a
+                                                        href="{{asset('storage/Doc/SemTesis_Ago_Ene2023.pdf')}}" target="_blank">Memorias</a>
                                                 </td>
                                             </tr>
                                             <tr>

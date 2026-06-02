@@ -19,7 +19,7 @@
                     </div>
                     
                     <div class="col-6 col-md-4 col-lg-2  d-block d-sm-none">
-                        <a class="btn btn-primary" id="botonesGeneral" target="_blank" href="storage/Doc/Conv_DCA.pdf"
+                        <a class="btn btn-primary" id="botonesGeneral" target="_blank" href="#"
                             role="button">Convocatoria</a>
                     </div>
                 </div>
@@ -39,7 +39,7 @@
                     <div class="col-12 col-sm-1 ">
                     </div>
                     <div class="col-12 col-sm-3 d-none d-sm-block">
-                        <a class="btn btn-primary" id="botonesGeneral" target="_blank" href="storage/Doc/Conv_DCA_2023.pdf"
+                        <a class="btn btn-primary" id="botonesGeneral" target="_blank" href="storage/Doc/Conv_DCA.pdf"
                             role="button">Convocatoria</a>
                     </div>
                     <div class="col-12 col-sm-1 ">
@@ -52,8 +52,7 @@
                     <div id="contTablaIzq">
                         <p>
                             Nuestro objetivo es la formación de recursos humanos de calidad para la docencia e investigación
-                            básica o aplicada para la solución de los problemas ambientales a nivel regional, nacional o
-                            global. <br> <br>
+                            básica o aplicada para la solución de los problemas ambientales a nivel regional, nacional o global. <br> <br>
 
                             Si estás interesado deberás desarrollar un proyecto de investigación relacionado con las
                             ciencias ambientales y
@@ -70,7 +69,7 @@
                             tecnológicos y participar
                             activamente en grupos de investigación en el campo de las ciencias ambientales. <br> <br>
 
-                            <strong>Costo semestral de inscripción: $ 3,500.00</strong>
+                            <strong>Costo semestral de inscripción: $ 7,000.00</strong>
                         </p>
                     </div>
                 </div>
@@ -134,7 +133,6 @@
                     </div>
                 </div>
             </div><br><br>
-
         </div>
 
 
@@ -194,7 +192,7 @@
                             Como egresado tendrás una formación integral para realizar con eficacia actividades de docencia,
                             gestión o investigación a fin de lograr un desempeño profesional de alto nivel.<br><br>
 
-                            <strong>Costo semestral de inscripción: $ 3,500.00</strong>
+                            <strong>Costo semestral de inscripción: $ 5,000.00</strong>
                         </p>
                     </div>
                 </div>
@@ -307,12 +305,15 @@
                             El Programa de Maestría de doble titulación ENREM trata de responder a los actuales requerimientos y desafíos globales en la región de Latinoamérica. Al mismo tiempo contribuye a la cooperación al desarrollo de ambas regiones, América Latina y Alemania, en un contexto local, global y regional y considera el desarrollo como una transición hacia la sostenibilidad bajo cuatro dimensiones (sostenibilidad social, económica y ambiental, y gobernanza).<br><br>
                             Por diseño del programa, los estudiantes adquieren dos títulos individuales en dos años, uno de cada maestría y universidad. Los estudiantes utilizan los puntos fuertes de ambos programas de máster para ampliar métodos, conocimientos y habilidades relevantes. La formación intercultural, el trabajo en grupo y las habilidades de liderazgo en el contexto de dos culturas y sistemas universitarios diferentes proporcionan cualificaciones interdisciplinares, interculturales y personales adicionales. La integración en el programa de estudios en ambas universidades aumenta las posibilidades de carrera transfronteriza y amplía oportunidades profesionales transfronterizas así como su red global de contactos.<br><br>
 
-                            <strong>Costo semestral de inscripción: $ 3,500.00</strong><br><br>
+                            <strong>Costo semestral de inscripción: $ 6,000.00</strong><br><br>
+
+                            Para la postulación, por favor descargue el formulario PDF dando clic <a target="_blank" id="titulosCyan" href="{{url("/aspirantes")}}">aquí</a>.<br><br>
 
                             Para mayor información sobre requisitos de ingreso, la fecha límite de solicitud y el proceso de
                             selección, consulte: <a target="_blank" id="titulosCyan"
                                 href="https://www.enrem-master.info/application">
                                 https://www.enrem-master.info/application</a>
+
                         </p>
                     </div>
                 </div>

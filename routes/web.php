@@ -21,6 +21,38 @@ Route::get('profesor/', function () {
     return view('detailsProfessor');
 });
 
+Route::get('/oficios/AlexanderCarranza', function () {
+            return view('oficios.AlexanderCarranza');
+        });
+Route::get('/oficios/AlejandraLopez', function () {
+            return view('oficios.AlejandraLopez');
+        });
+Route::get('/oficios/DavidJung', function () {
+            return view('oficios.DavidJung');
+        });
+Route::get('/oficios/DeniseEnokibara', function () {
+            return view('oficios.DeniseEnokibara');
+        });
+Route::get('/oficios/EmiliaBoutin', function () {
+            return view('oficios.EmiliaBoutin');
+        });
+Route::get('/oficios/IsabelRodas', function () {
+            return view('oficios.IsabelRodas');
+        });
+Route::get('/oficios/KarenCastillo', function () {
+            return view('oficios.KarenCastillo');
+        });
+Route::get('/oficios/LidiaRosenfeld', function () {
+            return view('oficios.LidiaRosenfeld');
+        });
+Route::get('/oficios/MarciaLeon', function () {
+            return view('oficios.MarciaLeon');
+        });
+Route::get('/oficios/ValentinaUrrutia', function () {
+            return view('oficios.ValentinaUrrutia');
+        });
+
+
 Route::get('/base', function () {
     return view('base');
 });
@@ -71,14 +103,168 @@ Route::prefix('cursos')->name('cursos.')->group(function () {
         Route::get('ProblematicayGestion', function () {
             return view('programas.problematicaygestion');
         })->name('ProblematicayGestion');
-
     });
 
     Route::prefix('Optativos')->name('Optativos.')->group(function () {
+
+        Route::get('GestionAmbOpeMinMet', function () {
+            return view('programas.GestionAmb');
+        })->name('GestionAmbOpeMinMet');
+
+        Route::get('NaturalezaySociedad', function () {
+            return view('programas.NatSociedad');
+        })->name('NaturalezaySociedad');
+
+        Route::get('TeoriadelaHistoria', function () {
+            return view('programas.TeoriaHistoria');
+        })->name('TeoriadelaHistoria');
+
+        Route::get('ParticipacionSocial', function () {
+            return view('programas.ParticipacionSocial');
+        })->name('ParticipacionSocial');
+
+        Route::get('FisicoquimicaAguasNat', function () {
+            return view('programas.FisicoquimicaAguasNat');
+        })->name('FisicoquimicaAguasNat');
+
+        Route::get('RemediacionSitiosCont', function () {
+            return view('programas.RemediacionSitiosContaminados');
+        })->name('RemediacionSitiosCont');
+
+        Route::get('EcologiadelaProdCosechas', function () {
+            return view('programas.EcologiaProduccion');
+        })->name('EcologiadelaProdCosechas');
+
+        Route::get('EvManejoRecursosNat', function () {
+            return view('programas.EvManejoRecursosNat');
+        })->name('EvManejoRecursosNat');
+
+        Route::get('FisiologiaAnimalAmb', function () {
+            return view('programas.FisiologiaAnimalAmb');
+        })->name('FisiologiaAnimalAmb');
+
+        Route::get('ManejoRecursosRenovZonasSecas', function () {
+            return view('programas.ManejoRecursosNatRenovablesZonasSecas');
+        })->name('ManejoRecursosRenovZonasSecas');
     });
 
     Route::prefix('TopicosSelectos')->name('TopicosSelectos.')->group(function () {
 
+        Route::get('BiodiversidadNutricionySeguridadAlimentaria', function () {
+            return view('programas.Biodiversidad');
+        })->name('BiodiversidadNutricionySeguridadAlimentaria');
+
+        Route::get('HidrogeologiaAmb', function () {
+            return view('programas.HidrogeologiaAmb');
+        })->name('HidrogeologiaAmb');
+
+        Route::get('Hidrogeoquimica', function () {
+            return view('programas.Hidrogeoquimica');
+        })->name('Hidrogeoquimica');
+
+        Route::get('IngenieriaAmbiental', function () {
+            return view('programas.IngenieriaAmb');
+        })->name('IngenieriaAmbiental');
+
+        Route::get('GestiondeResiduosEcomCir', function () {
+            return view('programas.GestiondeResiduos');
+        })->name('GestiondeResiduosEcomCir');
+        
+        Route::get('DisenoEvProyectosdeInv', function () {
+            return view('programas.DisenoEvaluacionProyectos');
+        })->name('DisenoEvProyectosdeInv');
+
+        Route::get('ClimatologiaAplicada', function () {
+            return view('programas.Climatologia');
+        })->name('ClimatologiaAplicada');
+
+        Route::get('EcosistyRedRiesgodeDesastre', function () {
+            return view('programas.EcosistemasReduccionRiesgo');
+        })->name('EcosistyRedRiesgodeDesastre');
+
+        Route::get('EstrategiasApropiacionSocial', function () {
+            return view('programas.Estrategiasapropiacionsocial');
+        })->name('EstrategiasApropiacionSocial');
+
+        Route::get('SistemasdeAdsorcion', function () {
+            return view('programas.SistAdsorcionEYC');
+        })->name('SistemasdeAdsorcion');
+
+        Route::get('SistTratamientodeAguasResiduales', function () {
+            return view('programas.SistTratamientoAguasR');
+        })->name('SistTratamientodeAguasResiduales');
+
+        Route::get('MicrobiologiaAmbAp', function () {
+            return view('programas.MicrobiologiaAmb');
+        })->name('MicrobiologiaAmbAp');
+
+        Route::get('ElectroquimicaAmb', function () {
+            return view('programas.ElectroquimicaAmb');
+        })->name('ElectroquimicaAmb');
+
+        Route::get('AnatomiaVegetalAmb', function () {
+            return view('programas.AnatomiaVegetalAmb');
+        })->name('AnatomiaVegetalAmb');
+
+        Route::get('EcofisiologiaVegetal', function () {
+            return view('programas.EcofisiologiaVegetal');
+        })->name('EcofisiologiaVegetal');
+
+        Route::get('EcologiaCuantitativa', function () {
+            return view('programas.EcologiaCuantitativa');
+        })->name('EcologiaCuantitativa');
+
+        Route::get('EcologiayManejoCuencasH', function () {
+            return view('programas.EcologiaManejoCuencasHidrograficas');
+        })->name('EcologiayManejoCuencasH');
+
+        Route::get('MetEstadisticosparaInvestigadores', function () {
+            return view('programas.MetEstadisticoParaInvestigadores');
+        })->name('MetEstadisticosparaInvestigadores');
+
+        Route::get('ModelosAnimalesparaInvestigacionCN', function () {
+            return view('programas.ModelosAnimalesparaInv');
+        })->name('ModelosAnimalesparaInvestigacionCN');
+
+        Route::get('TiposdeEnergia', function () {
+            return view('programas.TiposdeEnergia');
+        })->name('TiposdeEnergia');
+
+        Route::get('FarmacognosiaQYFdePlantasMed', function () {
+            return view('programas.FarmacognosiaQuimicaFarmacologia');
+        })->name('FarmacognosiaQYFdePlantasMed');
+
+        Route::get('Ecotoxicologia', function () {
+            return view('programas.Ecotoxicologia');
+        })->name('Ecotoxicologia');
+
+        Route::get('FundamentosTMparaEvlaSaludEcosist', function () {
+            return view('programas.FundamentosEvSaludEcosistemas');
+        })->name('FundamentosTMparaEvlaSaludEcosist');
+
+        Route::get('EvdeRiesgosenSaludHumana', function () {
+            return view('programas.EvRiesgoSalud');
+        })->name('EvdeRiesgosenSaludHumana');
+
+        Route::get('ComunicacionRiesgosSaludAmb', function () {
+            return view('programas.ComunicacionRiesgosSaludAmb');
+        })->name('ComunicacionRiesgosSaludAmb');
+
+        Route::get('EvEfectosdelaVaryCambioC', function () {
+            return view('programas.EvEfectosVariabilidad');
+        })->name('EvEfectosdelaVaryCambioC');
+
+        Route::get('EvImpactoyRiesgoAmb', function () {
+            return view('programas.EvImpacto');
+        })->name('EvImpactoyRiesgoAmb');
+
+        Route::get('BiologiaMolecularCienciasAmb', function () {
+            return view('programas.BiologiaMolecular');
+        })->name('BiologiaMolecularCienciasAmb');
+
+        Route::get('EvaluacionAmbientalyAnalisis', function () {
+            return view('programas.EvAmbAnalisis');
+        })->name('EvaluacionAmbientalyAnalisis');
     });
 });
 
@@ -101,6 +287,10 @@ Route::prefix('areas')->name('areas.')->group(function () {
 
         // * Profesores
         Route::prefix('Profesores')->name('Profesores.')->group(function () {
+
+            Route::get('/ACardenas', function () {
+                return view('/profesores/ACardenas');
+            })->name('ACardenas');
 
             Route::get('/ACardona', function () {
                 return view('/profesores/ACardona');
@@ -365,6 +555,14 @@ Route::get('/calendario', function () {
 
 Route::get('/tramites', function () {
     return view('tramites');
+});
+
+Route::get('/procesos', function () {
+    return view('procesos');
+});
+
+Route::get('/tutorias', function () {
+    return view('tutorias');
 });
 
 Route::get('/estadisticas', function () {

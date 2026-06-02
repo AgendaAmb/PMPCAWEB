@@ -185,6 +185,12 @@
                         <li>Salud Ambiental Integrada (SAI)</li>
                     </ol>
                     </p>
+                    <br><br>
+                <div class="row m-0 text-center align-items-center justify-content-center">
+                    <div class="col-auto">
+                        <a class="btn btn-primary rounded-pill" id="botonesGeneral" href="https://ambiental.uaslp.mx/pmpca/storage/Doc/ProgramacionSemestral2025-2026-II.pdf" target="_blank" role="button">Listado de cursos</a>
+                    </div>
+                </div>
                 </div>
             </div>
         </div>
@@ -202,9 +208,9 @@
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body" id="enlacesCursos">
                             <a href="{{route('cursos.Basicos.DesarrolloSustentable')}}" target="_blank">769001 Desarrollo sustentable</a><br>
-                            <a target="_blank">769053 Ecología</a><br> <!--{{route('cursos.Basicos.Ecologia')}}-->
+                            <a href="{{route('cursos.Basicos.Ecologia')}}" target="_blank">769053 Ecología</a><br>
                             <a href="{{route('cursos.Basicos.IntroduccionEstadistica')}}" target="_blank">769057 Introducción a la estadística</a><br>
-                            <a target="_blank">769058 Problemática y gestión ambiental</a><br>
+                            <a href="{{route('cursos.Basicos.ProblematicayGestion')}}" target="_blank">769058 Problemática y gestión ambiental</a><br>
                         </div>
                     </div>
                 </div>
@@ -219,19 +225,19 @@
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body" >
                             <strong>Evaluación ambiental</strong><br><br>
-                            769006 Gestión ambiental de operaciones minerometalúrgicas<br><br><br>
+                            <a href="{{route('cursos.Optativos.GestionAmbOpeMinMet')}}" target="_blank">769006 Gestión ambiental de operaciones minerometalúrgicas</a><br><br><br>
                             <strong>Gestión ambiental</strong><br><br>
-                            769031 Naturaleza y sociedad. Una introducción a las posiciones teóricas recientes<br>
-                            Teoría de la historia ambiental<br>
-                            769022 Participación social<br><br><br>
+                            <a href="{{route('cursos.Optativos.NaturalezaySociedad')}}" target="_blank">769031 Naturaleza y sociedad. Una introducción a las posiciones teóricas recientes</a><br>
+                            <a href="{{route('cursos.Optativos.TeoriadelaHistoria')}}" target="_blank">769045 Teoría de la historia ambiental</a><br>
+                            <a href="{{route('cursos.Optativos.ParticipacionSocial')}}" target="_blank">769022 Participación social</a><br><br><br>
                             <strong>Prevención y control</strong><br><br>
-                            769033 Fisicoquímica de las aguas naturales<br>
-                            769059 Remediación de sitios contaminados<br><br><br>
+                            <a href="{{route('cursos.Optativos.FisicoquimicaAguasNat')}}" target="_blank">769033 Fisicoquímica de las aguas naturales</a><br>
+                            <a href="{{route('cursos.Optativos.RemediacionSitiosCont')}}" target="_blank">769059 Remediación de sitios contaminados</a><br><br><br>
                             <strong>Recursos naturales renovables</strong><br><br>
-                            769014 Ecología de la producción de cosechas<br>
-                            769019 Evaluación y manejo de los recursos naturales renovables<br>
-                            769017 Fisiología animal ambiental<br>
-                            769016 Manejo de recursos renovables en zonas secas<br>
+                            <a href="{{route('cursos.Optativos.EcologiadelaProdCosechas')}}" target="_blank">769014 Ecología de la producción de cosechas</a><br>
+                            <a href="{{route('cursos.Optativos.EvManejoRecursosNat')}}" target="_blank">769019 Evaluación y manejo de los recursos naturales renovables</a><br>
+                            <a href="{{route('cursos.Optativos.FisiologiaAnimalAmb')}}" target="_blank">769017 Fisiología animal ambiental</a><br>
+                            <a href="{{route('cursos.Optativos.ManejoRecursosRenovZonasSecas')}}" target="_blank">769016 Manejo de recursos naturales renovables en zonas secas</a><br>
                         </div>
                     </div>
                 </div>
@@ -246,39 +252,39 @@
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             <strong>Evaluación ambiental</strong><br><br>
-                            Evaluación de impacto y riesgo ambiental<br>
-                            769046 Hidrogeología ambiental<br>
-                            769046 Hidrogeoquímica<br>
-                            769046 Ingeniería ambiental<br>
-                            769046 Gestión de residuos y economía circular<br><br><br>
+                            <a href="{{route('cursos.TopicosSelectos.EvImpactoyRiesgoAmb')}}" target="_blank">769046 Evaluación de impacto y riesgo ambiental</a><br>
+                            <a href="{{route('cursos.TopicosSelectos.HidrogeologiaAmb')}}" target="_blank">769046 Hidrogeología ambiental</a><br>
+                            <a href="{{route('cursos.TopicosSelectos.Hidrogeoquimica')}}" target="_blank">769046 Hidrogeoquímica</a><br>
+                            <a href="{{route('cursos.TopicosSelectos.IngenieriaAmbiental')}}" target="_blank">769046 Ingeniería ambiental</a><br>
+                            <a href="{{route('cursos.TopicosSelectos.GestiondeResiduosEcomCir')}}" target="_blank">769046 Gestión de residuos y economía circular</a><br><br><br>
                             <strong>Gestión ambiental</strong><br><br>
-                            769045 Diseño y evaluación de proyectos de investigación<br>
-                            769045 Climatología aplicada<br>
-                            769045 Ecosistemas y reducción del riesgo de desastre<br>
-                            Estrategias para la aprobación social del conocimiento
-                            769045 Evaluación ambiental y análisis espacial apoyados en PR y SIG<br><br><br>
+                            <a href="{{route('cursos.TopicosSelectos.DisenoEvProyectosdeInv')}}" target="_blank">769045 Diseño y evaluación de proyectos de investigación</a><br>
+                            <a href="{{route('cursos.TopicosSelectos.ClimatologiaAplicada')}}" target="_blank">769045 Climatología aplicada</a><br>
+                            <a href="{{route('cursos.TopicosSelectos.EcosistyRedRiesgodeDesastre')}}" target="_blank">769045 Ecosistemas y reducción del riesgo de desastre</a><br>
+                            <a href="{{route('cursos.TopicosSelectos.EstrategiasApropiacionSocial')}}" target="_blank">769046 Estrategias para la aprobación social del conocimiento</a><br>
+                            <a href="{{route('cursos.TopicosSelectos.EvaluacionAmbientalyAnalisis')}}" target="_blank">769045 Evaluación ambiental y análisis espacial apoyados en PR y SIG</a><br><br><br>
                             <strong>Prevención y Control</strong><br><br>
-                            769045 Biología molecular aplicada a las ciencias ambientales<br>
-                            769046 Sistemas de adsorción: equilibrio y cinética<br>
-                            769046 Sistemas de tratamiento de aguas residuales<br>
-                            769046 Microbiología ambiental aplicada<br>
-                            769045 Electroquímica ambiental<br><br><br>
+                            <a href="{{route('cursos.TopicosSelectos.BiologiaMolecularCienciasAmb')}}" target="_blank">769045 Biología molecular aplicada a las ciencias ambientales</a><br>
+                            <a href="{{route('cursos.TopicosSelectos.SistemasdeAdsorcion')}}" target="_blank">769046 Sistemas de adsorción: equilibrio y cinética</a><br>
+                            <a href="{{route('cursos.TopicosSelectos.SistTratamientodeAguasResiduales')}}" target="_blank">769046 Sistemas de tratamiento de aguas residuales</a><br>
+                            <a href="{{route('cursos.TopicosSelectos.MicrobiologiaAmbAp')}}" target="_blank">769046 Microbiología ambiental aplicada</a><br>
+                            <a href="{{route('cursos.TopicosSelectos.ElectroquimicaAmb')}}" target="_blank">769045 Electroquímica ambiental</a><br><br><br>
                             <strong>Recursos naturales renovables</strong><br><br>
-                            769045 Anatomía vegetal ambiental<br>
-                            769046 Ecofisiología vegetal<br>
-                            769045 Ecología cuantitativa<br>
-                            769046 Ecología y manejo de cuencas hidrográficas<br>
-                            769046 Métodos estadísticos para investigadores<br>
-                            769045 Modelos animales para la investigación de compuestos naturales<br>
-                            769045 Tipos de energía<br>
-                            769046 Farmacognosia, química y farmacología de plantas medicinales<br><br><br>
+                            <a href="{{route('cursos.TopicosSelectos.AnatomiaVegetalAmb')}}" target="_blank">769045 Anatomía vegetal ambiental</a><br>
+                            <a href="{{route('cursos.TopicosSelectos.EcofisiologiaVegetal')}}" target="_blank">769046 Ecofisiología vegetal</a><br>
+                            <a href="{{route('cursos.TopicosSelectos.EcologiaCuantitativa')}}" target="_blank">769045 Ecología cuantitativa</a><br>
+                            <a href="{{route('cursos.TopicosSelectos.EcologiayManejoCuencasH')}}" target="_blank">769046 Ecología y manejo de cuencas hidrográficas</a><br>
+                            <a href="{{route('cursos.TopicosSelectos.MetEstadisticosparaInvestigadores')}}" target="_blank">769046 Métodos estadísticos para investigadores</a><br>
+                            <a href="{{route('cursos.TopicosSelectos.ModelosAnimalesparaInvestigacionCN')}}" target="_blank">769045 Modelos animales para la investigación de compuestos naturales</a><br>
+                            <a href="{{route('cursos.TopicosSelectos.TiposdeEnergia')}}" target="_blank">769045 Tipos de energía</a><br>
+                            <a href="{{route('cursos.TopicosSelectos.FarmacognosiaQYFdePlantasMed')}}" target="_blank">769046 Farmacognosia, química y farmacología de plantas medicinales</a><br><br><br>
                             <strong>Salud ambiental integrada</strong><br><br>
-                            769046 Ecotoxicología<br>
-                            769046 Biodiversidad, nutrición y seguridad alimentaria<br>
-                            769046 Fundamentos teórico-metodológicos para evaluar la salud de los ecosistemas<br>
-                            769046 Evaluación de riesgos en salud humana<br>
-                            769045 Comunicación de riesgos y salud ambiental<br>
-                            769045 Evaluación de los efectos de la variabilidad y el cambio climático sobre los sistemas de producción de alimentos<br>
+                            <a href="{{route('cursos.TopicosSelectos.Ecotoxicologia')}}" target="_blank">769046 Ecotoxicología</a><br>
+                            <a href="{{route('cursos.TopicosSelectos.BiodiversidadNutricionySeguridadAlimentaria')}}" target="_blank">769046 Biodiversidad, nutrición y seguridad alimentaria</a><br>
+                            <a href="{{route('cursos.TopicosSelectos.FundamentosTMparaEvlaSaludEcosist')}}" target="_blank">769046 Fundamentos teórico-metodológicos para evaluar la salud de los ecosistemas</a><br>
+                            <a href="{{route('cursos.TopicosSelectos.EvdeRiesgosenSaludHumana')}}" target="_blank">769046 Evaluación de riesgos en salud humana</a><br>
+                            <a href="{{route('cursos.TopicosSelectos.ComunicacionRiesgosSaludAmb')}}" target="_blank">769045 Comunicación de riesgos y salud ambiental</a><br>
+                            <a href="{{route('cursos.TopicosSelectos.EvEfectosdelaVaryCambioC')}}" target="_blank">769045 Evaluación de los efectos de la variabilidad y el cambio climático sobre los sistemas de producción de alimentos</a><br>
                         </div>
                     </div>
                 </div>
