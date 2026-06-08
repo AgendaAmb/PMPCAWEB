@@ -67,8 +67,8 @@
                 <br>
                 <p><em>Doctorado en Ciencias Ambientales</em></p>
                 <ul class="vineta">
-                  <li>Wong Argüelles Cynthia. 2020. Fitoextracción y distribución elemental en <i>Typha domingensis</i> en el humedal natural Cienega de Tamasopo</li>
-                  <li>Castillo Pérez Luis Jesús. 2023. Study of the ethnopharmacological potential of <i>Catasetum integerrimum</i> Hook. In the Huasteca Potosina</li>
+                  <li>Wong Argüelles Cynthia. 2020. <a href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/8448/TesisD.PMPCA.2020.Fitoextraccion.Wong.pdf?sequence=1&isAllowed=y">Fitoextracción y distribución elemental en <i>Typha domingensis</i> en el humedal natural Cienega de Tamasopo</a></li>
+                  <li>Castillo Pérez Luis Jesús. 2023. <a href="https://repositorioinstitucional.uaslp.mx/xmlui/bitstream/handle/i/8435/TesisD.PMPCA.2023.Study.Castillo.pdf?sequence=1&isAllowed=y"> Study of the ethnopharmacological potential of <i>Catasetum integerrimum</i> Hook. In the Huasteca Potosina</a></li>
                 </ul>
               </ol>
             </div>
