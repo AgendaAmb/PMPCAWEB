@@ -531,3 +531,460 @@ table.width202, .width202 thead, .width202 tbody, .width202 th, .width202 td, .w
 
 @import "~bootstrap/scss/bootstrap.scss";
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+.tesis-page {
+    max-width: 1180px;
+    margin: 0 auto;
+    padding: 32px 16px 72px;
+}
+
+.tesis-hero {
+    margin-bottom: 28px;
+    border-radius: 8px;
+    background: #004a98;
+    color: #fff;
+    overflow: hidden;
+}
+
+.tesis-hero__content {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(280px, 430px);
+    gap: 24px;
+    align-items: end;
+    padding: 36px;
+}
+
+.tesis-hero__eyebrow,
+.tesis-program__header p,
+.tesis-admin-session p {
+    margin: 0 0 6px;
+    font-size: 0.78rem;
+    font-weight: 800;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+}
+
+.tesis-hero h1 {
+    margin: 0;
+    font-size: 3rem;
+    font-weight: 800;
+}
+
+.tesis-hero p {
+    max-width: 720px;
+    margin: 14px 0 0;
+    line-height: 1.55;
+}
+
+.tesis-search {
+    padding: 18px;
+    border: 1px solid rgba(255, 255, 255, 0.28);
+    border-radius: 8px;
+    background: rgba(255, 255, 255, 0.12);
+}
+
+.tesis-search label,
+.tesis-import label,
+.admin-field label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: 800;
+}
+
+.tesis-search__box,
+.tesis-import__box {
+    display: flex;
+    gap: 10px;
+}
+
+.tesis-search input,
+.tesis-import input,
+.admin-field input,
+.admin-field textarea {
+    width: 100%;
+    min-width: 0;
+    border: 1px solid #cbd8e5;
+    border-radius: 6px;
+    padding: 10px 12px;
+    color: #173d68;
+}
+
+.tesis-search button,
+.tesis-import button,
+.admin-button,
+.admin-toolbar button,
+.admin-table__button {
+    border: 0;
+    border-radius: 6px;
+    padding: 10px 16px;
+    background: #004a98;
+    color: #fff;
+    font-weight: 800;
+    cursor: pointer;
+}
+
+.tesis-search__clear {
+    display: inline-block;
+    margin-top: 10px;
+    color: #fff;
+    font-weight: 700;
+}
+
+.tesis-content {
+    display: grid;
+    gap: 24px;
+}
+
+.tesis-program,
+.admin-workspace,
+.tesis-admin-session,
+.admin-auth__card {
+    border: 1px solid #dbe8f5;
+    border-radius: 8px;
+    background: #fff;
+    box-shadow: 0 10px 28px rgba(0, 74, 152, 0.08);
+}
+
+.tesis-program__header,
+.tesis-admin-session {
+    padding: 22px 24px;
+    border-bottom: 1px solid #e6eef7;
+}
+
+.tesis-program__header h2,
+.tesis-admin-session h2 {
+    margin: 0;
+    color: #173d68;
+    font-weight: 800;
+}
+
+.tesis-category {
+    border-top: 1px solid #e6eef7;
+}
+
+.tesis-category__toggle {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    border: 0;
+    background: #f3f8fc;
+    color: #173d68;
+    padding: 16px 20px;
+    text-align: left;
+    font-weight: 800;
+}
+
+.tesis-category__icon {
+    transition: transform 0.2s ease;
+}
+
+.tesis-category__toggle[aria-expanded="false"] .tesis-category__icon {
+    transform: rotate(180deg);
+}
+
+.tesis-table-wrap {
+    overflow-x: auto;
+}
+
+.tesis-table-wrap.is-collapsed,
+.admin-workspace__content.is-collapsed {
+    display: none;
+}
+
+.tesis-table {
+    width: 100%;
+    margin: 0;
+    border-collapse: collapse;
+}
+
+.tesis-table th,
+.tesis-table td {
+    padding: 12px 14px;
+    border-bottom: 1px solid #e7ecf1;
+    vertical-align: top;
+}
+
+.tesis-table th {
+    background: #e7ecf1;
+    color: #004a98;
+    text-align: left;
+}
+
+.tesis-table a {
+    color: #004a98;
+    font-weight: 700;
+}
+
+.tesis-empty,
+.tesis-alert {
+    padding: 16px 18px;
+    border-radius: 8px;
+    background: #eef7ff;
+    color: #173d68;
+    font-weight: 700;
+}
+
+.tesis-alert--success {
+    background: #edf9f2;
+    color: #1f6b45;
+}
+
+.tesis-alert--error {
+    background: #fff2f2;
+    color: #9f2f2f;
+}
+
+.tesis-alert--info {
+    background: #eef7ff;
+    color: #255b8f;
+}
+
+.tesis-admin-session {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 18px;
+}
+
+.admin-workspace__content,
+.admin-auth__card {
+    padding: 24px;
+}
+
+.tesis-import {
+    margin-bottom: 22px;
+}
+
+.tesis-import p,
+.admin-card__helper {
+    margin: 8px 0 0;
+    color: #5a6f85;
+}
+
+.admin-toolbar {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.admin-toolbar button.is-active {
+    background: #00a2c7;
+}
+
+.admin-cards {
+    display: grid;
+    gap: 18px;
+}
+
+.admin-card {
+    display: none;
+    border: 1px solid #dbe8f5;
+    border-radius: 8px;
+    padding: 20px;
+}
+
+.admin-card.is-active {
+    display: block;
+}
+
+.admin-card h3 {
+    margin: 0 0 16px;
+    color: #173d68;
+    font-weight: 800;
+}
+
+.admin-form {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 16px;
+}
+
+.admin-field--full,
+.admin-form__actions {
+    grid-column: 1 / -1;
+}
+
+.admin-button--ghost {
+    background: #e9f1f8;
+    color: #173d68;
+}
+
+.admin-button--danger,
+.admin-table__button--delete {
+    background: #b33131;
+}
+
+.admin-table__actions {
+    min-width: 170px;
+}
+
+.admin-table__button {
+    margin: 2px;
+    padding: 8px 10px;
+    font-size: 0.88rem;
+}
+
+.admin-auth {
+    max-width: 760px;
+    margin: 40px auto 64px;
+    padding: 0 16px;
+}
+
+.admin-auth__card {
+    position: relative;
+    overflow: hidden;
+    padding: 34px 38px 36px;
+    border-color: #cbdff2;
+}
+
+.admin-auth__card::before {
+    content: "";
+    position: absolute;
+    inset: 0 0 auto;
+    height: 7px;
+    background: #004a98;
+}
+
+.admin-auth__logos {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 24px;
+}
+
+.admin-auth__logos img {
+    width: min(430px, 100%);
+    height: auto;
+    object-fit: contain;
+}
+
+.admin-auth__eyebrow {
+    margin: 0 0 8px;
+    color: #004a98;
+    font-size: 0.82rem;
+    font-weight: 800;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.admin-auth__card h1 {
+    margin: 0;
+    color: #173d68;
+    font-size: 2.8rem;
+    font-weight: 800;
+    line-height: 1.05;
+    text-align: center;
+}
+
+.admin-auth__lead {
+    max-width: 560px;
+    margin: 16px auto 0;
+    color: #24384d;
+    font-size: 1.08rem;
+    line-height: 1.55;
+    text-align: center;
+}
+
+.admin-auth__uaslp {
+    display: flex;
+    width: fit-content;
+    max-width: 100%;
+    align-items: center;
+    justify-content: center;
+    margin: 28px auto 0;
+    border-radius: 6px;
+    padding: 13px 22px;
+    background: #004a98;
+    color: #fff;
+    font-weight: 800;
+    text-decoration: none;
+    text-align: center;
+    box-shadow: 0 10px 20px rgba(0, 74, 152, 0.18);
+    transition: background-color 0.2s ease, transform 0.2s ease;
+}
+
+.admin-auth__uaslp:hover {
+    background: #003b7a;
+    color: #fff;
+    transform: translateY(-1px);
+}
+
+.admin-auth__back {
+    display: block;
+    margin-top: 16px;
+    color: #004a98;
+    font-weight: 800;
+    text-align: center;
+    text-decoration: none;
+}
+
+.admin-auth__back:hover {
+    color: #003b7a;
+    text-decoration: underline;
+}
+
+@media (max-width: 760px) {
+    .tesis-hero__content,
+    .admin-form {
+        grid-template-columns: 1fr;
+    }
+
+    .tesis-hero__content {
+        padding: 24px;
+    }
+
+    .tesis-hero h1 {
+        font-size: 2.3rem;
+    }
+
+    .tesis-search__box,
+    .tesis-import__box,
+    .tesis-admin-session {
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    .admin-auth {
+        margin-top: 24px;
+    }
+
+    .admin-auth__card {
+        padding: 28px 20px 30px;
+    }
+
+    .admin-auth__card h1 {
+        font-size: 2.15rem;
+    }
+
+    .tesis-table,
+    .tesis-table thead,
+    .tesis-table tbody,
+    .tesis-table th,
+    .tesis-table td,
+    .tesis-table tr {
+        display: block;
+    }
+
+    .tesis-table thead {
+        position: absolute;
+        left: -9999px;
+    }
+
+    .tesis-table tr {
+        border-bottom: 1px solid #dbe8f5;
+    }
+
+    .tesis-table td {
+        display: grid;
+        grid-template-columns: 42% 1fr;
+        gap: 10px;
+    }
+
+    .tesis-table td::before {
+        content: attr(data-label);
+        color: #004a98;
+        font-weight: 800;
+    }
+}

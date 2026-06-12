@@ -1,5 +1,9 @@
 <?php
 
+use App\Http\Controllers\Auth\AuthenticatedSessionController;
+use App\Http\Controllers\Auth\UaslpAuthController;
+use App\Http\Controllers\TesisController;
+use App\Models\User;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -573,9 +577,7 @@ Route::get('/becas', function () {
     return view('becas');
 });
 
-Route::get('/tesis', function () {
-    return view('tesis');
-});
+Route::get('/tesis', [TesisController::class, 'index'])->name('tesis');
 
 Route::get('/articulosCientificos', function () {
     return view('articulosCientificos');
@@ -599,4 +601,30 @@ Route::get('/intrEstadistica', function () {
 
 Route::get('/egresados', function () {
     return view('/egresados');
+});
+
+Route::middleware('guest')->group(function () {
+    Route::get('/administrador/login', [AuthenticatedSessionController::class, 'create'])->name('login');
+    Route::post('/administrador/login', [AuthenticatedSessionController::class, 'store'])->name('login.attempt');
+    Route::get('/uaslp/login', [UaslpAuthController::class, 'login'])->name('uaslp.login');
+    Route::get('/callback', [UaslpAuthController::class, 'callback'])->name('uaslp.callback');
+});
+
+Route::middleware(['auth', 'active'])->group(function () {
+    Route::redirect('/administrador', '/administrador/tesis')->name('administrador');
+    Route::get('/administrador/tesis', [TesisController::class, 'admin'])->name('administrador.tesis.index');
+    Route::post('/administrador/logout', [AuthenticatedSessionController::class, 'destroy'])->name('logout');
+
+    Route::middleware('role:' . User::ROLE_ADMIN . ',' . User::ROLE_EDITOR . ',' . User::ROLE_CAPTURISTA)->group(function () {
+        Route::post('/administrador/tesis', [TesisController::class, 'store'])->name('administrador.tesis.store');
+    });
+
+    Route::middleware('role:' . User::ROLE_ADMIN . ',' . User::ROLE_EDITOR)->group(function () {
+        Route::post('/administrador/import', [TesisController::class, 'import'])->name('administrador.import');
+        Route::put('/administrador/tesis/{tesis}', [TesisController::class, 'update'])->name('administrador.tesis.update');
+    });
+
+    Route::middleware('role:' . User::ROLE_ADMIN)->group(function () {
+        Route::delete('/administrador/tesis/{tesis}', [TesisController::class, 'destroy'])->name('administrador.tesis.destroy');
+    });
 });
