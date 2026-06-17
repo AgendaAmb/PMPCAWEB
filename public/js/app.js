@@ -5390,6 +5390,58 @@ document.addEventListener('DOMContentLoaded', function () {
   var workspace = document.getElementById('admin-gestion');
   var workspaceContent = document.getElementById('admin-workspace-panels');
   var workspaceToggle = document.querySelector('[data-admin-workspace-toggle]');
+  var programas = adminConfig.programas || [];
+  var areas = adminConfig.areas || [];
+  function normalizeText(value) {
+    return (value || '').toString().toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+  }
+  function setupAdminAutocomplete(input, items) {
+    var field = input.closest('.admin-field');
+    var list = document.createElement('div');
+    list.className = 'admin-autocomplete';
+    list.setAttribute('role', 'listbox');
+    list.hidden = true;
+    field.appendChild(list);
+    function hideList() {
+      list.hidden = true;
+    }
+    function renderList() {
+      var query = normalizeText(input.value);
+      var matches = items.filter(function (item) {
+        return normalizeText(item).indexOf(query) !== -1;
+      });
+      list.innerHTML = '';
+      if (!matches.length) {
+        hideList();
+        return;
+      }
+      matches.forEach(function (item) {
+        var option = document.createElement('button');
+        option.type = 'button';
+        option.className = 'admin-autocomplete__option';
+        option.textContent = item;
+        option.setAttribute('role', 'option');
+        option.addEventListener('mousedown', function (event) {
+          event.preventDefault();
+          input.value = item;
+          hideList();
+        });
+        list.appendChild(option);
+      });
+      list.hidden = false;
+    }
+    input.addEventListener('focus', renderList);
+    input.addEventListener('input', renderList);
+    input.addEventListener('blur', function () {
+      window.setTimeout(hideList, 120);
+    });
+  }
+  document.querySelectorAll('[data-admin-programa-input]').forEach(function (input) {
+    setupAdminAutocomplete(input, programas);
+  });
+  document.querySelectorAll('[data-admin-area-input]').forEach(function (input) {
+    setupAdminAutocomplete(input, areas);
+  });
   function openPanel(panelName) {
     panels.forEach(function (panel) {
       panel.classList.toggle('is-active', panel.dataset.adminPanel === panelName);

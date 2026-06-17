@@ -11921,6 +11921,10 @@ textarea.form-control-lg {
   font-weight: 800;
 }
 
+.admin-field {
+  position: relative;
+}
+
 .tesis-search__box,
 .tesis-import__box {
   display: flex;
@@ -11951,6 +11955,37 @@ textarea.form-control-lg {
   color: #fff;
   font-weight: 800;
   cursor: pointer;
+}
+
+.admin-autocomplete {
+  position: absolute;
+  z-index: 20;
+  right: 0;
+  left: 0;
+  top: calc(100% + 4px);
+  overflow: hidden;
+  border: 1px solid #cbd8e5;
+  border-radius: 6px;
+  background: #fff;
+  box-shadow: 0 12px 28px rgba(23, 61, 104, 0.16);
+}
+
+.admin-autocomplete__option {
+  display: block;
+  width: 100%;
+  border: 0;
+  padding: 9px 12px;
+  background: #fff;
+  color: #173d68;
+  font: inherit;
+  text-align: left;
+  cursor: pointer;
+}
+
+.admin-autocomplete__option:hover,
+.admin-autocomplete__option:focus {
+  background: #eaf2ff;
+  color: #004a98;
 }
 
 .tesis-search__clear {

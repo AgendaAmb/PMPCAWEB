@@ -19,25 +19,15 @@
     <div class="admin-field">
         <label for="{{ $mode }}_programa">Programa</label>
         <input id="{{ $mode }}_programa" type="text" name="{{ $mode }}_programa"
-            value="{{ old($mode . '_programa') }}" list="{{ $mode }}_programas"
-            placeholder="Doctorado o Maestría">
-        <datalist id="{{ $mode }}_programas">
-            @foreach ($programas as $programa)
-                <option value="{{ $programa }}"></option>
-            @endforeach
-        </datalist>
+            value="{{ old($mode . '_programa') }}" placeholder="Doctorado o Maestría"
+            autocomplete="off" data-admin-programa-input>
     </div>
 
     <div class="admin-field">
         <label for="{{ $mode }}_area">Área</label>
         <input id="{{ $mode }}_area" type="text" name="{{ $mode }}_area"
-            value="{{ old($mode . '_area') }}" list="{{ $mode }}_areas"
-            placeholder="Área académica">
-        <datalist id="{{ $mode }}_areas">
-            @foreach ($areas as $area)
-                <option value="{{ $area }}"></option>
-            @endforeach
-        </datalist>
+            value="{{ old($mode . '_area') }}" placeholder="Área académica"
+            autocomplete="off" data-admin-area-input>
     </div>
 
     <div class="admin-field">

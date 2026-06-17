@@ -603,14 +603,14 @@ Route::get('/egresados', function () {
     return view('/egresados');
 });
 
-Route::middleware('guest')->group(function () {
+Route::middleware(['guest', 'prevent.back.history'])->group(function () {
     Route::get('/administrador/login', [AuthenticatedSessionController::class, 'create'])->name('login');
     Route::post('/administrador/login', [AuthenticatedSessionController::class, 'store'])->name('login.attempt');
     Route::get('/uaslp/login', [UaslpAuthController::class, 'login'])->name('uaslp.login');
     Route::get('/callback', [UaslpAuthController::class, 'callback'])->name('uaslp.callback');
 });
 
-Route::middleware(['auth', 'active'])->group(function () {
+Route::middleware(['auth', 'active', 'prevent.back.history'])->group(function () {
     Route::redirect('/administrador', '/administrador/tesis')->name('administrador');
     Route::get('/administrador/tesis', [TesisController::class, 'admin'])->name('administrador.tesis.index');
     Route::post('/administrador/logout', [AuthenticatedSessionController::class, 'destroy'])->name('logout');
