@@ -4,6 +4,7 @@ namespace App\Models;
 
 use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Database\Eloquent\Model;
+use Illuminate\Support\Str;
 
 class Tesis extends Model
 {
@@ -61,15 +62,117 @@ class Tesis extends Model
 
     private function applySearchToColumns(Builder $query, string $term): void
     {
-        $like = '%' . $term . '%';
+        $like = '%' . $this->normalizeSearchKey($term) . '%';
 
-        $query->where('tema', 'like', $like)
-            ->orWhere('alumno', 'like', $like)
-            ->orWhere('director', 'like', $like)
-            ->orWhere('area', 'like', $like)
-            ->orWhere('programa', 'like', $like)
-            ->orWhere('cve_uaslp', 'like', $like)
-            ->orWhere('tesisDirector', 'like', $like)
-            ->orWhere('anio', 'like', $like);
+        foreach ($this->searchableColumns() as $index => $column) {
+            $expression = $this->normalizedColumnExpression($query, $column);
+
+            if ($index === 0) {
+                $query->whereRaw($expression . ' like ?', [$like]);
+
+                continue;
+            }
+
+            $query->orWhereRaw($expression . ' like ?', [$like]);
+        }
+    }
+
+    private function normalizeSearchKey(string $search): string
+    {
+        $search = Str::ascii(mb_strtolower($search, 'UTF-8'));
+        $search = preg_replace('/[^a-z0-9]+/u', ' ', $search) ?? $search;
+
+        return trim(preg_replace('/\s+/u', ' ', $search) ?? $search);
+    }
+
+    /**
+     * @return array<int, string>
+     */
+    private function searchableColumns(): array
+    {
+        return [
+            'tema',
+            'alumno',
+            'director',
+            'area',
+            'programa',
+            'cve_uaslp',
+            'tesisDirector',
+            'anio',
+        ];
+    }
+
+    private function normalizedColumnExpression(Builder $query, string $column): string
+    {
+        $grammar = $query->getQuery()->getGrammar();
+        $expression = 'coalesce(' . $grammar->wrap($column) . ", '')";
+
+        foreach ($this->accentReplacements() as $accented => $plain) {
+            $expression = "replace($expression, '$accented', '$plain')";
+        }
+
+        return 'lower(' . $expression . ')';
+    }
+
+    /**
+     * SQLite's lower()/LIKE do not fold accented characters, so we normalize the
+     * most common Spanish/Latin accents in SQL before comparing.
+     *
+     * @return array<string, string>
+     */
+    private function accentReplacements(): array
+    {
+        return [
+            'Á' => 'a',
+            'À' => 'a',
+            'Â' => 'a',
+            'Ä' => 'a',
+            'Ã' => 'a',
+            'Å' => 'a',
+            'á' => 'a',
+            'à' => 'a',
+            'â' => 'a',
+            'ä' => 'a',
+            'ã' => 'a',
+            'å' => 'a',
+            'É' => 'e',
+            'È' => 'e',
+            'Ê' => 'e',
+            'Ë' => 'e',
+            'é' => 'e',
+            'è' => 'e',
+            'ê' => 'e',
+            'ë' => 'e',
+            'Í' => 'i',
+            'Ì' => 'i',
+            'Î' => 'i',
+            'Ï' => 'i',
+            'í' => 'i',
+            'ì' => 'i',
+            'î' => 'i',
+            'ï' => 'i',
+            'Ó' => 'o',
+            'Ò' => 'o',
+            'Ô' => 'o',
+            'Ö' => 'o',
+            'Õ' => 'o',
+            'ó' => 'o',
+            'ò' => 'o',
+            'ô' => 'o',
+            'ö' => 'o',
+            'õ' => 'o',
+            'Ú' => 'u',
+            'Ù' => 'u',
+            'Û' => 'u',
+            'Ü' => 'u',
+            'ú' => 'u',
+            'ù' => 'u',
+            'û' => 'u',
+            'ü' => 'u',
+            'Ñ' => 'n',
+            'ñ' => 'n',
+            'Ç' => 'c',
+            'ç' => 'c',
+        ];
     }
 }
