@@ -21,11 +21,13 @@ class TesisImport
     public $unchanged = 0;
     public $skipped = 0;
     public $hidden = 0;
+    public $revertActions = [];
 
     public function import(UploadedFile $file): void
     {
         $reader = IOFactory::createReaderForFile($file->getRealPath());
-        $reader->setReadDataOnly(true);
+        $reader->setReadDataOnly(false);
+        $reader->setReadEmptyCells(false);
         $reader->setReadFilter(new TesisImportReadFilter(self::MAX_IMPORT_COLUMNS));
 
         $spreadsheet = $reader->load($file->getRealPath());
@@ -39,7 +41,7 @@ class TesisImport
         $startRow = $headers !== null ? $headers['row'] + 1 : self::LEGACY_DATA_START_ROW;
 
         for ($excelRow = $startRow; $excelRow <= $highestDataRow; $excelRow++) {
-            if (! $sheet->getRowDimension($excelRow)->getVisible()) {
+            if (! $this->isVisibleRow($sheet, $excelRow)) {
                 $this->hidden++;
                 continue;
             }
@@ -63,6 +65,15 @@ class TesisImport
         }
     }
 
+    private function isVisibleRow($sheet, int $rowNumber): bool
+    {
+        $dimension = $sheet->getRowDimension($rowNumber);
+
+        return $dimension->getVisible()
+            && ! $dimension->getZeroHeight()
+            && $dimension->getRowHeight() !== 0.0;
+    }
+
     private function mapLegacyRow(array $row): ?array
     {
         $alumno = $this->cleanText($row[3] ?? null);
@@ -75,7 +86,7 @@ class TesisImport
         return $this->buildData([
             'cve_uaslp' => $cveUaslp,
             'programa' => 'Doctorado en Ciencias Ambientales',
-            'area' => $area,
+            'area' => $this->normalizeArea($area),
             'anio' => $anio,
             'alumno' => $alumno,
             'tema' => $tema,
@@ -88,8 +99,11 @@ class TesisImport
     {
         return $this->buildData([
             'cve_uaslp' => $this->cleanCode($row[$columns['cve_uaslp']] ?? null),
-            'programa' => $this->cleanText($row[$columns['programa']] ?? null) ?: 'Doctorado en Ciencias Ambientales',
-            'area' => $this->cleanText($row[$columns['area']] ?? null),
+            'programa' => $this->normalizeProgram(
+                $this->cleanText($row[$columns['programa']] ?? null),
+                $this->cleanText($row[$columns['modalidad']] ?? null)
+            ),
+            'area' => $this->normalizeArea($this->cleanText($row[$columns['area']] ?? null)),
             'anio' => $this->extractYear($row[$columns['anio']] ?? null),
             'alumno' => $this->cleanText($row[$columns['alumno']] ?? null),
             'tema' => $this->cleanText($row[$columns['tema']] ?? null),
@@ -162,6 +176,7 @@ class TesisImport
             'programa' => 'programa',
             'programa academico' => 'programa',
             'nivel' => 'programa',
+            'modalidad' => 'modalidad',
             'nombre completo' => 'alumno',
             'alumno' => 'alumno',
             'estudiante' => 'alumno',
@@ -185,9 +200,70 @@ class TesisImport
             'url' => 'url',
             'link' => 'url',
             'enlace' => 'url',
+            'enlace de tesis' => 'url',
         ];
 
         return $map[$header] ?? null;
+    }
+
+    private function normalizeProgram(?string $programa, ?string $modalidad): string
+    {
+        $programaKey = $this->normalizeHeader($programa);
+        $modalidadKey = $this->normalizeHeader($modalidad);
+        $source = trim($modalidadKey . ' ' . $programaKey);
+
+        if (strpos($source, 'maestria') !== false) {
+            return 'Maestría en Ciencias Ambientales';
+        }
+
+        if (strpos($source, 'doctorado') !== false) {
+            return 'Doctorado en Ciencias Ambientales';
+        }
+
+        return $programa ?: 'Doctorado en Ciencias Ambientales';
+    }
+
+    private function normalizeArea(?string $area): ?string
+    {
+        $areaKey = $this->normalizeHeader($area);
+
+        if ($areaKey === '') {
+            return null;
+        }
+
+        $officialAreas = [
+            'evaluacion ambiental' => 'Evaluación Ambiental',
+            'gestion ambiental' => 'Gestión Ambiental',
+            'prevencion y control' => 'Prevención y Control',
+            'recursos naturales renovables' => 'Recursos Naturales Renovables',
+            'salud ambiental integrada' => 'Salud Ambiental Integrada',
+        ];
+
+        if (array_key_exists($areaKey, $officialAreas)) {
+            return $officialAreas[$areaKey];
+        }
+
+        if (strpos($areaKey, 'evaluacion') !== false && strpos($areaKey, 'ambiental') !== false) {
+            return 'Evaluación Ambiental';
+        }
+
+        if (strpos($areaKey, 'gestion') !== false && strpos($areaKey, 'ambiental') !== false) {
+            return 'Gestión Ambiental';
+        }
+
+        if (strpos($areaKey, 'prevencion') !== false && strpos($areaKey, 'control') !== false) {
+            return 'Prevención y Control';
+        }
+
+        if (strpos($areaKey, 'recursos') !== false && strpos($areaKey, 'renovables') !== false) {
+            return 'Recursos Naturales Renovables';
+        }
+
+        if (strpos($areaKey, 'salud') !== false && strpos($areaKey, 'integrada') !== false) {
+            return 'Salud Ambiental Integrada';
+        }
+
+        return $area;
     }
 
     private function normalizeHeader($value): string
@@ -229,11 +305,17 @@ class TesisImport
     {
         $tesis = $this->findExistingTesis($data) ?? new Tesis();
         $alreadyExists = $tesis->exists;
+        $original = $alreadyExists ? $tesis->only($this->revertableColumns()) : [];
 
         $tesis->fill($data);
 
         if (! $alreadyExists) {
             $tesis->save();
+            $this->revertActions[] = [
+                'action' => 'delete',
+                'id' => $tesis->id,
+                'alumno' => $tesis->alumno,
+            ];
             $this->created++;
             return;
         }
@@ -244,7 +326,28 @@ class TesisImport
         }
 
         $tesis->save();
+        $this->revertActions[] = [
+            'action' => 'restore',
+            'id' => $tesis->id,
+            'data' => $original,
+            'alumno' => $tesis->alumno,
+        ];
         $this->updated++;
+    }
+
+    private function revertableColumns(): array
+    {
+        return [
+            'cve_uaslp',
+            'programa',
+            'area',
+            'anio',
+            'alumno',
+            'tema',
+            'director',
+            'tesisDirector',
+            'url',
+        ];
     }
 
     private function findExistingTesis(array $data): ?Tesis

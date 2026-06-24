@@ -8,7 +8,7 @@
 
     <title> {{ config('app.name', 'error config') }}</title>
     <!-- Bootstrap -->
-    <link href="{{ asset('css/app.css') }}" rel="stylesheet">
+    <link href="{{ asset('css/app.css') }}?v={{ filemtime(public_path('css/app.css')) }}" rel="stylesheet">
     {{-- +app --}}
     <script src="{{ asset('js/app.js') }}" defer></script>
     <!-- Bootstrap -->

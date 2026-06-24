@@ -621,10 +621,12 @@ Route::middleware(['auth', 'active', 'prevent.back.history'])->group(function ()
 
     Route::middleware('role:' . User::ROLE_ADMIN . ',' . User::ROLE_EDITOR)->group(function () {
         Route::post('/administrador/import', [TesisController::class, 'import'])->name('administrador.import');
+        Route::post('/administrador/import/revert', [TesisController::class, 'revertImport'])->name('administrador.import.revert');
         Route::put('/administrador/tesis/{tesis}', [TesisController::class, 'update'])->name('administrador.tesis.update');
     });
 
     Route::middleware('role:' . User::ROLE_ADMIN)->group(function () {
+        Route::post('/administrador/tesis/revert-delete', [TesisController::class, 'revertDelete'])->name('administrador.tesis.revert-delete');
         Route::delete('/administrador/tesis/{tesis}', [TesisController::class, 'destroy'])->name('administrador.tesis.destroy');
     });
 });

@@ -33,6 +33,12 @@ class TesisController extends Controller
             $import->import($validated['archivo_tesis']);
         });
 
+        if (! empty($import->revertActions)) {
+            $request->session()->put('tesis_last_import_revert', $import->revertActions);
+        } else {
+            $request->session()->forget('tesis_last_import_revert');
+        }
+
         return redirect()
             ->route('administrador.tesis.index')
             ->with('tesis_import_result', [
@@ -41,6 +47,54 @@ class TesisController extends Controller
                 'unchanged' => $import->unchanged,
                 'skipped' => $import->skipped,
                 'hidden' => $import->hidden,
+            ]);
+    }
+
+    public function revertImport(Request $request)
+    {
+        $actions = $request->session()->get('tesis_last_import_revert', []);
+
+        if (empty($actions)) {
+            return redirect()
+                ->route('administrador.tesis.index')
+                ->with('admin_status', [
+                    'type' => 'info',
+                    'message' => 'No hay una importacion reciente para revertir.',
+                ]);
+        }
+
+        $deleted = 0;
+        $restored = 0;
+
+        DB::transaction(function () use ($actions, &$deleted, &$restored): void {
+            foreach (array_reverse($actions) as $action) {
+                $tesis = Tesis::find($action['id'] ?? null);
+
+                if (! $tesis) {
+                    continue;
+                }
+
+                if (($action['action'] ?? null) === 'delete') {
+                    $tesis->delete();
+                    $deleted++;
+                    continue;
+                }
+
+                if (($action['action'] ?? null) === 'restore' && ! empty($action['data'])) {
+                    $tesis->fill($action['data']);
+                    $tesis->save();
+                    $restored++;
+                }
+            }
+        });
+
+        $request->session()->forget('tesis_last_import_revert');
+
+        return redirect()
+            ->route('administrador.tesis.index')
+            ->with('admin_status', [
+                'type' => 'success',
+                'message' => "Importacion revertida. Eliminadas: {$deleted}, restauradas: {$restored}.",
             ]);
     }
 
@@ -109,18 +163,58 @@ class TesisController extends Controller
             ]);
     }
 
-    public function destroy(Tesis $tesis)
+    public function destroy(Request $request, Tesis $tesis)
     {
         $alumno = $tesis->alumno;
         $tema = $tesis->tema;
+        $deletedTesis = $tesis->only($this->deletedTesisColumns());
 
         $tesis->delete();
+        $request->session()->put('tesis_last_delete_revert', $deletedTesis);
 
         return redirect()
             ->route('administrador.tesis.index')
             ->with('admin_status', [
                 'type' => 'success',
                 'message' => 'Se elimino la tesis de ' . $alumno . ': ' . $tema,
+                'revert_delete' => true,
+            ]);
+    }
+
+    public function revertDelete(Request $request)
+    {
+        $deletedTesis = $request->session()->get('tesis_last_delete_revert');
+
+        if (empty($deletedTesis)) {
+            return redirect()
+                ->route('administrador.tesis.index')
+                ->with('admin_status', [
+                    'type' => 'info',
+                    'message' => 'No hay una tesis eliminada recientemente para restaurar.',
+                ]);
+        }
+
+        if (! empty($deletedTesis['id']) && Tesis::find($deletedTesis['id'])) {
+            return redirect()
+                ->route('administrador.tesis.index')
+                ->with('admin_status', [
+                    'type' => 'info',
+                    'message' => 'No se pudo restaurar porque ya existe una tesis con ese identificador.',
+                ]);
+        }
+
+        $tesis = new Tesis();
+        $tesis->forceFill($deletedTesis);
+        $tesis->timestamps = false;
+        $tesis->save();
+
+        $request->session()->forget('tesis_last_delete_revert');
+
+        return redirect()
+            ->route('administrador.tesis.index')
+            ->with('admin_status', [
+                'type' => 'success',
+                'message' => 'Se restauro la tesis de ' . $tesis->alumno . ': ' . $tesis->tema,
             ]);
     }
 
@@ -207,6 +301,24 @@ class TesisController extends Controller
             'director' => $director,
             'tesisDirector' => $director,
             'url' => $url !== '' ? $url : null,
+        ];
+    }
+
+    private function deletedTesisColumns(): array
+    {
+        return [
+            'id',
+            'cve_uaslp',
+            'programa',
+            'area',
+            'anio',
+            'alumno',
+            'tema',
+            'director',
+            'tesisDirector',
+            'url',
+            'created_at',
+            'updated_at',
         ];
     }
 }

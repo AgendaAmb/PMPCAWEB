@@ -541,7 +541,7 @@ table.width202, .width202 thead, .width202 tbody, .width202 th, .width202 td, .w
 .tesis-hero {
     margin-bottom: 28px;
     border-radius: 8px;
-    background: #004a98;
+    background: linear-gradient(135deg, #075492 0%, #0b609f 58%, #0a6b9f 100%);
     color: #fff;
     overflow: hidden;
 }
@@ -568,6 +568,8 @@ table.width202, .width202 thead, .width202 tbody, .width202 th, .width202 td, .w
     margin: 0;
     font-size: 3rem;
     font-weight: 800;
+    color: rgb(98, 179, 235) !important;
+    opacity: 1;
 }
 
 .tesis-hero p {
@@ -578,9 +580,9 @@ table.width202, .width202 thead, .width202 tbody, .width202 th, .width202 td, .w
 
 .tesis-search {
     padding: 18px;
-    border: 1px solid rgba(255, 255, 255, 0.28);
+    border: 1px solid rgba(255, 255, 255, 0.26);
     border-radius: 8px;
-    background: rgba(255, 255, 255, 0.12);
+    background: rgba(255, 255, 255, 0.10);
 }
 
 .tesis-search label,
@@ -731,19 +733,61 @@ table.width202, .width202 thead, .width202 tbody, .width202 th, .width202 td, .w
     width: 100%;
     margin: 0;
     border-collapse: collapse;
+    table-layout: fixed;
+}
+
+.tesis-table--admin {
+    min-width: 1100px;
+}
+
+.tesis-table:not(.tesis-table--admin) {
+    min-width: 980px;
 }
 
 .tesis-table th,
 .tesis-table td {
-    padding: 12px 14px;
+    padding: 14px 16px;
     border-bottom: 1px solid #e7ecf1;
+    line-height: 1.45;
     vertical-align: top;
+    overflow-wrap: anywhere;
+    word-break: normal;
 }
 
 .tesis-table th {
     background: #e7ecf1;
     color: #004a98;
     text-align: left;
+}
+
+.tesis-table th:nth-child(1),
+.tesis-table td:nth-child(1) {
+    width: 90px;
+}
+
+.tesis-table:not(.tesis-table--admin) th:nth-child(2),
+.tesis-table:not(.tesis-table--admin) td:nth-child(2) {
+    width: 220px;
+}
+
+.tesis-table:not(.tesis-table--admin) th:nth-child(4),
+.tesis-table:not(.tesis-table--admin) td:nth-child(4) {
+    width: 260px;
+}
+
+.tesis-table--admin th:nth-child(2),
+.tesis-table--admin td:nth-child(2) {
+    width: 190px;
+}
+
+.tesis-table--admin th:nth-child(4),
+.tesis-table--admin td:nth-child(4) {
+    width: 245px;
+}
+
+.tesis-table--admin th:nth-child(5),
+.tesis-table--admin td:nth-child(5) {
+    width: 190px;
 }
 
 .tesis-table a {
@@ -753,11 +797,19 @@ table.width202, .width202 thead, .width202 tbody, .width202 th, .width202 td, .w
 
 .tesis-empty,
 .tesis-alert {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 16px;
     padding: 16px 18px;
     border-radius: 8px;
     background: #eef7ff;
     color: #173d68;
     font-weight: 700;
+}
+
+.tesis-alert form {
+    margin: 0;
 }
 
 .tesis-alert--success {
@@ -852,13 +904,18 @@ table.width202, .width202 thead, .width202 tbody, .width202 th, .width202 td, .w
 }
 
 .admin-table__actions {
-    min-width: 170px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    gap: 8px;
 }
 
 .admin-table__button {
-    margin: 2px;
-    padding: 8px 10px;
+    min-width: 80px;
+    margin: 0;
+    padding: 9px 12px;
     font-size: 0.88rem;
+    text-align: center;
 }
 
 .admin-auth {
@@ -1013,13 +1070,25 @@ table.width202, .width202 thead, .width202 tbody, .width202 th, .width202 td, .w
 
     .tesis-table td {
         display: grid;
-        grid-template-columns: 42% 1fr;
-        gap: 10px;
+        grid-template-columns: minmax(120px, 38%) 1fr;
+        gap: 12px;
+        width: 100% !important;
     }
 
     .tesis-table td::before {
         content: attr(data-label);
         color: #004a98;
         font-weight: 800;
+    }
+
+    .tesis-table,
+    .tesis-table--admin,
+    .tesis-table:not(.tesis-table--admin) {
+        min-width: 0;
+        table-layout: auto;
+    }
+
+    .admin-table__actions {
+        align-items: center;
     }
 }

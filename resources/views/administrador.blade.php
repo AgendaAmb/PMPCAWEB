@@ -78,16 +78,37 @@
 
             @if (session('tesis_import_result'))
                 <div class="tesis-alert tesis-alert--success">
-                    Archivo importado. Nuevas: {{ session('tesis_import_result.created') }},
-                    actualizadas: {{ session('tesis_import_result.updated') }},
-                    sin cambios: {{ session('tesis_import_result.unchanged') }},
-                    omitidas: {{ session('tesis_import_result.skipped') }}.
+                    <span>
+                        Archivo importado. Nuevas: {{ session('tesis_import_result.created') }},
+                        actualizadas: {{ session('tesis_import_result.updated') }},
+                        sin cambios: {{ session('tesis_import_result.unchanged') }},
+                        omitidas: {{ session('tesis_import_result.skipped') }},
+                        ocultas: {{ session('tesis_import_result.hidden') }}.
+                    </span>
+
+                    @if (session()->has('tesis_last_import_revert'))
+                        <form action="{{ route('administrador.import.revert') }}" method="POST">
+                            @csrf
+                            <button class="admin-button admin-button--ghost" type="submit">
+                                Revertir ultima importacion
+                            </button>
+                        </form>
+                    @endif
                 </div>
             @endif
 
             @if (session('admin_status'))
                 <div class="tesis-alert {{ session('admin_status.type') === 'info' ? 'tesis-alert--info' : 'tesis-alert--success' }}">
-                    {{ session('admin_status.message') }}
+                    <span>{{ session('admin_status.message') }}</span>
+
+                    @if (session('admin_status.revert_delete') && session()->has('tesis_last_delete_revert'))
+                        <form action="{{ route('administrador.tesis.revert-delete') }}" method="POST">
+                            @csrf
+                            <button class="admin-button admin-button--ghost" type="submit">
+                                Revertir eliminacion
+                            </button>
+                        </form>
+                    @endif
                 </div>
             @endif
 
@@ -198,13 +219,13 @@
                         @endphp
 
                         <section class="tesis-category">
-                            <button class="tesis-category__toggle" type="button" aria-expanded="true"
+                            <button class="tesis-category__toggle" type="button" aria-expanded="false"
                                 aria-controls="{{ $areaId }}" data-tesis-toggle>
                                 <span>{{ $area }}</span>
                                 <span class="tesis-category__icon">&#8963;</span>
                             </button>
 
-                            <div class="tesis-table-wrap" id="{{ $areaId }}">
+                            <div class="tesis-table-wrap is-collapsed" id="{{ $areaId }}">
                                 <table class="tesis-table tesis-table--admin">
                                     <thead>
                                         <tr>
@@ -222,7 +243,16 @@
                                             <tr>
                                                 <td data-label="Año">{{ $item->anio }}</td>
                                                 <td data-label="Nombre del alumno">{{ $item->alumno }}</td>
-                                                <td data-label="Título de tesis">{{ $item->tema }}</td>
+                                                <td data-label="Título de tesis">
+                                                    @if ($item->url)
+                                                        <a href="{{ \Illuminate\Support\Str::startsWith($item->url, ['http://', 'https://']) ? $item->url : url($item->url) }}"
+                                                            target="_blank" rel="noopener noreferrer">
+                                                            {{ $item->tema }}
+                                                        </a>
+                                                    @else
+                                                        {{ $item->tema }}
+                                                    @endif
+                                                </td>
                                                 <td data-label="Director de tesis">{{ $item->director }}</td>
                                                 @if ($canEditTesis || $canDeleteTesis)
                                                     <td data-label="Acciones" class="admin-table__actions">
