@@ -53,6 +53,19 @@ class Tesis extends Model
         });
     }
 
+    public function scopeOrdenarPorRelevancia(Builder $query, ?string $search): Builder
+    {
+        $search = $this->normalizeSearchKey($this->normalizeSearch($search));
+
+        if ($search === '') {
+            return $query;
+        }
+
+        [$scoreSql, $bindings] = $this->searchRelevanceSql($query, $search);
+
+        return $query->orderByRaw($scoreSql . ' desc', $bindings);
+    }
+
     private function normalizeSearch(?string $search): string
     {
         $search = trim((string) $search);
@@ -75,6 +88,34 @@ class Tesis extends Model
 
             $query->orWhereRaw($expression . ' like ?', [$like]);
         }
+    }
+
+    /**
+     * @return array{0: string, 1: array<int, string>}
+     */
+    private function searchRelevanceSql(Builder $query, string $search): array
+    {
+        $weightedColumns = [
+            'alumno' => 500,
+            'director' => 420,
+            'tesisDirector' => 420,
+            'tema' => 180,
+            'area' => 90,
+            'programa' => 70,
+            'cve_uaslp' => 60,
+            'anio' => 40,
+        ];
+
+        $parts = [];
+        $bindings = [];
+
+        foreach ($weightedColumns as $column => $weight) {
+            $expression = $this->normalizedColumnExpression($query, $column);
+            $parts[] = "case when $expression like ? then $weight else 0 end";
+            $bindings[] = '%' . $search . '%';
+        }
+
+        return ['(' . implode(' + ', $parts) . ')', $bindings];
     }
 
     private function normalizeSearchKey(string $search): string

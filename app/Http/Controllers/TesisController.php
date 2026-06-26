@@ -223,6 +223,7 @@ class TesisController extends Controller
         $search = $request->input('search');
 
         $tesis = Tesis::buscar($search)
+            ->ordenarPorRelevancia($search)
             ->orderBy('programa')
             ->orderBy('area')
             ->orderByDesc('anio')

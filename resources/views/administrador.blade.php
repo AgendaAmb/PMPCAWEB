@@ -8,6 +8,7 @@
         $canImportTesis = $currentUser && $currentUser->canImportTesis();
         $canDeleteTesis = $currentUser && $currentUser->canDeleteTesis();
         $canUseTesisTools = $canCaptureTesis || $canEditTesis || $canDeleteTesis;
+        $hasTesisSearch = ! empty($search);
         $minTesisYear = \App\Models\Tesis::MIN_YEAR;
         $initialEdit = null;
 
@@ -219,13 +220,13 @@
                         @endphp
 
                         <section class="tesis-category">
-                            <button class="tesis-category__toggle" type="button" aria-expanded="false"
+                            <button class="tesis-category__toggle" type="button" aria-expanded="{{ $hasTesisSearch ? 'true' : 'false' }}"
                                 aria-controls="{{ $areaId }}" data-tesis-toggle>
                                 <span>{{ $area }}</span>
                                 <span class="tesis-category__icon">&#8963;</span>
                             </button>
 
-                            <div class="tesis-table-wrap is-collapsed" id="{{ $areaId }}">
+                            <div class="tesis-table-wrap {{ $hasTesisSearch ? '' : 'is-collapsed' }}" id="{{ $areaId }}">
                                 <table class="tesis-table tesis-table--admin">
                                     <thead>
                                         <tr>

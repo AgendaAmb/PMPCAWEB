@@ -1,6 +1,10 @@
 @extends('base')
 
 @section('maincontent')
+    @php
+        $hasTesisSearch = ! empty($search);
+    @endphp
+
     <main class="tesis-page">
         <section class="tesis-hero">
             <div class="tesis-hero__content">
@@ -46,13 +50,13 @@
                         @endphp
 
                         <section class="tesis-category">
-                            <button class="tesis-category__toggle" type="button" aria-expanded="false"
+                            <button class="tesis-category__toggle" type="button" aria-expanded="{{ $hasTesisSearch ? 'true' : 'false' }}"
                                 aria-controls="{{ $areaId }}" data-tesis-toggle>
                                 <span>{{ $area }}</span>
                                 <span class="tesis-category__icon">&#8963;</span>
                             </button>
 
-                            <div class="tesis-table-wrap is-collapsed" id="{{ $areaId }}">
+                            <div class="tesis-table-wrap {{ $hasTesisSearch ? '' : 'is-collapsed' }}" id="{{ $areaId }}">
                                 <table class="tesis-table">
                                     <thead>
                                         <tr>
