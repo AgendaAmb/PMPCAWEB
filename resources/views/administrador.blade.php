@@ -11,6 +11,12 @@
         $hasTesisSearch = ! empty($search);
         $minTesisYear = \App\Models\Tesis::MIN_YEAR;
         $initialEdit = null;
+        $importPreview = session('tesis_import_preview');
+        $importStatusLabels = [
+            'created' => 'Nueva',
+            'updated' => 'Actualiza',
+            'unchanged' => 'Sin cambios',
+        ];
 
         if (is_numeric(old('edit_id'))) {
             $initialEdit = [
@@ -115,6 +121,89 @@
 
             @if ($errors->any())
                 <div class="tesis-alert tesis-alert--error">{{ $errors->first() }}</div>
+            @endif
+
+            @if ($importPreview)
+                <section class="tesis-import-preview">
+                    <div class="tesis-import-preview__header">
+                        <div>
+                            <p>Previsualización de importación</p>
+                            <h2>Revisa antes de guardar</h2>
+                            <span>
+                                Nuevas: {{ $importPreview['summary']['created'] ?? 0 }} ·
+                                actualizaciones: {{ $importPreview['summary']['updated'] ?? 0 }} ·
+                                sin cambios: {{ $importPreview['summary']['unchanged'] ?? 0 }} ·
+                                omitidas: {{ $importPreview['skipped'] ?? 0 }} ·
+                                ocultas: {{ $importPreview['hidden'] ?? 0 }}
+                            </span>
+                        </div>
+
+                        <div class="tesis-import-preview__actions">
+                            <form action="{{ route('administrador.import.cancel') }}" method="POST">
+                                @csrf
+                                <button class="admin-button admin-button--ghost" type="submit">Cancelar</button>
+                            </form>
+                            <form action="{{ route('administrador.import.confirm') }}" method="POST">
+                                @csrf
+                                <button class="admin-button admin-button--primary" type="submit">Confirmar importación</button>
+                            </form>
+                        </div>
+                    </div>
+
+                    <div class="tesis-import-preview__groups">
+                        @foreach (($importPreview['summary']['byDestination'] ?? []) as $destination)
+                            <article class="tesis-import-preview__group">
+                                <div class="tesis-import-preview__destination">
+                                    <span>Se agrega a esta área</span>
+                                    <h3>{{ $destination['area'] }}</h3>
+                                    <p>{{ $destination['programa'] }}</p>
+                                </div>
+
+                                <div class="tesis-import-preview__table-wrap">
+                                    <table class="tesis-import-preview__table">
+                                        <thead>
+                                            <tr>
+                                                <th>#</th>
+                                                <th>Estado</th>
+                                                <th>Año</th>
+                                                <th>Alumno</th>
+                                                <th>Título de tesis</th>
+                                                <th>Director</th>
+                                                <th>URL</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            @foreach ($destination['rows'] as $row)
+                                                <tr>
+                                                    <td>{{ $row['preview_number'] }}</td>
+                                                    <td>
+                                                        <span class="tesis-import-preview__badge tesis-import-preview__badge--{{ $row['status'] }}">
+                                                            {{ $importStatusLabels[$row['status']] ?? $row['status'] }}
+                                                        </span>
+                                                    </td>
+                                                    <td>{{ $row['anio'] }}</td>
+                                                    <td>{{ $row['alumno'] }}</td>
+                                                    <td>{{ $row['tema'] }}</td>
+                                                    <td>{{ $row['director'] }}</td>
+                                                    <td>
+                                                        @if (! empty($row['url']))
+                                                            <a href="{{ \Illuminate\Support\Str::startsWith($row['url'], ['http://', 'https://']) ? $row['url'] : url($row['url']) }}"
+                                                                target="_blank" rel="noopener noreferrer">
+                                                                Abrir
+                                                            </a>
+                                                        @else
+                                                            Sin URL
+                                                        @endif
+                                                    </td>
+                                                </tr>
+                                            @endforeach
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </article>
+                        @endforeach
+                    </div>
+                </section>
             @endif
 
             @if ($canImportTesis || $canUseTesisTools)

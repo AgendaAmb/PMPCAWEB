@@ -25,6 +25,11 @@ class TesisImport
 
     public function import(UploadedFile $file): void
     {
+        $this->importRows($this->preview($file)['rows']);
+    }
+
+    public function preview(UploadedFile $file): array
+    {
         $reader = IOFactory::createReaderForFile($file->getRealPath());
         $reader->setReadDataOnly(false);
         $reader->setReadEmptyCells(false);
@@ -39,6 +44,7 @@ class TesisImport
         );
         $headers = $this->findHeaderMap($sheet, $highestDataRow, $highestDataColumn);
         $startRow = $headers !== null ? $headers['row'] + 1 : self::LEGACY_DATA_START_ROW;
+        $rows = [];
 
         for ($excelRow = $startRow; $excelRow <= $highestDataRow; $excelRow++) {
             if (! $this->isVisibleRow($sheet, $excelRow)) {
@@ -61,8 +67,61 @@ class TesisImport
                 continue;
             }
 
-            $this->storeRow($data);
+            $rows[] = $data;
         }
+
+        return [
+            'rows' => $rows,
+            'skipped' => $this->skipped,
+            'hidden' => $this->hidden,
+        ];
+    }
+
+    public function importRows(array $rows): void
+    {
+        foreach ($rows as $row) {
+            $this->storeRow($row);
+        }
+    }
+
+    public function describeRows(array $rows): array
+    {
+        $summary = [
+            'created' => 0,
+            'updated' => 0,
+            'unchanged' => 0,
+            'byDestination' => [],
+        ];
+
+        foreach ($rows as $index => $row) {
+            $existing = $this->findExistingTesis($row);
+            $status = 'created';
+
+            if ($existing) {
+                $copy = clone $existing;
+                $copy->fill($row);
+                $status = $copy->isDirty() ? 'updated' : 'unchanged';
+            }
+
+            $summary[$status]++;
+
+            $destinationKey = ($row['programa'] ?: 'Sin programa') . '|' . ($row['area'] ?: 'Sin area');
+
+            if (! isset($summary['byDestination'][$destinationKey])) {
+                $summary['byDestination'][$destinationKey] = [
+                    'programa' => $row['programa'] ?: 'Sin programa',
+                    'area' => $row['area'] ?: 'Sin area',
+                    'rows' => [],
+                ];
+            }
+
+            $summary['byDestination'][$destinationKey]['rows'][] = array_merge($row, [
+                'status' => $status,
+                'preview_number' => $index + 1,
+            ]);
+        }
+
+        return $summary;
     }
 
     private function isVisibleRow($sheet, int $rowNumber): bool
@@ -98,18 +157,27 @@ class TesisImport
     private function mapRowFromHeaders(array $row, array $columns): ?array
     {
         return $this->buildData([
-            'cve_uaslp' => $this->cleanCode($row[$columns['cve_uaslp']] ?? null),
+            'cve_uaslp' => $this->cleanCode($this->valueFromColumn($row, $columns, 'cve_uaslp')),
             'programa' => $this->normalizeProgram(
-                $this->cleanText($row[$columns['programa']] ?? null),
-                $this->cleanText($row[$columns['modalidad']] ?? null)
+                $this->cleanText($this->valueFromColumn($row, $columns, 'programa')),
+                $this->cleanText($this->valueFromColumn($row, $columns, 'modalidad'))
             ),
-            'area' => $this->normalizeArea($this->cleanText($row[$columns['area']] ?? null)),
-            'anio' => $this->extractYear($row[$columns['anio']] ?? null),
-            'alumno' => $this->cleanText($row[$columns['alumno']] ?? null),
-            'tema' => $this->cleanText($row[$columns['tema']] ?? null),
-            'director' => $this->cleanText($row[$columns['director']] ?? null),
-            'url' => $this->cleanText($row[$columns['url']] ?? null),
+            'area' => $this->normalizeArea($this->cleanText($this->valueFromColumn($row, $columns, 'area'))),
+            'anio' => $this->extractYear($this->valueFromColumn($row, $columns, 'anio')),
+            'alumno' => $this->cleanText($this->valueFromColumn($row, $columns, 'alumno')),
+            'tema' => $this->cleanText($this->valueFromColumn($row, $columns, 'tema')),
+            'director' => $this->cleanText($this->valueFromColumn($row, $columns, 'director')),
+            'url' => $this->cleanText($this->valueFromColumn($row, $columns, 'url')),
         ]);
+    }
+
+    private function valueFromColumn(array $row, array $columns, string $field)
+    {
+        if (! array_key_exists($field, $columns)) {
+            return null;
+        }
+
+        return $row[$columns[$field]] ?? null;
     }
 
     private function buildData(array $data): ?array

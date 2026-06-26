@@ -28,10 +28,54 @@ class TesisController extends Controller
         ]);
 
         $import = new TesisImport();
+        $preview = $import->preview($validated['archivo_tesis']);
 
-        DB::transaction(function () use ($import, $validated): void {
-            $import->import($validated['archivo_tesis']);
+        if (empty($preview['rows'])) {
+            $request->session()->forget('tesis_import_preview');
+
+            return redirect()
+                ->route('administrador.tesis.index')
+                ->with('admin_status', [
+                    'type' => 'info',
+                    'message' => 'No se encontraron tesis validas para importar. Omitidas: ' . $preview['skipped'] . ', ocultas: ' . $preview['hidden'] . '.',
+                ]);
+        }
+
+        $request->session()->put('tesis_import_preview', [
+            'rows' => $preview['rows'],
+            'skipped' => $preview['skipped'],
+            'hidden' => $preview['hidden'],
+            'summary' => $import->describeRows($preview['rows']),
+        ]);
+
+        return redirect()
+            ->route('administrador.tesis.index')
+            ->with('admin_status', [
+                'type' => 'info',
+                'message' => 'Revisa la previsualizacion de importacion antes de confirmar.',
+            ]);
+    }
+
+    public function confirmImport(Request $request)
+    {
+        $preview = $request->session()->get('tesis_import_preview');
+
+        if (empty($preview['rows'])) {
+            return redirect()
+                ->route('administrador.tesis.index')
+                ->with('admin_status', [
+                    'type' => 'info',
+                    'message' => 'No hay una importacion pendiente por confirmar.',
+                ]);
+        }
+
+        $import = new TesisImport();
+
+        DB::transaction(function () use ($import, $preview): void {
+            $import->importRows($preview['rows']);
         });
+
+        $request->session()->forget('tesis_import_preview');
 
         if (! empty($import->revertActions)) {
             $request->session()->put('tesis_last_import_revert', $import->revertActions);
@@ -45,8 +89,20 @@ class TesisController extends Controller
                 'created' => $import->created,
                 'updated' => $import->updated,
                 'unchanged' => $import->unchanged,
-                'skipped' => $import->skipped,
-                'hidden' => $import->hidden,
+                'skipped' => $preview['skipped'] ?? 0,
+                'hidden' => $preview['hidden'] ?? 0,
+            ]);
+    }
+
+    public function cancelImport(Request $request)
+    {
+        $request->session()->forget('tesis_import_preview');
+
+        return redirect()
+            ->route('administrador.tesis.index')
+            ->with('admin_status', [
+                'type' => 'info',
+                'message' => 'Importacion cancelada. No se guardo ningun cambio.',
             ]);
     }
 
