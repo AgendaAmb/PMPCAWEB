@@ -12,6 +12,7 @@
         $minTesisYear = \App\Models\Tesis::MIN_YEAR;
         $initialEdit = null;
         $importPreview = session('tesis_import_preview');
+        $importEditIndex = session('tesis_import_edit_index');
         $importStatusLabels = [
             'created' => 'Nueva',
             'updated' => 'Actualiza',
@@ -102,6 +103,17 @@
                         </form>
                     @endif
                 </div>
+            @elseif (session()->has('tesis_last_import_revert'))
+                <div class="tesis-alert tesis-alert--info">
+                    <span>Hay una importacion reciente que todavia puedes revertir.</span>
+
+                    <form action="{{ route('administrador.import.revert') }}" method="POST">
+                        @csrf
+                        <button class="admin-button admin-button--ghost" type="submit">
+                            Revertir ultima importacion
+                        </button>
+                    </form>
+                </div>
             @endif
 
             @if (session('admin_status'))
@@ -170,10 +182,16 @@
                                                 <th>Título de tesis</th>
                                                 <th>Director</th>
                                                 <th>URL</th>
+                                                <th>Acciones</th>
                                             </tr>
                                         </thead>
                                         <tbody>
                                             @foreach ($destination['rows'] as $row)
+                                                @php
+                                                    $previewIndex = $row['preview_index'];
+                                                    $isEditingPreviewRow = (string) $importEditIndex === (string) $previewIndex;
+                                                    $previewEditId = 'tesis-import-edit-' . $previewIndex;
+                                                @endphp
                                                 <tr>
                                                     <td>{{ $row['preview_number'] }}</td>
                                                     <td>
@@ -194,6 +212,102 @@
                                                         @else
                                                             Sin URL
                                                         @endif
+                                                    </td>
+                                                    <td>
+                                                        <div class="tesis-import-preview__row-actions">
+                                                            <button class="admin-table__button" type="button"
+                                                                aria-expanded="{{ $isEditingPreviewRow ? 'true' : 'false' }}"
+                                                                aria-controls="{{ $previewEditId }}"
+                                                                data-import-edit-toggle="{{ $previewEditId }}">
+                                                                Editar
+                                                            </button>
+                                                            <form action="{{ route('administrador.import.preview.destroy', ['index' => $previewIndex]) }}"
+                                                                method="POST">
+                                                                @csrf
+                                                                @method('DELETE')
+                                                                <button class="admin-table__button admin-table__button--delete"
+                                                                    type="submit">
+                                                                    Quitar
+                                                                </button>
+                                                            </form>
+                                                        </div>
+                                                    </td>
+                                                </tr>
+                                                <tr class="tesis-import-preview__edit-row" id="{{ $previewEditId }}"
+                                                    @if (! $isEditingPreviewRow) hidden @endif>
+                                                    <td colspan="8">
+                                                        <form class="tesis-import-preview__edit-form"
+                                                            action="{{ route('administrador.import.preview.update', ['index' => $previewIndex]) }}"
+                                                            method="POST">
+                                                            @csrf
+                                                            @method('PUT')
+
+                                                            <div class="admin-field">
+                                                                <label for="preview-cve-{{ $previewIndex }}">Clave UASLP</label>
+                                                                <input id="preview-cve-{{ $previewIndex }}" name="preview_cve_uaslp"
+                                                                    type="text" maxlength="255"
+                                                                    value="{{ $isEditingPreviewRow ? old('preview_cve_uaslp', $row['cve_uaslp'] ?? '') : ($row['cve_uaslp'] ?? '') }}">
+                                                            </div>
+
+                                                            <div class="admin-field">
+                                                                <label for="preview-programa-{{ $previewIndex }}">Programa</label>
+                                                                <input id="preview-programa-{{ $previewIndex }}" name="preview_programa"
+                                                                    type="text" maxlength="255" required data-admin-programa-input
+                                                                    value="{{ $isEditingPreviewRow ? old('preview_programa', $row['programa']) : $row['programa'] }}">
+                                                            </div>
+
+                                                            <div class="admin-field">
+                                                                <label for="preview-area-{{ $previewIndex }}">Área</label>
+                                                                <input id="preview-area-{{ $previewIndex }}" name="preview_area"
+                                                                    type="text" maxlength="255" data-admin-area-input
+                                                                    value="{{ $isEditingPreviewRow ? old('preview_area', $row['area'] ?? '') : ($row['area'] ?? '') }}">
+                                                            </div>
+
+                                                            <div class="admin-field">
+                                                                <label for="preview-anio-{{ $previewIndex }}">Año</label>
+                                                                <input id="preview-anio-{{ $previewIndex }}" name="preview_anio"
+                                                                    type="number" min="{{ $minTesisYear }}" max="{{ now()->year + 1 }}"
+                                                                    required
+                                                                    value="{{ $isEditingPreviewRow ? old('preview_anio', $row['anio']) : $row['anio'] }}">
+                                                            </div>
+
+                                                            <div class="admin-field">
+                                                                <label for="preview-alumno-{{ $previewIndex }}">Alumno</label>
+                                                                <input id="preview-alumno-{{ $previewIndex }}" name="preview_alumno"
+                                                                    type="text" maxlength="255" required
+                                                                    value="{{ $isEditingPreviewRow ? old('preview_alumno', $row['alumno']) : $row['alumno'] }}">
+                                                            </div>
+
+                                                            <div class="admin-field">
+                                                                <label for="preview-director-{{ $previewIndex }}">Director</label>
+                                                                <input id="preview-director-{{ $previewIndex }}" name="preview_director"
+                                                                    type="text" maxlength="255" required
+                                                                    value="{{ $isEditingPreviewRow ? old('preview_director', $row['director']) : $row['director'] }}">
+                                                            </div>
+
+                                                            <div class="admin-field admin-field--full">
+                                                                <label for="preview-tema-{{ $previewIndex }}">Título de tesis</label>
+                                                                <textarea id="preview-tema-{{ $previewIndex }}" name="preview_tema"
+                                                                    rows="3" required>{{ $isEditingPreviewRow ? old('preview_tema', $row['tema']) : $row['tema'] }}</textarea>
+                                                            </div>
+
+                                                            <div class="admin-field admin-field--full">
+                                                                <label for="preview-url-{{ $previewIndex }}">URL</label>
+                                                                <input id="preview-url-{{ $previewIndex }}" name="preview_url"
+                                                                    type="url" maxlength="2000"
+                                                                    value="{{ $isEditingPreviewRow ? old('preview_url', $row['url'] ?? '') : ($row['url'] ?? '') }}">
+                                                            </div>
+
+                                                            <div class="tesis-import-preview__edit-actions">
+                                                                <button class="admin-button admin-button--ghost" type="button"
+                                                                    data-import-edit-close="{{ $previewEditId }}">
+                                                                    Cerrar
+                                                                </button>
+                                                                <button class="admin-button admin-button--primary" type="submit">
+                                                                    Guardar corrección
+                                                                </button>
+                                                            </div>
+                                                        </form>
                                                     </td>
                                                 </tr>
                                             @endforeach

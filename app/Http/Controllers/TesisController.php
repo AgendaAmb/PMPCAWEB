@@ -94,6 +94,73 @@ class TesisController extends Controller
             ]);
     }
 
+    public function updateImportPreview(Request $request, int $index)
+    {
+        $preview = $request->session()->get('tesis_import_preview');
+
+        if (! isset($preview['rows'][$index])) {
+            return $this->missingImportPreviewRow();
+        }
+
+        $validator = Validator::make(
+            $request->all(),
+            $this->tesisRules('preview'),
+            [],
+            $this->tesisAttributes('preview')
+        );
+
+        if ($validator->fails()) {
+            return redirect()
+                ->route('administrador.tesis.index')
+                ->withErrors($validator)
+                ->withInput()
+                ->with('tesis_import_edit_index', $index);
+        }
+
+        $preview['rows'][$index] = $this->mapValidatedData($validator->validated(), 'preview');
+        $this->storeImportPreview($request, $preview);
+
+        return redirect()
+            ->route('administrador.tesis.index')
+            ->with('admin_status', [
+                'type' => 'success',
+                'message' => 'La tesis se corrigio en la previsualizacion. Aun no se ha importado.',
+            ]);
+    }
+
+    public function destroyImportPreview(Request $request, int $index)
+    {
+        $preview = $request->session()->get('tesis_import_preview');
+
+        if (! isset($preview['rows'][$index])) {
+            return $this->missingImportPreviewRow();
+        }
+
+        $alumno = $preview['rows'][$index]['alumno'] ?? 'seleccionada';
+        unset($preview['rows'][$index]);
+        $preview['rows'] = array_values($preview['rows']);
+
+        if (empty($preview['rows'])) {
+            $request->session()->forget('tesis_import_preview');
+
+            return redirect()
+                ->route('administrador.tesis.index')
+                ->with('admin_status', [
+                    'type' => 'info',
+                    'message' => 'Se quito la ultima tesis. La importacion pendiente quedo vacia.',
+                ]);
+        }
+
+        $this->storeImportPreview($request, $preview);
+
+        return redirect()
+            ->route('administrador.tesis.index')
+            ->with('admin_status', [
+                'type' => 'success',
+                'message' => 'Se quito de la importacion pendiente la tesis de ' . $alumno . '.',
+            ]);
+    }
+
     public function cancelImport(Request $request)
     {
         $request->session()->forget('tesis_import_preview');
@@ -103,6 +170,22 @@ class TesisController extends Controller
             ->with('admin_status', [
                 'type' => 'info',
                 'message' => 'Importacion cancelada. No se guardo ningun cambio.',
+            ]);
+    }
+
+    private function storeImportPreview(Request $request, array $preview): void
+    {
+        $preview['summary'] = (new TesisImport())->describeRows($preview['rows']);
+        $request->session()->put('tesis_import_preview', $preview);
+    }
+
+    private function missingImportPreviewRow()
+    {
+        return redirect()
+            ->route('administrador.tesis.index')
+            ->with('admin_status', [
+                'type' => 'info',
+                'message' => 'Esa tesis ya no esta disponible en la previsualizacion.',
             ]);
     }
 

@@ -898,7 +898,7 @@ table.width202, .width202 thead, .width202 tbody, .width202 th, .width202 td, .w
 
 .tesis-import-preview__table {
     width: 100%;
-    min-width: 980px;
+    min-width: 1080px;
     border-collapse: collapse;
     background: #ffffff;
 }
@@ -943,6 +943,38 @@ table.width202, .width202 thead, .width202 tbody, .width202 th, .width202 td, .w
 .tesis-import-preview__badge--unchanged {
     background: #e9f1f8;
     color: #526b83;
+}
+
+.tesis-import-preview__row-actions {
+    display: flex;
+    gap: 8px;
+}
+
+.tesis-import-preview__row-actions form {
+    margin: 0;
+}
+
+.tesis-import-preview__row-actions .admin-table__button {
+    min-width: auto;
+}
+
+.tesis-import-preview__edit-row > td {
+    padding: 0;
+    background: #eef6fc;
+}
+
+.tesis-import-preview__edit-form {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 16px;
+    padding: 20px;
+}
+
+.tesis-import-preview__edit-actions {
+    display: flex;
+    grid-column: 1 / -1;
+    justify-content: flex-end;
+    gap: 10px;
 }
 
 .tesis-admin-session {
@@ -1160,6 +1192,19 @@ table.width202, .width202 thead, .width202 tbody, .width202 th, .width202 td, .w
 
     .tesis-import-preview {
         padding: 18px;
+    }
+
+    .tesis-import-preview__edit-form {
+        grid-template-columns: 1fr;
+        position: sticky;
+        left: 0;
+        box-sizing: border-box;
+        width: calc(100vw - 68px);
+        padding: 16px;
+    }
+
+    .tesis-import-preview__edit-actions {
+        flex-direction: column-reverse;
     }
 
     .admin-auth {

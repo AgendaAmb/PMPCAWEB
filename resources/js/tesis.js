@@ -15,6 +15,41 @@ document.addEventListener('DOMContentLoaded', function () {
         });
     });
 
+    function setImportEditRow(rowId, expanded) {
+        var row = document.getElementById(rowId);
+        var toggle = document.querySelector('[data-import-edit-toggle="' + rowId + '"]');
+
+        if (! row || ! toggle) {
+            return;
+        }
+
+        row.hidden = ! expanded;
+        toggle.setAttribute('aria-expanded', expanded ? 'true' : 'false');
+
+        if (expanded && window.matchMedia('(min-width: 761px)').matches) {
+            var firstInput = row.querySelector('input, textarea');
+
+            if (firstInput) {
+                firstInput.focus();
+            }
+        }
+    }
+
+    document.querySelectorAll('[data-import-edit-toggle]').forEach(function (toggle) {
+        toggle.addEventListener('click', function () {
+            var rowId = toggle.dataset.importEditToggle;
+            var expanded = toggle.getAttribute('aria-expanded') === 'true';
+
+            setImportEditRow(rowId, ! expanded);
+        });
+    });
+
+    document.querySelectorAll('[data-import-edit-close]').forEach(function (button) {
+        button.addEventListener('click', function () {
+            setImportEditRow(button.dataset.importEditClose, false);
+        });
+    });
+
     var adminConfig = window.PMPCA_ADMIN;
 
     if (! adminConfig) {

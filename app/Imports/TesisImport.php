@@ -118,6 +118,7 @@ class TesisImport
             $summary['byDestination'][$destinationKey]['rows'][] = array_merge($row, [
                 'status' => $status,
                 'preview_number' => $index + 1,
+                'preview_index' => $index,
             ]);
         }
 

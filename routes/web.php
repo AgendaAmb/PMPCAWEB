@@ -623,6 +623,12 @@ Route::middleware(['auth', 'active', 'prevent.back.history'])->group(function ()
         Route::post('/administrador/import', [TesisController::class, 'import'])->name('administrador.import');
         Route::post('/administrador/import/confirm', [TesisController::class, 'confirmImport'])->name('administrador.import.confirm');
         Route::post('/administrador/import/cancel', [TesisController::class, 'cancelImport'])->name('administrador.import.cancel');
+        Route::put('/administrador/import/preview/{index}', [TesisController::class, 'updateImportPreview'])
+            ->where('index', '[0-9]+')
+            ->name('administrador.import.preview.update');
+        Route::delete('/administrador/import/preview/{index}', [TesisController::class, 'destroyImportPreview'])
+            ->where('index', '[0-9]+')
+            ->name('administrador.import.preview.destroy');
         Route::post('/administrador/import/revert', [TesisController::class, 'revertImport'])->name('administrador.import.revert');
         Route::put('/administrador/tesis/{tesis}', [TesisController::class, 'update'])->name('administrador.tesis.update');
     });
