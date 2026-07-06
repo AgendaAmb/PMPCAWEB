@@ -605,7 +605,9 @@ Route::get('/egresados', function () {
 
 Route::middleware(['guest', 'prevent.back.history'])->group(function () {
     Route::get('/administrador/login', [AuthenticatedSessionController::class, 'create'])->name('login');
-    Route::post('/administrador/login', [AuthenticatedSessionController::class, 'store'])->name('login.attempt');
+    Route::post('/administrador/login', [AuthenticatedSessionController::class, 'store'])
+        ->middleware('throttle:5,1')
+        ->name('login.attempt');
     Route::get('/uaslp/login', [UaslpAuthController::class, 'login'])->name('uaslp.login');
     Route::get('/callback', [UaslpAuthController::class, 'callback'])->name('uaslp.callback');
 });

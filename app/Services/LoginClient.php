@@ -50,12 +50,6 @@ class LoginClient
             $this->soapClient = new SoapClient($this->serviceUrl, [
                 'soap_version' => SOAP_1_1,
                 'exceptions' => true,
-                'stream_context' => stream_context_create([
-                    'ssl' => [
-                        'verify_peer' => false,
-                        'verify_peer_name' => false,
-                    ],
-                ]),
             ]);
         } catch (Throwable $exception) {
             Log::error('No se pudo inicializar SOAP UASLP: ' . $exception->getMessage());
@@ -237,12 +231,11 @@ class LoginClient
 
     private function uniqueUsername(array $uaslpUser): string
     {
-        $base = Str::of($uaslpUser['usuario'] ?? $uaslpUser['email'] ?? 'uaslp')
+        $base = (string) Str::of($uaslpUser['usuario'] ?? $uaslpUser['email'] ?? 'uaslp')
             ->before('@')
             ->lower()
             ->replaceMatches('/[^a-z0-9._-]/', '')
-            ->trim('._-')
-            ->value();
+            ->trim('._-');
 
         $base = $base !== '' ? $base : 'uaslp';
         $username = $base;
